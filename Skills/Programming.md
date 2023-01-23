@@ -16,105 +16,130 @@
   - Control flow
   - Data flow
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - Value
+  - Identifier
+  - Variable
+  - Constant
+  - Scalar
+  - Literal
+  - Expression
+  - Heap
+  - Function
+  - Procedure
+  - Method
+  - Class
+  - Prototype
+  - Event
+  - Type
+  - Primitive types
+  - Feference types
+  - Flag
+  - Lexical scope
+  - Code block
+  - Conditions
+  - Loops
+  - Assignment
+  - Regular expression
+  - Interface
+  - Contract
+  - Module
+  - Call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - Signature
+  - Argument
+  - Parameter
+  - Pure function
+  - Lambda expression
+  - Side effects
+  - Closure
+  - Partial application
+  - Curry
+  - Higher order
+  - Recursion
+  - Callback
+  - Listener
+  - Composition
+  - Pipe
+  - Memoize
+  - Wrapper
+  - Functor
+  - Monad
+  - Monoid
+  - Generator
+  - Coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - Array
+  - Structure
+  - Record
+  - Enum
+  - Instance
+  - Cbject
+  - Collection
+  - Set
+  - Hash table
+  - Linked list
+  - Doubly list
+  - Unrolled list
+  - Circular list
+  - Queue
+  - Stack
+  - Deque
+  - Tree
+  - Graph
+  - Iterator
+  - Mutable state
+  - Immutable state
+  - Serialization
+  - String parsing
+- Networking
+  - DNS
+  - CDN
+  - CORS
+  - IPv4
+  - IPv6
+  - NAT
+  - URL
+  - URN
+  - URI
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
+  - Compiler
+  - Transpiler
+  - Linter
+  - Polyfill
+  - Debugger
+  - Garbage collection
+  - Refactoring
+  - Code review
+  - Antipatterns
+  - Paradigm
+  - Algorithm
+  - Magic numbers
+  - Hardcode
+  - Complexity
+  - Decomposition
+  - Spaghetti
+  - Silver bullet
+  - Not invented here
+  - Dead code
+  - Unreachable code
+  - Duplicate code
+  - Exception
+  - Return early
+  - Unittesting
   - git
-  - github
+  - Hithub
+- Standards
+  - ASCII
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64
+  - ECMA
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8
+  - W3C
