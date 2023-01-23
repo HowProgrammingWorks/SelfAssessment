@@ -1,87 +1,96 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Object`
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Function`
+  - `undefined`
+  - `null`
+  - `this`
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators
+  - Logical operators
+  - Bitwise operators
+  - Ternary operator
+  - `void`
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super`
+  - `Reflect`
+  - `eval`
+  - `static`
+  - `Proxy`
+  - `RegExp`
+  - `Date`
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - `if`
+  - `while`
+  - `do..while`
+  - `for`
+  - `for..in`
+  - `for..of`
+  - `for await`
+  - `throw`
+  - `break`
+  - `continue`
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch`
+  - `switch`
+  - `class`
+  - `extends`
+  - `new Error`
+  - `with`
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - Arrow function
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - `Array`
+  - `Map`
+  - `Set`
+  - Weak collections
+  - Typed arrays
+  - Mixins
+  - `extend`
 - Infrastructure
+  - Timers
   - V8
   - Node.js
   - npm
