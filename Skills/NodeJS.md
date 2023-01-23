@@ -51,19 +51,24 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - worker_threads
-  - child_process
+  - Module `node:worker_threads`
+  - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs new URL
+  - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - IP sticky sessions
   - Endpoint throttling
+  - ALPN
+  - SNI callback
+  - SSL certificates
+  - Protocol agnostic approach
+  - Fetch API
+  - IncomingMessage
   - HTTP(S)
   - TCP/SSL
   - UDP
@@ -81,15 +86,10 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
-  - IncomingMessage
   - SQL injection
   - noDelay
   - keep-alive
-  - ALPN
-  - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - IP sticky sessions
 - Technique and tools
   - Native test runner
   - Logging
@@ -113,6 +113,7 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
+  - CRUD
 - Error handling and debugging
   - Error
   - error.cause
