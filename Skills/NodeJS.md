@@ -1,0 +1,96 @@
+## Node.js and backend
+
+```
+- Internals
+  - Nonblocking I/O
+  - Event Loop
+  - commonjs
+  - ECMA modules
+  - Network API
+  - Addons
+  - N-API
+  - Webassembly
+  - npm
+  - node_modules
+  - package.json
+  - vm isolation
+  - command line args
+  - Node.js CLI
+  - Streams
+  - Clustering
+  - Load balancing
+  - Serverless clouds
+  - FaaS clouds
+  - Debugging node.js
+  - crypto
+  - SharedArrayBuffer
+  - child_process
+  - worker_threads
+- Theory
+  - I/O bound tasks
+  - CPU bound tasks
+  - Memory bound tasks
+  - Multilayer approach
+  - Separation of concerns
+  - Inversion of control
+  - Dependency injection
+  - GRASP for JS and Node.js
+  - SOLID for JS and Node.js
+  - GoF for JS and Node.js
+  - Distributed systems
+  - Highload applications
+  - DDD
+  - Clean architecture
+  - Domain in the middle
+  - Message Queue
+  - Transport-agnostic server
+  - Framework-agnostic app
+  - Interactive applications
+  - Real-time applications
+  - CQS and CQRS
+  - Event Sourcing
+  - Shared memory
+- Network
+  - HTTP(S)
+  - TCP/SSL
+  - UDP
+  - TLS
+  - Websocket
+  - SSE
+  - HTTP/3 (QUIC)
+  - Long polling
+  - REST
+  - RPC
+  - Routing
+  - IP sticky
+  - DoS
+  - DDoS
+  - XSS
+  - Path traversal
+  - CSRF
+  - DNS
+  - Fetch
+  - zlib
+- Technique
+  - Logging
+  - Testing
+  - CI/CD
+  - Readable
+  - Writable
+  - Transform
+  - back pressure
+  - Buffer
+  - Console
+  - Inspector
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
+- Problems
+  - Memory leaks
+  - Resource leaks
+  - Blocking code
+  - Data race
+  - Graceful Shutdown
+  - Dependencies
+```

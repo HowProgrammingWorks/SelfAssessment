@@ -1,0 +1,125 @@
+## Programming fundamental concepts
+
+```
+- Syntax
+  - value
+  - identifier
+  - variable
+  - constant
+  - scalar
+  - literal
+  - expression
+  - heap
+  - type
+  - primitive types
+  - reference
+  - flag
+  - lexical scope
+  - code block
+  - Object
+  - this
+  - arrow function
+  - generator
+  - async function
+  - call, bind, apply
+  - Array
+  - instanceof
+  - ...spread
+  - ...rest
+  - typeof
+- Statements
+  - if
+  - loops
+  - assignment
+  - prototype
+  - class
+  - while
+  - do..while
+  - for
+  - for..in
+  - for..of
+  - for await
+  - throw
+  - try..catch
+  - equality operators
+  - logical operators
+  - bitwise operators
+  - break, continue
+  - switch
+  - new Error
+- Functions
+  - recursion
+  - function
+  - return
+  - signature
+  - argument
+  - parameter
+  - pure function
+  - lambda
+  - side effects
+  - closure
+  - partial
+  - curry
+  - chaining
+  - higher order
+  - callback
+  - listener
+  - pipe
+  - compose
+  - memoize
+  - factory
+  - pool
+  - wrapper
+  - default parameters
+- Data structures
+  - array
+  - instance
+  - object
+  - collection
+  - hash table
+  - linked list
+  - queue
+  - stack
+  - deque
+  - serialization
+  - mixin, extend
+  - iterator
+  - typed arrays
+  - Map
+  - Set
+  - weak collections
+  - Proxy
+  - Symbol
+  - string parsing
+  - timers
+  - EventEmitter
+  - RegExp
+  - global
+  - undefined
+  - null
+- Process & style
+  - refactoring
+  - code review
+  - antipatterns
+  - paradigm
+  - algorithm
+  - magic numbers
+  - hardcode
+  - complexity
+  - decomposition
+  - spaghetti
+  - silver bullet
+  - not invented here
+  - dead code
+  - unreachable code
+  - duplicate code
+  - exception
+  - return early
+  - linter
+  - prettier
+  - unittest
+  - git
+  - github
+  - node.js
+  - npm
+```
