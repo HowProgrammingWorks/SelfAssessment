@@ -1,56 +1,93 @@
 ## Node.js and backend
 
 ```
-- Internals
-  - Nonblocking I/O
-  - Event Loop
-  - commonjs
-  - ECMA modules
-  - Network API
-  - Addons
-  - N-API
-  - Webassembly
-  - npm
-  - node_modules
-  - package.json
-  - vm isolation
-  - command line args
+- Internals and concepts
+  - Strong and weak sides of node.js
+  - Stateful and stateless servers
+  - Nonblocking I/O and slocking code
+  - Event loop: phases
+  - Event loop: microtasks and macrotasks
+  - Garbage collection
+  - Node.js LTS schedule
+  - I/O-bound, CPU-bound, memory-bound tasks
+  - Interactive applications (close to real-time)
+- Modularity, layers and dependencies
+  - CommonJS modules
+  - ECMAScript modules
+  - node:module
+  - Caching in CJS and ESM
+  - Modules as singletons
+  - Contexts and scripts node:vm
+  - Dependencies: npm, node_modules
+  - Dependencies: package.json and package lock
+  - Module-based permissions model
+  - Isolation with modularity
+  - Dependency injection
+  - DI containers
+  - Coupling and cohesion
+  - Framework agnostic approach
+- Environment
+  - Command line arguments
   - Node.js CLI
-  - Streams
+  - process-based permissions
+  - Graceful shutdown
   - Clustering
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Debugging node.js
-  - crypto
+  - Watch filesystem changes with --watch
+- Internal API
+  - Streams API
+  - Web Streams API
+  - Crypto API
+  - Password hashing with node:crypto.scrypt
+  - Web Crypto API
+  - File system API: sync and async
+  - Copy folder recursively
+  - Worker threads
+  - Performance hooks
+  - Native fetch and nodejs/undici
+  - node:async_hooks
+  - AsyncLocalStorage
+  - AsyncResource
+  - Deprecated domain API
+  - Node.js single executable
+  - Stream back pressure
   - SharedArrayBuffer
-  - child_process
-  - worker_threads
-- Theory
-  - I/O bound tasks
-  - CPU bound tasks
-  - Memory bound tasks
+  - node:worker_threads
+  - node:child_process
+  - MessagePort, BroadcastChannel
+  - Generating crypto random UUID
+  - node:url vs new URL
+  - node:assert
+  - Internationalization
+  - Blob, File, Buffer, node:buffer
+  - Module node:zlib
+  - Module node:child_process
+- Application structure and architecture
+  - Isolation between layer
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP for JS and Node.js
-  - SOLID for JS and Node.js
-  - GoF for JS and Node.js
+  - GRASP
+  - SOLID
+  - GoF patterns
   - Distributed systems
   - Highload applications
-  - DDD
-  - Clean architecture
-  - Domain in the middle
+  - Clean architecture and DDD
   - Message Queue
-  - Transport-agnostic server
-  - Framework-agnostic app
-  - Interactive applications
-  - Real-time applications
   - CQS and CQRS
-  - Event Sourcing
-  - Shared memory
+  - Event sourcing
+  - Load balancing
+  - Serverless clouds
+  - FaaS clouds
+  - Fat controller
+  - GoF for Node.js
+  - Strategy
+  - Adapter
+  - Revealing constructor
+  - Leaking abstractions
 - Network
+  - IP sticky sessions
+  - Endpoint throttling
   - HTTP(S)
   - TCP/SSL
   - UDP
@@ -70,9 +107,17 @@
   - CSRF
   - DNS
   - Fetch
-  - zlib
-- Technique
+  - for await  request: IncomingMessage
+  - XSS, Path traversal, SQL injection, CSRF
+  - noDelay setNoDelay
+  - keep-alive http
+  - ALPN and SNI
+  - SSL certificates
+  - Protocol agnostic approach
+- Technique and tools
+  - Native test runner
   - Logging
+  - Application configuring
   - Testing
   - CI/CD
   - Readable
@@ -86,11 +131,42 @@
   - Quality
   - Availability
   - Flexibility
-- Problems
+- Data access
+  - Data access layer
+  - Repository
+  - Active record
+  - Query builder
+  - Object-Relational Mapping
+- Asynchronous programming
+  - Error handling in async code
+  - Race condition and data race
+  - EventEmitter
+  - Better stack traces with return await
+  - AbortController, AbortSignal
+  - JSON: streaming serialization
+  - Async queue
+  - Async pool
+  - Async collection
+  - promisify and callbackify
+  - process.nextTick
+  - ref() and unref()
+- Error handling and debugging
+  - Error: error.cause, error.code, error.message, error.stack
+  - How to avoid mixins
+  - Error.captureStackTrace
+  - Uncaught exceptions
   - Memory leaks
-  - Resource leaks
-  - Blocking code
+  - Heap dump
+  - Debugging tools
+  - flame graph
+  - Memory leaks and resource leaks
   - Data race
-  - Graceful Shutdown
-  - Dependencies
+- Integrations and bindings
+  - Native addons C, C++, Rust, Zig
+  - nodejs/nan (Native Abstractions for Node.js)
+  - Node-API (formerly N-API): C,  C++, Rust, Zig
+  - Webassembly WAT, C,  C++, Rust, Zig, AssemblyScript
+  - Shared memory
+  - SharedArrayBuffer
+  - V8 binary serialization
 ```
