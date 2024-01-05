@@ -1,65 +1,65 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
+  - Non-blocking 🖐️ used
+  - Async I/O 🖐️ used
+  - Thread pool 🎓 known
+  - Pattern Reactor 🎓 known
+  - CAS operations 
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 🎓 known
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Race conditions 🎓 known
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
+  - Concurrent programming  🎓 known
+  - Parallel programming 🎓 known
+  - Actor Model 🎓 known
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable 👂 heard
+  - Promise 👂 heard
+  - Async/await 🖐️ used
+  - Future 👂 heard 
   - Deferred
-  - Sync generator
+  - Sync generator 
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Event 🎓 known
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 🖐️ used
+  - Stream 🎓 known
+  - Chain of responsibility 🎓 known
+  - Middleware 🖐️ used
+  - Locks 🖐️ used
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
+  - callbacks compose 👂 heard
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - Observable/Observer 🖐️ used
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
+  - Async Collector 🎓 known
+  - Semaphore 🎓 known
+  - Mutex 🎓 known
+  - Spin Lock 🎓 known
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂 heard
   - setImmediate
   - nextTick
   - AbortController
