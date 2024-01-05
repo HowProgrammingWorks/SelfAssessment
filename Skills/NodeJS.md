@@ -1,48 +1,48 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🎓 known 
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 🖐️ used
+  - Event loop: phases 🖐️ used
+  - Event loop: microtasks and macrotasks 🎓 known 
+  - Garbage collection 🖐️ used
+  - Node.js LTS schedule 🖐️ used
+  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
+  - Interactive applications (close to real-time) 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - CommonJS modules  🖐️ used
+  - ECMAScript modules 🖐️ used
+  - node:module  🎓 known
+  - Caching in CJS and ESM 🎓 known
+  - Modules as singletons  🎓 known
+  - Contexts and scripts node:vm 👂 heard
+  - Dependencies: npm, node_modules 🎓 known
+  - Dependencies: package.json and package lock 🎓 known
+  - Module-based permissions model  🎓 known
+  - Isolation with modularity 🎓 known
+  - Dependency injection  🖐️ used
+  - DI containers 🖐️ used
+  - Coupling and cohesion 🎓 known
+  - Framework agnostic approach 🎓 known
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used 
+  - Process-based permissions  🎓 known
+  - Graceful shutdown 🖐️ used
+  - Clustering  🎓 known
+  - Watch filesystem changes with --watch 🎓 known
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
+  - Web Crypto API  👂 heard
+  - File system API: sync and async 👂 heard
+  - Copy folder recursively  🎓 known
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard
+  - Native fetch and nodejs/undici 
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
