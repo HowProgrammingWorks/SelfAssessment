@@ -1,15 +1,15 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
   - Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
-  - Generic programming
+  - Generic programming: 👂 heard
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming
@@ -21,38 +21,38 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
   - Object form
-  - instance
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
