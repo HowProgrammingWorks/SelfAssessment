@@ -1,56 +1,56 @@
 ## Programming fundamental concepts
-
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🖐️ used
+  - identifier🖐️ used
+  - variable🖐️ used
+  - constant🖐️ used
+  - scalar🖐️ used
+  - literal🖐️ used
+  - expression🖐️ used
+  - heap🖐️ used
+  - function🖐️ used
+  - procedure🖐️ used
+  - method🖐️ used
+  - class🖐️ used
+  - prototype🖐️ used
+  - event🖐️ used
+  - type🖐️ used
+  - primitive types🖐️ used
+  - reference types🖐️ used
+  - flag🖐️ used
+  - lexical scope🖐️ used
+  - code block🖐️ used
+  - conditions🖐️ used
+  - loops🖐️ used
+  - assignment🖐️ used
+  - regular expression🖐️ used
+  - interface🖐️ used
+  - contract🖐️ used
+  - module🖐️ used
+  - call stack🖐️ used
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
+  - argument🖐️ used
+  - parameter🖐️ used
+  - pure function🖐️ used
+  - lambda expression🖐️ used
+  - side effects🖐️ used
   - closure
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
+  - higher order🖐️ used
+  - recursion🖐️ used
+  - callback🖐️ used
+  - listener🖐️ used
+  - compose🖐️ used
+  - pipe🖐️ used
+  - memoize🖐️ used
+  - wrapper🖐️ used
+  - functor🖐️ used
   - monad
   - monoid
-  - generator
+  - generator🖐️ used
   - coroutine
 - Data structures
   - array
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring🖐️ used
+  - code review🖐️ used
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git🖐️ used
+  - github🖐️ used
