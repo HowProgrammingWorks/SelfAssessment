@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: used
-  - identifier: used
-  - variable: used
-  - constant: used
-  - scalar: used
-  - literal: used
-  - expression: used
-  - heap: used
-  - function: used
-  - procedure: used
-  - method: used
-  - class: used
-  - prototype: used
+  - value
+  - identifier
+  - variable
+  - constant
+  - scalar
+  - literal
+  - expression
+  - heap
+  - function
+  - procedure
+  - method
+  - class
+  - prototype
   - event
-  - type: used
+  - type
   - primitive types
   - reference types
-  - flag: used
+  - flag
   - lexical scope
-  - code block: used
-  - conditions: used
-  - loops: used
-  - assignment: used
+  - code block
+  - conditions
+  - loops
+  - assignment
   - regular expression
-  - interface: heard
+  - interface
   - contract
   - module
   - call stack
 - Functions
-  - signature: used
-  - argument: used
-  - parameter: used
-  - pure function: known
-  - lambda expression: known
-  - side effects: heard
-  - closure: heard
+  - signature
+  - argument
+  - parameter
+  - pure function
+  - lambda expression
+  - side effects
+  - closure
   - partial application
   - curry
-  - higher order: heard
-  - recursion: known
-  - callback: heard
+  - higher order
+  - recursion
+  - callback
   - listener
   - compose
   - pipe
-  - memoize: heard
+  - memoize
   - wrapper
-  - functor: heard
+  - functor
   - monad
   - monoid
   - generator
   - coroutine
 - Data structures
-  - array: used
-  - structure: used
-  - record: heard
-  - enum: known
-  - instance: known
-  - object: used
-  - class: used
-  - collection: heard
+  - array
+  - structure
+  - record
+  - enum
+  - instance
+  - object
+  - class
+  - collection
   - set: heard
-  - hash table: heard
-  - linked list: heard
-  - doubly list: heard
+  - hash table
+  - linked list
+  - doubly list
   - unrolled list
   - circular list
-  - queue: heard
-  - stack: heard
+  - queue
+  - stack
   - deque
-  - tree: heard
-  - graph: heard
-  - iterator: heard
-  - mutable state: heard
-  - immutable state: heard
+  - tree
+  - graph
+  - iterator
+  - mutable state
+  - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler: known
+  - compiler
   - transpiler
   - linter
   - polyfill
-  - debugger: known
+  - debugger
   - garbage collection
   - refactoring
-  - code review: heard
+  - code review
   - antipatterns
-  - paradigm: heard
-  - algorithm: known
+  - paradigm
+  - algorithm
   - magic numbers
   - hardcode
   - complexity
@@ -97,10 +97,10 @@
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code: heard
-  - duplicate code: heard
-  - exception: known
+  - unreachable code
+  - duplicate code
+  - exception
   - return early
   - unittest
-  - git: heard
-  - github: heard
+  - git
+  - github
