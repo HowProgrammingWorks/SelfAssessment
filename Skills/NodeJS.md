@@ -1,155 +1,155 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🙋 explained
+  - Stateful and stateless servers 🙋 explained
+  - Nonblocking I/O and slocking code 🎓 known
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 🙋 explained
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 👂 heard
+  - node:module 🎓 known
+  - Caching in CJS and ESM 🎓 known
+  - Modules as singletons 🎓 known
+  - Contexts and scripts node:vm 👂 heard
+  - Dependencies: npm, node_modules 🎓 known
+  - Dependencies: package.json and package lock 🎓 known
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity 👂 heard
+  - Dependency injection 🎓 known
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion 🖐️ used
+  - Framework agnostic approach 🎓 known
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🎓 known
+  - Node.js CLI 👂 heard
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Graceful shutdown 🖐️ used
+  - Clustering 👂 heard
+  - Watch filesystem changes with --watch 🖐️ used
 - Internal API
-  - Streams API
+  - Streams API 🖐️ used
   - Web Streams API
-  - Crypto API
+  - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
+  - File system API: sync and async 🎓 known
+  - Copy folder recursively 👂 heard
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard
+  - Native fetch and nodejs/undici 🖐️ used
   - node:async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage 👂 heard
   - AsyncResource
   - Deprecated domain API
-  - Node.js single executable
-  - Stream back pressure
+  - Node.js single executable 👂 heard
+  - Stream back pressure 👂 heard
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
-  - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
-  - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
+  - node:worker_threads 👂 heard
+  - node:child_process 👂 heard
+  - MessageChannel, MessagePort 👂 heard
+  - BroadcastChannel 👂 heard
+  - Generating crypto random UUID 🖐️ used
+  - node:url vs new URL 🎓 known
+  - node:assert 🖐️ used
+  - Internationalization 
+  - Blob, File, Buffer, node:buffer 👂 heard
+  - Module node:zlib 👂 heard
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
+  - Isolation between layer 🎓 known
+  - Multilayer approach 🎓 known
+  - Separation of concerns 🎓 known
+  - Inversion of control 👂 heard
+  - Dependency injection 🎓 known
+  - GRASP 👂 heard
+  - SOLID 🎓 known
+  - GoF patterns 👂 heard
+  - Distributed systems 👂 heard
+  - Highload applications 👂 heard
+  - Clean architecture 🎓 known
+  - DDD 👂 heard
+  - Message Queue 👂 heard
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
+  - Load balancing 🎓 known
+  - Serverless clouds 🎓 known
+  - FaaS clouds 👂 heard
+  - Fat controller 👂 heard
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling 👂 heard
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 👂 heard
+  - Websocket 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
-  - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
+  - Long polling 🎓 known
+  - REST 🎓 known
+  - RPC 👂 heard
+  - Routing 🎓 known
+  - DoS 👂 heard
+  - DDoS 👂 heard
+  - XSS 👂 heard
+  - Path traversal 👂 heard
+  - CSRF 👂 heard
+  - DNS 🎓 known
+  - Fetch API 🎓 known
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive 👂 heard
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - SSL certificates 👂 heard
+  - Protocol agnostic approach 👂 heard
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
-  - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Logging 🎓 known
+  - Application configuring 🎓 known
+  - Testing 🎓 known
+  - CI/CD 🎓 known
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 🎓 known
+  - back pressure 👂 heard 
+  - Buffer 🎓 known
+  - Console 🎓 known
+  - Inspector 🎓 known
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 🎓 known
+  - Repository 🎓 known
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder 🖐️ used
+  - Object-Relational Mapping 🎓 known
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🎓 known
+  - error.cause 🎓 known
+  - error.code 🎓 known
+  - error.message 🎓 known
+  - error.stack 🎓 known
   - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Error.captureStackTrace 🎓 known
+  - Uncaught exceptions 🎓 known
+  - Heap dump 🎓 known
+  - Debugging tools 🎓 known
+  - Flame graph 🎓 known
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
+  - Data race 🎓 known
 - Integrations and bindings
   - Native addons
   - C and C++ addons
