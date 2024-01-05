@@ -4,30 +4,30 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases 🖐️ used 
   - Event loop: microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🖐️ used 
+  - ECMAScript modules 🖐️ used 
+  - node:module 🖐️ used 
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 🖐️ used 
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Dependencies: npm, node_modules 🖐️ used 
+  - Dependencies: package.json and package lock 🖐️ used 
+  - Module-based permissions model 🖐️ used 
+  - Isolation with modularity 🖐️ used 
+  - Dependency injection 🖐️ used 
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🖐️ used 
+  - Node.js CLI 🖐️ used 
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -65,9 +65,9 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection 🖐️ used 
   - GRASP
-  - SOLID
+  - SOLID 🖐️ used 
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,17 +86,17 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🖐️ used 
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket 🖐️ used 
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used 
   - RPC
-  - Routing
+  - Routing 🖐️ used 
   - DoS
   - DDoS
   - XSS
@@ -105,7 +105,7 @@
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🖐️ used 
   - noDelay
   - keep-alive
   - ALPN
@@ -113,17 +113,17 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
+  - Native test runner 🖐️ used 
+  - Logging 🖐️ used 
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Testing 🖐️ used 
+  - CI/CD 🖐️ used 
+  - Readable 🖐️ used 
+  - Writable 🖐️ used 
+  - Transform 🖐️ used 
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 🖐️ used 
+  - Console 🖐️ used 
   - Inspector
   - Reliability
   - Quality
@@ -131,16 +131,16 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🖐️ used 
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used 
+  - error.cause 🖐️ used 
+  - error.code 🖐️ used 
+  - error.message 🖐️ used 
+  - error.stack 🖐️ used 
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions

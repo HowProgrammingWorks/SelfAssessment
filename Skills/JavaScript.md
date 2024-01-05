@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
+  - Object 🖐️ used 🎓 known
+  - this 🖐️ used 🎓 known
+  - arrow function 🖐️ used 🎓 known
+  - async function 🖐️ used 🎓 known
+  - call 🖐️ used 🎓 known
+  - bind 🖐️ used 🎓 known
+  - apply 🖐️ used 🎓 known
+  - instanceof 🖐️ used 🎓 known
+  - ...spread 🖐️ used 🎓 known
+  - ...rest 🖐️ used 🎓 known
+  - typeof 🖐️ used 🎓 known
+  - destructuring 🖐️ used 🎓 known
+  - generator 🖐️ used 🎓 known
+  - iterator 🖐️ used 🎓 known
+  - async generator 🖐️ used 🎓 known
+  - async iterator 🖐️ used 🎓 known
+  - chaining 🖐️ used 🎓 known
+  - optional chaining 🖐️ used 🎓 known
+  - IIFE 🖐️ used 🎓 known
+  - global 🖐️ used 🎓 known
+  - globalThis 🖐️ used 🎓 known
+  - window 🖐️ used 🎓 known
+  - getters and setters 🖐️ used 🎓 known
+  - __proto__ 🖐️ used 🎓 known
+  - prototype 🖐️ used 🎓 known
+  - equality operators 🖐️ used 🎓 known
+  - logical operators 🖐️ used 🎓 known
+  - bitwise operators 🖐️ used 🎓 known
+  - ternary operator 🖐️ used 🎓 known
+  - void 🖐️ used 🎓 known
+  - yield 🖐️ used 🎓 known
+  - await 🖐️ used 🎓 known
+  - template literal 🖐️ used 🎓 known
+  - strict mode 🖐️ used 🎓 known
+  - delete 🖐️ used 🎓 known
+  - in 🖐️ used 🎓 known
+  - super 🖐️ used 🎓 known
+  - Symbol 🖐️ used 🎓 known
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🖐️ used 🎓 known
+  - while 🖐️ used 🎓 known
+  - do..while 🖐️ used 🎓 known
+  - for 🖐️ used 🎓 known
+  - for..in 🖐️ used 🎓 known
+  - for..of 🖐️ used 🎓 known
+  - for await 🖐️ used 🎓 known
+  - throw 🖐️ used 🎓 known
+  - break 🖐️ used 🎓 known
+  - continue 🖐️ used 🎓 known
+  - import 🖐️ used 🎓 known
+  - export 🖐️ used 🎓 known
+  - label 🖐️ used 🎓 known
+  - try..catch 🖐️ used 🎓 known
+  - switch 🖐️ used 🎓 known
+  - class 🖐️ used 🎓 known
+  - new Error 🖐️ used 🎓 known
+  - with 🖐️ used 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🖐️ used 🎓 known
+  - function expression 🖐️ used 🎓 known
+  - return 🖐️ used 🎓 known
+  - default parameters 🖐️ used 🎓 known
+  - functional object 🖐️ used 🎓 known
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array 🖐️ used 🎓 known
+  - mixin 🖐️ used 🎓 known
+  - extend 🖐️ used 🎓 known
+  - typed arrays 🖐️ used 🎓 known
+  - Map 🖐️ used 🎓 known
+  - Set 🖐️ used 🎓 known
+  - undefined 🖐️ used 🎓 known
+  - null 🖐️ used 🎓 known
+  - Proxy 🖐️ used 🎓 known
+  - weak collections 🖐️ used 🎓 known
+  - timers 🖐️ used 🎓 known
+  - EventEmitter 🖐️ used 🎓 known
+  - RegExp 🖐️ used 🎓 known
+  - Date 🖐️ used 🎓 known
+  - BigInt 🖐️ used 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🖐️ used 🎓 known
+  - Node.js 🖐️ used 🎓 known
+  - npm 🖐️ used 🎓 known
+  - prettier 🖐️ used 🎓 known
+  - MDN 🖐️ used 🎓 known

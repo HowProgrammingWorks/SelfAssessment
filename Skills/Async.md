@@ -1,56 +1,56 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 🖐️ used 🎓 known
+  - try..catch 🖐️ used 🎓 known
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O 🖐️ used 🎓 known
+  - Thread pool 🖐️ used 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv 🖐️ used 🎓 known
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming 🖐️ used 🎓 known
   - Actor Model
-  - Thread
+  - Thread 🖐️ used 🎓 known
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐️ used 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 🖐️ used 🎓 known
+  - Async/await 🖐️ used 🎓 known
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 🖐️ used 🎓 known
+  - Async Generator 🖐️ used 🎓 known
+  - Async Iterator 🖐️ used 🎓 known
+  - Event 🖐️ used 🎓 known
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware 🖐️ used 🎓 known
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 🖐️ used 🎓 known
+  - promisify 🖐️ used 🎓 known
+  - asyncify 🖐️ used 🎓 known
+  - callbacks compose 🖐️ used 🎓 known
+  - async compose 🖐️ used 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter 🖐️ used
+  - Observable/Observer 🖐️ used 🎓 known
+  - Readable 🖐️ used 🎓 known
+  - Writable 🖐️ used 🎓 known
   - Transform
   - Async Pool
   - Async Queue
@@ -59,35 +59,35 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers 🖐️ used 🎓 known
+  - setImmediate 🖐️ used 🎓 known
+  - nextTick 🖐️ used 🎓 known
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Promise unhandled rejection 🖐️ used 🎓 known
+  - Promise double resolve 🖐️ used 🎓 known
   - child_process
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
+  - Callback hell 🖐️ used 🎓 known
+  - Promise hell 🖐️ used 🎓 known
+  - ref() and unref() 🖐️ used 🎓 known
+  - Error handling in async code 🖐️ used 🎓 known
+  - Better stack traces with return await 🖐️ used 🎓 known
   - JSON: streaming serialization
-  - promisify
-  - callbackify
+  - promisify 🖐️ used 🎓 known
+  - callbackify 🖐️ used 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library
-  - RxJS library
+  - RxJS library 🖐️ used 🎓 known
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all 🖐️ used 🎓 known
+  - Promise.allSettled 🖐️ used 🎓 known
+  - Promise.race 🖐️ used 🎓 known
+  - Promise.any 🖐️ used 🎓 known
   - Web Locks API
   - IPC
   - Channel API

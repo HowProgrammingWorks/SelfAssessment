@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🖐️ used 🎓 known
+  - identifier 🖐️ used 🎓 known
+  - variable 🖐️ used 🎓 known
+  - constant 🖐️ used 🎓 known
+  - scalar 🖐️ used 🎓 known
+  - literal 🖐️ used 🎓 known
+  - expression 🖐️ used 🎓 known
+  - heap 🖐️ used 🎓 known
+  - function 🖐️ used 🎓 known
+  - procedure 🖐️ used 🎓 known
+  - method 🖐️ used 🎓 known
+  - class 🖐️ used 🎓 known
+  - prototype 🖐️ used 🎓 known
+  - event 🖐️ used 🎓 known
+  - type 🖐️ used 🎓 known
+  - primitive types 🖐️ used 🎓 known
+  - reference types 🖐️ used 🎓 known
+  - flag 🖐️ used 🎓 known
+  - lexical scope 🖐️ used 🎓 known
+  - code block 🖐️ used 🎓 known
+  - conditions 🖐️ used 🎓 known
+  - loops 🖐️ used 🎓 known
+  - assignment 🖐️ used 🎓 known
+  - regular expression 🖐️ used 🎓 known
+  - interface 🖐️ used 🎓 known
+  - contract 🖐️ used 🎓 known
+  - module 🖐️ used 🎓 known
+  - call stack 🖐️ used 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🖐️ used 🎓 known
+  - argument 🖐️ used 🎓 known
+  - parameter 🖐️ used 🎓 known
+  - pure function 🖐️ used 🎓 known
+  - lambda expression 🖐️ used 🎓 known
+  - side effects 🖐️ used 🎓 known
+  - closure 🖐️ used 🎓 known
+  - partial application 🖐️ used 🎓 known
+  - curry 🖐️ used 🎓 known
+  - higher order 🖐️ used 🎓 known
+  - recursion 🖐️ used 🎓 known
+  - callback 🖐️ used 🎓 known
+  - listener 🖐️ used 🎓 known
+  - compose 🖐️ used 🎓 known
+  - pipe 🖐️ used 🎓 known
+  - memoize 🖐️ used 🎓 known
+  - wrapper 🖐️ used 🎓 known
+  - functor 🖐️ used 🎓 known
+  - monad 🖐️ used 🎓 known
+  - monoid 🖐️ used 🎓 known
+  - generator 🖐️ used 🎓 known
+  - coroutine 🖐️ used 🎓 known
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🖐️ used 🎓 known
+  - structure 🖐️ used 🎓 known
+  - record 🖐️ used 🎓 known
+  - enum 🖐️ used 🎓 known
+  - instance 🖐️ used 🎓 known
+  - object 🖐️ used 🎓 known
+  - class 🖐️ used 🎓 known
+  - collection 🖐️ used 🎓 known
+  - set 🖐️ used 🎓 known
+  - hash table 
+  - linked list 🖐️ used 🎓 known
+  - doubly list 🖐️ used 🎓 known
+  - unrolled list  🖐️ used 🎓 known
+  - circular list  🖐️ used 🎓 known
+  - queue 🖐️ used 🎓 known
+  - stack 🖐️ used 🎓 known
+  - deque 
+  - tree 🖐️ used 🎓 known
+  - graph 🖐️ used 🎓 known
+  - iterator 🖐️ used 🎓 known
+  - mutable state 🖐️ used 🎓 known
+  - immutable state 🖐️ used 🎓 known
+  - serialization 🖐️ used 🎓 known
+  - string parsing 🖐️ used 🎓 known
 - Process & style
-  - compiler
+  - compiler 🖐️ used 🎓 known
   - transpiler
-  - linter
-  - polyfill
-  - debugger
+  - linter 🖐️ used 🎓 known
+  - polyfill 🖐️ used 🎓 known
+  - debugger 🖐️ used 🎓 known
   - garbage collection
   - refactoring
-  - code review
+  - code review 🖐️ used 🎓 known
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm 🖐️ used 🎓 known
+  - algorithm 🖐️ used 🎓 known
   - magic numbers
   - hardcode
   - complexity
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - exception 🖐️ used 🎓 known
+  - return early 🖐️ used 🎓 known
+  - unittest 🖐️ used 🎓 known
+  - git 🖐️ used 🎓 known
+  - github 🖐️ used 🎓 known

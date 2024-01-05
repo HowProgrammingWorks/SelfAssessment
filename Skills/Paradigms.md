@@ -5,14 +5,14 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming 🖐️ used 
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 🖐️ used 
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming 🖐️ used 
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,44 +21,44 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🖐️ used 🎓 known
+  - new 🖐️ used 🎓 known
+  - Static method 🖐️ used 🎓 known
+  - Method 🖐️ used 🎓 known
+  - Async method 🖐️ used 🎓 known
+  - Getters, Setters 🖐️ used 🎓 known
+  - Public fields 🖐️ used 🎓 known
+  - Private fields 🖐️ used 🎓 known
+  - Field declarations 🖐️ used 🎓 known
+  - Inheritance 🖐️ used 🎓 known
+  - Parent class 🖐️ used 🎓 known
+  - Polymorphism 🖐️ used 🎓 known
+  - Abstract class 🖐️ used 🎓 known
+  - Interface 🖐️ used 🎓 known
+  - Encapsulation 🖐️ used 🎓 known
+  - Hidden class 🖐️ used 🎓 known
+  - Object form 🖐️ used 🎓 known
+  - instance 🖐️ used 🎓 known
+  - Introspection 🖐️ used 🎓 known
+  - Reflection 🖐️ used 🎓 known
 - Patterns
-  - Singleton
+  - Singleton 🖐️ used 🎓 known
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer 🖐️ used 🎓 known
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 🖐️ used 🎓 known
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator 🖐️ used 🎓 known
+  - State 🖐️ used 🎓 known
   - Bridge
-  - Builder
-  - Prototype
+  - Builder 🖐️ used 🎓 known
+  - Prototype 🖐️ used 🎓 known
   - Composite
-  - Decorator
+  - Decorator 🖐️ used 🎓 known
   - Flyweight
   - Mediator
   - Memento
