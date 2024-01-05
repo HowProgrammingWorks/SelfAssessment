@@ -7,7 +7,7 @@
   - Non-structured programming: 👂 heard
   - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -22,18 +22,18 @@
   - Actor model
 - OOP basics
   - constructor
-  - new: 👂 heard
+  - new: 🖐️ used
   - Static method
-  - Method: 👂 heard
+  - Method: 🖐️ used
   - Async method
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
   - Interface: 👂 heard
   - Encapsulation
   - Hidden class
@@ -43,8 +43,8 @@
   - Reflection
 - Patterns
   - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
   - Adapter
   - Observer
   - Strategy
@@ -54,7 +54,7 @@
   - Command
   - Iterator
   - State
-  - Bridge
+  - Bridge: 👂 heard
   - Builder
   - Prototype
   - Composite
