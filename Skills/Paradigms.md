@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
+  - Procedural programming 🖐️ used
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 👂 heard
+  - Generic programming 👂 heard
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
-  - Actor model
+  - Actor model 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🎓 known
+  - Abstract class 🎓 known
+  - Interface 🎓 known
+  - Encapsulation 🎓 known
   - Hidden class
   - Object form
   - instance
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
+  - Abstract Factory 👂 heard
+  - Adapter 👂 heard
+  - Observer 👂 heard
+  - Strategy 
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
+  - Command 
+  - Iterator 
+  - State 🖐️ used
+  - Bridge 👂 heard
+  - Builder 👂 heard
+  - Prototype 👂 heard
   - Composite
-  - Decorator
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento
