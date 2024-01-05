@@ -1,6 +1,5 @@
 ## Node.js and backend
 
-```
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
@@ -29,7 +28,7 @@
 - Environment
   - Command line arguments
   - Node.js CLI
-  - process-based permissions
+  - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
@@ -53,14 +52,14 @@
   - SharedArrayBuffer
   - node:worker_threads
   - node:child_process
-  - MessagePort, BroadcastChannel
+  - MessageChannel, MessagePort
+  - BroadcastChannel
   - Generating crypto random UUID
   - node:url vs new URL
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
-  - Module node:child_process
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
@@ -72,18 +71,17 @@
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture and DDD
+  - Clean architecture
+  - DDD
   - Message Queue
-  - CQS and CQRS
+  - CQS
+  - CQRS
   - Event sourcing
   - Load balancing
   - Serverless clouds
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
-  - Strategy
-  - Adapter
-  - Revealing constructor
   - Leaking abstractions
 - Network
   - IP sticky sessions
@@ -99,19 +97,19 @@
   - REST
   - RPC
   - Routing
-  - IP sticky
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch
-  - for await  request: IncomingMessage
-  - XSS, Path traversal, SQL injection, CSRF
-  - noDelay setNoDelay
-  - keep-alive http
-  - ALPN and SNI
+  - Fetch API
+  - IncomingMessage
+  - SQL injection
+  - noDelay
+  - keep-alive
+  - ALPN
+  - SNI callback
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
@@ -137,36 +135,36 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-- Asynchronous programming
-  - Error handling in async code
-  - Race condition and data race
-  - EventEmitter
-  - Better stack traces with return await
-  - AbortController, AbortSignal
-  - JSON: streaming serialization
-  - Async queue
-  - Async pool
-  - Async collection
-  - promisify and callbackify
-  - process.nextTick
-  - ref() and unref()
 - Error handling and debugging
-  - Error: error.cause, error.code, error.message, error.stack
+  - Error
+  - error.cause
+  - error.code
+  - error.message
+  - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Memory leaks
   - Heap dump
   - Debugging tools
-  - flame graph
-  - Memory leaks and resource leaks
+  - Flame graph
+  - Memory leaks
+  - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons C, C++, Rust, Zig
-  - nodejs/nan (Native Abstractions for Node.js)
-  - Node-API (formerly N-API): C,  C++, Rust, Zig
-  - Webassembly WAT, C,  C++, Rust, Zig, AssemblyScript
+  - Native addons
+  - C and C++ addons
+  - Rust addons
+  - Zig addons
+  - NAN (Native Abstractions for Node.js)
+  - Node-API (formerly N-API)
+  - NAPI C and C++
+  - NAPI Rust
+  - NAPI Zig
+  - Webassembly WAT
+  - Webassembly C and C++
+  - Webassembly Rust
+  - Webassembly Zig
+  - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
   - V8 binary serialization
-```

@@ -1,38 +1,47 @@
 ## Programming fundamental concepts
 
-```
-- Syntax
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - type
-  - primitive types
-  - reference
-  - flag
-  - lexical scope
-  - code block
+- Language
   - Object
   - this
   - arrow function
-  - generator
   - async function
-  - call, bind, apply
-  - Array
+  - call
+  - bind
+  - apply
   - instanceof
   - ...spread
   - ...rest
   - typeof
+  - destructuring
+  - generator
+  - iterator
+  - async generator
+  - async iterator
+  - chaining
+  - optional chaining
+  - IIFE
+  - global
+  - globalThis
+  - window
+  - getters and setters
+  - __proto__
+  - prototype
+  - equality operators
+  - logical operators
+  - bitwise operators
+  - ternary operator
+  - void
+  - yield
+  - await
+  - template literal
+  - strict mode
+  - delete
+  - in
+  - super
+  - Symbol
+  - Reflect
 - Statements
   - if
-  - loops
-  - assignment
-  - prototype
-  - class
   - while
   - do..while
   - for
@@ -40,86 +49,41 @@
   - for..of
   - for await
   - throw
+  - break
+  - continue
+  - import
+  - export
+  - label
   - try..catch
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - break, continue
   - switch
+  - class
   - new Error
+  - with
 - Functions
-  - recursion
-  - function
+  - function declaration
+  - function expression
   - return
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda
-  - side effects
-  - closure
-  - partial
-  - curry
-  - chaining
-  - higher order
-  - callback
-  - listener
-  - pipe
-  - compose
-  - memoize
-  - factory
-  - pool
-  - wrapper
   - default parameters
+  - functional object
 - Data structures
-  - array
-  - instance
-  - object
-  - collection
-  - hash table
-  - linked list
-  - queue
-  - stack
-  - deque
-  - serialization
-  - mixin, extend
-  - iterator
+  - Array
+  - mixin
+  - extend
   - typed arrays
   - Map
   - Set
-  - weak collections
+  - undefined
+  - null
   - Proxy
-  - Symbol
-  - string parsing
+  - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - global
-  - undefined
-  - null
-- Process & style
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - linter
-  - prettier
-  - unittest
-  - git
-  - github
-  - node.js
+  - Date
+  - BigInt
+- Infrastructure
+  - V8
+  - Node.js
   - npm
-```
+  - prettier
+  - MDN

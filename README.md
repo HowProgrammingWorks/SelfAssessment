@@ -1,7 +1,8 @@
 # Software engineering self assessment
 
-Levels: `+` hear, `++` know, `+++` use, `*` explain, `**` talk, `***` construct
+Levels: 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
+- [Programming fundamentals](Skills/Programming.md)
 - [JavaScript](Skills/JavaScript.md)
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)

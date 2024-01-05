@@ -1,65 +1,11 @@
 ## Asynchronous programming
 
-```
-- Async contracts
-  - Callback-last
-  - Error-first
-  - Promise
-  - Async function
-  - await
-  - Generator
-  - Async Generator
-  - Async Iterator
-  - Thenable
-  - EventEmitter
-  - Cancelable callback
-  - Cancelable Promise
-  - Asynchronous Queue
-  - Future
-  - Deferred
-  - Observer
-  - Async Collector
-  - Coroutine
-  - Goroutine
-- JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - Blockeing operations
-  - Non-blocking loop for Array
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-- Techniques
-  - async.js library
-  - Async composition
-  - Rx.js
-  - Sequential async
-  - Parallel async
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - Async Pool
-  - Thread Pool
-  - callbackify
-  - promisify
-  - IPC
-  - Channel API
-  - Revealing Constructor
 - Theory
-  - Event Loop
-  - Async error
+  - Event loop
   - try..catch
   - Non-blocking
   - Async I/O
+  - Thread pool
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -70,5 +16,80 @@
   - Race conditions
   - Dead locks
   - Live locks
+  - Concurrent programming
+  - Parallel programming
   - Actor Model
-```
+  - Thread
+  - Process
+- Async contracts
+  - Callbacks
+  - Callback-last-error-first
+  - Thenable
+  - Promise
+  - Async/await
+  - Future
+  - Deferred
+  - Sync generator
+  - Async Generator
+  - Async Iterator
+  - Event
+  - Coroutine
+  - Goroutine
+  - Signal
+  - Stream
+  - Chain of responsibility
+  - Middleware
+  - Locks
+- Async adapters and utils
+  - callbackify
+  - promisify
+  - asyncify
+  - callbacks compose
+  - async compose
+- Async abstractions interfaces
+  - EventEmitter
+  - Observable/Observer
+  - Readable
+  - Writable
+  - Transform
+  - Async Pool
+  - Async Queue
+  - Async Collector
+  - Semaphore
+  - Mutex
+  - Spin Lock
+- JavaScript & Node.js specific
+  - Timers
+  - setImmediate
+  - nextTick
+  - AbortController
+  - AbortSignal
+  - Promise unhandled rejection
+  - Promise double resolve
+  - child_process
+  - worker_threads
+  - Atomics
+  - High resolution clock
+  - Callback hell
+  - Promise hell
+  - ref() and unref()
+  - Error handling in async code
+  - Better stack traces with return await
+  - JSON: streaming serialization
+  - promisify
+  - callbackify
+  - AsyncLocalStorage
+  - AsyncResource
+- Techniques
+  - async.js library
+  - RxJS library
+  - Async composition
+  - Promise.all
+  - Promise.allSettled
+  - Promise.race
+  - Promise.any
+  - Web Locks API
+  - IPC
+  - Channel API
+  - Revealing Constructor
+  - Web Locks API

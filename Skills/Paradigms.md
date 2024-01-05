@@ -1,6 +1,5 @@
 ## Multi-paradigm programming
 
-```
 - Theory
   - Procedural programming
   - Imperative programming
@@ -42,23 +41,26 @@
   - instance
   - Introspection
   - Reflection
-- Abstractions
-  - struct, record
-  - Mutable state
-  - Immutable state
-  - Enum
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Trees
-  - Graphs
-  - Functor
-  - Functional object
-  - Monad
-  - Generator
-  - Iterator
-  - Async Iterator
 - Patterns
   - Singleton
-```
+  - Factory Method
+  - Abstract Factory
+  - Adapter
+  - Observer
+  - Strategy
+  - Facade
+  - Proxy
+  - Chain of Responsibility
+  - Command
+  - Iterator
+  - State
+  - Bridge
+  - Builder
+  - Prototype
+  - Composite
+  - Decorator
+  - Flyweight
+  - Mediator
+  - Memento
+  - Template Method
+  - Visitor
