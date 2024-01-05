@@ -28,7 +28,7 @@
     - Files: 🖐
     - pointers: 🖐
     - struct: 🖐
-  - С
+- С
     - Variables: 🖐 
     - Types: 🖐 
     - Declaration: 🖐 
