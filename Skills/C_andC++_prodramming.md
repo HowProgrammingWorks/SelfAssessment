@@ -25,7 +25,6 @@
     - Exception: 🖐 
     - try {} catch{}: 🖐 
     - system: 🖐 
-    - QT: 🖐
     - Files: 🖐
     - pointers: 🖐
     - struct: 🖐
