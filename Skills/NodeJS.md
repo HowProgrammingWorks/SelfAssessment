@@ -4,42 +4,42 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases: 🎓 known
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
+  - node:module: 👂 heard
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion: 👂 heard
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API: 🎓 known
   - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Crypto API: 🎓 known
+  - Password hashing with node:crypto.scrypt: 🎓 known
   - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
+  - File system API: sync and async: 🎓 known
+  - Copy folder recursively: 🎓 known
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -55,7 +55,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 🎓 known
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
   - TLS
-  - Websocket
-  - SSE
+  - Websocket: 🎓 known
+  - SSE: 🎓 known
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling: 🎓 known
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
   - DDoS
   - XSS
-  - Path traversal
+  - Path traversal: 🎓 known
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -116,14 +116,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -136,14 +136,14 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🖐️ used
   - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 🖐️ used
   - Heap dump
   - Debugging tools
   - Flame graph
@@ -151,9 +151,9 @@
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
-  - Rust addons
+  - Native addons: 🎓 known
+  - C and C++ addons: 🎓 known
+  - Rust addons: 🎓 known
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
