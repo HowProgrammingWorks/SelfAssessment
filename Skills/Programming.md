@@ -5,12 +5,12 @@
   - identifier 🙋 explained
   - variable 🙋 explained
   - constant 🙋 explained
-  - scalar 🙋 explained
+  - scalar 
   - literal 🖐️ used
   - expression 🙋 explained
   - heap 🖐️ used
   - function 🙋 explained
-  - procedure 🎓 known
+  - procedure 
   - method 🙋 explained
   - class 🖐️ used
   - prototype 🖐️ used
@@ -83,14 +83,14 @@
   - linter 🎓 known
   - polyfill
   - debugger 🖐️ used
-  - garbage collection 🖐️ used
+  - garbage collection 
   - refactoring 🖐️ used
   - code review 🎓 known
-  - antipatterns 🎓 known
+  - antipatterns 
   - paradigm 🎓 known
   - algorithm 🎓 known
-  - magic numbers 🎓 known
-  - hardcode 🎓 known
+  - magic numbers 
+  - hardcode 
   - complexity 🎓 known
   - decomposition 🎓 known
   - spaghetti 🖐️ used(joke)
@@ -101,6 +101,6 @@
   - duplicate code 🎓 known
   - exception 🖐️ used
   - return early 🎓 known
-  - unittest 👂 heard
+  - unittest 
   - git 🖐️ used
   - github 🖐️ used
