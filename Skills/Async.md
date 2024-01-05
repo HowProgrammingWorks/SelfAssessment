@@ -1,4 +1,4 @@
-![image](https://github.com/IvanDomashenko/SelfAssessmentDomashenko/assets/125280995/9ba11225-682e-47c0-96e4-e6db614bca70)## Asynchronous programming
+## Asynchronous programming
  👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Theory
   - Event loop 🎓 known
