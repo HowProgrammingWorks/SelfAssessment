@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - Object 🎓 known
+  - this 🎓 known
+  - arrow function 🎓 known
+  - async function 👂 heard
+  - call 🎓 known
+  - bind 🎓 known
+  - apply 🎓 known
+  - instanceof 👂 heard
+  - ...spread 🎓 known
+  - ...rest 🎓 known
+  - typeof 🎓 known
+  - destructuring 🎓 known
+  - generator 
+  - iterator 🎓 known
+  - async generator 
+  - async iterator 
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window 👂 heard
+  - getters and setters 👂 heard
+  - __proto__ 👂 heard
+  - prototype 👂 heard
+  - equality operators 🎓 known
+  - logical operators 🎓 known
+  - bitwise operators 👂 heard
+  - ternary operator 🎓 known
+  - void 
+  - yield 
+  - await 👂 heard
+  - template literal 
+  - strict mode 👂 heard
+  - delete 👂 heard
+  - in 
+  - super 
+  - Symbol 👂 heard
+  - Reflect 
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 🎓 known
+  - for 🎓 known
+  - for..in 🎓 known
+  - for..of 🎓 known
+  - for await 👂 heard
+  - throw 🎓 known
+  - break 🎓 known
+  - continue 🎓 known
+  - import 🎓 known
+  - export 🎓 known
+  - label 🎓 known
+  - try..catch 🎓 known
+  - switch 🎓 known
+  - class 🎓 known
+  - new Error 🎓 known
+  - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
-- Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - function declaration 🎓 known
+  - function expression 🎓 known
+  - return 🎓 known
+  - default parameters 🎓 known
+  - functional object 🎓 known
+- Data structures 
+  - Array 🎓 known
+  - mixin 👂 heard
+  - extend 🎓 known
+  - typed arrays 👂 heard
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 🎓 known
+  - null 🎓 known
+  - Proxy 👂 heard
+  - weak collections 👂 heard
+  - timers 👂 heard
+  - EventEmitter 👂 heard
+  - RegExp 🎓 known
+  - Date 🎓 known
+  - BigInt 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 👂 heard
+  - Node.js 👂 heard
+  - npm 👂 heard
+  - prettier 👂 heard
+  - MDN 👂 heard

@@ -1,48 +1,48 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value 👂 heard
+  - identifier 👂 heard
+  - variable 👂 heard
+  - constant 👂 heard
+  - scalar 👂 heard
+  - literal 👂 heard
+  - expression 👂 heard
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
+  - function 👂 heard
+  - procedure 👂 heard
+  - method 👂 heard
+  - class 👂 heard
+  - prototype 👂 heard
+  - event 👂 heard
+  - type 👂 heard
+  - primitive types 👂 heard
+  - reference types 👂 heard
+  - flag 👂 heard
+  - lexical scope 👂 heard
+  - code block 👂 heard
+  - conditions 👂 heard
+  - loops 👂 heard
+  - assignment 👂 heard
+  - regular expression 👂 heard
   - interface
   - contract
   - module
-  - call stack
+  - call stack 👂 heard
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
+  - argument 👂 heard
+  - parameter 👂 heard
+  - pure function 👂 heard
   - lambda expression
-  - side effects
-  - closure
+  - side effects 👂 heard
+  - closure 👂 heard
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
+  - higher order 👂 heard
+  - recursion 👂 heard
+  - callback 👂 heard
+  - listener 👂 heard
   - compose
   - pipe
   - memoize
@@ -53,7 +53,7 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 👂 heard
   - structure
   - record
   - enum
@@ -72,16 +72,16 @@
   - deque
   - tree
   - graph
-  - iterator
+  - iterator 👂 heard
   - mutable state
-  - immutable state
+  - immutable state 👂 heard
   - serialization
   - string parsing
 - Process & style
   - compiler
   - transpiler
   - linter
-  - polyfill
+  - polyfill 👂 heard
   - debugger
   - garbage collection
   - refactoring
