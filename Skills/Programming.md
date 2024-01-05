@@ -61,7 +61,7 @@
   - object
   - class
   - collection
-  - set
+  - set: heard
   - hash table
   - linked list
   - doubly list
