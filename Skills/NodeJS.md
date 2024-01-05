@@ -1,21 +1,21 @@
 ## Node.js and backend
-
+ 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 🎓 known
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 🎓 known
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 👂 heard
+  - node:module 👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
@@ -26,37 +26,37 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
+  - Command line arguments 👂 heard
+  - Node.js CLI 👂 heard
+  - Process-based permissions 👂 heard
   - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Clustering 👂 heard
+  - Watch filesystem changes with --watch 👂 heard
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
-  - Worker threads
+  - Worker threads 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
+  - Deprecated domain API 👂 heard
+  - Node.js single executable 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
-  - node:child_process
+  - node:child_process 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - node:url vs new URL 👂 heard
+  - node:assert 👂 heard
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
@@ -84,9 +84,9 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions 👂 heard
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -113,26 +113,26 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Native test runner 🎓 known
+  - Logging 🎓 known
+  - Application configuring 🎓 known
+  - Testing 🎓 known
   - CI/CD
-  - Readable
-  - Writable
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
   - back pressure
-  - Buffer
+  - Buffer 🎓 known
   - Console
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
+  - Data access layer 👂 heard
+  - Repository 🎓 known
+  - Active record 👂 heard
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
