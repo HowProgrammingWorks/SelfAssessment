@@ -1,0 +1,50 @@
+## Programming fundamental concepts
+ 
+- С++
+    - Variables: 🖐 
+    - Types: 🖐 
+    - Declaration: 🖐 
+    - Initialization: 🖐 
+    - if (condition) {}: 🖐
+    - else if (condition) {}: 🖐 
+    - else {}:🖐 
+    - switch ... case:...: 🖐 
+    - for () {}: 🖐 
+    - while () {}: 🖐 
+    - do {} while (): 🖐 
+    - Arrays: 🖐 
+    - Lists: 🖐 
+    - Functions: 🖐 
+    - Methods: 🖐 
+    - Class: 🖐 
+    - Static: 🖐 
+    - new: 🖐 
+    - delete: 🖐 
+    - OOP: 🖐 
+    - Abstract class: 🖐 
+    - Exception: 🖐 
+    - try {} catch{}: 🖐 
+    - system: 🖐 
+    - QT: 🖐
+    - Files: 🖐
+    - pointers: 🖐
+    - struct: 🖐
+  - С
+    - Variables: 🖐 
+    - Types: 🖐 
+    - Declaration: 🖐 
+    - Initialization: 🖐 
+    - if (condition) {}: 🖐
+    - else if (condition) {}: 🖐 
+    - else {}:🖐 
+    - switch ... case:...: 🖐 
+    - for () {}: 🖐 
+    - while () {}: 🖐 
+    - do {} while (): 🖐 
+    - Arrays: 🖐 
+    - Functions: 🖐 
+    - Static: 🖐 
+    - system: 🖐 
+    - Files: 🖐
+    - struct: 🖐
+    - pointers: 🖐
