@@ -1,0 +1,92 @@
+## .NET C# and backend
+
+- Language Fundamentals
+  - Strong and Weak Sides of C# 🎓 known
+  - Asynchronous Programming with async/await 🖐️ used
+  - Memory Management in .NET (Garbage Collection) 🎓 known
+  - .NET Standard and .NET Core
+  - .NET Framework vs .NET Core vs .NET 5+ 🎓 known
+  - I/O-bound, CPU-bound, and Memory-bound tasks in C#
+- Modularity and Dependencies
+  - NuGet Package Manager 🖐️ used
+  - Dependency Injection in ASP.NET Core 🖐️ used
+  - Modular Architecture in C#
+  - SOLID Principles in C# 🖐️ used
+  - Entity Framework Core (ORM) 🖐️ used
+  - Aspect-Oriented Programming (AOP) in C#
+- Environment
+  - Command Line Arguments in C#
+  - .NET CLI 🎓 known
+  - Application Configuration in .NET 🎓 known
+  - .NET Core vs .NET Framework 🎓 known
+- Internal API
+  - ASP.NET Core Middleware 🖐️ used
+  - ASP.NET Core Routing 🖐️ used
+  - ASP.NET Core Filters 🖐️ used
+  - Web API and RESTful Services 🖐️ used
+  - ASP.NET Core Background Tasks 👂 heard
+  - Working with JSON in C# 🖐️ used
+  - ASP.NET Core Dependency Injection 🖐️ used
+  - Unit Testing in C# 🖐️ used
+  - Logging in .NET Core 🎓 known
+- Application Structure and Architecture
+  - ASP.NET Core Project Structure 🖐️ used
+  - Separation of Concerns in C# 🖐️ used
+  - Inversion of Control in .NET 🖐️ used
+  - Microservices Architecture in .NET 🖐️ used
+  - Domain-Driven Design (DDD) in C#
+  - Event-Driven Architecture in .NET 🖐️ used
+  - Clean Architecture in .NET 🖐️ used
+- Network
+  - HTTP and HTTPS in .NET 🖐️ used
+  - TCP and UDP Communication in C# 🖐️ used
+  - SignalR for Real-time Communication
+  - gRPC in .NET
+  - Middleware in ASP.NET Core 🖐️ used
+  - Security (XSS, CSRF) in .NET 👂 heard
+  - Load Balancing in .NET
+  - DoS and DDoS Mitigation in .NET
+  - DNS Resolution in .NET
+- Techniques and Tools
+  - Unit Testing Frameworks (e.g., NUnit, xUnit) 🖐️ used
+  - Logging Frameworks (e.g., Serilog, NLog) 👂 heard
+  - Application Configuration Libraries 🎓 known
+  - Continuous Integration and Deployment (CI/CD) in .NET
+  - Debugging Tools for Visual Studio 🖐️ used
+  - Code Metrics and Analysis Tools 👂 heard
+  - Profiling and Performance Tuning in .NET
+  - Design Patterns in C# 🖐️ used
+- Data Access
+  - Entity Framework Core 🖐️ used
+  - Dapper (Micro ORM)
+  - ADO.NET 🖐️ used
+  - Transactions in .NET 🎓 known
+  - Caching Strategies in .NET 🎓 known
+- Error Handling and Debugging
+  - Exception Handling in C# 🖐️ used
+  - Logging and Tracing 🎓 known
+  - Debugging Techniques in Visual Studio 🖐️ used
+  - Unit Testing for Error Cases 🖐️ used
+  - Handling Memory Leaks in .NET 🎓 known
+- Integrations, Libraries, and Frameworks
+  - ASP.NET Core (MVC and Web API) 🖐️ used
+  - Entity Framework Core 🖐️ used
+  - ASP.NET Core Identity 👂 heard
+  - AutoMapper 🖐️ used
+  - SignalR 👂 heard
+  - gRPC
+  - OpenAPI (Swagger) 🖐️ used
+  - Hangfire (Background Jobs)
+  - MassTransit (Message Broker)
+  - Serilog (Logging) 👂 heard
+  - Polly (Resilience)
+  - FluentValidation 🖐️ used
+  - MediatR (Mediator Pattern) 🖐️ used
+  - Moq (Mocking Library) 🎓 known
+  - xUnit and NUnit (Testing Frameworks) 🖐️ used
+  - Microsoft.Extensions (DependencyInjection, Logging, etc.) 🖐️ used
+  - RestSharp (REST Client)
+  - Refit (Type-Safe HTTP Client)
+  - AngleSharp (HTML Parsing)
+  - Humanizer (Human-friendly text formatting)
+  - IdentityServer (Identity and Access Control) 👂 heard
