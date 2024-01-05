@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🖐️ used
   - async function
   - call
   - bind
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof🖐️ used
   - destructuring
   - generator
   - iterator
@@ -22,56 +22,56 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window🖐️ used
   - getters and setters
   - __proto__
-  - prototype
+  - prototype🖐️ used
   - equality operators
   - logical operators
   - bitwise operators
-  - ternary operator
+  - ternary operator🖐️ used
   - void
   - yield
-  - await
+  - await👂 heard
   - template literal
   - strict mode
   - delete
-  - in
+  - in🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
+  - for..in🖐️ used
+  - for..of🖐️ used
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break🖐️ used
+  - continue🖐️ used
+  - import🖐️ used
+  - export🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch🖐️ used
+  - switch🖐️ used
+  - class🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration🖐️ used
   - function expression
-  - return
-  - default parameters
+  - return🖐️ used
+  - default parameters🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
+  - typed arrays🖐️ used
+  - Map🖐️ used
+  - Set🖐️ used
   - undefined
   - null
   - Proxy
@@ -79,11 +79,11 @@
   - timers
   - EventEmitter
   - RegExp
-  - Date
+  - Date🖐️ used
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js🖐️ used
+  - npm🖐️ used
   - prettier
   - MDN

@@ -1,51 +1,51 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
+  - value🎓 known
+  - identifier🎓 known
+  - variable🎓 known
+  - constant🎓 known
+  - scalar🎓 known
+  - literal👂 heard
   - expression
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
+  - function🎓 known
+  - procedure🎓 known
+  - method🎓 known
+  - class🎓 known
+  - prototype👂 heard
+  - event👂 heard
+  - type🎓 known
   - primitive types
   - reference types
-  - flag
+  - flag👂 heard
   - lexical scope
   - code block
-  - conditions
-  - loops
-  - assignment
+  - conditions🎓 known
+  - loops🎓 known
+  - assignment 
   - regular expression
-  - interface
+  - interface👂 heard
   - contract
-  - module
+  - module👂 heard
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - argument🎓 known
+  - parameter🎓 known
+  - pure function🎓 known
+  - lambda expression👂 heard
+  - side effects👂 heard
+  - closure👂 heard
   - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
+  - curry👂 heard
+  - higher order👂 heard
+  - recursion🖐️ used
+  - callback🖐️ used
   - listener
   - compose
   - pipe
-  - memoize
+  - memoize🖐️ used
   - wrapper
   - functor
   - monad
@@ -53,43 +53,43 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array🖐️ used
+  - structure🖐️ used
   - record
   - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
+  - instance🖐️ used
+  - object🖐️ used
+  - class🖐️ used
+  - collection🖐️ used
+  - set🖐️ used
+  - hash table🖐️ used
+  - linked list🖐️ used
+  - doubly list🖐️ used
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue🖐️ used
+  - stack🖐️ used
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree🖐️ used
+  - graph🖐️ used
+  - iterator🖐️ used
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring🖐️ used
+  - code review🖐️ used
   - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
+  - paradigm👂 heard
+  - algorithm👂 heard
+  - magic numbers👂 heard
   - hardcode
   - complexity
   - decomposition
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  - exception
+  - exception👂 heard
   - return early
   - unittest
-  - git
-  - github
+  - git🖐️ used
+  - github🖐️ used
