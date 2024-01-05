@@ -1,46 +1,46 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming 👂 heard
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 🎓 known
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 🎓 known
+  - Parallel programming 🎓 known
   - Reactive programming
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming 👂 heard
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor 🎓 known
+  - new 🎓 known
+  - Static method 🎓 known
+  - Method 🎓 known
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters 👂 heard
+  - Public fields 🎓 known
+  - Private fields 🎓 known
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - Parent class 🎓 known
+  - Polymorphism 🎓 known
+  - Abstract class 🎓 known
+  - Interface 👂 heard
   - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
+  - Hidden class 🎓 known
+  - Object form 🎓 known
+  - instance 🎓 known
   - Introspection
-  - Reflection
+  - Reflection 👂 heard
 - Patterns
   - Singleton
   - Factory Method
@@ -49,16 +49,16 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Proxy 👂 heard
+  - Chain of Responsibility 👂 heard
+  - Command 👂 heard
+  - Iterator 👂 heard
+  - State 🎓 known
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 🎓 known
   - Composite
-  - Decorator
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento

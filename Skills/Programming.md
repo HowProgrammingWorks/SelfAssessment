@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
+  - heap 🖐️ used
+  - function🖐️ used
+  - procedure 🖐️ used
+  - method 🖐️ used
+  - class 🖐️ used
+  - prototype 🖐️ used
+  - event 🎓 known
+  - type 🖐️ used
+  - primitive types 🖐️ used
   - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - flag 🖐️ used
+  - lexical scope 🖐️ used
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 🎓 known
+  - assignment 🎓 known
+  - regular expression 🖐️ used
+  - interface 🎓 known
+  - contract 🎓 known
+  - module 🖐️ used
+  - call stack 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
+  - signature 🖐️ used
+  - argument 🖐️ used
+  - parameter 🖐️ used
+  - pure function 🖐️ used
+  - lambda expression 🖐️ used
+  - side effects 🖐️ used
+  - closure 🖐️ used
+  - partial application 🖐️ used
+  - curry 🖐️ used
+  - higher order 👂 heard
+  - recursion 🖐️ used
+  - callback 🖐️ used
+  - listener🎓 known
+  - compose 🎓 known
+  - pipe 🎓 known
+  - memoize 🎓 known
+  - wrapper 🎓 known
+  - functor 🎓 known
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator 🎓 known
+  - coroutine 🎓 known
 - Data structures
-  - array
-  - structure
+  - array 🖐️ used
+  - structure 🖐️ used
   - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - enum 🖐️ used
+  - instance 🖐️ used
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection 🖐️ used
+  - set 🖐️ used
   - hash table
-  - linked list
+  - linked list 🖐️ used
   - doubly list
   - unrolled list
   - circular list
   - queue
   - stack
   - deque
-  - tree
-  - graph
+  - tree 🖐️ used
+  - graph 🖐️ used
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
+  - debugger 🖐️ used
+  - garbage collection 🎓 known
+  - refactoring 🎓 known
+  - code review 🎓 known
+  - antipatterns 🖐️ used
+  - paradigm 🖐️ used
+  - algorithm 🖐️ used
+  - magic numbers 🖐️ used
+  - hardcode 🖐️ used
+  - complexity 🖐️ used
+  - decomposition 🎓 known
+  - spaghetti 🖐️ used
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 🎓 known
   - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - duplicate code 🖐️ used
+  - exception 🎓 known
+  - return early 🖐️ used
   - unittest
-  - git
-  - github
+  - git 🎓 known
+  - github 🖐️ used
