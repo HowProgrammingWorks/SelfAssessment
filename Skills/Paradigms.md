@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -52,11 +52,11 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator🖐️ used
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype👂 heard
   - Composite
   - Decorator
   - Flyweight

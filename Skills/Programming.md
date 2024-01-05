@@ -7,6 +7,12 @@
   - constant🎓 known
   - scalar🎓 known
   - literal👂 heard
+  - value🎓 known
+  - identifier🎓 known
+  - variable🎓 known
+  - constant🎓 known
+  - scalar🎓 known
+  - literal👂 heard
   - expression
   - heap👂 heard
   - function🎓 known
@@ -19,18 +25,27 @@
   - primitive types👂 heard
   - reference types
   - flag👂 heard
+  - flag👂 heard
   - lexical scope
   - code block
-  - conditions🎓 known
-  - loops🎓 known
-  - assignment 
+  - conditions👂 heard🎓 known
+  - loops🎓 known🎓 known
+  - assignment  
   - regular expression
   - interface👂 heard
+  - interface👂 heard
   - contract
+  - module👂 heard
   - module👂 heard
   - call stack
 - Functions
   - signature
+  - argument🎓 known
+  - parameter🎓 known
+  - pure function🎓 known
+  - lambda expression👂 heard
+  - side effects👂 heard
+  - closure👂 heard
   - argument🎓 known
   - parameter🎓 known
   - pure function🎓 known
@@ -42,9 +57,14 @@
   - higher order👂 heard
   - recursion🖐️ used
   - callback🖐️ used
+  - curry👂 heard
+  - higher order👂 heard
+  - recursion🖐️ used
+  - callback🖐️ used
   - listener
   - compose
   - pipe
+  - memoize🖐️ used
   - memoize🖐️ used
   - wrapper
   - functor
@@ -53,6 +73,8 @@
   - generator
   - coroutine
 - Data structures
+  - array🖐️ used
+  - structure🖐️ used
   - array🖐️ used
   - structure🖐️ used
   - record
@@ -65,11 +87,24 @@
   - hash table🖐️ used
   - linked list🖐️ used
   - doubly list🖐️ used
+  - instance🖐️ used
+  - object🖐️ used
+  - class🖐️ used
+  - collection🖐️ used
+  - set🖐️ used
+  - hash table🖐️ used
+  - linked list🖐️ used
+  - doubly list🖐️ used
   - unrolled list
   - circular list
   - queue🖐️ used
   - stack🖐️ used
+  - queue🖐️ used
+  - stack🖐️ used
   - deque
+  - tree🖐️ used
+  - graph🖐️ used
+  - iterator🖐️ used
   - tree🖐️ used
   - graph🖐️ used
   - iterator🖐️ used
@@ -79,14 +114,19 @@
   - string parsing
 - Process & style
   - compiler🖐️ used
+  - compiler🖐️ used
   - transpiler
   - linter
   - polyfill
+  - debugger🖐️ used
   - debugger🖐️ used
   - garbage collection
   - refactoring🖐️ used
   - code review🖐️ used
   - antipatterns
+  - paradigm👂 heard
+  - algorithm👂 heard
+  - magic numbers👂 heard
   - paradigm👂 heard
   - algorithm👂 heard
   - magic numbers👂 heard
@@ -100,7 +140,10 @@
   - unreachable code
   - duplicate code
   - exception👂 heard
+  - exception👂 heard
   - return early
   - unittest
+  - git🖐️ used
+  - github🖐️ used
   - git🖐️ used
   - github🖐️ used
