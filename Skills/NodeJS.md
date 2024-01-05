@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
+  - Caching in CJS and ESM: 🖐️ used
+  - Modules as singletons: 🖐️ used
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,12 +26,12 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
   - Web Streams API
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -51,7 +51,7 @@
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
-  - node:child_process
+  - node:child_process: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
@@ -71,7 +71,7 @@
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture
+  - Clean architecture: 🎓 known
   - DDD
   - Message Queue
   - CQS
@@ -86,69 +86,69 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
-  - Routing
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS: 🖐️ used
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
+  - Native test runner: 👂 heard
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Console: 🖐️ used
+  - Inspector: 🖐️ used
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 🎓 known
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🖐️ used
+  - error.cause: 🎓 known
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 🎓 known
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons
