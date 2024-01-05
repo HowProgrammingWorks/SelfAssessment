@@ -11,17 +11,17 @@
   - heap
   - function🎓 known
   - procedure🎓 known
-  - method🎓 known
-  - class🎓 known
+  - method👂 heard
+  - class👂 heard
   - prototype👂 heard
   - event👂 heard
-  - type🎓 known
+  - type👂 heard
   - primitive types
   - reference types
   - flag👂 heard
   - lexical scope
   - code block
-  - conditions🎓 known
+  - conditions👂 heard
   - loops🎓 known
   - assignment 
   - regular expression
