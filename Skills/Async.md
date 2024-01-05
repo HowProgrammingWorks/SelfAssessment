@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop: 👂 heard
+  - try..catch: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O:  🎓 known
+  - Thread pool: 🎓 known
   - Pattern Reactor
-  - CAS operations
+  - CAS operations: 🎓 known
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
-  - Future
+  - Async/await: 👂 heard
+  - Future: 🎓 known
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
+  - Event: 🎓 known
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
-  - Stream
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🎓 known
   - promisify
   - callbackify
   - AsyncLocalStorage
