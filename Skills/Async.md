@@ -1,13 +1,13 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Event loop👂 heard
+  - try..catch👂 heard
+  - Non-blocking 👂 heard
+  - Async I/O 👂 heard
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
   - epoll
   - kqueue
   - Completion ports
@@ -16,30 +16,30 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard
+  - Parallel programming👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread👂 heard
+  - Process👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Promise👂 heard
+  - Async/await👂 heard
+  - Future👂 heard
+  - Deferred👂 heard
+  - Sync generator👂 heard
+  - Async Generator👂 heard
+  - Async Iterator👂 heard
   - Event
-  - Coroutine
-  - Goroutine
-  - Signal
+  - Coroutine👂 heard
+  - Goroutine👂 heard
+  - Signal👂 heard
   - Stream
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware 👂 heard
+  - Locks 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify
@@ -52,9 +52,9 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
@@ -70,16 +70,16 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell👂 heard
+  - Promise hell👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify
   - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
 - Techniques
   - async.js library
   - RxJS library
@@ -90,6 +90,6 @@
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API
+  - Channel API 👂 heard
   - Revealing Constructor
-  - Web Locks API
+  - Web Locks API 👂 heard

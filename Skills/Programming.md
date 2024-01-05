@@ -1,49 +1,49 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - value👂 heard
+  - identifier 👂 heard
+  - variable👂 heard
+  - constant👂 heard
+  - scalar👂 heard
+  - literal👂 heard
+  - expression👂 heard
+  - heap👂 heard
+  - function👂 heard
+  - procedure👂 heard
+  - method👂 heard
+  - class👂 heard
+  - prototype👂 heard
+  - event👂 heard
+  - type👂 heard
+  - primitive types 👂 heard
+  - reference types 👂 heard
+  - flag 
   - lexical scope
   - code block
   - conditions
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface👂 heard
   - contract
-  - module
+  - module👂 heard
   - call stack
 - Functions
   - signature
-  - argument
+  - argument👂 heard
   - parameter
-  - pure function
+  - pure function👂 heard
   - lambda expression
-  - side effects
+  - side effects👂 heard
   - closure
-  - partial application
+  - partial application 👂 heard
   - curry
   - higher order
   - recursion
-  - callback
+  - callback 👂 heard
   - listener
-  - compose
+  - compose👂 heard
   - pipe
   - memoize
   - wrapper
@@ -51,25 +51,25 @@
   - monad
   - monoid
   - generator
-  - coroutine
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array👂 heard
+  - structure👂 heard
+  - record 👂 heard
+  - enum 👂 heard
+  - instance👂 heard
+  - object👂 heard
+  - class👂 heard
+  - collection👂 heard
+  - set👂 heard
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack
-  - deque
+  - stack👂 heard
+  - deque👂 heard
   - tree
   - graph
   - iterator
@@ -78,8 +78,8 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler👂 heard
+  - transpiler👂 heard
   - linter
   - polyfill
   - debugger
@@ -88,9 +88,9 @@
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm👂 heard
   - magic numbers
-  - hardcode
+  - hardcode👂 heard
   - complexity
   - decomposition
   - spaghetti
@@ -101,6 +101,6 @@
   - duplicate code
   - exception
   - return early
-  - unittest
-  - git
-  - github
+  - unittest👂 heard
+  - git👂 heard
+  - github👂 heard
