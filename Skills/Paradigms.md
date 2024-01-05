@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: heard
+  - Procedural programming
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming: heard
+  - Functional programming
   - Prototype-based programming
-  - Object-oriented programming: known
+  - Object-oriented programming
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming: heard
-  - Parallel programming: heard
+  - Asyncronous programming
+  - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,24 +21,24 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: known
-  - new: known
-  - Static method: known
-  - Method: known
+  - constructor
+  - new
+  - Static method
+  - Method
   - Async method
-  - Getters, Setters: heard
-  - Public fields: known
-  - Private fields: known
-  - Field declarations: known
-  - Inheritance: known
-  - Parent class: known
-  - Polymorphism: known
-  - Abstract class: known
+  - Getters, Setters
+  - Public fields
+  - Private fields
+  - Field declarations
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
   - Interface
-  - Encapsulation: known
+  - Encapsulation
   - Hidden class
   - Object form
-  - instance: heard
+  - instance
   - Introspection
   - Reflection
 - Patterns
