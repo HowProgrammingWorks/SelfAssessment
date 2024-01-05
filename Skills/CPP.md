@@ -1,0 +1,25 @@
+## C++
+
+- using
+- new delete
+- pragma
+- string
+- constructor
+- destructor
+- goto: heard
+- static_cast
+- pair
+- auto
+- lvalue/rvalue
+- typedef
+- cstdbool file
+- namespace: heard
+- climits file
+- ciso646 file
+- cctype file
+- cerrno file
+- cassert file
+- ctime file
+- cstring file
+- clocale file
+- this
