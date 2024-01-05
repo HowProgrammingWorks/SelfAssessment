@@ -16,8 +16,8 @@
   - prototype: used
   - event
   - type: used
-  - primitive types
-  - reference types
+  - primitive types: used
+  - reference types: used
   - flag: used
   - lexical scope
   - code block: used
