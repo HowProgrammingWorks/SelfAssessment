@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 🖐️ used
   - procedure
-  - method
-  - class
+  - method: 👂 heard
+  - class: 👂 heard
   - prototype
   - event
   - type
@@ -25,14 +25,14 @@
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface: 👂 heard
   - contract
-  - module
+  - module: 👂 heard
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -41,7 +41,7 @@
   - curry
   - higher order
   - recursion
-  - callback
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
@@ -53,22 +53,22 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection: 👂 heard
   - set
-  - hash table
+  - hash table: 👂 heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack: 🖐️ used
   - deque
   - tree
   - graph
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 🖐️ used
+  - code review: 👂 heard
   - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
+  - paradigm 
+  - algorithm: 👂 heard
+  - magic numbers: 👂 heard
   - hardcode
   - complexity
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code: 👂 heard
   - unreachable code
   - duplicate code
   - exception
   - return early
   - unittest
   - git
-  - github
+  - github:🖐️ used
