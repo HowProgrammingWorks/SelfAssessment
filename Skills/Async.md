@@ -1,95 +1,95 @@
-## Asynchronous programming
-
+![image](https://github.com/IvanDomashenko/SelfAssessmentDomashenko/assets/125280995/9ba11225-682e-47c0-96e4-e6db614bca70)## Asynchronous programming
+ 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop 🎓 known
+  - try..catch 🎓 known
+  - Non-blocking🎓 known
+  - Async I/O 🎓 known
+  - Thread pool 🎓 known
+  - Pattern Reactor 🎓 known
+  - CAS operations 🎓 known
+  - epoll 🎓 known
+  - kqueue 🎓 known
+  - Completion ports 🎓 known
+  - Event ports 🎓 known
+  - libuv 🎓 known
+  - Race conditions  👂 heard
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
+  - Actor Model 👂 heard
+  - Thread 👂 heard
+  - Process 👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
-  - Thenable
-  - Promise
+  - Thenable 👂 heard
+  - Promise 👂 heard
   - Async/await
-  - Future
+  - Future 👂 heard
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
   - Event
-  - Coroutine
-  - Goroutine
-  - Signal
+  - Coroutine 🎓 known
+  - Goroutine 🎓 known
+  - Signal 👂 heard
   - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Chain of responsibility 👂 heard
+  - Middleware 👂 heard
+  - Locks 👂 heard
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify  👂 heard
+  - promisify 🎓 known
+  - asyncify  🎓 known
   - callbacks compose
-  - async compose
+  - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter 👂 heard
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 👂 heard
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
+  - Timers 🖐️ used
+  - setImmediate 🖐️ used
+  - nextTick 🖐️ used
+  - AbortController 🖐️ used
+  - AbortSignal 🖐️ used
+  - Promise unhandled rejection 👂 heard
+  - Promise double resolve 👂 heard
+  - child_process 🎓 known
+  - worker_threads 🎓 known
+  - Atomics 🎓 known
+  - High resolution clock 👂 heard
   - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
+  - Promise hell 🎓 known
+  - ref() and unref() 🎓 known
+  - Error handling in async code 👂 heard
+  - Better stack traces with return await 👂 heard
   - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - promisify 👂 heard
+  - callbackify 🎓 known
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 🎓 known
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - async.js library 👂 heard
+  - RxJS library  👂 heard
+  - Async composition 👂 heard
+  - Promise.all 🖐️ used
+  - Promise.allSettled 🖐️ used
+  - Promise.race 👂 heard
+  - Promise.any 🎓 known
+  - Web Locks API 👂 heard
+  - IPC 🎓 known
+  - Channel API 👂 heard
+  - Revealing Constructor 🎓 known
+  - Web Locks API 👂 heard
