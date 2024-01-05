@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  🖐- value
+  🖐- identifier
+  🖐- variable
+  🖐- constant
+  🖐- scalar
+  🎓- literal
+  🖐- expression
+  🖐- heap
+  🖐- function
+  🎓- procedure
+  🖐- method
+  🖐- class
+  🎓- prototypeА
+  🎓- event
+  🖐- type
+  🎓- primitive types
+  🎓- reference types
+  🖐-- flag
   - lexical scope
   - code block
-  - conditions
+  🖐- conditions
   - loops
   - assignment
-  - regular expression
-  - interface
+  🖐- regular expression
+  🖐- interface
   - contract
-  - module
+  🖐- module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  🖐- signature
+  🖐- argument
+  🖐- parameter
   - pure function
-  - lambda expression
-  - side effects
-  - closure
+  🖐- lambda expression
+   - side effects
+  🎓- closure
   - partial application
   - curry
   - higher order
   - recursion
-  - callback
+  🎓- callback
   - listener
-  - compose
-  - pipe
+  🎓- compose
+  👂 - pipe
   - memoize
-  - wrapper
+  🖐- wrapper
   - functor
   - monad
   - monoid
-  - generator
+  🎓- generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
+  🖐- array
+  🖐- structure
+  🎓- record
+  🖐- enum
   - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
+  🖐- object
+  🖐- class
+  🖐- collection
+  🎓- set
+  🎓- hash table
+  👂- linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  🎓- queue
+  🎓- stack
   - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  👂- tree
+  👂- graph
+  🎓- iterator
+  🎓- mutable state
+  🎓- immutable state
   - serialization
-  - string parsing
+  🎓- string parsing
 - Process & style
-  - compiler
+🖐- compiler
   - transpiler
   - linter
   - polyfill
-  - debugger
+ 🖐- debugger
   - garbage collection
   - refactoring
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+ 🎓 - algorithm
   - magic numbers
   - hardcode
   - complexity
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  - exception
+  🖐- exception
   - return early
   - unittest
-  - git
-  - github
+ 🖐 - git
+ 🖐 - github
