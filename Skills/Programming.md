@@ -9,7 +9,7 @@
   - expression м
   - heap 🙋
   - function 🙋
-  - procedure
+  - procedure 👂
   - method 🙋
   - class 🙋
   - prototype 🙋
@@ -29,7 +29,7 @@
   - module 👂
   - call stack 👂
 - Functions
-  - signature 🙋
+  - signature 👂
   - argument 🙋
   - parameter 🙋
   - pure function 👂
@@ -83,8 +83,8 @@
   - polyfill 👂
   - debugger 🙋
   - garbage collection 👂
-  - refactoring 🙋
-  - code review 🙋
+  - refactoring 👂
+  - code review 👂
   - antipatterns 👂
   - paradigm 🙋
   - algorithm 🙋
@@ -101,5 +101,5 @@
   - exception 🙋
   - return early
   - unittest 🙋
-  - git 🙋
-  - github 🙋
+  - git 👂
+  - github 👂
