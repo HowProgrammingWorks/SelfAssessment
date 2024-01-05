@@ -1,17 +1,17 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules 👂 heard
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
   - UDP
   - TLS
-  - Websocket
+  - Websocket 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -116,19 +116,19 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 🖐️ used
+  - Console 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
   - Data access layer
   - Repository
@@ -136,10 +136,10 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 🎓 known
   - error.cause
   - error.code
-  - error.message
+  - error.message 🎓 known
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
