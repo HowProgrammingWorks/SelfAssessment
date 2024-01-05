@@ -2,30 +2,30 @@
 
 - Theory
   - Procedural programming 🖐️ used
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming 👂 heard
-  - Prototype-based programming
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
+  - Non-structured programming 👂 heard
+  - Functional programming 🖐️ used
+  - Prototype-based programming 👂 heard
   - Object-oriented programming 🖐️ used
   - Object-based programming 👂 heard
   - Generic programming 👂 heard
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming 👂 heard
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 🎓 known
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 👂 heard
   - Automata-based programming 👂 heard
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
   - Actor model 👂 heard
 - OOP basics
   - constructor 🖐️ used
   - new 🖐️ used
   - Static method 🖐️ used
   - Method 🖐️ used
-  - Async method
+  - Async method 🎓 known
   - Getters, Setters 🖐️ used
   - Public fields 🖐️ used
   - Private fields 🖐️ used
@@ -36,31 +36,31 @@
   - Abstract class 🎓 known
   - Interface 🎓 known
   - Encapsulation 🎓 known
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - Hidden class 🎓 known
+  - Object form 🎓 known
+  - instance 👂 heard
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
-  - Abstract Factory 👂 heard
-  - Adapter 👂 heard
-  - Observer 👂 heard
-  - Strategy 
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command 
-  - Iterator 
+  - Singleton 🎓 known
+  - Factory Method 🎓 known
+  - Abstract Factory 🎓 known
+  - Adapter 🎓 known
+  - Observer 🎓 known
+  - Strategy 👂 heard
+  - Facade 👂 heard
+  - Proxy 👂 heard
+  - Chain of Responsibility 👂 heard
+  - Command 👂 heard
+  - Iterator 👂 heard
   - State 🖐️ used
-  - Bridge 👂 heard
-  - Builder 👂 heard
-  - Prototype 👂 heard
-  - Composite
-  - Decorator 👂 heard
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Bridge 🎓 known
+  - Builder 🎓 known
+  - Prototype 🎓 known
+  - Composite 👂 heard
+  - Decorator 🎓 known
+  - Flyweight 👂 heard
+  - Mediator 👂 heard
+  - Memento 👂 heard
+  - Template Method 👂 heard
+  - Visitor 👂 heard
