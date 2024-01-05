@@ -42,7 +42,7 @@
   - Introspection 👂
   - Reflection 👂
 - Patterns
-  - Singleton 🖐️
+  - Singleton 👂
   - Factory Method 👂
   - Abstract Factory 👂
   - Adapter 👂
