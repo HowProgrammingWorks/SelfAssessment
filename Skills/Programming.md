@@ -1,16 +1,16 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 🖐️ used
   - identifier
   - variable
-  - constant
+  - constant 🎓 known
   - scalar
   - literal
-  - expression
+  - expression 🎓 known
   - heap
-  - function
-  - procedure
+  - function 🎓 known
+  - procedure 🎓 known
   - method
   - class
   - prototype
@@ -22,85 +22,85 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🎓 known
   - assignment
-  - regular expression
-  - interface
+  - regular expression 🎓 known
+  - interface 🎓 known
   - contract
-  - module
+  - module 🎓 known
   - call stack
 - Functions
   - signature
   - argument
   - parameter
   - pure function
-  - lambda expression
-  - side effects
+  - lambda expression 🎓 known
+  - side effects🎓 known
   - closure
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
+  - higher order 
+  - recursion 🎓 known
+  - callback 🎓 known
+  - listener 🎓 known
+  - compose 🎓 known
   - pipe
-  - memoize
-  - wrapper
+  - memoize 🎓 known
+  - wrapper 🎓 known
   - functor
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator 🎓 known
+  - coroutine 🎓 known
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array🎓 known
+  - structure🎓 known 
+  - record 🎓 known 
+  - enum 🎓 known
+  - instance 🎓 known
+  - object 🎓 known
+  - class 🎓 known 
+  - collection 🎓 known 
+  - set 🎓 known
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 🎓 known
   - stack
   - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - tree 🔬 researched
+  - graph 🎓 known
+  - iterator 🔬 researched
+  - mutable state 🔬 researched
+  - immutable state🔬 researched
+  - serialization 🔬 researched
+  - string parsing 🔬 researched
 - Process & style
   - compiler
   - transpiler
-  - linter
+  - linter 🔬 researched
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
+  - debugger 🔬 researched
+  - garbage collection 🔬 researched
+  - refactoring 🔬 researched
+  - code review 🔬 researched
+  - antipatterns 
+  - paradigm 🔬 researched
+  - algorithm 🔬 researched
+  - magic numbers 🔬 researched
+  - hardcode 🔬 researched
+  - complexity 🔬 researched
+  - decomposition 🔬 researched
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - dead code 🔬 researched
+  - unreachable code 🔬 researched
+  - duplicate code 🔬 researched
+  - exception 🔬 researched
   - return early
-  - unittest
-  - git
-  - github
+  - unittest 🔬 researched
+  - git 🔬 researched
+  - github 🔬 researched

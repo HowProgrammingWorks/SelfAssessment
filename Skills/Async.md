@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Event loop 🔬 researched 
+  - try..catch 🖐️ used
+  - Non-blocking 👂 heard 
+  - Async I/O 🔬 researched 
+  - Thread pool 🖐️ used
+  - Pattern Reactor 👂 heard 
   - CAS operations
   - epoll
   - kqueue
@@ -16,47 +16,47 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 🔬 researched
+  - Parallel programming🔬 researched
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🔬 researched
+  - Process 🔬 researched
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
   - Thenable
   - Promise
-  - Async/await
-  - Future
+  - Async/await 🖐️ used
+  - Future 🖐️ used
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
+  - Sync generator 🖐️ used
+  - Async Generator 🖐️ used
+  - Async Iterator 🖐️ used
+  - Event 🖐️ used
+  - Coroutine 🖐️ used
+  - Goroutine 👂 heard 
+  - Signal 🖐️ used
+  - Stream 🖐️ used
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware 🖐️ used
+  - Locks 👂 heard 
 - Async adapters and utils
   - callbackify
   - promisify
   - asyncify
   - callbacks compose
-  - async compose
+  - async compose 👂 heard 
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool 👂 heard 
+  - Async Queue 👂 heard 
+  - Async Collector 👂 heard 
   - Semaphore
-  - Mutex
+  - Mutex 👂 heard 
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
