@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
+  - call 👂 heard
+  - bind  👂 heard
+  - apply👂 heard
+  - instanceof 👂 heard
+  - ...spread 👂 heard
+  - ...rest 👂 heard
+  - typeof 👂 heard
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 🖐️ used
+  - async generator 👂 heard
+  - async iterator 🖐️ used
+  - chaining 👂 heard
+  - optional chaining 👂 heard
+  - IIFE 👂 heard
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window 👂 heard
+  - getters and setters 👂 heard
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - prototype 👂 heard
+  - equality operators  🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
+  - yield 👂 heard
+  - await 🖐️ used
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - strict mode 👂 heard
+  - delete  👂 heard
+  - in  👂 heard
+  - super 👂 heard
+  - Symbol 🖐️ used
+  - Reflect 👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
   - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - for await 🖐️ used
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 🖐️ used
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 🖐️ used
 - Functions
-  - function declaration
+  - function declaration 🖐️ used
   - function expression
-  - return
+  - return 🖐️ used
   - default parameters
-  - functional object
+  - functional object 🖐️ used
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map 
+  - Set 🖐️ used
   - undefined
-  - null
+  - null 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date 🖐️ used
+  - BigInt 🖐️ used
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm 🖐️ used
   - prettier
   - MDN
