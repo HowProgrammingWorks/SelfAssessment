@@ -74,7 +74,7 @@
   - Set 🙋 explained
   - undefined 🙋 explained
   - null 🙋 explained
-  - Proxy 👂 heard
+  - Proxy 
   - weak collections 👂 heard
   - timers 🎓 known
   - EventEmitter 🎓 known
