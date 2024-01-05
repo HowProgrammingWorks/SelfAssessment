@@ -1,15 +1,15 @@
 ## Node.js and backend
-
+ 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -33,10 +33,10 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
@@ -55,8 +55,8 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - node:url vs new URL 👂 heard
+  - node:assert 👂 heard
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
@@ -113,9 +113,9 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
+  - Native test runner 👂 heard
+  - Logging 👂 heard
+  - Application configuring 👂 heard
   - Testing
   - CI/CD
   - Readable
