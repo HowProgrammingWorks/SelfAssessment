@@ -3,7 +3,7 @@
 - Language
   - Object
   - this
-  - arrow function
+  - arrow function: known
   - async function
   - call
   - bind
@@ -11,10 +11,10 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: heard
   - destructuring
   - generator
-  - iterator
+  - iterator: known
   - async generator
   - async iterator
   - chaining
@@ -26,54 +26,54 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: used
+  - logical operators: used
+  - bitwise operators: used
+  - ternary operator: used
+  - void: : used
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode: heard
   - delete
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: used
+  - while: used
+  - do..while: used
+  - for: used
+  - for..in: known
+  - for..of: known
   - for await
   - throw
-  - break
-  - continue
-  - import
+  - break: used
+  - continue: used
+  - import: known
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: heard
+  - class: heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: heard
+  - function expression: heard
+  - return: used
+  - default parameters: heard
+  - functional object: heard
 - Data structures
-  - Array
+  - Array: heard
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: heard
+  - Set: heard
+  - undefined: heard
+  - null: heard
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,8 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: heard
   - npm
   - prettier
   - MDN
+  - 
