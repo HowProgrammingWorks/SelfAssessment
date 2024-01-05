@@ -11,8 +11,8 @@
   - heap
   - function: 🖐️ used
   - procedure
-  - method: 👂 heard
-  - class: 👂 heard
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
   - event
   - type
@@ -27,7 +27,7 @@
   - regular expression
   - interface: 👂 heard
   - contract
-  - module: 👂 heard
+  - module: 🖐️ used
   - call stack
 - Functions
   - signature
@@ -58,8 +58,8 @@
   - record
   - enum
   - instance
-  - object: 👂 heard
-  - class: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection: 👂 heard
   - set
   - hash table: 👂 heard
@@ -92,13 +92,13 @@
   - magic numbers: 👂 heard
   - hardcode
   - complexity
-  - decomposition
-  - spaghetti
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
   - silver bullet
   - not invented here
   - dead code: 👂 heard
-  - unreachable code
-  - duplicate code
+  - unreachable code: 👂 heard
+  - duplicate code: 👂 heard
   - exception
   - return early
   - unittest
