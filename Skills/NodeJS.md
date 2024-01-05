@@ -1,18 +1,18 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and slocking code: 🎓 known
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
   - Garbage collection: 👂 heard
-  - Node.js LTS schedule
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
-  - ECMAScript modules: 👂 heard
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons: 👂 heard
@@ -22,12 +22,12 @@
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 🙋 used
-  - DI containers: 👂 heard
+  - DI containers: 🎓 known
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🙋 used
-  - Node.js CLI: 🙋 used
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering: 👂 heard
@@ -65,10 +65,10 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control: 👂 heard
-  - Dependency injection: 🙋 used
+  - Dependency injection: 🎓 known
   - GRASP
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
+  - SOLID: 🙋 used
+  - GoF patterns: 🙋 used
   - Distributed systems
   - Highload applications
   - Clean architecture: 👂 heard
@@ -79,7 +79,7 @@
   - Event sourcing
   - Load balancing
   - Serverless clouds: 👂 heard
-  - FaaS clouds
+  - FaaS clouds: 👂 heard
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
@@ -93,7 +93,7 @@
   - Websocket: 🙋 used 
   - SSE
   - HTTP/3 (QUIC): 👂 heard
-  - Long polling: 👂 heard
+  - Long polling: 🙋 used
   - REST: 🙋 used
   - RPC
   - Routing
@@ -131,10 +131,10 @@
   - Flexibility
 - Data access
   - Data access layer:  🙋 used
-  - Repository: 🙋 used
+  - Repository: 🎓 known
   - Active record
-  - Query builder: 🙋 used
-  - Object-Relational Mapping: 🙋 used
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🎓 known
 - Error handling and debugging
   - Error
   - error.cause
@@ -147,7 +147,7 @@
   - Heap dump
   - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks
+  - Memory leaks 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
