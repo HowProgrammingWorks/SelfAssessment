@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming - 🎓 known
+  - Imperative programming - 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Functional programming - 🎓 known
+  - Prototype-based programming - 🎓 known
+  - Object-oriented programming - 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming - 🎓 known
+  - Parallel programming - 🎓 known
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming - 🎓 known
+  - Metaprogramming - 🎓 known
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - constructor - 🎓 known
+  - new - 🎓 known
+  - Static method - 🎓 known
+  - Method - 🎓 known
+  - Async method - 🎓 known
+  - Getters, Setters - 🎓 known
+  - Public fields - 🎓 known
+  - Private fields - 🎓 known
+  - Field declarations - 🎓 known
+  - Inheritance - 🎓 known
+  - Parent class - 🎓 known
+  - Polymorphism - 🎓 known
+  - Abstract class - 🎓 known
+  - Interface - 🎓 known
+  - Encapsulation - 🎓 known
+  - Hidden class - 🎓 known
   - Object form
-  - instance
+  - instance - 🎓 known
   - Introspection
-  - Reflection
+  - Reflection 
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Singleton - 🎓 known
+  - Factory Method - 🎓 known
+  - Abstract Factory - 🎓 known
+  - Adapter - 🎓 known
+  - Observer - 🎓 known
+  - Strategy - 🎓 known
+  - Facade 
+  - Proxy - 🎓 known
+  - Chain of Responsibility - 🎓 known
+  - Command - 🎓 known
+  - Iterator - 🎓 known
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype - 🎓 known
   - Composite
-  - Decorator
+  - Decorator - 🎓 known
   - Flyweight
   - Mediator
   - Memento

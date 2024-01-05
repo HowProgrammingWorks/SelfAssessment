@@ -1,48 +1,48 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js - 🎓 known
+  - Stateful and stateless servers - 🎓 known
+  - Nonblocking I/O and locking code - 🎓 known
+  - Event loop: phases - 👂 heard
+  - Event loop: microtasks and macrotasks -👂 heard
+  - Garbage collection - 👂 heard
+  - Node.js LTS schedule - 🎓 known
+  - I/O-bound, CPU-bound, memory-bound tasks - 🎓 known
+  - Interactive applications (close to real-time) - 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules - 🎓 known
+  - ECMAScript modules - 🎓 known
+  - node:module 
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Contexts and scripts node:vm - 🎓 known
+  - Dependencies: npm, node_modules - 🎓 known
+  - Dependencies: package.json and package lock - 🎓 known
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
+  - Dependency injection - 🎓 known
+  - DI containers - 🎓 known
+  - Coupling and cohesion - 🎓 known
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments - 🎓 known
+  - Node.js CLI - 🎓 known
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Graceful shutdown - 🎓 known
+  - Clustering - 🎓 known
+  - Watch filesystem changes with --watch - 🎓 known
 - Internal API
-  - Streams API
+  - Streams API - 🎓 known
   - Web Streams API
-  - Crypto API
+  - Crypto API - 🎓 known
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
+  - Copy folder recursively - 🎓 known
+  - Worker threads - 🎓 known
+  - Performance hooks - 🎓 known
+  - Native fetch and nodejs/undici - 🎓 known
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -85,32 +85,32 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - Endpoint throttling - 🎓 known
+  - HTTP(S) - 🎓 known
+  - TCP/SSL - 🎓 known
+  - UDP - 🎓 known
+  - TLS - 🎓 known
+  - Websocket - 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST - 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing - 🎓 known
+  - DoS - 🎓 known
+  - DDoS - 🎓 known
   - XSS
   - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
+  - CSRF - 🎓 known
+  - DNS - 🎓 known
+  - Fetch API - 🎓 known
   - IncomingMessage
-  - SQL injection
+  - SQL injection - 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive - 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates - 🎓 known
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
