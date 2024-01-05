@@ -1,12 +1,4 @@
 ## Multi-paradigm programming
-Ставимо тільки один левел
-👂 heard - чув про таке
-🎓 known - вивчав, знаю
-🖐️ used - використовував у 
-🙋 explained - можу пояснити за...
-📢 talked - робив доповідь
-🔬 researched - глибоко досліджував
-🚀 constructed - створив свою реалізацію (if applicabl)
 
 - Theory
   - Procedural programming 🎓
