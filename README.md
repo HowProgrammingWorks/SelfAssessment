@@ -14,7 +14,7 @@
 - Create branch, for example: `2023-autumn` or `2024-winter`
 - In new branch add following levels or leave line untouched in each file as of :
   - 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
-- Now you can create pull request and merge this to main branch (prefer single commit: use squash and merge)
+- Now you can create pull request and merge this to main branch of your fork (prefer single commit: use squash and merge)
 - Repeat self assessment after course or training
 - Now You can compare branches with URL:
   - `https://github.com/<YOUR-ACCOUNT>/SelfAssessment/compare/2023-autumn...2024-winter`
