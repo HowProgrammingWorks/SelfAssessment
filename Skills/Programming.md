@@ -13,12 +13,12 @@
   - procedure 🎓 known
   - method 🖐️ used
   - class 🖐️ used
-  - prototype 👂 heard
+  - prototype 🎓 known
   - event 🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
   - reference types 🖐️ used
-  - flag 👂 heard
+  - flag 🎓 known
   - lexical scope
   - code block 🖐️ used
   - conditions 🖐️ used
@@ -28,7 +28,7 @@
   - interface 🖐️ used
   - contract 🎓 known
   - module 🖐️ used
-  - call stack  👂 heard
+  - call stack  🎓 known
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
@@ -46,7 +46,7 @@
   - compose 🖐️ used
   - pipe 🖐️ used
   - memoize 🖐️ used
-  - wrapper 👂 heard
+  - wrapper 🎓 known
   - functor 
   - monad 👂 heard
   - monoid 👂 heard
@@ -62,7 +62,7 @@
   - class 🖐️ used
   - collection 🖐️ used
   - set 🖐️ used
-  - hash table 👂 heard
+  - hash table 🚀 constructed
   - linked list 🚀 constructed
   - doubly list
   - unrolled list 
@@ -71,7 +71,7 @@
   - stack 🖐️ used
   - deque 👂 heard
   - tree 🚀 constructed
-  - graph 👂 heard
+  - graph 🚀 constructed
   - iterator 🚀 constructed
   - mutable state 🎓 known
   - immutable state 🎓 known

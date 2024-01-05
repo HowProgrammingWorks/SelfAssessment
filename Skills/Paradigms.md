@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
   - Non-structured programming 👂 heard
   - Functional programming 🖐️ used
   - Prototype-based programming 👂 heard
-  - Object-oriented programming 🖐️ used
-  - Object-based programming
+  - Object-oriented programming 🔬 researched
+  - Object-based programming 🖐️ used
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
   - Asyncronous programming 👂 heard
   - Parallel programming 🖐️ used
-  - Reactive programming
+  - Reactive programming 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages 👂 heard
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
   - constructor 🖐️ used
@@ -36,7 +36,7 @@
   - Abstract class 🖐️ used
   - Interface 🖐️ used
   - Encapsulation 🖐️ used
-  - Hidden class 👂 heard
+  - Hidden class 🎓 known
   - Object form 👂 heard
   - instance 🖐️ used
   - Introspection
@@ -56,11 +56,11 @@
   - State 👂 heard
   - Bridge 👂 heard
   - Builder 🖐️ used
-  - Prototype 👂 heard
-  - Composite 👂 heard
+  - Prototype 🎓 known
+  - Composite 🎓 known
   - Decorator 🖐️ used
   - Flyweight
   - Mediator 🖐️ used
-  - Memento
+  - Memento 👂 heard
   - Template Method
-  - Visitor 👂 heard
+  - Visitor 🎓 known

@@ -30,11 +30,11 @@
   - Future
   - Deferred 🎓 known
   - Sync generator 🖐️ used
-  - Async Generator
-  - Async Iterator
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
   - Event 🖐️ used
-  - Coroutine
-  - Goroutine
+  - Coroutine 👂 heard
+  - Goroutine 🖐️ used
   - Signal
   - Stream 🖐️ used
   - Chain of responsibility 🖐️ used
@@ -49,8 +49,8 @@
 - Async abstractions interfaces
   - EventEmitter 👂 heard
   - Observable/Observer 👂 heard
-  - Readable
-  - Writable
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
   - Async Pool 👂 heard
   - Async Queue 👂 heard
@@ -77,15 +77,15 @@
   - Better stack traces with return await
   - JSON: streaming serialization 🎓 known
   - promisify 🖐️ used
-  - callbackify
+  - callbackify 👂 heard
   - AsyncLocalStorage 👂 heard
   - AsyncResource
 - Techniques
   - async.js library 🎓 known
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
+  - RxJS library 👂 heard
+  - Async composition 👂 heard
+  - Promise.all 👂 heard
+  - Promise.allSettled 👂 heard
   - Promise.race
   - Promise.any
   - Web Locks API

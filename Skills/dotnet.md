@@ -6,16 +6,16 @@
   - Memory Management in .NET (Garbage Collection) 🎓 known
   - .NET Standard and .NET Core
   - .NET Framework vs .NET Core vs .NET 5+ 🎓 known
-  - I/O-bound, CPU-bound, and Memory-bound tasks in C#
+  - I/O-bound, CPU-bound, and Memory-bound tasks in C# 👂 heard
 - Modularity and Dependencies
   - NuGet Package Manager 🖐️ used
   - Dependency Injection in ASP.NET Core 🖐️ used
-  - Modular Architecture in C#
+  - Modular Architecture in C# 🎓 known
   - SOLID Principles in C# 🖐️ used
   - Entity Framework Core (ORM) 🖐️ used
   - Aspect-Oriented Programming (AOP) in C#
 - Environment
-  - Command Line Arguments in C#
+  - Command Line Arguments in C# 👂 heard
   - .NET CLI 🎓 known
   - Application Configuration in .NET 🎓 known
   - .NET Core vs .NET Framework 🎓 known
@@ -24,69 +24,69 @@
   - ASP.NET Core Routing 🖐️ used
   - ASP.NET Core Filters 🖐️ used
   - Web API and RESTful Services 🖐️ used
-  - ASP.NET Core Background Tasks 👂 heard
+  - ASP.NET Core Background Tasks 🖐️ used
   - Working with JSON in C# 🖐️ used
   - ASP.NET Core Dependency Injection 🖐️ used
   - Unit Testing in C# 🖐️ used
-  - Logging in .NET Core 🎓 known
+  - Logging in .NET Core 🖐️ used
 - Application Structure and Architecture
   - ASP.NET Core Project Structure 🖐️ used
   - Separation of Concerns in C# 🖐️ used
   - Inversion of Control in .NET 🖐️ used
   - Microservices Architecture in .NET 🖐️ used
-  - Domain-Driven Design (DDD) in C#
+  - Domain-Driven Design (DDD) in C# 👂 heard
   - Event-Driven Architecture in .NET 🖐️ used
   - Clean Architecture in .NET 🖐️ used
 - Network
   - HTTP and HTTPS in .NET 🖐️ used
   - TCP and UDP Communication in C# 🖐️ used
   - SignalR for Real-time Communication
-  - gRPC in .NET
+  - gRPC in .NET 🎓 known
   - Middleware in ASP.NET Core 🖐️ used
-  - Security (XSS, CSRF) in .NET 👂 heard
+  - Security (XSS, CSRF) in .NET 🖐️ used
   - Load Balancing in .NET
   - DoS and DDoS Mitigation in .NET
   - DNS Resolution in .NET
 - Techniques and Tools
   - Unit Testing Frameworks (e.g., NUnit, xUnit) 🖐️ used
-  - Logging Frameworks (e.g., Serilog, NLog) 👂 heard
+  - Logging Frameworks (e.g., Serilog, NLog) 🖐️ used
   - Application Configuration Libraries 🎓 known
   - Continuous Integration and Deployment (CI/CD) in .NET
   - Debugging Tools for Visual Studio 🖐️ used
-  - Code Metrics and Analysis Tools 👂 heard
-  - Profiling and Performance Tuning in .NET
+  - Code Metrics and Analysis Tools 🖐️ used
+  - Profiling and Performance Tuning in .NET 👂 heard
   - Design Patterns in C# 🖐️ used
 - Data Access
   - Entity Framework Core 🖐️ used
-  - Dapper (Micro ORM)
+  - Dapper (Micro ORM) 👂 heard
   - ADO.NET 🖐️ used
-  - Transactions in .NET 🎓 known
-  - Caching Strategies in .NET 🎓 known
+  - Transactions in .NET 🖐️ used
+  - Caching Strategies in .NET 🖐️ used
 - Error Handling and Debugging
   - Exception Handling in C# 🖐️ used
-  - Logging and Tracing 🎓 known
+  - Logging and Tracing 🖐️ used
   - Debugging Techniques in Visual Studio 🖐️ used
   - Unit Testing for Error Cases 🖐️ used
-  - Handling Memory Leaks in .NET 🎓 known
+  - Handling Memory Leaks in .NET 🖐️ used
 - Integrations, Libraries, and Frameworks
   - ASP.NET Core (MVC and Web API) 🖐️ used
   - Entity Framework Core 🖐️ used
-  - ASP.NET Core Identity 👂 heard
+  - ASP.NET Core Identity 🖐️ used
   - AutoMapper 🖐️ used
-  - SignalR 👂 heard
-  - gRPC
+  - SignalR 🎓 known
+  - gRPC 🖐️ used
   - OpenAPI (Swagger) 🖐️ used
   - Hangfire (Background Jobs)
-  - MassTransit (Message Broker)
-  - Serilog (Logging) 👂 heard
+  - MassTransit (Message Broker) 👂 heard
+  - Serilog (Logging) 🖐️ used
   - Polly (Resilience)
   - FluentValidation 🖐️ used
   - MediatR (Mediator Pattern) 🖐️ used
   - Moq (Mocking Library) 🎓 known
   - xUnit and NUnit (Testing Frameworks) 🖐️ used
   - Microsoft.Extensions (DependencyInjection, Logging, etc.) 🖐️ used
-  - RestSharp (REST Client)
+  - RestSharp (REST Client) 👂 heard
   - Refit (Type-Safe HTTP Client)
   - AngleSharp (HTML Parsing)
   - Humanizer (Human-friendly text formatting)
-  - IdentityServer (Identity and Access Control) 👂 heard
+  - IdentityServer (Identity and Access Control) 🖐️ used
