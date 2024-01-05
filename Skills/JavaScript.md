@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 👂 heard
+  - this: 👂 heard
+  - arrow function: 🖐️ used
   - async function
   - call
   - bind
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
   - generator
   - iterator
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
@@ -38,42 +38,42 @@
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 🖐️ used 
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while:  👂 heard
+  - do..while: 👂 heard
+  - for: 🖐️ used 
+  - for..in: 👂 heard
+  - for..of: 👂 heard
   - for await
-  - throw
-  - break
-  - continue
+  - throw: 👂 heard
+  - break:  👂 heard
+  - continue: 👂 heard
   - import
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch:  👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
   - return
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
-  - Map
+  - Map: 👂 heard
   - Set
-  - undefined
-  - null
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
@@ -82,8 +82,8 @@
   - Date
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8:  👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
