@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,25 +26,25 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API: 🖐️ used
+  - Web Streams API: 🖐️ used
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -65,17 +65,17 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
+  - Distributed systems: 👂 heard
+  - Highload applications: 👂 heard
+  - Clean architecture: 👂 heard
   - DDD
-  - Message Queue
+  - Message Queue: 👂 heard
   - CQS
-  - CQRS
+  - CQRS: 👂 heard
   - Event sourcing
   - Load balancing
   - Serverless clouds
@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 🖐️ used
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -118,12 +118,12 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,15 +131,15 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🖐️ used
   - error.cause
   - error.code
-  - error.message
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace

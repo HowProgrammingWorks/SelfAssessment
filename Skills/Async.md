@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop: 👂 heard
+  - try..catch: 🖐️ used
+  - Non-blocking:
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -19,26 +19,26 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Sync generator: 🖐️ used
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,10 +47,10 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🖐️ used
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool
   - Async Queue
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐️ used
   - setImmediate
-  - nextTick
+  - nextTick: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,21 +70,21 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 🖐️ used
+  - Promise hell: 🖐️ used
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🖐️ used
   - promisify
   - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource:
 - Techniques
-  - async.js library
+  - async.js library: 🖐️ used
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
   - Promise.any
