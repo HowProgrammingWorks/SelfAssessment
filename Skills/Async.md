@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,14 +22,14 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🎓 known 
+  - Async/await: 🎓 known
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 🎓 known
   - Async Generator
   - Async Iterator
   - Event
@@ -39,7 +39,7 @@
   - Stream
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,11 +55,11 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
+  - Semaphore: 🎓 known
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🎓 known
   - setImmediate
   - nextTick
   - AbortController
