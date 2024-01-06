@@ -60,8 +60,8 @@
   - new Error
   - with
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
+  - function declaration
+  - function expression
   - return: 🖐️ used
   - default parameters
   - functional object: 👂 heard

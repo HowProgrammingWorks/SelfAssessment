@@ -29,9 +29,9 @@
   - Getters, Setters: 🎓 known
   - Public fields: 🎓 known
   - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
+  - Field declarations: 👂 heard
+  - Inheritance: 👂 heard
+  - Parent class: 👂 heard
   - Polymorphism: 👂 heard
   - Abstract class: 🎓 known
   - Interface

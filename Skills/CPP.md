@@ -1,106 +1,104 @@
 ## C++
 
 - Basics of C++
-  - Program structure: 🙋 used
-  - Comments
-  - Variables, Initialization and Assignment
-  - cout, cin, and endl objects
-  - Functions: 🙋 used
-  - Parameters and arguments of functions
-  - Local scope
-  - Keywords and identifiers: 🙋 used
-  - Operators: 🙋 used
-  - Basic code formatting
-  - Feature Prototype and Pre-Announcement: 🙋 used
-  - Multi-file programs
-  - Header files
-  - Preprocessor directives: 🙋 used
-  - Header guards and the #pragma once directive
-  - Name conflict and namespace std
-  - Program debugging: stepping and breakpoints: 🙋 used
-  - Debugging programs: call stack and variable tracking
+  - Program structure: 🖐️ used
+  - Comments: 🖐️ used
+  - Variables, Initialization and Assignment: 🖐️ used
+  - cout, cin, and endl objects: 🖐️ used
+  - Functions: 🖐️ used
+  - Parameters and arguments of functions: 🖐️ used
+  - Local scope: 🎓 known
+  - Keywords and identifiers: 🎓 known
+  - Operators: 🖐️ used
+  - Basic code formatting: 🖐️ used
+  - Feature Prototype and Pre-Announcement: 🎓 known
+  - Multi-file programs: 🖐️ used
+  - Header files: 🖐️ used
+  - Preprocessor directives: 🎓 known
+  - Header guards and the #pragma once directive: 🎓 known
+  - Debugging programs: call stack and variable tracking: 🎓 known
 
 - Variables and basic data types in C++
-  - Initialization, Assignment and Declaration of variables
-  - The data type is void
-  - Size of data types
-  - Integer data types: short, int, and long
-  - Fixed size of integer data types
-  - Floating-point data types: float, double, and long double
-  - Boolean data type bool
-  - Character data type char
-  - Literals and magic numbers
-  - const, constexpr, and character constants
+  - Initialization, Assignment and Declaration of variables: 🖐️ used
+  - The data type is void: 🎓 known
+  - Size of data types: 🎓 known
+  - Integer data types: short, int, and long: 🎓 known
+  - Fixed size of integer data types: 🖐️ used
+  - Floating-point data types: float, double, and long double: 🖐️ used
+  - Boolean data type bool: 🖐️ used
+  - Character data type char: 🖐️ used
+  - Literals and magic numbers: 🖐️ used
+  - const, constexpr, and character constants: 🖐️ used
 
 - Operators in C++
-  - Priority of operations and associativity rules
-  - Arithmetic operators
-  - Increment, decrement and side effects
-  - Conditional ternary operator, sizeof and Comma
-  - Comparison operators
-  - Logical operators: AND, OR, NOT
-  - Conversion of numbers from binary to decimal and vice versa
-  - Bitwise operators
-  - Bit flags and bit masks
+  - Priority of operations and associativity rules: 🎓 known
+  - Arithmetic operators: 🎓 known
+  - Increment, decrement and side effects: 🖐️ used
+  - Conditional ternary operator, sizeof and Comma: 🖐️ used
+  - Comparison operators: 🖐️ used
+  - Logical operators: AND, OR, NOT: 🖐️ used
+  - Conversion of numbers from binary to decimal and vice versa: 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Bit flags and bit masks: 🎓 known
 
 - Loops and branching in C++
-    - Program execution flow control operators
-    - If/else conditional branching operators
-    - The switch operator
-    - The goto operator
-    - The while loop
-    - The do while loop
-    - The for loop
-    - Break and continue operators
-    - Generation of random numbers
-    - Handling incorrect user input
-    - Introduction to code testing
+    - Program execution flow control operators: 🎓 known
+    - If/else conditional branching operators: 🖐️ used
+    - The switch operator: 🖐️ used
+    - The goto operator: 🖐️ used
+    - The while loop: 🖐️ used
+    - The do while loop: 🖐️ used
+    - The for loop: 🖐️ used
+    - Break and continue operators: 🖐️ used
+    - Generation of random numbers: 🖐️ used
+    - Handling incorrect user input: 🖐️ used
+    - Introduction to code testing: 🖐️ used
 
 - Arrays, Strings, Pointers and References in C++
-  - arrays
-  - Fixed arrays
-  - Arrays and loops
-  - Sorting arrays by selection method
-  - Two-dimensional arrays
-  - C-style rows
-  - Class std::string_view
-  - Pointers
-  - Null pointers
-  - Pointers and arrays
-  - Address arithmetic and array indexing
+  - arrays: 🖐️ used
+  - Fixed arrays: 🖐️ used
+  - Arrays and loops: 🖐️ used
+  - Sorting arrays by selection method: 🖐️ used
+  - Two-dimensional arrays: 🖐️ used
+  - C-style rows: 🎓 known
+  - Class std::string_view: 🎓 known
+  - Pointers: 🖐️ used
+  - Null pointers: 🖐️ used
+  - Pointers and arrays: 🖐️ used
+  - Address arithmetic and array indexing: 👂 heard
   - C-style string character constants
-  - Dynamic memory allocation
-  - Dynamic arrays
-  - Pointers and const
-  - Link
-  - Link and const
-  - Member access operator via pointer
-  - The foreach loop
-  - Pointers of type void
+  - Dynamic memory allocation: 👂 heard
+  - Dynamic arrays: 👂 heard
+  - Pointers and const: 🎓 known
+  - Link: 🎓 known
+  - Link and const: 🎓 known
+  - Member access operator via pointer: 👂 heard
+  - The foreach loop: 👂 heard
+  - Pointers of type void: 👂 heard
   - Pointers to pointers
   - Introduction to std::array
-  - Introduction to iterators
-  - Algorithms in the C++ Standard Library
+  - Introduction to iterators: 🎓 known
+  - Algorithms in the C++ Standard Library: 🎓 known
 
 - Functions in C++
-  - Parameters and arguments of functions
-  - Pass by value
-  - Transfer by link
-  - Delivery to the address
-  - Return values by reference, by address, and by value
-  - Built-in functions
-  - Function overloading
+  - Parameters and arguments of functions: 🎓 known
+  - Pass by value: 🖐️ used
+  - Transfer by link: 🖐️ used
+  - Delivery to the address: 🖐️ used
+  - Return values by reference, by address, and by value: 👂 heard
+  - Built-in functions: 🎓 known
+  - Function overloading: 👂 heard
   - Default settings
-  - Pointers to functions
+  - Pointers to functions: 🎓 known
   - Vector capacity
   - Error handling, cerr and exit()
   - assert and static_assert
   - Command line arguments
 
 - Relationships between objects in C++
-  - Types of relationships between objects
+  - Types of relationships between objects: 👂 heard
   - Composition of objects
-  - Aggregation
-  - Association
-  - Dependence
+  - Aggregation: 👂 heard
+  - Association: 🎓 known
+  - Dependence: 🎓 known
   - Container classes
