@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 🖐️ used
   - callback
   - listener 🖐️ used
   - compose
