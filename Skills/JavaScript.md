@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
-  - this 🙋 explained
-  - arrow function 🙋 explained
-  - async function 🙋 explained
-  - call 🙋 explained
-  - bind 🙋 explained
-  - apply 🎓 known
-  - instanceof 🙋 explained
-  - ...spread 🙋 explained
-  - ...rest 🙋 explained
-  - typeof 🙋 explained
-  - destructuring 🙋 explained
-  - generator 🎓 known
-  - iterator 🎓 known
-  - async generator 🎓 known
-  - async iterator 🎓 known
-  - chaining 🖐️ used
-  - optional chaining 🖐️ used
-  - IIFE 🖐️ used
-  - global 🎓 known
-  - globalThis 
-  - window 🎓 known
-  - getters and setters 🙋 explained
-  - __proto__ 🎓 known
-  - prototype 🎓 known
-  - equality operators 🙋 explained
-  - logical operators 🙋 explained
-  - bitwise operators 🖐️ used
-  - ternary operator 🙋 explained
-  - void 🎓 known
-  - yield 🎓 known
-  - await 🙋 explained
-  - template literal 🙋 explained
-  - strict mode 🎓 known
-  - delete 🙋 explained
-  - in 🙋 explained
-  - super 🙋 explained
-  - Symbol 👂 heard
-  - Reflect
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🎓 known
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 🖐️ used
+  - optional chaining: 🖐️ used
+  - IIFE: 🖐️ used
+  - global: 🎓 known
+  - globalThis: 
+  - window: 🎓 known
+  - getters and setters: 🙋 explained
+  - __proto__: 🎓 known
+  - prototype: 🎓 known
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 👂 heard
+  - ternary operator: 🙋 explained
+  - void: 🎓 known
+  - yield: 👂 heard
+  - await: 🙋 explained
+  - template literal: 🙋 explained
+  - strict mode: 🎓 known
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
+  - Symbol: 👂 heard
+  - Reflect:
 - Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
-  - for..in 🙋 explained
-  - for..of 🙋 explained
-  - for await 🙋 explained
-  - throw 🙋 explained
-  - break 🙋 explained
-  - continue 🙋 explained
-  - import 🙋 explained
-  - export 🙋 explained
-  - label 🙋 explained
-  - try..catch 🙋 explained
-  - switch 🙋 explained
-  - class 🙋 explained
-  - new Error 🙋 explained
-  - with
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 🙋 explained
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
+  - with:
 - Functions
-  - function declaration 🙋 explained
-  - function expression 🙋 explained
-  - return 🙋 explained
-  - default parameters 🙋 explained
-  - functional object 👂 heard
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 👂 heard
 - Data structures
-  - Array 🙋 explained
-  - mixin 👂 heard
-  - extend 🎓 known
-  - typed arrays 👂 heard
-  - Map 🎓 known
-  - Set 🙋 explained
-  - undefined 🙋 explained
-  - null 🙋 explained
-  - Proxy 
-  - weak collections 👂 heard
-  - timers 🎓 known
-  - EventEmitter 🎓 known
-  - RegExp 🎓 known
-  - Date 🙋 explained
-  - BigInt 🙋 explained
+  - Array: 🙋 explained
+  - mixin:
+  - extend: 🎓 known
+  - typed arrays: 👂 heard
+  - Map: 🎓 known
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 
+  - weak collections:
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🎓 known
+  - Date: 🙋 explained
+  - BigInt: 👂 heard
 - Infrastructure
-  - V8 🙋 explained
-  - Node.js 🙋 explained
-  - npm 🙋 explained
-  - prettier 🙋 explained
-  - MDN 🙋 explained
+  - V8: 🎓 known
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
