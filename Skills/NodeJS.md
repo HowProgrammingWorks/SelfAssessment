@@ -1,3 +1,5 @@
+// im learning C#, so there's can be some conflicts
+
 ## Node.js and backend
 
 - Internals and concepts
