@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🖐️ used
+  - procedure 👂 heard
+  - method 👂 heard
+  - class 👂 heard
   - prototype
   - event
   - type
@@ -20,8 +20,8 @@
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
+  - code block 🖐️ used
+  - conditions 🖐️ used
   - loops
   - assignment
   - regular expression
@@ -30,17 +30,17 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature 🖐️ used
+  - argument 🖐️ used
+  - parameter 🖐️ used
+  - pure function 
   - lambda expression
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 👂 heard
   - callback
   - listener
   - compose
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🖐️ used
+  - structure 👂 heard
   - record
   - enum
-  - instance
-  - object
-  - class
+  - instance 👂 heard
+  - object 👂 heard
+  - class 👂 heard
   - collection
-  - set
+  - set 👂 heard
   - hash table
   - linked list
   - doubly list
@@ -78,14 +78,14 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring 🖐️ used
+  - code review 🖐️ used
   - antipatterns
   - paradigm
   - algorithm
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - dead code 🖐️ used
+  - unreachable code 🖐️ used
+  - duplicate code 🖐️ used
+  - exception 👂 heard
+  - return early 🖐️ used
   - unittest
-  - git
-  - github
+  - git 🎓 known
+  - github 🎓 known
