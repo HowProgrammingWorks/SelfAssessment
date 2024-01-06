@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
   - Non-structured programming 👂 heard
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming 
-  - Object-oriented programming 👂 heard
+  - Object-oriented programming 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing 👂 heard
-  - Asyncronous programming 👂 heard
+  - Asyncronous programming 🎓 known
   - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - FRP (Functional-reactive)
@@ -25,11 +25,11 @@
   - new 🖐️ used
   - Static method 🖐️ used
   - Method 🖐️ used
-  - Async method 🎓 known
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
   - Inheritance 🎓 known
   - Parent class 🎓 known
   - Polymorphism 🎓 known
@@ -42,9 +42,9 @@
   - Introspection 👂 heard
   - Reflection 👂 heard
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method
-  - Abstract Factory 👂 heard
+  - Singleton 🎓 known
+  - Factory Method 🎓 known
+  - Abstract Factory 🎓 known
   - Adapter 👂 heard
   - Observer 👂 heard
   - Strategy 👂 heard
