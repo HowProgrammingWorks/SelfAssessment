@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Object: 
+  - this: 
+  - arrow function: 
+  - async function: 
+  - call: 
+  - bind: 
+  - apply: 
+  - instanceof: 
+  - ...spread: 
+  - ...rest: 
+  - typeof: 
+  - destructuring: 
+  - generator: 
+  - iterator: 
+  - async generator: 
+  - async iterator: 
+  - chaining: 
+  - optional chaining: 
+  - IIFE: 
+  - global: 
+  - globalThis: 
+  - window: 
+  - getters and setters: 
+  - __proto__: 
+  - prototype: 
+  - equality operators: 
+  - logical operators: 
+  - bitwise operators: 
+  - ternary operator: 
+  - void: 
+  - yield: 
+  - await: 
+  - template literal: 
+  - strict mode: 
+  - delete: 
+  - in: 
+  - super: 
+  - Symbol: 
+  - Reflect: 
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 
+  - while: 
+  - do..while: 
+  - for: 
+  - for..in: 
+  - for..of: 
+  - for await: 
+  - throw: 
+  - break: 
+  - continue: 
+  - import: 
+  - export: 
+  - label: 
+  - try..catch: 
+  - switch: 
+  - class: 
+  - new Error: 
+  - with: 
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration:
+  - function expression:
+  - return:
+  - default parameters:
+  - functional object:
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array:
+  - mixin:
+  - extend: 
+  - typed arrays: 
+  - Map: 
+  - Set: 
+  - undefined: 
+  - null: 
+  - Proxy: 
+  - weak collections: 
+  - timers: 
+  - EventEmitter: 
+  - RegExp: 
+  - Date:
+  - BigInt: 
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 
+  - Node.js:
+  - npm: 
+  - prettier: 
+  - MDN:
