@@ -60,7 +60,7 @@
   - Composite
   - Decorator
   - Flyweight
-  - Mediator
+  - Mediator 👂 heard
   - Memento
-  - Template Method
+  - Template Method 🙋 used
   - Visitor
