@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers: 🎓 known
+  - Strong and weak sides of node.js: 🙋 explained
+  - Stateful and stateless servers: 🙋 explained
   - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 👂 heard
-  - Node.js LTS schedule: 🎓 known
+  - Node.js LTS schedule: 🙋 explained
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
@@ -39,12 +39,12 @@
   - Password hashing with node:crypto.scrypt:
   - Web Crypto API:
   - File system API: sync and async: 🎓 known
-  - Copy folder: recursively
+  - Copy folder recursively: 👂 heard
   - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 🎓 known
+  - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks:
-  - AsyncLocalStorage:
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource:
   - Deprecated domain API:
   - Node.js single executable: 👂 heard
@@ -53,9 +53,9 @@
   - node:worker_threads: 👂 heard
   - node:child_process: 👂 heard
   - MessageChannel, MessagePort: 👂 heard
-  - BroadcastChannel:
+  - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 🖐️ used
-  - node:url vs new URL:
+  - node:url vs new URL: 🎓 known
   - node:assert: 🖐️ used
   - Internationalization:
   - Blob, File, Buffer, node:buffer: 👂 heard
@@ -73,19 +73,19 @@
   - Highload applications: 👂 heard
   - Clean architecture: 🎓 known
   - DDD: 👂 heard
-  - Message Queue:
+  - Message Queue: 👂 heard
   - CQS:
   - CQRS:
   - Event sourcing:
   - Load balancing: 🎓 known
   - Serverless clouds: 🎓 known
-  - FaaS clouds:
+  - FaaS clouds: 👂 heard
   - Fat controller: 👂 heard
   - GoF for Node.js:
   - Leaking abstractions: 👂 heard
 - Network
   - IP sticky sessions: 👂 heard
-  - Endpoint throttling:
+  - Endpoint throttling: 👂 heard
   - HTTP(S): 🎓 known
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
@@ -134,7 +134,7 @@
   - Repository: 🎓 known
   - Active record:
   - Query builder: 🖐️ used
-  - Object-Relational Mapping: 👂 heard
+  - Object-Relational Mapping: 🎓 known
 - Error handling and debugging
   - Error: 🎓 known
   - error.cause: 🎓 known
@@ -146,9 +146,9 @@
   - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
   - Debugging tools: 🎓 known
-  - Flame graph: 👂 heard
+  - Flame graph: 🎓 known
   - Memory leaks: 🎓 known
-  - Resource leaks: 👂 heard
+  - Resource leaks: 🎓 known
   - Data race: 🎓 known
 - Integrations and bindings
   - Native addons:
