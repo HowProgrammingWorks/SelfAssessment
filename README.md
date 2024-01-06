@@ -25,12 +25,12 @@ It should look like following example after filling it out:
 
 ```
 - Syntax and concepts
-  - value: 🙋 used
+  - value: 🙋 explained
   - identifier: 🖐️ used
-  - variable: 🙋 used
+  - variable: 🙋 explained
   - constant: 🖐️ used
   - scalar: 🖐️ used
   - literal: 👂 heard
   - expression: 🖐️ used
-  - heap: 👂 heard
+  - heap: 🎓 known
 ```
