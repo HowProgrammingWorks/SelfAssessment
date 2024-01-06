@@ -5,42 +5,42 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 👂 heard
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 👂 heard
+  - Abstract class: 🎓 known
   - Interface
-  - Encapsulation
-  - Hidden class
+  - Encapsulation: 👂 heard
+  - Hidden class: 👂 heard
   - Object form
   - instance
-  - Introspection
-  - Reflection
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
 - Patterns
   - Singleton
   - Factory Method
