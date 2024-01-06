@@ -1,19 +1,19 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object: 👂 heard
+  - this: 👂 heard
   - arrow function
-  - async function
+  - async function: 👂 heard
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof
   - destructuring
-  - generator
+  - generator: 👂 heard
   - iterator
   - async generator
   - async iterator
@@ -41,46 +41,46 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
+  - for..of: 🎓 known
+  - for await: 👂 heard
+  - throw: 🎓 known
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 👂 heard
+  - export: 👂 heard
+  - label: 👂 heard
+  - try..catch: 🎓 known
+  - switch: 🎓 known
+  - class: 🎓 known
+  - new Error: 👂 heard
+  - with: 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🎓 known
+  - default parameters: 🎓 known
+  - functional object: 🎓 known
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 👂 heard
+  - EventEmitter: 👂 heard
   - RegExp
-  - Date
-  - BigInt
+  - Date: 👂 heard
+  - BigInt: 👂 heard
 - Infrastructure
   - V8
   - Node.js

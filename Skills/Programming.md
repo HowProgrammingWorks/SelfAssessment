@@ -1,21 +1,21 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value: 👂 heard
   - identifier
-  - variable
-  - constant
-  - scalar
+  - variable: 👂 heard
+  - constant: 👂 heard
+  - scalar: 👂 heard
   - literal
   - expression
   - heap
-  - function
+  - function: 👂 heard
   - procedure
   - method
-  - class
-  - prototype
+  - class: 👂 heard
+  - prototype: 👂 heard
   - event
-  - type
+  - type: 👂 heard
   - primitive types
   - reference types
   - flag
@@ -28,11 +28,11 @@
   - interface
   - contract
   - module
-  - call stack
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature: 👂 heard
+  - argument: 👂 heard
+  - parameter: 👂 heard
   - pure function
   - lambda expression
   - side effects
@@ -40,9 +40,9 @@
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
+  - recursion: 👂 heard
+  - callback: 👂 heard
+  - listener: 👂 heard
   - compose
   - pipe
   - memoize
@@ -50,16 +50,16 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 👂 heard
+  - structure: 👂 heard
   - record
   - enum
-  - instance
-  - object
-  - class
+  - instance: 👂 heard
+  - object: 👂 heard
+  - class: 👂 heard
   - collection
   - set
   - hash table
@@ -76,18 +76,18 @@
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing: 👂 heard
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
+  - polyfill: 👂 heard
+  - debugger: 👂 heard
+  - garbage collection: 👂 heard
+  - refactoring: 👂 heard
+  - code review: 👂 heard
   - antipatterns
-  - paradigm
+  - paradigm: 👂 heard
   - algorithm
   - magic numbers
   - hardcode
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
