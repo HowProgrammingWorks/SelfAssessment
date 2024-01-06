@@ -49,33 +49,33 @@
   - wrapper 🖐️ used
   - functor 
   - monad
-  - monoid 🖐️ used
-  - generator 🖐️ used
+  - monoid
+  - generator
   - coroutine
 - Data structures
   - array 🙋 used 
   - structure 🙋 used 
   - record
-  - enum 🙋 used
+  - enum 🖐️ used
   - instance 👂 heard
   - object 🙋 used
   - class 🙋 used
-  - collection 🙋 used
-  - set 🙋 used
+  - collection 🖐️ used
+  - set
   - hash table 👂 heard
-  - linked list 🙋 used
-  - doubly list 🙋 used
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
   - unrolled list
   - circular list
-  - queue 🙋 used
-  - stack 🙋 used
+  - queue 🖐️ used
+  - stack 🖐️ used
   - deque
   - tree 🎓 known
   - graph
-  - iterator 🙋 used
+  - iterator 🖐️ used
   - mutable state
   - immutable state
-  - serialization 🙋 used
+  - serialization 🖐️ used
   - string parsing
 - Process & style
   - compiler 🖐️ used
