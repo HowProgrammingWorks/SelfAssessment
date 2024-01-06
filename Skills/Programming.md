@@ -10,29 +10,29 @@
   - expression 🖐️ used
   - heap
   - function 🖐️ used
-  - procedure
-  - method
-  - class
+  - procedure 🖐️ used
+  - method 🖐️ used
+  - class 🖐️ used
   - prototype
-  - event
-  - type
-  - primitive types
+  - event 🖐️ used
+  - type 🎓 known
+  - primitive types 🎓 known
   - reference types
-  - flag
+  - flag 🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🖐️ used
   - assignment
   - regular expression
-  - interface
+  - interface 🖐️ used
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature 🎓 known
+  - argument🎓 known
+  - parameter 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -42,7 +42,7 @@
   - higher order
   - recursion
   - callback
-  - listener
+  - listener 🖐️ used
   - compose
   - pipe
   - memoize
@@ -51,56 +51,56 @@
   - monad
   - monoid
   - generator
-  - coroutine
+  - coroutine 🖐️ used
 - Data structures
-  - array
-  - structure
+  - array 🖐️ used
+  - structure 👂 heard
   - record
-  - enum
+  - enum 🖐️ used
   - instance
-  - object
-  - class
+  - object 🖐️ used
+  - class 🖐️ used
   - collection
   - set
-  - hash table
-  - linked list
+  - hash table 👂 heard
+  - linked list 🖐️ used
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack 👂 heard
   - deque
-  - tree
-  - graph
+  - tree 👂 heard
+  - graph 👂 heard
   - iterator
   - mutable state
   - immutable state
-  - serialization
-  - string parsing
+  - serialization 👂 heard
+  - string parsing 🖐️ used
 - Process & style
-  - compiler
+  - compiler 🎓 known
   - transpiler
   - linter
   - polyfill
   - debugger
-  - garbage collection
+  - garbage collection 🎓 known
   - refactoring
-  - code review
+  - code review 👂 heard
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 🎓 known
   - magic numbers
   - hardcode
-  - complexity
+  - complexity 👂 heard
   - decomposition
-  - spaghetti
+  - spaghetti 🎓 known
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - unreachable code 👂 heard
+  - duplicate code 👂 heard
+  - exception 👂 heard
+  - return early 👂 heard
   - unittest
-  - git
-  - github
+  - git 👂 heard
+  - github 🖐️ used
