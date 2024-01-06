@@ -1,95 +1,95 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 👂 heard
+  - event: 👂 heard
+  - type: 👂 heard
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
-  - interface
+  - interface: 👂 heard
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
+  - lambda expression: 🖐️ used
+  - side effects: 👂 heard
+  - closure: 🖐️ used
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion: 🖐️ used
   - callback
   - listener
   - compose
   - pipe
   - memoize
-  - wrapper
-  - functor
+  - wrapper: 👂 heard
+  - functor: 👂 heard
   - monad
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used
+  - structure: 🖐️ used
   - record
   - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - instance: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 👂 heard
+  - set: 👂 heard
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue: 👂 heard
   - stack
   - deque
   - tree
   - graph
-  - iterator
+  - iterator: 🖐️ used
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 👂 heard
+  - code review: 👂 heard
   - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
+  - paradigm: 👂 heard
+  - algorithm: 👂 heard
+  - magic numbers: 👂 heard
   - hardcode
   - complexity
   - decomposition
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  - exception
+  - exception: 👂 heard
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used
