@@ -3,8 +3,8 @@
 - Language
   - Object  🖐️ used
   - this 🖐️ used
-  - arrow function 🎓 known
-  - async function 🎓 known
+  - arrow function 🖐️ used
+  - async function 🖐️ used
   - call 🖐️ used
   - bind 🖐️ used
   - apply 🖐️ used
@@ -15,7 +15,7 @@
   - destructuring 🖐️ used
   - generator 🖐️ used
   - iterator 🖐️ used
-  - async generator 🖐️ used
+  - async generator 🎓 known
   - async iterator 🎓 known
   - chaining  🖐️ used
   - optional chaining 🖐️ used
@@ -31,13 +31,13 @@
   - bitwise operators  🖐️ used
   - ternary operator 🖐️ used
   - void 🖐️ used
-  - yield 🎓 known
-  - await 🎓 known
+  - yield  🖐️ used
+  - await  🖐️ used
   - template literal 🎓 known
   - strict mode 🖐️ used
   - delete 🖐️ used
   - in 🖐️ used
-  - super 🎓 known
+  - super  🖐️ used
   - Symbol 🖐️ used 
   - Reflect🖐️ used
 - Statements
@@ -85,5 +85,5 @@
   - V8 🎓 known
   - Node.js  🖐️ used
   - npm 🖐️ used
-  - prettier 👂 heard
+  - prettier 🎓 known
   - MDN 👂 heard
