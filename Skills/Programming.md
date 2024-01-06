@@ -32,26 +32,26 @@
 - Functions
   - signature:
   - argument: 🎓 known
-  - parameter: 👂 heard
+  - parameter: 🖐️ used
   - pure function: 👂 heard
-  - lambda expression: 👂 heard
+  - lambda expression: 🖐️ used
   - side effects: 
   - closure:
   - partial application:
   - curry:
-  - higher order: 👂 heard
-  - recursion: 👂 heard
-  - callback: 👂 heard
-  - listener: 👂 heard
-  - compose: 👂 heard
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 🖐️ used
   - pipe:
   - memoize: 
-  - wrapper: 👂 heard
+  - wrapper: 🖐️ used
   - functor:
   - monad:
   - monoid:
   - generator: 👂 heard
-  - coroutine: 👂 heard
+  - coroutine: 🖐️ used
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
@@ -70,11 +70,11 @@
   - queue: 🖐️ used
   - stack: 🙋 explained
   - deque: 
-  - tree: 🎓 known
+  - tree: 🖐️ used
   - graph: 🎓 known
-  - iterator: 🎓 known
-  - mutable state: 👂 heard
-  - immutable state: 👂 heard
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
   - serialization: 🎓 known
   - string parsing: 🖐️ used
 - Process & style
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early: 👂 heard
-  - unittest: 👂 heard
-  - git: 🎓 known
-  - github: 🎓 known
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
