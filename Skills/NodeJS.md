@@ -61,23 +61,23 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
+  - Isolation between layer - 🙋 explained 
+  - Multilayer approach - 🙋 explained 
+  - Separation of concerns - 🙋 explained 
   - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Dependency injection - 🙋 explained 
+  - GRASP - 🖐️ used
+  - SOLID - 🖐️ used
+  - GoF patterns - 🎓 known
   - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
+  - Highload applications - 🔬 researched
+  - Clean architecture - 🔬 researched
+  - DDD - 🔬 researched
+  - Message Queue - 🖐️ used
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
+  - Load balancing - 🎓 known
   - Serverless clouds
   - FaaS clouds
   - Fat controller
@@ -86,69 +86,69 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) - 🖐️ used
+  - TCP/SSL - 🎓 known
+  - UDP - 🎓 known
   - TLS
-  - Websocket
-  - SSE
+  - Websocket - 🖐️ used
+  - SSE - 🖐️ used
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - REST - 🖐️ used
+  - RPC - 🎓 known
+  - Routing - 🎓 known
+  - DoS - 👂 heard 
+  - DDoS - 👂 heard 
   - XSS
   - Path traversal
-  - CSRF
-  - DNS
+  - CSRF - 🎓 known
+  - DNS - 👂 heard 
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection - 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive - 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Logging - 🖐️ used
+  - Application configuring - 🖐️ used
+  - Testing - 🖐️ used
+  - CI/CD - 🖐️ used
+  - Readable - 🎓 known
+  - Writable - 🎓 known
   - Transform
-  - back pressure
+  - back pressure - 🎓 known
   - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Console - 🎓 known
+  - Inspector - 🎓 known
+  - Reliability - 🎓 known
+  - Quality - 🎓 known
+  - Availability - 🎓 known
+  - Flexibility - 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer - 🎓 known
+  - Repository - 🎓 known
   - Active record
   - Query builder
-  - Object-Relational Mapping
+  - Object-Relational Mapping - 🎓 known
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error - 🎓 known
+  - error.cause - 🎓 known
+  - error.code - 🎓 known
+  - error.message - 🎓 known
+  - error.stack - 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions - 🎓 known
   - Heap dump
-  - Debugging tools
+  - Debugging tools - 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks - 🎓 known
+  - Resource leaks - 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons

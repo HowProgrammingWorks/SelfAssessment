@@ -1,106 +1,107 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value -  🙋 explained
+  - identifier - 🙋 explained
+  - variable -🙋 explained
+  - constant - 🙋 explained
+  - scalar - 🙋 explained
+  - literal - 🙋 explained
+  - expression - 🙋 explained
+  - heap - 🙋 explained
+  - function - 🙋 explained
+  - procedure - 🙋 explained
+  - method - 🙋 explained
+  - class - 🙋 explained
+  - prototype - 🙋 explained
+  - event - 🙋 explained
+  - type - 🙋 explained
+  - primitive types - 🙋 explained
+  - reference types - 🙋 explained
+  - flag - 🙋 explained
+  - lexical scope - 🙋 explained
+  - code block - 🙋 explained
+  - conditions - 🙋 explained
+  - loops - 🙋 explained
+  - assignment - 🙋 explained
+  - regular expression - 🙋 explained
+  - interface - 🙋 explained
+  - contract - 🙋 explained
+  - module - 🙋 explained
+  - call stack - 🙋 explained
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
+  - signature - 🙋 explained
+  - argument - 🙋 explained
+  - parameter - 🙋 explained
+  - pure function - 🙋 explained
+  - lambda expression - 🙋 explained
+  - side effects - 🙋 explained
+  - closure - 🙋 explained
+  - partial application - 🙋 explained
   - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
+  - higher order - 🙋 explained
+  - recursion - 🙋 explained
+  - callback - 🙋 explained
+  - listener - 🙋 explained
+  - compose - 🙋 explained
+  - pipe - 🙋 explained
+  - memoize 
+  - wrapper - 🙋 explained
   - functor
   - monad
   - monoid
-  - generator
+  - generator - 🙋 explained
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
+  - array - 🙋 explained
+  - structure - 🙋 explained
+  - record - 🙋 explained
+  - enum - 🙋 explained 
+  - instance - 🙋 explained
+  - object - 🙋 explained
+  - class - 🙋 explained
+  - collection - 🙋 explained
+  - set - 🙋 explained
+  - hash table - 🙋 explained
+  - linked list - 🙋 explained
+  - doubly list 
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - queue - 🙋 explained
+  - stack - 🙋 explained
+  - deque 
+  - tree - 🖐️ used
+  - graph - 🖐️ used
+  - iterator - 🙋 explained
+  - mutable state - 🙋 explained
+  - immutable state - 🙋 explained
+  - serialization - 🙋 explained
+  - string parsing - 🙋 explained
 - Process & style
-  - compiler
-  - transpiler
-  - linter
+  - compiler - 🎓 known
+  - transpiler 
+  - linter - 🎓 known
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
+  - debugger - 🙋 explained
+  - garbage collection - 🙋 explained
+  - refactoring - 🙋 explained
+  - code review - 🙋 explained
+  - antipatterns - 🔬 researched
+  - paradigm - 🎓 known
+  - algorithm - 🔬 researched
+  - magic numbers - 🎓 known
+  - hardcode - 🎓 known
+  - complexity - 🔬 researched
+  - decomposition - 🔬 researched
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - dead code - 🎓 known
+  - unreachable code - 🎓 known
+  - duplicate code - 🎓 known
+  - exception - 🙋 explained
   - return early
-  - unittest
-  - git
-  - github
+  - unittest - 🙋 explained
+  - integrationtest - 🙋 explained
+  - git - 🔬 researched
+  - github - 🔬 researched

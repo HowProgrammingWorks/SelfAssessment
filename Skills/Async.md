@@ -2,11 +2,11 @@
 
 - Theory
   - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - try..catch - 🖐️ used
+  - Non-blocking - 🖐️ used
+  - Async I/O 
+  - Thread pool - 🖐️ used
+  - Pattern Reactor - 🖐️ used
   - CAS operations
   - epoll
   - kqueue
@@ -14,32 +14,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks - 🎓 known
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming - 🎓 known
+  - Parallel programming - 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread - 🎓 known
+  - Process - 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks - 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Promise - 👂 heard
+  - Async/await - 👂 heard
+  - Future - 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event - 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream - 🖐️ used
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks - 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -68,7 +68,7 @@
   - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics
+  - Atomics(Java) - 🖐️ used
   - High resolution clock
   - Callback hell
   - Promise hell
