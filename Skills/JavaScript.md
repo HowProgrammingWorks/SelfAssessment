@@ -1,89 +1,87 @@
-## Programming fundamental concepts
-
-- Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
-- Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
-- Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
-- Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
-- Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+- Language:
+  - Object: 🎓 known
+  - this: 🎓 known
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 👂 heard
+  - apply: 🖐️ used
+  - instanceof: 👂 heard
+  - ...spread: 👂 heard
+  - ...rest: 👂 heard
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
+  - window: 🖐️ used
+  - getters and setters: 👂 heard
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
+  - bitwise operators: 👂 heard
+  - ternary operator: 👂 heard
+  - void: 🖐️ used
+  - yield: 👂 heard
+  - await: 👂 heard
+  - template literal: 👂 heard
+  - strict mode: 👂 heard
+  - delete: 🎓 known
+  - in: 🖐️ used
+  - super: 👂 heard
+  - Symbol: 🖐️ used
+  - Reflect: 🖐️ used
+- Statements:
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🎓 known
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🎓 known
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 👂 heard
+- Functions:
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
+- Data structures:
+  - Array: 🎓 known
+  - mixin: 👂 heard
+  - extend: 👂 heard
+  - typed arrays: 👂 heard
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 🎓 known
+  - weak collections: 👂 heard
+  - timers: 👂 heard
+  - EventEmitter: 👂 heard
+  - RegExp: 👂 heard
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
+- Infrastructure:
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 🎓 known
+  - prettier: 👂 heard
+  - MDN: 👂 heard
