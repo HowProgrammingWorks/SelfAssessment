@@ -2,65 +2,65 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Imperative programming: 🖐 used
+  - Structured programming: 🖐 used
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐 used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐 used
   - Object-based programming
   - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
+  - Concurrent computing: 🖐 used
+  - Asyncronous programming: 🖐 used
   - Parallel programming
-  - Reactive programming
+  - Reactive programming: 🖐 used
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🖐 used
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - constructor: 🖐 used
+  - new: 🖐 used
+  - Static method: 🖐 used
+  - Method: 🖐 used
+  - Async method: 🖐 used
+  - Getters, Setters: 🖐 used
+  - Public fields: 🖐 used
+  - Private fields: 🖐 used
+  - Field declarations: 🖐 used
+  - Inheritance: 🖐 used
+  - Parent class: 🖐 used
+  - Polymorphism: 🖐 used
+  - Abstract class: 🖐 used
+  - Interface: 🖐 used
+  - Encapsulation: 🖐 used
   - Hidden class
   - Object form
-  - instance
+  - instance: 🖐 used
   - Introspection
-  - Reflection
+  - Reflection: 🖐 used
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton: 🚀 constructed
+  - Factory Method: 🚀 constructed
+  - Abstract Factory: 🚀 constructed
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🚀 constructed
+  - Facade: 🎓 known
+  - Proxy: 🚀 constructed
+  - Chain of Responsibility: 🚀 constructed
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🚀 constructed
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🚀 constructed
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🚀 constructed
