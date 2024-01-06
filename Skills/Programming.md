@@ -1,49 +1,49 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🖐 used
+  - identifier: 🖐 used
+  - variable: 🖐 used
+  - constant: 🖐 used
+  - scalar: 👂 heard
+  - literal: 🎓 known
+  - expression: 🖐 used
+  - heap: 🎓 known
+  - function: 🖐 used
+  - procedure: 👂 heard
+  - method: 🖐 used
+  - class: 🖐 used
+  - prototype: 🎓 known
+  - event: 🎓 known
+  - type: 🖐 used
+  - primitive types: 🖐 used
+  - reference types: 🖐 used
+  - flag: 👂 heard
+  - lexical scope: 👂 heard
+  - code block: 👂 heard
+  - conditions: 🎓 known
+  - loops: 👂 heard
+  - assignment: 👂 heard
+  - regular expression: 🎓 known
+  - interface: 🎓 known
+  - contract: 👂 heard
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature: 👂 heard
+  - argument: 🖐 used
+  - parameter: 🖐 used
+  - pure function: 👂 heard
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
+  - recursion: 👂 heard
+  - callback: 🎓 known
+  - listener: 🎓 known
+  - compose: 👂 heard
   - pipe
   - memoize
   - wrapper
@@ -53,14 +53,14 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
+  - array: 🎓 known
+  - structure: 👂 heard
+  - record: 👂 heard 
+  - enum: 👂 heard
+  - instance: 👂 heard
+  - object: 🎓 known
+  - class: 🎓 known
+  - collection: 🎓 known
   - set
   - hash table
   - linked list
