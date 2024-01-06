@@ -7,7 +7,7 @@
   - Non-structured programming: 🖐️ used
   - Functional programming: 🖐️ used
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: explained
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing: 🖐️ used
@@ -16,7 +16,7 @@
   - Reactive programming: 🎓 known
   - FRP (Functional-reactive): 👂 heard
   <!-- - Automata-based programming -->
-  - Domain-specific languages: 🎓 known
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
   <!-- - Actor model -->
@@ -32,7 +32,7 @@
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
+  - Polymorphism: 🎓 known
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
@@ -43,7 +43,7 @@
   - Reflection: 👂 heard
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
+  - Factory Method: 👂 heard
   - Abstract Factory: 👂 heard
   - Adapter: 👂 heard
   - Observer: 🎓 known
@@ -55,10 +55,10 @@
   - Iterator: 🖐️ used
   - State: 👂 heard
   - Bridge: 🎓 known
-  - Builder: 🎓 known
-  - Prototype: 🎓 known
-  - Composite: 🖐️ used
-  - Decorator: 🖐️ used
+  - Builder: 👂 heard
+  - Prototype: 👂 heard
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
   - Flyweight: 🎓 known
   - Mediator: 🎓 known
     <!-- - Memento -->

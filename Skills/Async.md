@@ -3,10 +3,10 @@
 - Theory
 - Event loop: 🖐️ used
 - try..catch: 🖐️ used
-- Non-blocking: 🖐️ used
+- Non-blocking: 👂 heard
 - Async I/O: 🖐️ used
-- Thread pool: 🖐️ used
-- Pattern Reactor: 🖐️ used
+- Thread pool: 👂 heard
+- Pattern Reactor: 👂 heard
 - CAS operations: 🖐️ used
 - epoll: 👂 heard
 - kqueue: 👂 heard
@@ -14,18 +14,18 @@
 - Event ports: 👂 heard
 - libuv: 🎓 known
 - Race conditions: 🖐️ used
-- Concurrent programming: 🖐️ used
-- Parallel programming: 🖐️ used
-- Thread: 🖐️ used
+- Concurrent programming: 👂 heard
+- Parallel programming: 👂 heard
+- Thread: 👂 heard
 - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
-  - Thenable: 🖐️ used
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-    - Future: 🎓 known
-    - Deferred: 🎓 known
+    - Future: 👂 heard
+    - Deferred: 👂 heard
   - Sync generator: 🎓 known
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
@@ -33,21 +33,21 @@
     <!-- - Coroutine -->
     <!-- - Goroutine -->
   - Signal: 👂 heard
-- Stream: 🖐️ used
+- Stream: 👂 heard
 - Chain of responsibility: 👂 heard
 - Middleware: 🖐️ used
 <!-- - Locks -->
 - Async adapters and utils
   - callbackify: 👂 heard
-  - promisify: 🎓 known
+  - promisify: 👂 heard
   <!-- - asyncify -->
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🖐️ used
+  - EventEmitter: 👂 heard
   - Observable/Observer: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform: 👂 heard
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
@@ -61,20 +61,20 @@
   - nextTick: 🖐️ used
   - AbortController: 🎓 known
   - AbortSignal: 🎓 known
-  - Promise unhandled rejection: 🖐️ used
-  - Promise double resolve: 🖐️ used
-  - child_process: 🎓 known
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
+  - child_process: 👂 heard
   - worker_threads: 👂 heard
-  - Atomics: 🎓 known
+  - Atomics: 👂 heard
   - High resolution clock: 🎓 known
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🙋 explained
-  - Better stack traces with return await: 🙋 explained
+  - Better stack traces with return await: 🖐️ used
   - JSON: streaming serialization: 🙋 explained
     - promisify: 👂 heard
-    - callbackify: 🎓 known
+    - callbackify: 👂 heard
       <!-- - AsyncLocalStorage -->
       <!-- - AsyncResource -->
 - Techniques
@@ -86,7 +86,7 @@
   - Promise.race: 🖐️ used
   - Promise.any: 🖐️ used
   - Web Locks API: 🎓 known
-  - IPC: 🖐️ used
+  - IPC: 👂 heard
       <!-- - Channel API -->
     - Revealing Constructor: 🎓 known
     <!-- - Web Locks API -->
