@@ -1,7 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
@@ -21,22 +21,22 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor 👂 heard
+  - new 🎓 known
+  - Static method 👂 heard
+  - Method 👂 heard
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Getters, Setters 👂 heard
+  - Public fields 🎓 known
+  - Private fields 🎓 known
+  - Field declarations 👂 heard
+  - Inheritance 👂 heard
+  - Parent class 🎓 known
+  - Polymorphism 🎓 known
+  - Abstract class 🎓 known
+  - Interface 🎓 known
+  - Encapsulation 🎓 known
+  - Hidden class 🎓 known
   - Object form
   - instance
   - Introspection
@@ -55,7 +55,7 @@
   - Iterator
   - State
   - Bridge
-  - Builder
+  - Builder 👂 heard
   - Prototype
   - Composite
   - Decorator
