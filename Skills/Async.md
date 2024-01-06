@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
+  - Non-blocking: 👂 heard
   - Async I/O
-  - Thread pool
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -20,48 +20,48 @@
   - Parallel programming
   - Actor Model
   - Thread
-  - Process
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
   - Async Iterator
-  - Event
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
   - Transform
   - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
+  - nextTick: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,8 +70,8 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -81,11 +81,11 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
   - Promise.race
   - Promise.any
   - Web Locks API
