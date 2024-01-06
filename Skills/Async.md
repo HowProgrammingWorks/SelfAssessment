@@ -15,7 +15,7 @@
   - libuv
   - Race conditions
   - Dead locks
-  - Live locks
+  - Live locks 👂 heard
   - Concurrent programming
   - Parallel programming
   - Actor Model
@@ -30,8 +30,8 @@
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
   - Event
   - Coroutine
   - Goroutine 🎓 known
@@ -77,18 +77,18 @@
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify
-  - callbackify
+  - callbackify 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library
   - RxJS library
-  - Async composition
+  - Async composition 👂 heard
   - Promise.all
   - Promise.allSettled
-  - Promise.race
+  - Promise.race 👂 heard
   - Promise.any
-  - Web Locks API
+  - Web Locks API 👂 heard
   - IPC
   - Channel API
   - Revealing Constructor

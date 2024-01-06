@@ -8,17 +8,17 @@
   - scalar 
   - literal
   - expression
-  - heap
+  - heap 🖐️ used
   - function 🖐️ used
   - procedure
-  - method
-  - class
+  - method🖐️ used
+  - class🖐️ used
   - prototype 🖐️ used
-  - event
-  - type
+  - event🖐️ used
+  - type🖐️ used
   - primitive types
   - reference types
-  - flag
+  - flag🖐️ used
   - lexical scope
   - code block
   - conditions
@@ -41,7 +41,7 @@
   - curry
   - higher order
   - recursion
-  - callback
+  - callback🎓 known
   - listener
   - compose
   - pipe
@@ -71,7 +71,7 @@
   - stack
   - deque 👂 heard
   - tree
-  - graph
+  - graph 👂 heard
   - iterator
   - mutable state
   - immutable state

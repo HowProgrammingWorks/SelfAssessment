@@ -2,10 +2,10 @@
 
 - Language
   - Object 🖐️ used
-  - this
-  - arrow function
-  - async function
-  - call
+  - this🖐️ used
+  - arrow function🖐️ used
+  - async function🖐️ used
+  - call🖐️ used
   - bind
   - apply
   - instanceof
@@ -35,8 +35,8 @@
   - await
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete 🖐️ used
+  - in 🖐️ used
   - super
   - Symbol
   - Reflect
@@ -79,8 +79,8 @@
   - timers  👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date🖐️ used
+  - BigInt🖐️ used
 - Infrastructure
   - V8
   - Node.js 👂 heard

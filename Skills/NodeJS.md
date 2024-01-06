@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js🎓 known
   - Stateful and stateless servers 🎓 known
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -16,7 +16,7 @@
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm
+  - Contexts and scripts node:vm🎓 known
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock  👂 heard
   - Module-based permissions model
@@ -50,12 +50,12 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
+  - node:worker_threads 👂 heard
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
+  - Generating crypto random UUID 
+  - node:url vs new URL 👂 heard
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
@@ -73,7 +73,7 @@
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue 👂 heard
   - CQS
   - CQRS
   - Event sourcing
@@ -82,7 +82,7 @@
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
 - Network
   - IP sticky sessions
   - Endpoint throttling

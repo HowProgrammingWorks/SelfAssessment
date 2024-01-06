@@ -38,10 +38,10 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - instance
+  - instance 👂 heard 
   - Introspection
-  - Reflection
-- Patterns
+  - Reflection 
+- Patterns👂 heard
   - Singleton
   - Factory Method
   - Abstract Factory
@@ -60,7 +60,7 @@
   - Composite
   - Decorator
   - Flyweight
-  - Mediator
-  - Memento
+  - Mediator  👂 heard 
+  - Memento  👂 heard 
   - Template Method
   - Visitor
