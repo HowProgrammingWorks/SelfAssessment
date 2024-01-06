@@ -12,31 +12,31 @@
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Parallel programming
+  - Reactive programming
   - FRP (Functional-reactive)
-  - Automata-based programming: 👂 heard
+  - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
+  - Multi-paradigm programming
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
+  - constructor: 👂 heard
+  - new
+  - Static method: 👂 heard
+  - Method: 👂 heard
   - Async method: 👂 heard
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism: 👂 heard
-  - Abstract class: 🎓 known
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
+  - Field declarations
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
   - Interface
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
+  - Encapsulation
+  - Hidden class
   - Object form
   - instance
   - Introspection: 👂 heard

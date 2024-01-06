@@ -3,8 +3,8 @@
 - Language
   - Object
   - this
-  - arrow function: 👂 heard
-  - async function: 👂 heard
+  - arrow function
+  - async function
   - call
   - bind
   - apply
@@ -13,8 +13,8 @@
   - ...rest
   - typeof
   - destructuring
-  - generator: 👂 heard
-  - iterator: 🎓 known
+  - generator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -26,11 +26,11 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
+  - equality operators
+  - logical operators
+  - bitwise operators
+  - ternary operator
+  - void: 👂 heard
   - yield
   - await
   - template literal
@@ -41,37 +41,37 @@
   - Symbol
   - Reflect: 👂 heard
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🎓 known
-  - for..of: 🎓 known
+  - if: 👂 heard
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
+  - for..in: 👂 heard
+  - for..of: 👂 heard
   - for await
   - throw
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
+  - break: 👂 heard
+  - continue: 👂 heard
+  - import: 👂 heard
   - export
   - label
   - try..catch
-  - switch: 🖐️ used
-  - class: 🖐️ used
+  - switch: 👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
-  - return: 🖐️ used
+  - function declaration
+  - function expression
+  - return: 🎓 known
   - default parameters
-  - functional object: 👂 heard
+  - functional object
 - Data structures
   - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
-  - Map: 👂 heard
-  - Set: 👂 heard
+  - Map
+  - Set
   - undefined
   - null: 👂 heard
   - Proxy: 👂 heard
