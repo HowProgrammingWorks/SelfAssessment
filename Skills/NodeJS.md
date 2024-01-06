@@ -42,8 +42,8 @@
   - Copy folder recursively  🎓 known
   - Worker threads 👂 heard
   - Performance hooks 👂 heard
-  - Native fetch and nodejs/undici 
-  - node:async_hooks
+  - Native fetch and nodejs/undici  👂 heard
+  - node:async_hooks 👂 heard
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
@@ -54,21 +54,21 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
+  - Generating crypto random UUID 👂 heard
+  - node:url vs new URL 👂 heard
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
+  - Isolation between layer 👂 heard
   - Multilayer approach
-  - Separation of concerns
+  - Separation of concerns 👂 heard
   - Inversion of control
   - Dependency injection
   - GRASP
   - SOLID
-  - GoF patterns
+  - GoF patterns 👂 heard
   - Distributed systems
   - Highload applications
   - Clean architecture
@@ -76,36 +76,36 @@
   - Message Queue
   - CQS
   - CQRS
-  - Event sourcing
+  - Event sourcing 👂 heard
   - Load balancing
   - Serverless clouds
-  - FaaS clouds
+  - FaaS clouds 👂 heard
   - Fat controller
-  - GoF for Node.js
+  - GoF for Node.js 👂 heard
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions 🖐️ used
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
   - UDP
   - TLS
-  - Websocket
+  - Websocket 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 🖐️ used
+  - DDoS 🖐️ used
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
-  - IncomingMessage
-  - SQL injection
+  - DNS  🎓 known
+  - Fetch API 👂 heard
+  - IncomingMessage 🎓 known
+  - SQL injection 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -113,58 +113,58 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
-  - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Native test runner 🎓 known
+  - Logging 🎓 known
+  - Application configuring 👂 heard
+  - Testing 🎓 known
+  - CI/CD 🎓 known
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 🎓 known
+  - back pressure 🎓 known
+  - Buffer 🎓 known
+  - Console 🎓 known
+  - Inspector 🎓 known
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 👂 heard
+  - Repository 🖐️ used
+  - Active record 👂 heard
+  - Query builder 👂 heard
+  - Object-Relational Mapping 👂 heard
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
-  - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Error 🎓 known
+  - error.cause 🎓 known
+  - error.code 🎓 known
+  - error.message 🎓 known
+  - error.stack 🎓 known
+  - How to avoid mixins 👂 heard
+  - Error.captureStackTrace 👂 heard
+  - Uncaught exceptions 👂 heard
+  - Heap dump 👂 heard
+  - Debugging tools 👂 heard
+  - Flame graph 👂 heard
+  - Memory leaks 👂 heard
+  - Resource leaks 👂 heard
+  - Data race 👂 heard
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons 🎓 known
+  - C and C++ addons 🎓 known
   - Rust addons
   - Zig addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI C and C++
+  - NAN (Native Abstractions for Node.js) 🎓 known
+  - Node-API (formerly N-API) 🖐️ used  
+  - NAPI C and C++ 🎓 known
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++ 🎓 known
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization 👂 heard
