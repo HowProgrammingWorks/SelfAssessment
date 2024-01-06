@@ -1,0 +1,67 @@
+- Fundamentals
+  - Arrays: 🙋 used
+  - Matrix: 🙋 used
+  - Vector: 🙋 used
+  - Scalar: 🙋 used
+  - String: 🙋 used
+  - Convolution: 🙋 used
+  - O(n) notation: 🙋 used
+  - RegEx: 🙋 used
+  - tbd
+- Algorithms
+  - Linear regression: 🙋 explained
+  - Logistic regression: 🙋 explained
+  - K-means: 🙋 used
+  - DNN: 🙋 explained
+  - CNN: 🙋 explained
+  - RNN: 🙋 explained
+  - Scoring: 🙋 used
+  - tbd
+- Structures
+  - Decision tree: 🙋 used
+  - Random forest: 🎓 known
+  - Simple Neuron: 🙋 used
+  - Convolution Neuron(filter): 🙋 used
+  - Recurrent Neuron: 🙋 used
+  - LSTM Neuron: 🙋 used
+  - Inception modules: 🙋 used
+  - GAN: 👂 heard
+  - tbd
+- Python
+  - Lambda expressions: 🙋 used
+  - List: 🙋 used
+  - Array: 🙋 used
+  - Dictionary: 🙋 used
+  - Object: 🙋 used
+  - Class: 🙋 used
+  - pip: 🙋 used
+  - conda: 🙋 used
+  - I/O: 🙋 used
+  - tbd
+- Libraries
+  - TensorFlow: 🙋 used
+  - PyTorch: 🙋 used
+  - NumPy: 🙋 used
+  - Pandas: 🙋 used
+  - Scikit-learn: 🙋 used
+  - random: 🙋 used
+  - math: 🙋 used
+  - re: 🙋 used
+  - opencv: 🙋 used
+  - soundfile: 🙋 used
+  - Keras: 🙋 used
+  - Matplotlib: 🙋 used
+  - jupyter: 🙋 used
+  - tbd
+- Other
+  - Mathcad: 🙋 used
+  - Google colab: 🙋 used
+  - Matlab: 🙋 used
+  - R: 👂 heard
+  - Julia: 👂 heard
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
+  - Anaconda: 🙋 used
+  - Linux: 🙋 used
+  - VM: 🙋 used
+  - tbd
