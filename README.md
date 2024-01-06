@@ -1,6 +1,6 @@
 # Software engineering self assessment
 
-## Skills
+## Skills 
 
 - [Programming fundamentals](Skills/Programming.md)
 - [JavaScript](Skills/JavaScript.md)
