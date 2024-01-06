@@ -23,7 +23,7 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️ used
   - __proto__
   - prototype
   - equality operators 🖐️ used
