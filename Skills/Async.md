@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -18,25 +18,25 @@
   - Live locks
   - Concurrent programming
   - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Actor Model 🎓 known
+  - Thread 🙋 explained
+  - Process 🙋 explained
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 👂 heard
+  - Async/await 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 🙋 explained
   - Chain of responsibility
   - Middleware
   - Locks
