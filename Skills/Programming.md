@@ -1,21 +1,23 @@
+👂 heard, 🎓 known, 🖐 used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value🖐 used
+  - identifier🖐 used
+  - variable🖐 used
+  - constant🖐 used
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function🖐 used
   - procedure
-  - method
-  - class
+  - method🖐 used
+  - class🖐 used
   - prototype
-  - event
-  - type
+  - event🖐 used
+  - type🖐 used
   - primitive types
   - reference types
   - flag
@@ -25,15 +27,15 @@
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface🖐 used
   - contract
-  - module
+  - module👂 heard
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
+  - argument🖐 used
+  - parameter👂 heard
+  - pure function👂 heard
   - lambda expression
   - side effects
   - closure
@@ -53,42 +55,42 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array🖐 used
+  - structure👂 heard
   - record
-  - enum
+  - enum👂 heard
   - instance
-  - object
-  - class
-  - collection
-  - set
+  - object🖐 used
+  - class🖐 used
+  - collection🖐 used
+  - set🖐 used
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack🖐 used
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree🖐 used
+  - graph🖐 used
+  - iterator🖐 used
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger👂 heard
   - garbage collection
   - refactoring
-  - code review
+  - code review👂 heard
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm👂 heard
+  - algorithm👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +104,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git🖐 used
+  - github🖐 used
