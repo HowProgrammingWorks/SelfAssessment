@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 👂 heard
+  - this 👂 heard
   - arrow function
   - async function
   - call
@@ -41,15 +41,15 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 👂 heard
+  - while 👂 heard
+  - do..while 👂 heard
+  - for 👂 heard
   - for..in
   - for..of
   - for await
-  - throw
-  - break
+  - throw 👂 heard
+  - break 👂 heard
   - continue
   - import
   - export
