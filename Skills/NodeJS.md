@@ -84,26 +84,26 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions🖐️ used
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 🖐️ used
+  - TCP/SSL🖐️ used
+  - UDP🖐️ used
   - TLS
-  - Websocket
+  - Websocket🖐️ used
   - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
+  - HTTP/3 (QUIC)🖐️ used
+  - Long polling🖐️ used
   - REST
   - RPC
   - Routing
-  - DoS
+  - DoS🖐️ used
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay

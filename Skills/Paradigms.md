@@ -4,19 +4,19 @@
   - Procedural programming 🖐️ used
   - Imperative programming🖐️ used
   - Structured programming 🖐️ used
-  - Non-structured programming
+  - Non-structured programming👂 heard
   - Functional programming
   - Prototype-based programming
   - Object-oriented programming 🖐️ used
   - Object-based programming 🖐️ used
   - Generic programming 🖐️ used
-  - Concurrent computing
+  - Concurrent computing👂 heard
   - Asyncronous programming 🖐️ used
   - Parallel programming
-  - Reactive programming
+  - Reactive programming👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages 👂 heard
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
@@ -29,12 +29,12 @@
   - Getters, Setters 🖐️ used
   - Public fields 🖐️ used
   - Private fields 🖐️ used
-  - Field declarations
+  - Field declarations🖐️ used
   - Inheritance
-  - Parent class
+  - Parent class👂 heard
   - Polymorphism 🖐️ used
   - Abstract class
-  - Interface
+  - Interface🖐️ used
   - Encapsulation
   - Hidden class 🖐️ used
   - Object form
@@ -59,7 +59,7 @@
   - Prototype
   - Composite🖐️ used
   - Decorator
-  - Flyweight
+  - Flyweight🖐️ used
   - Mediator
   - Memento 🖐️ used
   - Template Method

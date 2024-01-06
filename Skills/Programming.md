@@ -5,10 +5,10 @@
   - identifier 🖐️ used
   - variable 🖐️ used
   - constant 🖐️ used
-  - scalar
+  - scalar🖐️ used
   - literal
-  - expression
-  - heap
+  - expression🖐️ used
+  - heap👂 heard
   - function 🖐️ used
   - procedure 🖐️ used
   - method 🖐️ used
@@ -20,14 +20,14 @@
   - reference types
   - flag
   - lexical scope
-  - code block
+  - code block🖐️ used
   - conditions
   - loops 🖐️ used
   - assignment
   - regular expression
-  - interface
-  - contract
-  - module
+  - interface👂 heard
+  - contract👂 heard
+  - module🖐️ used
   - call stack
 - Functions
   - signature 🖐️ used
@@ -42,21 +42,21 @@
   - higher order
   - recursion 🖐️ used
   - callback
-  - listener
-  - compose
+  - listener🖐️ used
+  - compose👂 heard
   - pipe
   - memoize
-  - wrapper
+  - wrapper🖐️ used
   - functor
   - monad
-  - monoid
+  - monoid👂 heard
   - generator
   - coroutine
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
   - record
-  - enum
+  - enum🖐️ used
   - instance
   - object 🖐️ used
   - class 🖐️ used
@@ -70,17 +70,17 @@
   - queue
   - stack
   - deque
-  - tree
+  - tree🖐️ used
   - graph
   - iterator
-  - mutable state
+  - mutable state👂 heard
   - immutable state
-  - serialization
+  - serialization👂 heard
   - string parsing
 - Process & style
   - compiler 🖐️ used
   - transpiler
-  - linter
+  - linter🖐️ used
   - polyfill
   - debugger 🖐️ used
   - garbage collection
@@ -92,14 +92,14 @@
   - magic numbers
   - hardcode
   - complexity
-  - decomposition
+  - decomposition🖐️ used
   - spaghetti
-  - silver bullet
+  - silver bullet👂 heard
   - not invented here
-  - dead code
+  - dead code👂 heard
   - unreachable code
   - duplicate code
-  - exception
+  - exception👂 heard
   - return early
   - unittest
   - git 🖐️ used

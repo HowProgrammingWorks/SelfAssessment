@@ -1,12 +1,12 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🖐️ used
   - async function
   - call
-  - bind
+  - bind🖐️ used
   - apply
   - instanceof
   - ...spread
