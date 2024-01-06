@@ -42,11 +42,11 @@
   - higher order
   - recursion 🙋 used
   - callback 👂 heard
-  - listener 👂 heard
+  - listener
   - compose
-  - pipe 👂 heard
-  - memoize 👂 heard
-  - wrapper 🖐️ used
+  - pipe
+  - memoize
+  - wrapper
   - functor 
   - monad
   - monoid
