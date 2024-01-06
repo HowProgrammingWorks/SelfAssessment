@@ -7,7 +7,6 @@
   - cout, cin, and endl objects
   - Functions
   - Parameters and arguments of functions
-  - What functions are useful and how to use them effectively in programming?
   - Local scope
   - Keywords and identifiers
   - Operators
@@ -18,6 +17,90 @@
   - Preprocessor directives
   - Header guards and the #pragma once directive
   - Name conflict and namespace std
-  - Developing your first programs
   - Program debugging: stepping and breakpoints
   - Debugging programs: call stack and variable tracking
+
+- Variables and basic data types in C++
+  - Initialization, Assignment and Declaration of variables
+  - The data type is void
+  - Size of data types
+  - Integer data types: short, int, and long
+  - Fixed size of integer data types
+  - Floating-point data types: float, double, and long double
+  - Boolean data type bool
+  - Character data type char
+  - Literals and magic numbers
+  - const, constexpr, and character constants
+
+- Operators in C++
+  - Priority of operations and associativity rules
+  - Arithmetic operators
+  - Increment, decrement and side effects
+  - Conditional ternary operator, sizeof and Comma
+  - Comparison operators
+  - Logical operators: AND, OR, NOT
+  - Conversion of numbers from binary to decimal and vice versa
+  - Bitwise operators
+  - Bit flags and bit masks
+
+- Loops and branching in C++
+    - Program execution flow control operators
+    - If/else conditional branching operators
+    - The switch operator
+    - The goto operator
+    - The while loop
+    - The do while loop
+    - The for loop
+    - Break and continue operators
+    - Generation of random numbers
+    - Handling incorrect user input
+    - Introduction to code testing
+
+- Arrays, Strings, Pointers and References in C++
+  - arrays
+  - Fixed arrays
+  - Arrays and loops
+  - Sorting arrays by selection method
+  - Two-dimensional arrays
+  - C-style rows
+  - Class std::string_view
+  - Pointers
+  - Null pointers
+  - Pointers and arrays
+  - Address arithmetic and array indexing
+  - C-style string character constants
+  - Dynamic memory allocation
+  - Dynamic arrays
+  - Pointers and const
+  - Link
+  - Link and const
+  - Member access operator via pointer
+  - The foreach loop
+  - Pointers of type void
+  - Pointers to pointers
+  - Introduction to std::array
+  - Introduction to iterators
+  - Algorithms in the C++ Standard Library
+
+- Functions in C++
+  - Parameters and arguments of functions
+  - Pass by value
+  - Transfer by link
+  - Delivery to the address
+  - Return values by reference, by address, and by value
+  - Built-in functions
+  - Function overloading
+  - Default settings
+  - Pointers to functions
+  - Vector capacity
+  - Error handling, cerr and exit()
+  - assert and static_assert
+  - Command line arguments
+
+- Relationships between objects in C++
+  - Types of relationships between objects
+  - Composition of objects
+  - Aggregation
+  - Association
+  - Dependence
+  - Container classes
