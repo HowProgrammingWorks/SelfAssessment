@@ -9,11 +9,11 @@
   - Pattern Reactor:
   - CAS operations:
   - epoll: 👂 heard
-  - kqueue
+  - kqueue:
   - Completion ports:
   - Event ports:
   - libuv: 🎓 known
-  - Race conditions 🎓 known
+  - Race conditions: 🎓 known
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
