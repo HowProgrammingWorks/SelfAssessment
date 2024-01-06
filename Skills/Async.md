@@ -41,16 +41,16 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify:👂 heard
-  - promisify:👂 heard
-  - asyncify:👂 heard
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter:👂 heard
+  - EventEmitter: 👂 heard
   - Observable/Observer
-  - Readable:👂 heard
-  - Writable:👂 heard
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Async Pool
   - Async Queue: 👂 heard
@@ -66,8 +66,8 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process:👂 heard
-  - worker_threads:👂 heard
+  - child_process: 👂 heard
+  - worker_threads: 👂 heard
   - Atomics
   - High resolution clock
   - Callback hell
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all:👂 heard
+  - Promise.all: 👂 heard
   - Promise.allSettled
-  - Promise.race:👂 heard
-  - Promise.any:👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API

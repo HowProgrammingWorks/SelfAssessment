@@ -17,15 +17,15 @@
   - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining:👂 heard
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
   - global: 👂 heard
   - globalThis
   - window
   - getters and setters: 🖐️ used
-  - __proto__:👂 heard
-  - prototype:👂 heard
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
   - equality operators: 🎓 known
   - logical operators: 🎓 known
   - bitwise operators: 🎓 known
@@ -77,12 +77,12 @@
   - Proxy: 👂 heard
   - weak collections: 👂 heard
   - timers: 👂 heard
-  - EventEmitter:👂 heard
+  - EventEmitter:  👂 heard
   - RegExp: 👂 heard
   - Date: 🖐️ used
-  - BigInt:👂 heard
+  - BigInt: 👂 heard
 - Infrastructure
-  - V8:👂 heard
+  - V8: 👂 heard
   - Node.js: 🎓 known
   - npm: 🎓 known
   - prettier: 🎓 known
