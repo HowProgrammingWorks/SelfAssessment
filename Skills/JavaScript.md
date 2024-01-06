@@ -9,8 +9,8 @@
   - bind: 🎓 learned
   - apply: 🎓 learned
   - instanceof: 🎓 learned
-  - ...spread
-  - ...rest
+  - ...spread: 🎓 learned
+  - ...rest: 🎓 learned
   - typeof: 🖐️ used
   - destructuring: 🎓 learned
   - generator: 🖐️ used
