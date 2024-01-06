@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Objectz
+  - this: 🖐 used
+  - arrow function: 🖐 used
+  - async function: 🖐 used
   - call
-  - bind
+  - bind: 🎓 known
   - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
+  - instanceof: 🖐 used
+  - ...spread: 🖐 used
+  - ...rest: 🖐 used
+  - typeof: 🖐 used
+  - destructuring: 🖐 used
+  - generator: 🎓 known
+  - iterator: 🎓 known
   - async generator
   - async iterator
-  - chaining
+  - chaining: 🎓 known
   - optional chaining
   - IIFE
   - global
   - globalThis
-  - window
-  - getters and setters
+  - window: 🖐 used
+  - getters and setters: 🖐 used
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - equality operators: 🖐 used
+  - logical operators: 🖐 used
+  - bitwise operators: 🖐 used
+  - ternary operator: 🖐 used
   - void
-  - yield
-  - await
+  - yield: 👂 heard
+  - await: 🖐 used
   - template literal
-  - strict mode
+  - strict mode: 👂 heard
   - delete
-  - in
+  - in: 🖐 used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
+  - if: 🖐 used
+  - while: 🖐 used
+  - do..while: 🖐 used
+  - for: 🖐 used
+  - for..in: 🖐 used
+  - for..of: 🖐 used
+  - for await: 🖐 used
+  - throw: 🖐 used
+  - break: 🖐 used
+  - continue: 🖐 used
+  - import: 🖐 used
+  - export: 🖐 used
+  - label: 🖐 used
+  - try..catch: 🖐 used
+  - switch: 🖐 used
   - class
   - new Error
-  - with
+  - with: 🖐 used
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🖐 used
+  - function expression: 🎓 known
+  - return: 🖐 used
+  - default parameters: 🖐 used
+  - functional object: 🎓 known
 - Data structures
-  - Array
+  - Array: 🖐 used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Map: 🖐 used
+  - Set: 🖐 used
+  - undefined: 🖐 used
+  - null: 🖐 used
+  - Proxy: 🎓 known
   - weak collections
   - timers
-  - EventEmitter
-  - RegExp
-  - Date
+  - EventEmitter: 👂 heard
+  - RegExp: 🖐 used
+  - Date: 🖐 used
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🖐 used
+  - npm: 🖐 used
+  - prettier: 👂 heard
   - MDN
