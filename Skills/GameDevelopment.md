@@ -2,36 +2,36 @@
 
 - Unity
   - Unity for game development: pros and cons 🎓 known
-  - Unity life cycle 🙋 explained
-  - Monobehaviour 🙋 explained
-  - GameObjects 🙋 explained
-  - ScriptableObjects 🙋 explained
-  - Unity basic components 🙋 explained
-  - Input management 🖐️ used
-  - Coroutine 🙋 explained
-  - Serialize Fields 🙋 explained
-  - yield 🖐️ used
+  - Unity life cycle 
+  - Monobehaviour 
+  - GameObjects 
+  - ScriptableObjects 
+  - Unity basic components 
+  - Input management 
+  - Coroutine 
+  - Serialize Fields 🎓 known,
+  - yield 
 - Design Patterns
-  - Command 🙋 explained
-  - Flyweight 🙋 explained
-  - Observer 🙋 explained
-  - Prototype 🙋 explained
-  - Singleton 🙋 explained
-  - State 🙋 explained
+  - Command 
+  - Flyweight 
+  - Observer 
+  - Prototype 
+  - Singleton 
+  - State 
 - Sequencing Patterns
-  - Double buffer 👂 heard
-  - Game loop 🖐️ used
-  - Update method 🙋 explained
+  - Double buffer 
+  - Game loop 🎓 known,
+  - Update method 
 - Behavioral Patterns
-  - Bytecode 👂 heard
-  - Subclass Sandbox 👂 heard
-  - Type Object 🙋 explained
+  - Bytecode 
+  - Subclass Sandbox 
+  - Type Object 
 - Decoupling Patterns
-  - Component 🖐️ used
-  - Event Queue 🙋 explained
-  - Service Locator 👂 heard
+  - Component 
+  - Event Queue 
+  - Service Locator 
 - Optimization Patterns
-  - Data Locality 👂 heard
-  - Dirty Flag 👂 heard
-  - Object Pool 🖐️ used
-  - Spatial Partition 👂 heard
+  - Data Locality 
+  - Dirty Flag 
+  - Object Pool 
+  - Spatial Partition 
