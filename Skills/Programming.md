@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value 🎓 known
+  - identifier 🎓 known
+  - variable 🎓 known
+  - constant 🎓 known
   - scalar
   - literal
-  - expression
+  - expression 👂 heard
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🎓 known
+  - procedure 🎓 known
+  - method 🎓 known
+  - class 👂 heard
   - prototype
-  - event
+  - event 👂 heard
   - type
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block 👂 heard
+  - conditions 👂 heard
+  - loops 👂 heard
+  - assignment 👂 heard
   - regular expression
-  - interface
+  - interface 👂 heard
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature 👂 heard
+  - argument 🎓 known
+  - parameter 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 🎓 known
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object 🎓 known
+  - class 🎓 known
   - collection
   - set
   - hash table
@@ -67,7 +67,7 @@
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 👂 heard
   - stack
   - deque
   - tree
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - refactoring 🎓 known
+  - code review 🎓 known
+  - antipatterns 🎓 known
+  - paradigm 🎓 known
+  - algorithm 👂 heard
+  - magic numbers 🎓 known
+  - hardcode 👂 heard
   - complexity
   - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - spaghetti 👂 heard
+  - silver bullet 👂 heard
+  - not invented here 👂 heard
+  - dead code 👂 heard
+  - unreachable code 👂 heard
+  - duplicate code 👂 heard
+  - exception 👂 heard
   - return early
   - unittest
-  - git
+  - git 👂 heard
   - github
