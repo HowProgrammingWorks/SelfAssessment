@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -94,7 +94,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 👂 heard
   - RPC
   - Routing
   - DoS
@@ -105,7 +105,7 @@
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
