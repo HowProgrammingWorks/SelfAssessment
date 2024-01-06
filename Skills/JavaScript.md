@@ -13,25 +13,25 @@
   - ...rest: 🙋 explained
   - typeof: 🙋 explained
   - destructuring: 🙋 explained
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - generator: 🎓 known
+  - iterator: 🎓 known
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🖐️ used
   - optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - global: 🎓 known
-  - globalThis: 
+  - globalThis:
   - window: 🎓 known
   - getters and setters: 🙋 explained
   - __proto__: 🎓 known
   - prototype: 🎓 known
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
-  - bitwise operators: 👂 heard
+  - bitwise operators: 🖐️ used
   - ternary operator: 🙋 explained
   - void: 🎓 known
-  - yield: 👂 heard
+  - yield: 🎓 known
   - await: 🙋 explained
   - template literal: 🙋 explained
   - strict mode: 🎓 known
@@ -67,7 +67,7 @@
   - functional object: 👂 heard
 - Data structures
   - Array: 🙋 explained
-  - mixin:
+  - mixin: 👂 heard
   - extend: 🎓 known
   - typed arrays: 👂 heard
   - Map: 🎓 known
@@ -75,14 +75,14 @@
   - undefined: 🙋 explained
   - null: 🙋 explained
   - Proxy: 
-  - weak collections:
+  - weak collections: 👂 heard
   - timers: 🎓 known
   - EventEmitter: 🎓 known
   - RegExp: 🎓 known
   - Date: 🙋 explained
-  - BigInt: 👂 heard
+  - BigInt: 🙋 explained
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 🙋 explained
   - Node.js: 🙋 explained
   - npm: 🙋 explained
   - prettier: 🙋 explained
