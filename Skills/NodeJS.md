@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID 🙋 explained
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🙋 explained
   - TCP/SSL
   - UDP
   - TLS
@@ -98,7 +98,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 🙋 explained
   - XSS
   - Path traversal
   - CSRF
@@ -152,7 +152,7 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons 
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
