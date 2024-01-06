@@ -1,0 +1,23 @@
+## C++
+
+- Basics of C++
+  - Program structure
+  - Comments
+  - Variables, Initialization and Assignment
+  - cout, cin, and endl objects
+  - Functions
+  - Parameters and arguments of functions
+  - What functions are useful and how to use them effectively in programming?
+  - Local scope
+  - Keywords and identifiers
+  - Operators
+  - Basic code formatting
+  - Feature Prototype and Pre-Announcement
+  - Multi-file programs
+  - Header files
+  - Preprocessor directives
+  - Header guards and the #pragma once directive
+  - Name conflict and namespace std
+  - Developing your first programs
+  - Program debugging: stepping and breakpoints
+  - Debugging programs: call stack and variable tracking
