@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: used
-  - identifier: explained
-  - variable: explained
-  - constant: explained
-  - scalar: used
-  - literal: used
-  - expression: used
-  - heap: used
-  - function: explained
-  - procedure: used
-  - method: used
-  - class: used
-  - prototype: used
-  - event: used
-  - type: used
-  - primitive types: used
-  - reference types: used
-  - flag: used
-  - lexical scope: explained
-  - code block: used
-  - conditions: used
-  - loops: used
-  - assignment: used
-  - regular expression: explained
-  - interface: used
-  - contract: used
-  - module: used
-  - call stack: used
+  - value: 🖐️ used
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🖐️ used
+  - function: 🙋 explained
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope: 🙋 explained
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🙋 explained
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
+  - call stack: 🖐️ used
 - Functions
-  - signature: used
-  - argument: used
-  - parameter: used
-  - pure function: explained
-  - lambda expression: used
-  - side effects: used
-  - closure: used
-  - partial application: used
-  - curry: used
-  - higher order: used
-  - recursion: used
-  - callback: used
-  - listener: used
-  - compose: used
-  - pipe: used
-  - memoize: used
-  - wrapper: used
-  - functor: known
-  - monad: known
-  - monoid: known
-  - generator: used
-  - coroutine: known
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🙋 explained
+  - lambda expression: 🖐️ used
+  - side effects: 🖐️ used
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
+  - memoize: 🖐️ used
+  - wrapper: 🖐️ used
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
+  - generator: 🖐️ used
+  - coroutine: 🎓 known
 - Data structures
-  - array: explained
-  - structure: used
-  - record: used
-  - enum: used
-  - instance: used
-  - object: explained
-  - class: used
-  - collection: used
-  - set: used
-  - hash table: used
-  - linked list: used
-  - doubly list: used
-  - unrolled list: used
-  - circular list: used
-  - queue: used
-  - stack: used
-  - deque: used
-  - tree: used
-  - graph: used
-  - iterator: used
-  - mutable state: used
-  - immutable state: used
-  - serialization: used
-  - string parsing: used
+  - array: 🙋 explained
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🖐️ used
+  - instance: 🖐️ used
+  - object: 🙋 explained
+  - class: 🖐️ used
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🖐️ used
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 🖐️ used
+  - circular list: 🖐️ used
+  - queue: 🖐️ used
+  - stack: 🖐️ used
+  - deque: 🖐️ used
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler: used
-  - transpiler: used
-  - linter: used
-  - polyfill: used
-  - debugger: used
-  - garbage collection: known
-  - refactoring: used
-  - code review: used
-  - antipatterns: used
-  - paradigm: used
-  - algorithm: used
-  - magic numbers: used
-  - hardcode: used
-  - complexity: used
-  - decomposition: used
-  - spaghetti: used
-  - silver bullet: known
+  - compiler: 🖐️ used
+  - transpiler: 🖐️ used
+  - linter: 🖐️ used
+  - polyfill: 🖐️ used
+  - debugger: 🖐️ used
+  - garbage collection: 🎓 known
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
+  - spaghetti: 🖐️ used
+  - silver bullet: 🎓 known
   <!-- - not invented here -->
-  - dead code: used
-  - unreachable code: known
-  - duplicate code: used
-  - exception: used
-  - return early: used
-  - unittest: known
-  - git: explained
-  - github: used
+  - dead code: 🖐️ used
+  - unreachable code: 🎓 known
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 🖐️ used
+  - unittest: 🎓 known
+  - git: 🙋 explained
+  - github: 🖐️ used
