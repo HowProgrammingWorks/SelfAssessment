@@ -1,89 +1,88 @@
 ## Programming fundamental concepts
-
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
   - call
-  - bind
-  - apply
-  - instanceof
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
+  - typeof: 👂 heard
+  - destructuring: 👂 heard
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
-  - global
+  - global: 🖐️ used
   - globalThis
-  - window
-  - getters and setters
+  - window: 👂 heard
+  - getters and setters: 👂 heard
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators: 👂 heard
+  - logical operators: 🖐️ used
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
+  - await: 👂 heard
+  - template literal: 👂 heard
+  - strict mode: 🖐️ used
+  - delete: 👂 heard
+  - in: 👂 heard
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 👂 heard
+  - for..of: 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 👂 heard
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 👂 heard
+  - with: 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 👂 heard
+  - return: 🖐️ used
+  - default parameters: 👂 heard
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 👂 heard
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
+  - Date: 👂 heard
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 🖐️ used
   - MDN
