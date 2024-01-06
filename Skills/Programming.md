@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 🖐️ used
   - identifier
-  - variable
-  - constant
-  - scalar
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
   - literal
-  - expression
+  - expression 🖐️ used
   - heap
-  - function
+  - function 🖐️ used
   - procedure
   - method
   - class
