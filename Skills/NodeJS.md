@@ -6,18 +6,18 @@
   - Nonblocking I/O and slocking code :👂 heard
   - Event loop: phases:
   - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection:
+  - Garbage collection: 📢 talked
   - Node.js LTS schedule :👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks:
   - Interactive applications (close to real-time):
 - Modularity, layers and dependencies
-  - CommonJS modules:
-  - ECMAScript modules:
+  - CommonJS modules: 📢 talked
+  - ECMAScript modules: 📢 talked
   - node:module :
   - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons:
-  - Contexts and scripts node:vm:
-  - Dependencies: npm, node_modules:
+  - Modules as singletons: 📢 talked
+  - Contexts and scripts node:vm:📢 talked 
+  - Dependencies: npm, node_modules: 📢 talked 
   - Dependencies: package.json and package lock:
   - Module-based permissions model :👂 heard
   - Isolation with modularity:
@@ -33,15 +33,15 @@
   - Clustering: 📢 talked
   - Watch filesystem changes with --watch: 🚀 constructed
 - Internal API
-  - Streams API:
-  - Web Streams AP:I
-  - Crypto API:
+  - Streams API: 👂 heard
+  - Web Streams API:  👂 heard
+  - Crypto API:  👂 heard
   - Password hashing with node:crypto.scrypt:
-  - Web Crypto API:
+  - Web Crypto API: 
   - File system API: sync and async:
   - Copy folder recursively:
-  - Worker threads:
-  - Performance hooks:
+  - Worker threads: 📢 talked
+  - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici:
   - node:async_hooks: 
   - AsyncLocalStorage:
@@ -55,10 +55,10 @@
   - MessageChannel, MessagePort:
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID:
-  - node:url vs new URL:
-  - node:assert:
-  - Internationalization:
-  - Blob, File, Buffer, node:buffer:
+  - node:url vs new URL: 📢 talked 
+  - node:assert: 📢 talked
+  - Internationalization: 📢 talked
+  - Blob, File, Buffer, node:buffer: 📢 talked
   - Module node:zlib:
 - Application structure and architecture
   - Isolation between layer:
@@ -66,22 +66,22 @@
   - Separation of concerns:
   - Inversion of control: 👂 heard
   - Dependency injection: 👂 heard
-  - GRASP :
-  - SOLID  :
-  - GoF patterns:
-  - Distributed systems:
-  - Highload applications:
-  - Clean architecture:
-  - DDD:
-  - Message Queue:
+  - GRASP: 📢 talked
+  - SOLID: 📢 talked
+  - GoF patterns: 📢 talked
+  - Distributed systems: 📢 talked
+  - Highload applications: 📢 talked
+  - Clean architecture: 📢 talked
+  - DDD: 👂 heard
+  - Message Queue: 👂 heard
   - CQS:
-  - CQRS:
+  - CQRS: 👂 heard
   - Event sourcing:
-  - Load balancing:
-  - Serverless clouds:
+  - Load balancing: 📢 talked
+  - Serverless clouds: 📢 talked
   - FaaS clouds :👂 heard
   - Fat controller:
-  - GoF for Node.js:
+  - GoF for Node.js: 📢 talked
   - Leaking abstractions:
 - Network
   - IP sticky sessions:
@@ -91,50 +91,50 @@
   - UDP: 👂 heard
   - TLS: 👂 heard
   - Websocket: 👂 heard
-  - SSE:
+  - SSE: 📢 talked
   - HTTP/3 (QUIC):
   - Long polling:
   - REST: 👂 heard
-  - RPC:
-  - Routing:
-  - DoS:
+  - RPC: 📢 talked
+  - Routing: 📢 talked
+  - DoS: 📢 talked
   - DDoS: 👂 heard
   - XSS:
   - Path traversal:
   - CSRF:
-  - DNS:
-  - Fetch API:
+  - DNS: 📢 talked
+  - Fetch API: 📢 talked
   - IncomingMessage:
-  - SQL injection:
+  - SQL injection: 📢 talked
   - noDelay:
   - keep-alive:
   - ALPN:
   - SNI callback:
   - SSL certificates: 👂 heard
-  - Protocol agnostic approach:
+  - Protocol agnostic approach: 📢 talked
 - Technique and tools
   - Native test runner:
-  - Logging:
+  - Logging: 📢 talked
   - Application configuring:
   - Testing:
   - CI/CD: 👂 heard
-  - Readable:
-  - Writable:
+  - Readable: 📢 talked
+  - Writable: 📢 talked
   - Transform:
   - back pressure:
-  - Buffer:
-  - Console:
-  - Inspector:
-  - Reliability:
-  - Quality:
-  - Availability:
-  - Flexibility:
+  - Buffer: 📢 talked
+  - Console: 📢 talked
+  - Inspector:👂 heard
+  - Reliability: 👂 heard 
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
 - Data access
-  - Data access layer:
+  - Data access layer: 🚀 constructed
   - Repository:
   - Active record:
-  - Query builder:
-  - Object-Relational Mapping:
+  - Query builder:  🚀 constructed
+  - Object-Relational Mapping: 🚀 constructed
 - Error handling and debugging
   - Error:
   - error.cause:
@@ -143,17 +143,17 @@
   - error.stack:
   - How to avoid mixins:
   - Error.captureStackTrace:
-  - Uncaught exceptions:
+  - Uncaught exceptions: 
   - Heap dump:
   - Debugging tools:
-  - Flame graph:
+  - Flame graph: 📢 talked
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard
-  - Data race:
+  - Data race: 📢 talked
 - Integrations and bindings
-  - Native addons:
+  - Native addons: 👂 heard
   - C and C++ addons:
-  - Rust addons:
+  - Rust addons: 
   - Zig addons:
   - NAN (Native Abstractions for Node.js):
   - Node-API (formerly N-API):
@@ -165,6 +165,6 @@
   - Webassembly Rust:
   - Webassembly Zig:
   - Webassembly AssemblyScript:
-  - Shared memory:
-  - SharedArrayBuffer:
-  - V8 binary serialization:
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
+  - V8 binary serialization 👂 heard:

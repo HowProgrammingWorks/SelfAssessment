@@ -10,7 +10,7 @@
   - expression: 🖐️ used
   - heap: 🖐️ used
   - function :🖐️ used
-  - procedure:
+  - procedure: 📢 talked
   - method:
   - class: 🔬 researched
   - prototype :
@@ -20,8 +20,8 @@
   - reference types:
   - flag: 🎓 known
   - lexical scope:
-  - code block:
-  - conditions:
+  - code block: 📢 talked
+  - conditions: 📢 talked
   - loops: 🎓 known
   - assignment: 🔬 researched
   - regular expression: 🖐️ used
@@ -30,24 +30,24 @@
   - module:
   - call stack:
 - Functions
-  - signature:
+  - signature: 📢 talked
   - argument: 🔬 researched
   - parameter: 🔬 researched
-  - pure function:
-  - lambda expression :
-  - side effects:
-  - closure:
+  - pure function: 📢 talked
+  - lambda expression : 📢 talked
+  - side effects: 📢 talked
+  - closure: 📢 talked
   - partial application:
-  - curry:
-  - higher order:
+  - curry: 📢 talked 
+  - higher order: 📢 talked
   - recursion: 🎓 known
   - callback: 🎓 known
-  - listener:
-  - compose:
-  - pipe:
+  - listener: 📢 talked
+  - compose: 📢 talked
+  - pipe: 📢 talked
   - memoize:
-  - wrapper:
-  - functor:
+  - wrapper: 📢 talked
+  - functor: 📢 talked
   - monad:
   - monoid:
   - generator:
@@ -70,8 +70,8 @@
   - queue: 🔬 researched
   - stack: 🔬 researched
   - deque :👂 heard
-  - tree: 
-  - graph :
+  - tree:  📢 talked
+  - graph : 📢 talked
   - iterator: 🔬 researched
   - mutable state:
   - immutable state:
@@ -79,9 +79,9 @@
   - string parsing:
 - Process & style
   - compiler:
-  - transpiler:
-  - linter:
-  - polyfill:
+  - transpiler: 📢 talked
+  - linter: 📢 talked
+  - polyfill: 📢 talked
   - debugger: 🙋 explained
   - garbage collection: 🔬 researched
   - refactoring: 🎓 known

@@ -7,9 +7,9 @@
   - Async I/O: 🎓 known
   - Thread pool: 📢 talked
   - Pattern Reactor:
-  - CAS operations: 
+  - CAS operations: 📢 talked
   - epoll:👂 heard
-  - kqueue:
+  - kqueue: 📢 talked
   - Completion ports: 👂 heard
   - Event ports:
   - libuv:
@@ -20,30 +20,30 @@
   - Parallel programming:
   - Actor Model :👂 heard
   - Thread: 🙋 explained
-  - Process:
+  - Process: 📢 talked
 - Async contracts
   - Callbacks: 🎓 known
   - Callback-last-error-first:
   - Thenable: 👂 heard
-  - Promise:
+  - Promise: 📢 talked
   - Async/await: 👂 heard
-  - Future:
-  - Deferred:
+  - Future: 📢 talked
+  - Deferred: 📢 talked
   - Sync generator:
-  - Async Generator:
-  - Async Iterator:
+  - Async Generator: 📢 talked
+  - Async Iterator: 📢 talked
   - Event: 📢 talked
   - Coroutine: 🙋 explained
   - Goroutine: 👂 heard
-  - Signal:
+  - Signal: 📢 talked
   - Stream: 🙋 explained
   - Chain of responsibility: 🎓 known
   - Middleware:  🚀 constructed
   - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify:
-  - promisify:
-  - asyncify:
+  - callbackify:🙋 explained
+  - promisify: 🙋 explained
+  - asyncify:🙋 explained
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
@@ -51,9 +51,9 @@
   - Observable/Observer:
   - Readable: 🙋 explained
   - Writable:  🙋 explained
-  - Transform:
-  - Async Pool:
-  - Async Queue:
+  - Transform: 🙋 explained
+  - Async Pool: 🙋 explained
+  - Async Queue:🙋 explained
   - Async Collector:
   - Semaphore: 👂 heard
   - Mutex: 
@@ -72,24 +72,24 @@
   - High resolution cloc:k
   - Callback hell: 🔬 researched
   - Promise hell: 👂 heard
-  - ref() and unref():
-  - Error handling in async code:
-  - Better stack traces with return await:
+  - ref() and unref(): 👂 heard
+  - Error handling in async code: 👂 heard
+  - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify:
-  - callbackify:
+  - promisify: 🙋 explained
+  - callbackify:🙋 explained
   - AsyncLocalStorage:
   - AsyncResource:
 - Techniques
-  - async.js library:
+  - async.js library: 🙋 explained
   - RxJS library: 👂 heard
   - Async composition:
   - Promise.all: 👂 heard
   - Promise.allSettled: 
-  - Promise.race:
-  - Promise.any:
+  - Promise.race:🙋 explained
+  - Promise.any:🙋 explained
   - Web Locks API:
   - IPC: 👂 heard
-  - Channel API:
+  - Channel API:🙋 explained
   - Revealing Constructor:
-  - Web Locks API:
+  - Web Locks API: 🙋 explained

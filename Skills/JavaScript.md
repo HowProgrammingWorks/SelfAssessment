@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object:
-  - this:
+  - Object: 🖐️ used
+  - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 👂 heard
   - call:
   - bind: 👂 heard
   - apply:
-  - instanceof:
+  - instanceof:🖐️ used
   - ...spread:
   - ...rest:
-  - typeof:
+  - typeof:🖐️ used
   - destructuring:
   - generator:
   - iterator: 🖐️ used
@@ -25,18 +25,18 @@
   - window:
   - getters and setters: 🖐️ used
   - __proto__: 👂 heard
-  - prototype:
-  - equality operators:
-  - logical operators:
-  - bitwise operators:
-  - ternary operator:
-  - void:
-  - yield:
-  - await:
+  - prototype:🖐️ used
+  - equality operators:🖐️ used
+  - logical operators:🖐️ used
+  - bitwise operators:🖐️ used
+  - ternary operator:🖐️ used
+  - void:🖐️ used
+  - yield: 
+  - await:🖐️ used
   - template literal: 👂 heard
   - strict mode: 🖐️ used
-  - delete:
-  - in:
+  - delete: 
+  - in: 🖐️ used
   - super:
   - Symbol:
   - Reflect:
@@ -44,13 +44,13 @@
   - if 🖐️ used
   - while:  
   - do..while:
-  - for:
+  - for: 🖐️ used
   - for..in:
   - for..of:
   - for await:
-  - throw:
-  - break:
-  - continue:
+  - throw: 🖐️ used 
+  - break: 🖐️ used
+  - continue: 🖐️ used
   - import: 🖐️ used
   - export:
   - label:
@@ -58,28 +58,28 @@
   - switch:
   - class:🖐️ used
   - new Error:
-  - with:
+  - with: 
 - Functions
   - function declaration:
   - function expression:
-  - return:
-  - default parameters:
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - mixin:
-  - extend:
-  - typed arrays:
-  - Map:
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
+  - Map: 
   - Set:
   - undefined:
   - null: 🖐️ used
-  - Proxy:
+  - Proxy: 🖐️ used
   - weak collections:
-  - timers:
+  - timers:🖐️ used 
   - EventEmitter: 👂 heard
   - RegExp: 🖐️ used
-  - Date:
+  - Date: 🖐️ used 
   - BigInt: 🖐️ used
 - Infrastructure
   - V8: 👂 heard

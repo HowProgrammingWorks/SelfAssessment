@@ -62,5 +62,5 @@
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento: 👂 heard
-  - Template Method:
+  - Template Method: 📢 talked
   - Visitor: 🙋 explained
