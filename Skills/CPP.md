@@ -1,23 +1,23 @@
 ## C++
 
 - Basics of C++
-  - Program structure
+  - Program structure: 🙋 used
   - Comments
   - Variables, Initialization and Assignment
   - cout, cin, and endl objects
-  - Functions
+  - Functions: 🙋 used
   - Parameters and arguments of functions
   - Local scope
-  - Keywords and identifiers
-  - Operators
+  - Keywords and identifiers: 🙋 used
+  - Operators: 🙋 used
   - Basic code formatting
-  - Feature Prototype and Pre-Announcement
+  - Feature Prototype and Pre-Announcement: 🙋 used
   - Multi-file programs
   - Header files
-  - Preprocessor directives
+  - Preprocessor directives: 🙋 used
   - Header guards and the #pragma once directive
   - Name conflict and namespace std
-  - Program debugging: stepping and breakpoints
+  - Program debugging: stepping and breakpoints: 🙋 used
   - Debugging programs: call stack and variable tracking
 
 - Variables and basic data types in C++
