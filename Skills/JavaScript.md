@@ -41,11 +41,11 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
   - for..of
   - for await
   - throw
@@ -62,18 +62,18 @@
 - Functions
   - function declaration
   - function expression
-  - return
+  - return 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
   - weak collections
   - timers

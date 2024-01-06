@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
   - scalar
   - literal
   - expression
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🖐️ used
+  - procedure 🖐️ used
+  - method 🖐️ used
+  - class 🖐️ used
   - prototype
   - event
-  - type
+  - type 🖐️ used
   - primitive types
   - reference types
   - flag
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -30,17 +30,17 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature 🖐️ used
+  - argument 🖐️ used
+  - parameter 🖐️ used
   - pure function
   - lambda expression
   - side effects
-  - closure
+  - closure 🖐️ used
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 🖐️ used
   - callback
   - listener
   - compose
@@ -53,19 +53,19 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🖐️ used
+  - structure 🖐️ used
   - record
   - enum
   - instance
-  - object
-  - class
+  - object 🖐️ used
+  - class 🖐️ used
   - collection
   - set
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
+  - unrolled list 🖐️ used
   - circular list
   - queue
   - stack
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 🖐️ used
   - garbage collection
   - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
+  - code review 🖐️ used
+  - antipatterns 🖐️ used
+  - paradigm 🖐️ used
+  - algorithm 🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git 🖐️ used
+  - github 🖐️ used
