@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop 🎓 known
+  - try..catch 🎓 known
+  - Non-blocking 🎓 known
+  - Async I/O 🎓 known
+  - Thread pool 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -16,51 +16,51 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
+  - Actor Model 👂 heard
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🎓 known
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
   - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Deferred 👂 heard
+  - Sync generator 🎓 known
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 🖐️ used
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware 🖐️ used
+  - Locks 👂 heard
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
+  - callbacks compose 👂 heard
+  - async compose 👂 heard
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🎓 known
   - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 🎓 known
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers 🎓 known
+  - setImmediate 👂 heard
   - nextTick
   - AbortController
   - AbortSignal
@@ -70,24 +70,24 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
   - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
+  - Error handling in async code 🎓 known
+  - Better stack traces with return await 🎓 known
+  - JSON: streaming serialization 🎓 known
+  - promisify 👂 heard
+  - callbackify 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - async.js library 👂 heard
+  - RxJS library 🎓 known
+  - Async composition 👂 heard
+  - Promise.all 🎓 known
+  - Promise.allSettled 🎓 known
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
   - Web Locks API
   - IPC
   - Channel API
