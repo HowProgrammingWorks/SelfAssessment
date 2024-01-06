@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop 👂 heard
+  - try..catch 👂 heard
+  - Non-blocking 👂 heard
+  - Async I/O 🙋 used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,32 +13,32 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
+  - Race conditions 👂 heard
   - Dead locks
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread 👂 heard
+  - Process 🙋 used
 - Async contracts
-  - Callbacks
+  - Callbacks 🙋 used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 🙋 used
+  - Async/await 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 🙋 used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Stream 👂 heard
+  - Chain of responsibility 👂 heard
+  - Middleware 👂 heard
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,10 +47,10 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter 👂 heard
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - Async Pool
   - Async Queue
@@ -59,35 +59,35 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
+  - Timers 👂 heard
+  - setImmediate 👂 heard
+  - nextTick 👂 heard
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
+  - Promise unhandled rejection 👂 heard
   - Promise double resolve
-  - child_process
-  - worker_threads
+  - child_process 👂 heard
+  - worker_threads 👂 heard
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 👂 heard
+  - Promise hell 👂 heard
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code 👂 heard
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library
-  - RxJS library
+  - RxJS library 👂 heard
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all 👂 heard
+  - Promise.allSettled 👂 heard
+  - Promise.race 👂 heard
+  - Promise.any 👂 heard
   - Web Locks API
   - IPC
   - Channel API

@@ -1,44 +1,44 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 👂 heard
+  - ECMAScript modules 👂 heard
+  - node:module 👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 🙋 used
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🙋 used
+  - Dependencies: package.json and package lock 🙋 used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🙋 used
+  - Node.js CLI 🙋 used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch 👂 heard
 - Internal API
   - Streams API
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -57,22 +57,22 @@
   - Generating crypto random UUID
   - node:url vs new URL
   - node:assert
-  - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Internationalization 👂 heard
+  - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer 👂 heard
+  - Multilayer approach 👂 heard
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection 👂 heard
   - GRASP
-  - SOLID
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
   - Clean architecture
-  - DDD
+  - DDD 👂 heard
   - Message Queue
   - CQS
   - CQRS
@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🙋 used
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
-  - Routing
+  - Routing 👂 heard
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -113,43 +113,43 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner 👂 heard
+  - Logging 👂 heard
+  - Application configuring 👂 heard
+  - Testing 👂 heard
+  - CI/CD 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 👂 heard
+  - Console 👂 heard
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 👂 heard
+  - Repository 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 👂 heard
   - error.cause
   - error.code
-  - error.message
+  - error.message 👂 heard
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools 👂 heard
   - Flame graph
-  - Memory leaks
+  - Memory leaks 👂 heard
   - Resource leaks
-  - Data race
+  - Data race 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons
