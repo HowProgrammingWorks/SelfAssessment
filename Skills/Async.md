@@ -3,22 +3,22 @@
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🎓 known
-  - Non-blocking: 🎓 known
+  - Non-blocking: 🙋 explained
   - Async I/O: 🎓 known
   - Thread pool: 🎓 known
   - Pattern Reactor:
   - CAS operations:
-  - epoll:
-  - kqueue:
+  - epoll: 👂 heard
+  - kqueue
   - Completion ports:
   - Event ports:
   - libuv: 🎓 known
-  - Race conditions: 🎓 known
-  - Dead locks:
-  - Live locks:
-  - Concurrent programming:
+  - Race conditions 🎓 known
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
+  - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
-  - Actor Model:
+  - Actor Model: 👂 heard
   - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
@@ -27,7 +27,7 @@
   - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future:
+  - Future: 👂 heard
   - Deferred:
   - Sync generator:
   - Async Generator: 👂 heard
@@ -35,7 +35,7 @@
   - Event: 🎓 known
   - Coroutine:
   - Goroutine:
-  - Signal:
+  - Signal: 👂 heard
   - Stream: 🎓 known
   - Chain of responsibility:
   - Middleware: 🎓 known
@@ -43,12 +43,12 @@
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 🎓 known
-  - asyncify:
-  - callbacks compose:
-  - async compose:
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer:
+  - EventEmitter 🎓 known
+  - Observable/Observer: 👂 heard
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -63,7 +63,7 @@
   - setImmediate: 🎓 known
   - nextTick: 👂 heard
   - AbortController: 🖐️ used
-  - AbortSignal:
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve:
   - child_process: 🎓 known
@@ -72,20 +72,20 @@
   - High resolution clock:
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
-  - ref() and unref():
+  - ref() and unref(): 👂 heard
   - Error handling in async code: 🙋 explained
   - Better stack traces with return await: 🎓 known
   - JSON: streaming serialization:
-  - promisify: 🎓 known
-  - callbackify: 🎓 known
-  - AsyncLocalStorage:
-  - AsyncResource:
+  - promisify 🎓 known
+  - callbackify 🎓 known
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
   - async.js library: 👂 heard
-  - RxJS library:
+  - RxJS library: 👂 heard
   - Async composition: 
   - Promise.all: 🙋 explained
-  - Promise.allSettled:
+  - Promise.allSettled: 👂 heard
   - Promise.race: 🙋 explained
   - Promise.any: 🙋 explained
   - Web Locks API:
