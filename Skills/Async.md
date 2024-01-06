@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
-  - try..catch: 🎓 known
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
   - Non-blocking: 👂 heard
   - Async I/O:
-  - Thread pool: 🎓 known
+  - Thread pool: 🖐️ used
   - Pattern Reactor:
   - CAS operations:
   - epoll: 👂 heard
@@ -16,42 +16,42 @@
   - Race conditions:
   - Dead locks:
   - Live locks: 👂 heard
-  - Concurrent programming: 🎓 known
+  - Concurrent programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Actor Model:
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks:
   - Callback-last-error-first:
   - Thenable:
   - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Async/await: 🖐️ used
   - Future:
   - Deferred:
   - Sync generator:
   - Async Generator:
   - Async Iterator:
   - Event:
-  - Coroutine: 👂 heard
+  - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
-  - Signal: 👂 heard
+  - Signal: 🖐️ used
   - Stream: 👂 heard
   - Chain of responsibility:
   - Middleware:
   - Locks:
 - Async adapters and utils
-  - callbackify: 🎓 known
-  - promisify: 🎓 known
+  - callbackify:🖐️ used
+  - promisify: 🖐️ used
   - asyncify: 🎓 known
   - callbacks compose: 
-  - async compose: 👂
+  - async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer:
   - Readable:
   - Writable:
-  - Transform: 👂 heard
+  - Transform: 🖐️ used
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
@@ -72,12 +72,12 @@
   - High resolution clock: 👂 heard
   - Callback hell: 👂 heard
   - Promise hell: 👂 heard
-  - ref() and unref(): 👂 heard
+  - ref() and unref(): 🖐️ used
   - Error handling in async code:
   - Better stack traces with return await:
   - JSON: streaming serialization:
-  - promisify: 👂 heard
-  - callbackify: 👂 heard 
+  - promisify: 🖐️ used
+  - callbackify: 🖐️ used 
   - AsyncLocalStorage:
   - AsyncResource:
 - Techniques

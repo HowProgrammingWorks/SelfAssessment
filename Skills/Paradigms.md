@@ -9,24 +9,24 @@
   - Prototype-based programming:
   - Object-oriented programming: 🎓 known
   - Object-based programming:
-  - Generic programming:
+  - Generic programming: 👂 heard
   - Concurrent computing: 🎓 known
   - Asyncronous programming: 🎓 known
-  - Parallel programming: 🎓 known
-  - Reactive programming: 🎓 known
+  - Parallel programming:  🙋 explained
+  - Reactive programming:  🙋 explained
   - FRP (Functional-reactive):
   - Automata-based programming:
-  - Domain-specific languages:
-  - Multi-paradigm programming :
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming : 👂 heard
   - Metaprogramming:
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️  used
+  - constructor:  🙋 explained
+  - new:  🙋 explained
   - Static method: 🖐️ used
   - Method: 🖐️ used
   - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
+  - Getters, Setters: 🙋 explained
   - Public fields:  🎓 known
   - Private fields: 🎓 known
   - Field declarations:
@@ -42,11 +42,11 @@
   - Introspection:
   - Reflection:
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method:
+  - Singleton: 🔬 researched
+  - Factory Method: 🔬 researched
   - Abstract Factory: 🖐️ used
   - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Observer:  🙋 explained
   - Strategy: 🎓 known
   - Facade: 🎓 known
   - Proxy: 🖐️ used
@@ -61,6 +61,6 @@
   - Decorator: 🎓
   - Flyweight: 🖐️ used
   - Mediator: 👂 heard
-  - Memento:
+  - Memento: 👂 heard
   - Template Method:
-  - Visitor:
+  - Visitor: 👂 heard

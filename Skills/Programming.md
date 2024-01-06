@@ -1,10 +1,10 @@
 :## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
+  - value: 🙋 explained
   - identifier:
-  - variable: 🖐️ used
-  - constant: 🖐️ used
+  - variable: 🙋 explained
+  - constant: 🙋 explained
   - scalar:
   - literal: 🖐️ used
   - expression: 🖐️ used
@@ -12,7 +12,7 @@
   - function: 🖐️ used
   - procedure:
   - method: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 explained
   - prototype: 🖐️ used
   - event: 🖐️ used
   - type: 🖐️ used
@@ -20,7 +20,7 @@
   - reference types:
   - flag: 🖐️ used
   - lexical scope: 🖐️ used
-  - code block: 🖐️ used
+  - code block: 🙋 explained
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 
@@ -28,20 +28,20 @@
   - interface: 🖐️ used
   - contract: 
   - module: 🎓 known
-  - call stack: 🖐️ used
+  - call stack:🙋 explained
 - Functions
-  - signature: 🖐️ used
+  - signature: 🙋 explained
   - argument: 🖐️ used
   - parameter: 🖐️ used
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
-  - side effects: 👂 heard
+  - side effects: 🙋 explained
   - closure: 🖐️ used
   - partial application:
   - curry:
   - higher order: 🖐️ used
   - recursion:
-  - callback: 🖐️ used
+  - callback: 🙋 explained
   - listener: 🖐️ used
   - compose:
   - pipe:
@@ -50,24 +50,24 @@
   - functor:
   - monad:
   - monoid:
-  - generator: 🖐️ used
+  - generator: 🙋 explained
   - coroutine:
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure:
   - record:
-  - enum: 🖐️ used
-  - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
-  - collection: 🖐️ used
-  - set: 🖐️ used
-  - hash table: 🖐️
-  - linked list: 🖐️ used
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
   - doubly list:
   - unrolled list:
   - circular list: 🖐️ used
-  - queue: 🖐️ used
+  - queue: 🙋 explained
   - stack: 🖐️ used
   - deque: 
   - tree: 🖐️ used
@@ -78,11 +78,11 @@
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
-  - compiler: 🖐️ used
+  - compiler: 🙋 explained
   - transpiler:
   - linter: 🎓 known
   - polyfill:
-  - debugger: 🎓 known
+  - debugger: 🙋 explained
   - garbage collection: 🖐️ used
   - refactoring: 🎓 known
   - code review: 🖐️ used
@@ -102,6 +102,6 @@
   - exception: 🎓 known
   - return early:
   - unittest: 🖐️ used
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - git: 🙋 explained
+  - github: 🙋 explained
  
