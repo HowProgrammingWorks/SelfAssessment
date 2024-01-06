@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 👂 heard
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and slocking code: 🎓 known
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
     <!-- - Node.js LTS schedule -->
     <!-- - I/O-bound, CPU-bound, memory-bound tasks -->
     <!-- - Interactive applications (close to real-time) -->
@@ -14,22 +14,22 @@
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
   - node:module: 🖐️ used
-  - Caching in CJS and ESM: 👂 heard
+  - Caching in CJS and ESM: 🎓 known
   - Modules as singletons: 🖐️ used
   <!-- - Contexts and scripts node:vm -->
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
   <!-- - Module-based permissions model -->
   - Isolation with modularity: 🎓 known
-  - Dependency injection: 👂 heard
-  - DI containers: 👂 heard
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
   - Coupling and cohesion: 🎓 known
-  - Framework agnostic approach: 👂 heard
+  - Framework agnostic approach: 🎓 known
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
   - Process-based permissions: 🖐️ used
-  - Graceful shutdown: 👂 heard
+  - Graceful shutdown: 🎓 known
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
@@ -95,7 +95,7 @@
   - HTTP/3 (QUIC): 🎓 known
   <!-- - Long polling -->
   - REST: 🖐️ used
-  <!-- - RPC: 🎓 known -->
+  - RPC: 🎓 known
   - Routing: 🖐️ used
   <!-- - DoS -->
   - DDoS: 🖐️ used
@@ -130,17 +130,17 @@
   - Availability: 👂 heard
   - Flexibility: 🖐️ used
 - Data access
-  <!-- - Data access layer: 🖐️ used -->
+  - Data access layer: 🖐️ used
   - Repository: 🖐️ used
   - Active record: 👂 heard
   - Query builder: 👂 heard
-  - Object-Relational Mapping: 👂 heard
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error: 🎓 known
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
+  - error.code: 🖐️ used
   - error.message: 🖐️ used
-  - error.stack: 🎓 known
+  - error.stack: 🖐️ used
   - How to avoid mixins: 👂 heard
   - Error.captureStackTrace: 🎓 known
   - Uncaught exceptions: 🖐️ used

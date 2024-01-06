@@ -8,7 +8,7 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap: 🎓 known
+  - heap: 🖐️ used
   - function: 🙋 explained
   - procedure: 🖐️ used
   - method: 🖐️ used
@@ -47,11 +47,11 @@
   - pipe: 🖐️ used
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor: 👂 heard
-  - monad: 👂 heard
-  - monoid: 👂 heard
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
   - generator: 🖐️ used
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🙋 explained
   - structure: 🖐️ used

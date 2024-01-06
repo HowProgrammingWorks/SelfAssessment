@@ -57,7 +57,7 @@
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🙋 explained
-  - new Error: 🎓 known
+  - new Error: 🖐️ used
   - with: 👂 heard
 - Functions
   - function declaration: 🙋 explained
