@@ -1,65 +1,65 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier
-  - variable: 👂 heard
-  - constant: 👂 heard
-  - scalar: 👂 heard
-  - literal: 👂 heard
-  - expression: 👂 heard
-  - heap
-  - function: 👂 heard
-  - procedure: 👂 heard
-  - method: 👂 heard
-  - class: 👂 heard
-  - prototype
-  - event: 👂 heard
-  - type: 👂 heard
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module: 👂 heard
-  - call stack
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🖐️ used
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 👂 heard
+  - reference types: 👂 heard
+  - flag: 🖐️ used
+  - lexical scope: 👂 heard
+  - code block: 🖐️ used
+  - conditions: 🎓 known
+  - loops: 🎓 known
+  - assignment: 🖐️ used
+  - regular expression: 🖐️ used
+  - interface: 👂 heard
+  - contract: 👂 heard
+  - module: 🖐️ used
+  - call stack: 👂 heard
 - Functions
-  - signature: 👂 heard
-  - argument: 👂 heard
-  - parameter: 👂 heard
-  - pure function
-  - lambda expression
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🎓 known
+  - lambda expression: 🎓 known
   - side effects: 👂 heard
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
+  - closure: 👂 heard
+  - partial application: 👂 heard
+  - curry: 🎓 known
+  - higher order: 👂 heard
+  - recursion: 🎓 known
   - callback: 👂 heard
   - listener
   - compose
   - pipe
   - memoize: 👂 heard
-  - wrapper
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
   - generator: 👂 heard
   - coroutine
 - Data structures
-  - array: 👂 heard
-  - structure: 👂 heard
+  - array: 🖐️ used
+  - structure: 🖐️ used
   - record: 👂 heard
-  - enum
+  - enum: 👂 heard
   - instance: 👂 heard
-  - object: 👂 heard
-  - class: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
   - set: 👂 heard
   - hash table
@@ -68,39 +68,39 @@
   - unrolled list
   - circular list
   - queue
-  - stack
-  - deque
-  - tree
-  - graph
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler: 👂 heard
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger: 👂 heard
+  - debugger: 🎓 known
   - garbage collection
   - refactoring: 👂 heard
   - code review: 👂 heard
   - antipatterns
-  - paradigm
-  - algorithm: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🎓 known
   - magic numbers
-  - hardcode
-  - complexity
+  - hardcode: 👂 heard
+  - complexity: 👂 heard
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code: 👂 heard
   - unreachable code
-  - duplicate code
+  - duplicate code: 🎓 known
   - exception
   - return early
   - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - git: 🎓 known
+  - github: 🎓 known
