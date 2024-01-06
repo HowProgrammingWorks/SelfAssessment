@@ -1,0 +1,51 @@
+## Artificial Intelligence concepts
+
+- Basic Concepts
+  - Model: 🎓 known
+  - Artificial Neural Networks (ANN): 🎓 known
+  - Deep Neural Networks (DNN): 🎓 known
+  - Convolutional Neural Networks (CNN): 🎓 known
+  - Recurrent Neural Networks (RNN): 🎓 known
+  - Long Short-Term Memory (LSTM)
+  - Activation Functions: 🎓 known
+  - Backpropagation: 🎓 known
+  - Gradient Descent: 👂 heard
+  - Loss Functions: 🎓 known
+  - Overfitting & Underfitting: 👂 heard
+  - Regularization Techniques
+  - Batch Normalization
+  - Dropout
+  - Transfer Learning
+  - Data Augmentation
+  - Feature Extraction
+  - Hyperparameter Tuning
+- Advanced Techniques
+  - Generative Adversarial Networks (GAN)
+  - Autoencoders
+  - Reinforcement Learning
+  - Attention Mechanisms
+  - Transformer Models
+  - Neural Style Transfer
+  - Anomaly Detection
+  - Federated Learning
+  - Explainable AI (XAI)
+  - Edge AI
+- Computer Vision
+  - Image Classification: 👂 heard
+  - Object Detection: 👂 heard
+  - Image Segmentation: 👂 heard
+  - Face Recognition: 👂 heard
+  - Optical Character Recognition (OCR): 👂 heard
+- Natural Language Processing (NLP)
+  - Text Classification: 👂 heard
+  - Sentiment Analysis
+  - Named Entity Recognition (NER)
+  - Machine Translation
+  - Text Generation: 👂 heard
+  - Speech Recognition: 👂 heard
+- Data and Model Management
+  - Data Preprocessing: 👂 heard
+  - Model Deployment
+  - Model Monitoring
+  - Model Versioning
+  - Model Pipelines

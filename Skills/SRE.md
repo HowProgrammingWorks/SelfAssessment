@@ -1,0 +1,50 @@
+## Site Reliability Engineering concepts
+
+- Infrastructure Concepts
+  - Server: 🙋 explained
+  - Cluster: 🙋 explained
+  - Data Center: 🙋 explained
+  - Virtualization: 🙋 explained
+  - Hypervisors: 🙋 explained
+  - Containerization: 🙋 explained
+  - Microservices: 🙋 explained
+  - Orchestration: 🙋 explained
+  - Load Balancing: 🙋 explained
+  - Caching: 🙋 explained
+  - Proxy: 🙋 explained
+  - CDN (Content Delivery Network): 🙋 explained
+  - Edge Computing
+  - Horizontal Scaling: 🙋 explained
+  - Vertical Scaling: 🙋 explained
+  - Autoscaling: 🙋 explained
+  - Disaster Recovery
+- Performance and Monitoring
+  - Latency: 🙋 explained
+  - Throughput: 🙋 explained
+  - Monitoring: 🙋 explained
+  - Observability: 🙋 explained
+  - Logging: 🙋 explained
+  - Log Aggregation: 🙋 explained
+  - Alerting: 🙋 explained
+  - Key Performance Indicator (KPI)
+  - SLA (Service Level Agreement)
+  - SLO (Service Level Objective)
+  - SLI (Service Level Indicator)
+  - Service Discovery
+  - Container Security
+  - Application Performance Monitoring
+- Deployment Strategies
+  - Blue-Green Deployment: 🙋 explained
+  - Canary Deployment: 🙋 explained
+  - Recreate Deployment: 🙋 explained
+  - Rolling Upgrade Deployment: 🙋 explained
+  - Shadow Deployment
+  - A/B Testing Deployment
+- DevOps and Automation
+  - CI/CD: 🙋 explained
+  - Continuous Deployment vs. Continuous Delivery: 🙋 explained
+  - Git Branching Strategies
+  - Infrastructure as Code (IaC): 🙋 explained
+  - Identity and Access Management: 🙋 explained
+  - Secrets Management: 🙋 explained
+  - Service Mesh

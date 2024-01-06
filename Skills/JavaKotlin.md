@@ -1,0 +1,39 @@
+## Java and Kotlin
+
+- JVM Internals and Performance Tuning
+  - Java Bytecode: 🎓 known
+  - Just-In-Time (JIT) Compilation: 🎓 known
+  - JVM Garbage Collectors: 🎓 known
+  - JVM Heap and Stack: 🎓 known
+  - JVM Monitoring and Profiling: 👂 heard
+  - Class Loading Mechanism: 👂 heard
+- Advanced Concurrency
+  - Java Memory Model: 👂 heard
+  - Synchronization Mechanisms: 🎓 known
+  - Locks and ReadWriteLocks: 🖐️ used
+  - Atomic Variables and Concurrent Data Structures: 👂 heard
+  - Thread Pools and Executor Framework: 🖐️ used
+  - CompletableFuture and Reactive Streams: 🖐️ used
+  - Virtual Threads (Project Loom)
+- Java Language Enhancements
+  - Lambda Expressions and Functional Interfaces: 🙋 explained
+  - Java Modules (Project Jigsaw): 👂 heard
+  - Annotations Processing: 🖐️ used
+  - Varargs and Generics Wildcards: 🖐️ used
+- Kotlin Language Features
+  - Inline Functions and Reified Type Parameters: 🖐️ used
+  - Companion Objects: 🖐️ used
+  - Operator Overloading: 🎓 known
+  - Delegated Properties: 🎓 known
+  - Destructuring Declarations: 🖐️ used
+  - Type Aliases: 🎓 known
+- Functional Programming in Kotlin
+  - Immutability and Pure Functions: 🎓 known
+  - Sequence and Collection Operations: 🎓 known
+  - Lazy Evaluation: 🎓 known
+- Coroutines and Asynchronous Programming
+  - Coroutine Builders and Contexts: 🖐️ used
+  - Structured Concurrency: 🎓 known
+  - Flow API and Reactive Streams: 🎓 known
+  - Suspending Functions: 🖐️ used
+  - Coroutine Exception Handling: 🎓 known

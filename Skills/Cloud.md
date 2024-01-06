@@ -1,0 +1,92 @@
+## Cloud concepts
+
+- Cloud Design Patterns
+  - Ambassador: 👂 heard
+  - Anti-Corruption Layer
+  - Asynchronous Request-Reply: 👂 heard
+  - Backends for Frontends
+  - Bulkhead
+  - Cache-Aside: 👂 heard
+  - Choreography
+  - Circuit Breaker
+  - Claim Check
+  - Compensating Transaction
+  - Competing Consumers
+  - Compute Resource Consolidation
+  - CQRS (Command Query Responsibility Segregation): 👂 heard
+  - Deployment Stamps
+  - Edge Workload Configuration
+  - Event Sourcing
+  - External Configuration Store
+  - Federated Identity: 👂 heard
+  - Gatekeeper
+  - Gateway Aggregation
+  - Gateway Offloading
+  - Gateway Routing: 👂 heard
+  - Geodes
+  - Health Endpoint Monitoring: 👂 heard
+  - Index Table: 👂 heard
+  - Leader Election
+  - Materialized View: 👂 heard
+  - Pipes and Filters
+  - Priority Queue: 👂 heard
+  - Publisher/Subscriber: 🖐️ used
+  - Queue-Based Load Leveling: 👂 heard
+  - Rate Limit Pattern: 👂 heard
+  - Retry: 👂 heard
+  - Saga
+  - Scheduler Agent Supervisor
+  - Sequential Convoy
+  - Sharding: 👂 heard
+  - Sidecar: 🖐️ used
+  - Static Content Hosting: 🖐️ used
+  - Strangler Fig
+  - Throttling
+  - Valet Key: 👂 heard
+  - Scalability Patterns: 👂 heard
+- Cloud Computing Models
+  - Public Cloud: 🙋 explained
+  - Private Cloud: 🙋 explained
+  - Hybrid Cloud: 🙋 explained
+  - Infrastructure as a Service (IaaS): 🙋 explained
+  - Platform as a Service (PaaS): 🙋 explained
+  - Software as a Service (SaaS): 🙋 explained
+  - Function as a Service (FaaS): 🙋 explained
+  - Container as a Service (CaaS): 🙋 explained
+- Google Cloud Services
+  - Compute Engine: 🙋 explained
+  - App Engine: 🙋 explained
+  - Kubernetes Engine: 🙋 explained
+  - Cloud Storage: 🙋 explained
+  - Cloud SQL: 🖐️ used
+  - Cloud Firestore: 🎓 known
+  - Cloud Bigtable: 🎓 known
+  - Cloud Spanner: 🎓 known
+  - Virtual Private Cloud (VPC): 🙋 explained
+  - Cloud Load Balancing
+  - Cloud DNS: 🙋 explained
+  - CDN: 🎓 known
+  - Firewall Rules: 🙋 explained
+  - Identity and Access Management (IAM): 🙋 explained
+  - Key Management Service (KMS)
+  - BigQuery: 🎓 known
+  - Dataflow: 👂 heard
+  - Dataprep: 👂 heard
+  - Pub/Sub: 🖐️ used
+  - Dataproc: 👂 heard
+  - AI Platform: 👂 heard
+  - AutoML: 👂 heard
+  - TensorFlow on GCP: 👂 heard
+  - Cloud Vision API: 👂 heard
+  - Natural Language API: 👂 heard
+  - Cloud Functions: 🎓 known
+  - Cloud Run: 🙋 explained
+  - Cloud Scheduler
+  - Cloud Tasks: 🖐️ used
+  - Memorystore: 🎓 known
+  - Cloud Composer: 🖐️ used
+  - Cloud Monitoring: 🙋 explained
+  - Cloud Logging: 🙋 explained
+  - Error Reporting: 🎓 known
+  - Cloud Build: 🙋 explained
+  - Artifact Registry: 🙋 explained
