@@ -3,8 +3,8 @@
 - Language
   - Object
   - this
-  - arrow function
-  - async function
+  - arrow function: 👂 heard
+  - async function: 👂 heard
   - call
   - bind
   - apply
@@ -13,8 +13,8 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -26,11 +26,11 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
@@ -39,42 +39,42 @@
   - in
   - super
   - Symbol
-  - Reflect
+  - Reflect: 👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🎓 known
+  - for..of: 🎓 known
   - for await
   - throw
-  - break
-  - continue
-  - import
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 🖐️ used
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration: 👂 heard
+  - function expression: 👂 heard
+  - return: 🖐️ used
   - default parameters
-  - functional object
+  - functional object: 👂 heard
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map: 👂 heard
+  - Set: 👂 heard
   - undefined
-  - null
-  - Proxy
+  - null: 👂 heard
+  - Proxy: 👂 heard
   - weak collections
   - timers
   - EventEmitter
