@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object: 👂 heard
+  - this:
   - arrow function
   - async function
   - call
@@ -14,7 +14,7 @@
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -25,10 +25,10 @@
   - window
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
+  - prototype: 👂 heard
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
+  - bitwise operators: 👂 heard
   - ternary operator
   - void
   - yield
@@ -38,42 +38,42 @@
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 👂 heard
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
+  - for..in:
+  - for..of:
   - for await
   - throw
-  - break
-  - continue
+  - break: 👂 heard
+  - continue: 👂 heard
   - import
   - export
   - label
   - try..catch
   - switch
-  - class
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration: 👂 heard
   - function expression
   - return
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
