@@ -1,95 +1,92 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+- Event loop: 🖐️ used
+- try..catch: 🖐️ used
+- Non-blocking: 👂 heard
+- Async I/O: 🖐️ used
+- Thread pool: 👂 heard
+- Pattern Reactor: 👂 heard
+- CAS operations: 🖐️ used
+- epoll: 👂 heard
+- kqueue: 👂 heard
+- Completion ports: 👂 heard
+- Event ports: 👂 heard
+- libuv: 🎓 known
+- Race conditions: 🖐️ used
+- Concurrent programming: 👂 heard
+- Parallel programming: 👂 heard
+- Thread: 👂 heard
+- Process: 🖐️ used
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+    - Future: 👂 heard
+    - Deferred: 👂 heard
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🖐️ used
+    <!-- - Coroutine -->
+    <!-- - Goroutine -->
+  - Signal: 👂 heard
+- Stream: 👂 heard
+- Chain of responsibility: 👂 heard
+- Middleware: 🖐️ used
+<!-- - Locks -->
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  <!-- - asyncify -->
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 🎓 known
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+    - Semaphore: 👂 heard
+    - Mutex: 👂 heard
+    <!-- - Spin Lock -->
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
+  - nextTick: 🖐️ used
+  - AbortController: 🎓 known
+  - AbortSignal: 🎓 known
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
+  - child_process: 👂 heard
+  - worker_threads: 👂 heard
+  - Atomics: 👂 heard
+  - High resolution clock: 🎓 known
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
+  - ref() and unref(): 👂 heard
+  - Error handling in async code: 🙋 explained
+  - Better stack traces with return await: 🖐️ used
+  - JSON: streaming serialization: 🙋 explained
+    - promisify: 👂 heard
+    - callbackify: 👂 heard
+      <!-- - AsyncLocalStorage -->
+      <!-- - AsyncResource -->
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  <!-- - async.js library -->
+  - RxJS library: 🎓 known
+  - Async composition: 🎓 known
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
+  - Web Locks API: 🎓 known
+  - IPC: 👂 heard
+      <!-- - Channel API -->
+    - Revealing Constructor: 🎓 known
+    <!-- - Web Locks API -->
