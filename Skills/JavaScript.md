@@ -1,4 +1,4 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
   - Object
