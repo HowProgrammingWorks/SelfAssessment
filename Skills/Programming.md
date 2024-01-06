@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🎓 known
+  - identifier: 👂 heard
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 🎓 known
+  - literal: 👂 heard
+  - expression: 🎓 known
   - heap
-  - function
-  - procedure
-  - method
+  - function: 🎓 known
+  - procedure: 🎓 known
+  - method: 🎓 known
   - class
   - prototype
-  - event
-  - type
+  - event: 👂 heard
+  - type: 🎓 known
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block: 👂 heard
+  - conditions: 👂 heard
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
   - regular expression
-  - interface
+  - interface: 🔬 researched
   - contract
-  - module
+  - module: 🎓 known
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 🎓 known
+  - parameter: 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -53,16 +53,16 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 👂 heard
+  - structure: 👂 heard
   - record
   - enum
   - instance
-  - object
+  - object: 👂 heard
   - class
   - collection
   - set
-  - hash table
+  - hash table: 👂 heard
   - linked list
   - doubly list
   - unrolled list
@@ -70,15 +70,15 @@
   - queue
   - stack
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree: 🔬 researched
+  - graph: 🔬 researched
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
@@ -88,8 +88,8 @@
   - code review
   - antipatterns
   - paradigm
-  - algorithm
-  - magic numbers
+  - algorithm: 🔬 researched
+  - magic numbers: 🔬 researched
   - hardcode
   - complexity
   - decomposition
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github: 👂 heard
