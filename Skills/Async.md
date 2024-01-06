@@ -1,19 +1,19 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - try..catch 🎓 known
-  - Non-blocking 🎓 known
-  - Async I/O 🎓 known
-  - Thread pool 👂 heard
-  - Pattern Reactor 👂 heard
-  - CAS operations 👂 heard
-  - epoll 👂 heard
-  - kqueue 👂 heard
-  - Completion ports 👂 heard
-  - Event ports 👂 heard
-  - libuv 👂 heard
-  - Race conditions 👂 heard
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
+  - Non-blocking 🖐️ used
+  - Async I/O 🖐️ used
+  - Thread pool 🖐️ used
+  - Pattern Reactor 🎓 known
+  - CAS operations 🎓 known
+  - epoll 🎓 known
+  - kqueue 🎓 known
+  - Completion ports 🎓 known
+  - Event ports 🎓 known
+  - libuv 🎓 known
+  - Race conditions 🎓 known
   - Dead locks 🎓 known
   - Live locks 🎓 known
   - Concurrent programming 🎓 known
@@ -22,16 +22,16 @@
   - Thread 👂 heard 
   - Process 🎓 known
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first 🎓 known
-  - Thenable 👂 heard
-  - Promise 👂 heard
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
   - Async/await  🎓 known
-  - Future 👂 heard
+  - Future 🖐️ used
   - Deferred 👂 heard
-  - Sync generator 👂 heard
-  - Async Generator 👂  heard
-  - Async Iterator 👂 heard
+  - Sync generator 🖐️ used
+  - Async Generator 🖐️ used
+  - Async Iterator 🖐️ used
   - Event 👂 heard
   - Coroutine 👂 heard
   - Goroutine 👂 heard
@@ -42,16 +42,16 @@
   - Locks 👂 heard
 - Async adapters and utils
   - callbackify 🎓 known
-  - promisify 👂 heard
-  - asyncify 👂 heard
-  - callbacks compose 👂 heard
-  - async compose 👂 heard
+  - promisify 🎓 known
+  - asyncify 🎓 known
+  - callbacks compose 🎓 known
+  - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter 🎓 known
-  - Observable/Observer 🎓 known
-  - Readable 👂 heard
-  - Writable 👂 heard
-  - Transform 👂 heard
+  - EventEmitter 🖐️ used
+  - Observable/Observer 🖐️ used
+  - Readable🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
   - Async Pool 👂 heard
   - Async Queue 👂 heard
   - Async Collector 👂 heard
@@ -60,10 +60,10 @@
   - Spin Lock 👂 heard
 - JavaScript & Node.js specific
   - Timers 🖐️ used
-  - setImmediate 👂 heard
-  - nextTick 👂 heard
-  - AbortController 👂 heard
-  - AbortSignal 👂 heard
+  - setImmediate 🎓 known
+  - nextTick 🎓 known
+  - AbortController 🎓 known
+  - AbortSignal 🎓 known
   - Promise unhandled rejection 👂 heard
   - Promise double resolve 👂 heard
   - child_process 👂 heard
@@ -74,10 +74,10 @@
   - Promise hell 👂 heard
   - ref() and unref() 🖐️ used
   - Error handling in async code  👂 heard
-  - Better stack traces with return await 👂 heard
-  - JSON: streaming serialization 👂 heard
-  - promisify 👂 heard
-  - callbackify 👂 heard
+  - Better stack traces with return await 🎓 known
+  - JSON: streaming serialization 🎓 known
+  - promisify 🎓 known
+  - callbackify 🎓 known
   - AsyncLocalStorage 👂 heard
   - AsyncResource 👂 heard
 - Techniques
