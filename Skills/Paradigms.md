@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 🖐️ used
+  - Imperative programming🖐️ used
+  - Structured programming 🖐️ used
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🖐️ used
+  - Generic programming 🖐️ used
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming 🖐️ used
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,22 +21,22 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
   - Field declarations
   - Inheritance
   - Parent class
-  - Polymorphism
+  - Polymorphism 🖐️ used
   - Abstract class
   - Interface
   - Encapsulation
-  - Hidden class
+  - Hidden class 🖐️ used
   - Object form
   - instance
   - Introspection
@@ -44,23 +44,23 @@
 - Patterns
   - Singleton
   - Factory Method
-  - Abstract Factory
-  - Adapter
+  - Abstract Factory 🖐️ used
+  - Adapter 🖐️ used
   - Observer
-  - Strategy
+  - Strategy 🖐️ used
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
+  - Command 🖐️ used
   - Iterator
   - State
-  - Bridge
+  - Bridge 🖐️ used
   - Builder
   - Prototype
-  - Composite
+  - Composite🖐️ used
   - Decorator
   - Flyweight
   - Mediator
-  - Memento
+  - Memento 🖐️ used
   - Template Method
-  - Visitor
+  - Visitor 🖐️ used
