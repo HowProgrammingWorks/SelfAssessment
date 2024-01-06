@@ -46,7 +46,7 @@
   - Factory Method: 🚀 constructed
   - Abstract Factory: 🚀 constructed
   - Adapter: 🎓 known
-  - Observer: 🎓 known
+  - Observer: 🚀 constructed
   - Strategy: 🚀 constructed
   - Facade: 🎓 known
   - Proxy: 🚀 constructed
