@@ -38,19 +38,19 @@
   - side effects: 🎓 known
   - closure: 🎓 known
   - partial application:
-  - curry:
-  - higher order: 👂 heard
+  - curry: 👂 heard
+  - higher order: 🎓 known
   - recursion: 🙋 explained
   - callback: 🙋 explained
   - listener: 🖐️ used
-  - compose:
+  - compose: 👂 heard
   - pipe: 🖐️ used
-  - memoize: 👂 heard
+  - memoize: 🖐️ used
   - wrapper: 🎓 known
   - functor: 
   - monad:
   - monoid:
-  - generator: 👂 heard
+  - generator: 🎓 known
   - coroutine: 
 - Data structures
   - array: 🙋 explained
@@ -64,12 +64,12 @@
   - set: 🙋 explained
   - hash table: 🖐️ used
   - linked list: 🖐️ used
-  - doubly list: 👂 heard
+  - doubly list: 🎓 known
   - unrolled list: 👂 heard
   - circular list: 👂 heard
   - queue: 🖐️ used
   - stack: 🖐️ used
-  - deque:
+  - deque: 👂 heard
   - tree: 🖐️ used
   - graph: 🖐️ used
   - iterator: 🖐️ used
