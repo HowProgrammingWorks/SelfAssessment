@@ -1,21 +1,21 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
+  - value: 🎓 known
   - identifier
-  - variable: 👂 heard
-  - constant: 👂 heard
-  - scalar: 👂 heard
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 🎓 known
   - literal
   - expression
   - heap
-  - function: 👂 heard
+  - function: 🎓 known
   - procedure
   - method
-  - class: 👂 heard
-  - prototype: 👂 heard
+  - class: 🎓 known
+  - prototype: 🎓 known
   - event
-  - type: 👂 heard
+  - type: 🎓 known
   - primitive types
   - reference types
   - flag
@@ -30,19 +30,19 @@
   - module
   - call stack: 👂 heard
 - Functions
-  - signature: 👂 heard
-  - argument: 👂 heard
-  - parameter: 👂 heard
+  - signature: 🎓 known
+  - argument: 🎓 known
+  - parameter: 🎓 known
   - pure function
-  - lambda expression
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion: 👂 heard
-  - callback: 👂 heard
-  - listener: 👂 heard
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🎓 known
   - compose
   - pipe
   - memoize
@@ -50,16 +50,16 @@
   - functor
   - monad
   - monoid
-  - generator: 👂 heard
+  - generator: 🎓 known
   - coroutine
 - Data structures
-  - array: 👂 heard
+  - array: 🎓 known
   - structure: 👂 heard
   - record
   - enum
-  - instance: 👂 heard
-  - object: 👂 heard
-  - class: 👂 heard
+  - instance: 🎓 known
+  - object: 🎓 known
+  - class: 🎓 known
   - collection
   - set
   - hash table
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
