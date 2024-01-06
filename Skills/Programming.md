@@ -1,106 +1,108 @@
 ## Programming fundamental concepts
 
+: 👂 heard,: 🎓 known,: 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🎓 known
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope: 🖐️ used
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🎓 known
+  - interface: 🎓 known
+  - contract: 🖐️ used
+  - module: 🖐️ used
+  - call stack: 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature: 🎓 known
+  - argument: 🎓 known
+  - parameter: 🎓 known
+  - pure function: 🖐️ used
+  - lambda expression: 👂 heard
+  - side effects: 🖐️ used
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 👂 heard
+  - listener: 🖐️ used
+  - compose: 🖐️ used
+  - pipe: 🎓 known
+  - memoize: 🎓 known
+  - wrapper: 🖐️ used
+  - functor: 🖐️ used
+  - monad: 🎓 known
+  - monoid: 🎓 known
+  - generator: 🎓 known
+  - coroutine: 🎓 known
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🖐️ used
+  - structure: 🖐️ used
+  - record: 👂 heard
+  - enum: 🖐️ used
+  - instance: 👂 heard
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection: 👂 heard
+  - set: 🖐️ used
+  - hash table: 👂 heard
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 🖐️ used
+  - circular list: 🖐️ used
+  - queue: 🎓 known
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🎓 known
+  - graph: 🎓 known
+  - iterator: 👂 heard
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 👂 heard
+  - string parsing: 👂 heard
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler: 🖐️ used
+  - transpiler: 👂 heard
+  - linter: 🖐️ used
+  - polyfill: 🖐️ used
+  - debugger: 🖐️ used
+  - garbage collection: 🖐️ used
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
+  - spaghetti: 🖐️ used
+  - silver bullet: 🖐️ used
+  - not invented here: 🖐️ used
+  - dead code: 🖐️ used
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 🖐️ used
+  - unittest: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
