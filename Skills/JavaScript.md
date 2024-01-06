@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object: 👂 heard
+  - this: 👂 heard
   - arrow function
-  - async function
+  - async function: 👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
+  - for..of: 🎓 known
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 🎓 known
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 👂 heard
+  - export: 👂 heard
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 🎓 known
+  - switch: 🎓 known
+  - class: 🎓 known
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration: 🎓 known
   - function expression
-  - return
-  - default parameters
+  - return: 🎓 known
+  - default parameters: 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
-  - Map
+  - Map: 🎓 known
   - Set
-  - undefined
-  - null
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -82,8 +82,8 @@
   - Date
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN

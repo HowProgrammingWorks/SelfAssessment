@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
   - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Concurrent computing: 🖐️ used
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 🖐️ used
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
   - Introspection
-  - Reflection
+  - Reflection: 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
   - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
   - Bridge
-  - Builder
-  - Prototype
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator
-  - Flyweight
+  - Decorator: 👂 heard
+  - Flyweight: 👂 heard
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor: 🖐️ used

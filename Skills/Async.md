@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch: 🎓 known
   - Non-blocking
-  - Async I/O
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,33 +13,33 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions: 🔬 researched
+  - Dead locks: 🔬 researched
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🔬 researched
+  - Parallel programming: 🔬 researched
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🔬 researched
+  - Process: 🔬 researched
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility: 🖐️ used
   - Middleware
-  - Locks
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,19 +47,19 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🖐️ used
+  - Mutex: 🔬 researched
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 👂 heard
   - setImmediate
   - nextTick
   - AbortController
@@ -68,7 +68,7 @@
   - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics
+  - Atomics: 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -81,7 +81,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition
   - Promise.all
