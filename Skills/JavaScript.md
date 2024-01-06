@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
-- Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
-- Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
-- Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
-- Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
-- Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+- Language 
+  - Object: 🖐️ used 
+  - this: 🖐️ used 
+  - arrow function: 🖐️ used 
+  - async function: 🖐️ used 
+  - call: 🖐️ used 
+  - bind: 🖐️ used 
+  - apply: 🖐️ used 
+  - instanceof: 🖐️ used 
+  - ...spread: 🖐️ used 
+  - ...rest: 🖐️ used 
+  - typeof: 🖐️ used 
+  - destructuring: 🖐️ used 
+  - generator: 🖐️ used 
+  - iterator: 🖐️ used 
+  - async generator: 🖐️ used 
+  - async iteratorv 
+  - chaining: 🖐️ used 
+  - optional chaining: 🖐️ used 
+  - IIFE: 🖐️ used 
+  - global: 🖐️ used 
+  - globalThis: 🖐️ used 
+  - window: 🖐️ used 
+  - getters and setters: 🖐️ used 
+  - __proto__: 🎓 known 
+  - prototype: 🎓 known 
+  - equality operators: 🖐️ used 
+  - logical operators: 🖐️ used 
+  - bitwise operators: 🖐️ used 
+  - ternary operator: 🖐️ used 
+  - void: 🖐️ used 
+  - yield: 🖐️ used 
+  - await: 🖐️ used 
+  - template literal: 🖐️ used 
+  - strict mode: 🖐️ used 
+  - delete: 🖐️ used 
+  - in: 🖐️ used 
+  - super: 🖐️ used 
+  - Symbol: 🖐️ used 
+  - Reflect: 🖐️ used 
+- Statements 
+  - if: 🖐️ used 
+  - while: 🖐️ used 
+  - do..while: 🖐️ used 
+  - for: 🖐️ used 
+  - for..in: 🖐️ used 
+  - for..of: 🖐️ used 
+  - for await: 🖐️ used 
+  - throw: 🖐️ used 
+  - break: 🖐️ used 
+  - continue: 🖐️ used 
+  - import: 🖐️ used 
+  - export: 🖐️ used 
+  - label: 🖐️ used 
+  - try..catch: 🖐️ used 
+  - switch: 🖐️ used 
+  - class: 🖐️ used 
+  - new Error: 🖐️ used 
+  - with: 🎓 known 
+- Functions 
+  - function declaration: 🖐️ used 
+  - function expression: 🖐️ used 
+  - return: 🖐️ used 
+  - default parameters: 🖐️ used 
+  - functional object: 🖐️ used 
+- Data structures 
+  - Array: 🖐️ used 
+  - mixin: 🖐️ used 
+  - extend: 🖐️ used 
+  - typed arrays: 🖐️ used 
+  - Map: 🖐️ used 
+  - Set: 🖐️ used 
+  - undefined: 🖐️ used 
+  - null: 🖐️ used 
+  - Proxy: 🖐️ used 
+  - weak collections: 🖐️ used 
+  - timers: 🖐️ used 
+  - EventEmitter: 🖐️ used 
+  - RegExp: 🖐️ used 
+  - Date: 🖐️ used 
+  - BigInt: 🎓 known 
+- Infrastructure 
+  - V8: 🖐️ used 
+  - Node.js: 🖐️ used 
+  - npm: 🖐️ used 
+  - prettier: 🖐️ used 
+  - MDN: 🖐️ used
