@@ -36,7 +36,7 @@
   - pure function: 👂 heard
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure: 🖐️ used
+  - closure: 👂 heard
   - partial application
   - curry: 👂 heard
   - higher order: 🖐️ used
