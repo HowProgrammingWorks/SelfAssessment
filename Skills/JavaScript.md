@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🖐️ used
+  - this 🖐️ used
   - arrow function
   - async function
-  - call
+  - call 🖐️ used
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -26,11 +26,11 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
   - yield
   - await
   - template literal
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null
+  - null 🎓 known
   - Proxy
   - weak collections
   - timers
