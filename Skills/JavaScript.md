@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object: 👂 heard
   - this
   - arrow function
   - async function
@@ -14,7 +14,7 @@
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -42,15 +42,15 @@
   - Reflect
 - Statements
   - if
-  - while
-  - do..while
-  - for
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break: 👂 heard
+  - continue: 👂 heard
   - import
   - export
   - label
@@ -62,18 +62,18 @@
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
