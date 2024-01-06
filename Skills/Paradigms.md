@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming  👂 heard
+  - Imperative programming  👂 heard
+  - Structured programming  👂 heard
+  - Non-structured programming  👂 heard
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming  👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -21,11 +21,11 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
+  - constructor  👂 heard
+  - new  👂 heard
+  - Static method  👂 heard
+  - Method  👂 heard
+  - Async method  👂 heard
   - Getters, Setters
   - Public fields
   - Private fields
@@ -47,13 +47,13 @@
   - Abstract Factory
   - Adapter
   - Observer
-  - Strategy
+  - Strategy  👂 heard
   - Facade
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
-  - State
+  - State  👂 heard
   - Bridge
   - Builder
   - Prototype

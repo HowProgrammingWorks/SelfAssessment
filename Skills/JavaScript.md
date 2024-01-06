@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object 🖐️ used
   - this
   - arrow function
   - async function
@@ -9,12 +9,12 @@
   - bind
   - apply
   - instanceof
-  - ...spread
-  - ...rest
+  - ...spread 👂 heard
+  - ...rest 👂 heard
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator 
+  - iterator 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
+  - for await  🎓 known
+  - throw 👂 heard
+  - break 👂 heard
+  - continue 🖐️ used
+  - import 👂 heard
+  - export 👂 heard
   - label
-  - try..catch
+  - try..catch 🎓 known
   - switch
-  - class
-  - new Error
+  - class 🎓 known
+  - new Error 🎓 known
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 👂 heard
+  - function expression 👂 heard
+  - return 🖐️ used
+  - default parameters 👂 heard
+  - functional object 👂 heard
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
+  - Array 👂 heard
+  - mixin 👂 heard
+  - extend 👂 heard
+  - typed arrays 🎓 known
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 👂 heard
+  - null 👂 heard
+  - Proxy 👂 heard
+  - weak collections 👂 heard
+  - timers  👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 👂 heard
+  - npm 🖐️ used
   - prettier
   - MDN

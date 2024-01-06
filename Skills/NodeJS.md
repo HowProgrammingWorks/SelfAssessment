@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Stateful and stateless servers 🎓 known
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
@@ -18,7 +18,7 @@
   - Modules as singletons
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: package.json and package lock  👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -35,12 +35,12 @@
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
+  - Crypto API 
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
-  - Worker threads
+  - Worker threads 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -155,13 +155,13 @@
   - C and C++ addons
   - Rust addons
   - Zig addons
-  - NAN (Native Abstractions for Node.js)
+  - NAN (Native Abstractions for Node.js)  👂 heard
   - Node-API (formerly N-API)
-  - NAPI C and C++
+  - NAPI C and C++  👂 heard
   - NAPI Rust
-  - NAPI Zig
+  - NAPI Zig  👂 heard
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++  👂 heard
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript

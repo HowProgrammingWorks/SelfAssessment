@@ -1,19 +1,19 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 🎓 known
   - identifier
   - variable
   - constant
-  - scalar
+  - scalar 
   - literal
   - expression
   - heap
-  - function
+  - function 🖐️ used
   - procedure
   - method
   - class
-  - prototype
+  - prototype 🖐️ used
   - event
   - type
   - primitive types
@@ -22,22 +22,22 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🖐️ used
   - assignment
   - regular expression
   - interface
-  - contract
+  - contract 🖐️ used
   - module
   - call stack
 - Functions
   - signature
   - argument
   - parameter
-  - pure function
+  - pure function 🖐️ used 
   - lambda expression
   - side effects
   - closure
-  - partial application
+  - partial application 🖐️ used
   - curry
   - higher order
   - recursion
@@ -45,7 +45,7 @@
   - listener
   - compose
   - pipe
-  - memoize
+  - memoize 🎓 known
   - wrapper
   - functor
   - monad
@@ -59,8 +59,8 @@
   - enum
   - instance
   - object
-  - class
-  - collection
+  - class 👂 heard
+  - collection 👂 heard
   - set
   - hash table
   - linked list
@@ -69,7 +69,7 @@
   - circular list
   - queue
   - stack
-  - deque
+  - deque 👂 heard
   - tree
   - graph
   - iterator
@@ -78,20 +78,20 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
+  - compiler 🎓 known
+  - transpiler 🖐️ used
+  - linter 🖐️ used
+  - polyfill  🖐️ used
+  - debugger 🖐️ used
+  - garbage collection  🖐️ used
+  - refactoring 🖐️ used
+  - code review 🖐️ used
   - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
+  - paradigm 🖐️ used
+  - algorithm 🖐️ used
+  - magic numbers 🖐️ used
+  - hardcode 🖐️ used
+  - complexity 🖐️ used
   - decomposition
   - spaghetti
   - silver bullet
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  - exception
-  - return early
+  - exception 🖐️ used
+  - return early 🖐️ used
   - unittest
-  - git
-  - github
+  - git 🖐️ used
+  - github 🖐️ used
