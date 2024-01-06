@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object: 🖐️ used
   - this
-  - arrow function
+  - arrow function: 🖐️ used
   - async function
   - call
   - bind
@@ -13,7 +13,7 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
+  - generator: 🖐️ used
   - iterator
   - async generator
   - async iterator
@@ -24,66 +24,66 @@
   - globalThis
   - window
   - getters and setters
-  - __proto__
+  - __proto__: 🖐️ used
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
+  - yield: 🖐️ used
   - await
   - template literal
-  - strict mode
+  - strict mode: 🖐️ used
   - delete
   - in
-  - super
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 👂 heard
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 👂 heard
+  - switch: 🖐️ used
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers: 🖐️ used
   - EventEmitter
-  - RegExp
-  - Date
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
   - BigInt
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm: 🖐️ used
   - prettier
   - MDN
