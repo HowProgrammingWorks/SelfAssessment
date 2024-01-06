@@ -4,15 +4,15 @@
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases 
-  - Event loop: microtasks and macrotasks
+  - Event loop: phases: 👂 heard
+  - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
@@ -20,7 +20,7 @@
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity: 👂 heard
   - Dependency injection: 👂 heard
   - DI containers: 👂 heard
   - Coupling and cohesion: 👂 heard
@@ -29,9 +29,9 @@
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Graceful shutdown: 🖐️ used
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API
   - Web Streams API
@@ -63,57 +63,57 @@
 - Application structure and architecture
   - Isolation between layer: 👂 heard
   - Multilayer approach: 👂 heard
-  - Separation of concerns
+  - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
   - Dependency injection: 👂 heard
   - GRASP: 👂 heard
   - SOLID: 👂 heard
   - GoF patterns: 🖐️ used
-  - Distributed systems
-  - Highload applications
+  - Distributed systems: 👂 heard
+  - Highload applications: 👂 heard
   - Clean architecture: 👂 heard
   - DDD: 👂 heard
   - Message Queue: 👂 heard
-  - CQS
-  - CQRS
+  - CQS: 👂 heard
+  - CQRS: 👂 heard
   - Event sourcing
   - Load balancing: 🖐️ used
   - Serverless clouds: 🖐️ used
   - FaaS clouds: 🎓 known
   - Fat controller: 🎓 known
   - GoF for Node.js
-  - Leaking abstractions: 👂 heard
+  - Leaking abstractions: 🎓 known
 - Network
   - IP sticky sessions: 🎓 known
-  - Endpoint throttling
+  - Endpoint throttling: 🎓 known
   - HTTP(S): 🖐️ used
   - TCP/SSL: 🖐️ used
   - UDP: 🎓 known
   - TLS: 🖐️ used
   - Websocket: 🎓 known
-  - SSE 
-  - HTTP/3 (QUIC)
-  - Long polling
+  - SSE
+  - HTTP/3 (QUIC): 👂 heard
+  - Long polling: 👂 heard
   - REST: 🎓 known
-  - RPC
+  - RPC: 👂 heard
   - Routing: 🖐️ used
   - DoS: 🎓 known
   - DDoS: 🎓 known
   - XSS: 🖐️ used
-  - Path traversal
+  - Path traversal: 👂 heard
   - CSRF: 🎓 known
   - DNS: 🖐️ used
   - Fetch API
   - IncomingMessage
   - SQL injection: 🖐️ used
   - noDelay
-  - keep-alive
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner 
+  - Native test runner: 👂 heard
   - Logging: 🖐️ used
   - Application configuring
   - Testing: 🖐️ used

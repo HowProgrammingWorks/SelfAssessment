@@ -33,12 +33,12 @@
   - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function
+  - pure function: 👂 heard
   - lambda expression: 🖐️ used
-  - side effects
+  - side effects: 👂 heard
   - closure
   - partial application
-  - curry 
+  - curry: 👂 heard
   - higher order
   - recursion: 🖐️ used
   - callback:  👂 heard
@@ -72,7 +72,7 @@
   - deque: 🖐️ used
   - tree: 🖐️ used
   - graph: 🖐️ used
-  - iterator: 👂 heard
+  - iterator: 👂 used
   - mutable state 
   - immutable state 
   - serialization: 🖐️ used
@@ -95,12 +95,12 @@
   - decomposition: 🎓 known
   - spaghetti: 🖐️ used
   - silver bullet: 🎓 known
-  - not invented here
-  - dead code
-  - unreachable code
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
   - duplicate code: 🖐️ used
   - exception: 🖐️ used
-  - return early
+  - return early: 🎓 known
   - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used

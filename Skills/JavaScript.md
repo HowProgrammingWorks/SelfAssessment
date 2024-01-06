@@ -1,5 +1,5 @@
 ## Programming fundamental concepts
-
+🎓 known
 - Language
   - Object: 🖐️ used
   - this: 🖐️ used
@@ -13,7 +13,7 @@
   - ...rest
   - typeof: 🖐️ used
   - destructuring
-  - generator
+  - generator: 👂 heard
   - iterator: 🖐️ used
   - async generator
   - async iterator
@@ -33,12 +33,12 @@
   - void: 🖐️ used
   - yield: 👂 heard
   - await: 🖐️ used
-  - template literal
+  - template literal: 🎓 known
   - strict mode: 🖐️ used
-  - delete
-  - in 
+  - delete: 🎓 known
+  - in: 🎓 known
   - super: 🖐️ used
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
   - if: 🖐️ used
@@ -57,19 +57,19 @@
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
-  - new Error
+  - new Error: 👂 heard
   - with: 🖐️ used
 - Functions
   - function declaratio:n 🖐️ used
   - function expression: 🖐️ used
   - return: 🖐️ used
   - default parameters: 🖐️ used
-  - functional object
+  - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - mixin: 👂 heard
-  - extend
-  - typed arrays
+  - extend: 🎓 known
+  - typed arrays: 🎓 known
   - Map: 🎓 known
   - Set: 🖐️ used
   - undefined: 🎓 known

@@ -3,19 +3,19 @@
 - Theory
   - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
-  - Structured programming
-  - Non-structured programming
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
   - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
-  - Object-based programming 
+  - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
   - Asyncronous programming: 🎓 known
   - Parallel programming: 🎓 known
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
@@ -59,7 +59,7 @@
   - Prototype 
   - Composite: 👂 heard
   - Decorator: 👂 heard
-  - Flyweight
+  - Flyweight: 👂 heard
   - Mediator
   - Memento: 👂 heard
   - Template Method

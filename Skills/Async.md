@@ -1,5 +1,5 @@
 ## Asynchronous programming
-
+👂 heard, 🎓 known, 🖐️ used,
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🖐️ used
@@ -15,7 +15,7 @@
   - libuv
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
-  - Live locks
+  - Live locks: 🎓 known
   - Concurrent programming: 🖐️ used
   - Parallel programming: 🖐️ used
   - Actor Model
@@ -52,8 +52,8 @@
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
   - Async Collector
   - Semaphore: 👂 heard
   - Mutex: 👂 heard
