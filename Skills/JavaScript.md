@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object 
   - this
   - arrow function
   - async function
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🙋 used
   - destructuring
   - generator
   - iterator
@@ -41,35 +41,35 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🙋 used
+  - while 🙋 used
+  - do..while 🙋 used 
+  - for 🙋 used
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
+  - throw 🙋 used
+  - break 🙋 used
+  - continue 🙋 used
   - import
   - export
-  - label
-  - try..catch
-  - switch
+  - label 
+  - try..catch 🙋 used
+  - switch 🙋 used
   - class
-  - new Error
+  - new Error 🙋 used
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🙋 used
+  - function expression 🙋 used
+  - return 🙋 used
+  - default parameters 🙋 used
   - functional object
 - Data structures
-  - Array
+  - Array 🙋 used
   - mixin
   - extend
-  - typed arrays
+  - typed arrays 
   - Map
   - Set
   - undefined
