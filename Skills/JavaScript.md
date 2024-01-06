@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Object:
+  - this:
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
+  - call:
+  - bind: 👂 heard
+  - apply:
+  - instanceof:
+  - ...spread:
+  - ...rest:
+  - typeof:
+  - destructuring:
+  - generator:
+  - iterator: 🖐️ used
+  - async generator:
+  - async iterator:
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global:
+  - globalThis:
+  - window:
+  - getters and setters: 🖐️ used
+  - __proto__: 👂 heard
+  - prototype:
+  - equality operators:
+  - logical operators:
+  - bitwise operators:
+  - ternary operator:
+  - void:
+  - yield:
+  - await:
+  - template literal: 👂 heard
+  - strict mode: 🖐️ used
+  - delete:
+  - in:
+  - super:
+  - Symbol:
+  - Reflect:
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🖐️ used
+  - while:  
+  - do..while:
+  - for:
+  - for..in:
+  - for..of:
+  - for await:
+  - throw:
+  - break:
+  - continue:
+  - import: 🖐️ used
+  - export:
+  - label:
+  - try..catch:
+  - switch:
+  - class:🖐️ used
+  - new Error:
+  - with:
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration:
+  - function expression:
+  - return:
+  - default parameters:
+  - functional object: 👂 heard
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🖐️ used
+  - mixin:
+  - extend:
+  - typed arrays:
+  - Map:
+  - Set:
+  - undefined:
+  - null: 🖐️ used
+  - Proxy:
+  - weak collections:
+  - timers:
+  - EventEmitter: 👂 heard
+  - RegExp: 🖐️ used
+  - Date:
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 👂 heard

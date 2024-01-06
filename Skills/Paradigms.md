@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Procedural programming: 🎓 known
+  - Imperative programming:  🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🙋 explained
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🙋 explained
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🙋 explained
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 📢 talked
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive):👂 heard
+  - Automata-based programming:👂 heard
+  - Domain-specific languages: 🙋 explained
+  - Multi-paradigm programming:  👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 🙋 explained
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🙋 explained
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form:🎓 known
+  - instance: 🎓 known
+  - Introspection:🙋 explained
+  - Reflection: 🙋 explained
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🖐️ used
+  - Observer: 🎓 known
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🙋 explained
+  - Iterator: 🖐️ used
+  - State: 🙋 explained
+  - Bridge: 📢 talked
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method:
+  - Visitor: 🙋 explained
