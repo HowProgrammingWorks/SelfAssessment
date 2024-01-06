@@ -1,3 +1,5 @@
+// im learning C#, so there's can be some conflicts
+
 ## Programming fundamental concepts
 
 - Language
