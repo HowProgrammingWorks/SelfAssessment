@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -66,8 +66,8 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP:👂 heard
+  - SOLID:👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S):👂 heard
+  - TCP/SSL:👂 heard
+  - UDP:👂 heard
+  - TLS:👂 heard
+  - Websocket:👂 heard
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC):👂 heard
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - REST:👂 heard
+  - RPC:👂 heard
+  - Routing:👂 heard
+  - DoS:👂 heard
+  - DDoS:👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS:👂 heard
+  - Fetch API:👂 heard
   - IncomingMessage
-  - SQL injection
+  - SQL injection:👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -122,8 +122,8 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -136,7 +136,7 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🎓 known
   - error.cause
   - error.code
   - error.message
@@ -145,10 +145,10 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons
