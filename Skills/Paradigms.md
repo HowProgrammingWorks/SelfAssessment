@@ -10,10 +10,10 @@
   - Object-oriented programming: 🎓 known
   - Object-based programming: 👂 heard
   - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
+  - Concurrent computing: 🎓 known
   - Asyncronous programming: 🖐️ used
   - Parallel programming: 🎓 known
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🎓 known
   - FRP (Functional-reactive):
   - Automata-based programming:
   - Domain-specific languages:
@@ -44,21 +44,21 @@
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
-  - Proxy: 👂 heard
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
   - Chain of Responsibility: 👂 heard
   - Command: 👂 heard
   - Iterator: 👂 heard
   - State: 👂 heard
-  - Bridge: 👂 heard
+  - Bridge: 🎓 known
   - Builder: 🎓 known
-  - Prototype: 👂 heard
-  - Composite: 👂 heard
-  - Decorator: 👂 heard
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento:
