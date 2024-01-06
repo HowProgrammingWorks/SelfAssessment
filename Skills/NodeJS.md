@@ -6,19 +6,19 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection: 👂 heard
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -61,85 +61,85 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
+  - Isolation between layer: 🎓 known
+  - Multilayer approach: 🎓 known
+  - Separation of concerns: 🎓 known
+  - Inversion of control: 🎓 known
+  - Dependency injection: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
+  - Distributed systems: 🎓 known
+  - Highload applications: 🎓 known
+  - Clean architecture: 🎓 known
+  - DDD: 🎓 known
+  - Message Queue: 🎓 known
+  - CQS: 👂 heard
+  - CQRS: 👂 heard
   - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
+  - Load balancing: 🙋 explained
+  - Serverless clouds: 🙋 explained
+  - FaaS clouds: 🙋 explained
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
+  - IP sticky sessions: 👂 heard
+  - Endpoint throttling: 🎓 known
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
+  - TLS: 🙋 explained
+  - Websocket: 🙋 explained
+  - SSE: 🙋 explained
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
-  - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
+  - REST: 🙋 explained
+  - RPC: 🙋 explained
+  - Routing: 🙋 explained
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 👂 heard
+  - Path traversal: 👂 heard
+  - CSRF: 👂 heard
+  - DNS: 🙋 explained
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 🙋 explained
   - noDelay
-  - keep-alive
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - SSL certificates: 🙋 explained
+  - Protocol agnostic approach: 👂 heard
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner: 🎓 known
+  - Logging: 🙋 explained
+  - Application configuring: 🙋 explained
+  - Testing: 🙋 explained
+  - CI/CD: 🙋 explained
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 👂 heard
+  - Console: 🙋 explained
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error
+  - Error: 🖐️ used
   - error.cause
-  - error.code
-  - error.message
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
