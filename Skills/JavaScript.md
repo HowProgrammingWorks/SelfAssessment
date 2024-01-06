@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🎓 known
+  - this 🎓 known
   - arrow function
-  - async function
+  - async function 👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -30,50 +30,50 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void 👂 heard
   - yield
   - await
   - template literal
   - strict mode
-  - delete
+  - delete 👂 heard
   - in
-  - super
-  - Symbol
+  - super 👂 heard
+  - Symbol 
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 👂 heard
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break 🖐️ used
+  - continue 🖐️ used
   - import
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 👂 heard
+  - switch 🖐️ used
+  - class 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration 🎓 known
   - function expression
-  - return
+  - return 🖐️ used
   - default parameters
-  - functional object
+  - functional object 👂 heard
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map 👂 heard
+  - Set 👂 heard
+  - undefined 👂 heard
+  - null 👂 heard
   - Proxy
   - weak collections
   - timers
