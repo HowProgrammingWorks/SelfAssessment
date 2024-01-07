@@ -1,103 +1,103 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
-  - expression 🖐️ used
-  - heap 👂 heard
-  - function 🖐️ used
-  - procedure 👂 heard
-  - method 🖐️ used
-  - class 🖐️ used
-  - prototype 🖐️ used
-  - event 👂 heard
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 👂 heard
-  - flag 👂 heard
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 👂 heard
+  - function: 🖐️ used
+  - procedure: 👂 heard
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 👂 heard
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 👂 heard
+  - flag: 👂 heard
   - lexical scope
-  - code block 🖐️ used
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 🖐️ used
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
   - regular expression
-  - interface 🖐️ used
-  - contract 👂 heard
-  - module 🖐️ used
-  - call stack 👂 heard
+  - interface: 🖐️ used
+  - contract: 👂 heard
+  - module: 🖐️ used
+  - call stack: 👂 heard
 - Functions
-  - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
-  - pure function 🖐️ used
-  - lambda expression 🖐️ used
-  - side effects 👂 heard
-  - closure 🖐️ used
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
+  - lambda expression: 🖐️ used
+  - side effects: 👂 heard
+  - closure: 🖐️ used
   - partial application
-  - curry 🖐️ used
-  - higher order 🖐️ used
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 👂 heard
-  - compose 👂 heard
-  - pipe 🖐️ used
-  - memoize 👂 heard
-  - wrapper 🖐️ used
-  - functor 👂 heard
-  - monad 👂 heard
-  - monoid 👂 heard
-  - generator 🖐️ used
-  - coroutine 👂 heard
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 👂 heard
+  - compose: 👂 heard
+  - pipe: 🖐️ used
+  - memoize: 👂 heard
+  - wrapper: 🖐️ used
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
+  - generator: 🖐️ used
+  - coroutine: 👂 heard
 - Data structures
-  - array 🖐️ used
+  - array: 🖐️ used
   - structure
   - record
-  - enum 🖐️ used
-  - instance 🖐️ used
-  - object 🖐️ used
-  - class 🖐️ used
+  - enum: 🖐️ used
+  - instance: 🖐️ used
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
-  - set 🖐️ used
+  - set: 🖐️ used
   - hash table
-  - linked list 🖐️ used
+  - linked list: 🖐️ used
   - doubly list
-  - unrolled list 🖐️ used
+  - unrolled list: 🖐️ used
   - circular list
-  - queue 🖐️ used
-  - stack 🖐️ used
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque
-  - tree 🖐️ used
+  - tree: 🖐️ used
   - graph
-  - iterator 🖐️ used
+  - iterator: 🖐️ used
   - mutable state
   - immutable state
-  - serialization 🖐️ used
-  - string parsing 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler 🖐️ used
-  - transpiler 🖐️ used
-  - linter 👂 heard
-  - polyfill 👂 heard
-  - debugger 👂 heard
+  - compiler: 🖐️ used
+  - transpiler: 🖐️ used
+  - linter: 👂 heard
+  - polyfill: 👂 heard
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 👂 heard
-  - paradigm 👂 heard
-  - algorithm 🖐️ used
-  - magic numbers 🖐️ used
-  - hardcode 👂 heard
-  - complexity 👂 heard
-  - decomposition 👂 heard
-  - spaghetti 👂 heard
-  - silver bullet 👂 heard
-  - not invented here 👂 heard
-  - dead code 👂 heard
-  - unreachable code 🖐️ used
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 👂 heard
+  - complexity: 👂 heard
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 👂 heard
+  - unreachable code: 🖐️ used
   - duplicate code 👂 heard
   - exception 🖐️ used
   - return early 
