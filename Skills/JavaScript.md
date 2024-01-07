@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
   - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest:🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
   - generator
   - iterator
   - async generator
   - async iterator
-  - chaining
+  - chaining: 🖐️ used
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
+  - window: 🖐️ used
+  - getters and setters: 🙋 explained
+  - __proto__: 🙋 explained
+  - prototype: 🖐️ used also could explain
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
   - void
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode: 🖐️ used
   - delete
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break: 🙋 explained
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch
-  - switch
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
   - class
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🖐️ used
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
+  - Array: 🙋 explained
+  - mixin: 🙋 explained
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
   - timers
-  - EventEmitter
+  - EventEmitter: 🖐️ used
   - RegExp
-  - Date
+  - Date: 🖐️ used
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 👂 heard
+  - Node.js: 🎓 known
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🎓 known
