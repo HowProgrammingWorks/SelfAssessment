@@ -1,67 +1,67 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🎓 known
+  - constant: 🎓 known
   - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
+  - literal: 🎓 known
+  - expression: 🎓 known
+  - heap: 👂 heard
+  - function: 🎓 known
+  - procedure: 🎓 known
+  - method: 🎓 known
+  - class: 🎓 known
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
+  - type: 🎓 known
+  - primitive types: 🎓 known
+  - reference types: 👂 heard
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
+  - conditions: 🎓 known
+  - loops: 🎓 known
+  - assignment: 🎓 known
+  - regular expression: 👂 heard
   - interface
   - contract
-  - module
+  - module: 🎓 known
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature: 🎓 known
+  - argument: 🎓 known
+  - parameter: 🎓 known
+  - pure function: 🎓 known
+  - lambda expression: 🎓 known
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion: 🖐️ used
   - callback
   - listener
   - compose
   - pipe
   - memoize
   - wrapper
-  - functor
+  - functor 👂 heard
   - monad
   - monoid
-  - generator
+  - generator: 🖐️ used
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array: 🎓 known
+  - structure: 🎓 known
+  - record: 🎓 known
+  - enum: 🎓 known
+  - instance: 🎓 known
+  - object: 🎓 known
+  - class: 🎓 known
+  - collection: 🎓 known
+  - set: 🎓 known
   - hash table
   - linked list
   - doubly list
@@ -72,35 +72,35 @@
   - deque
   - tree
   - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - iterator: 👂 heard
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 👂 heard
+  - string parsing: 👂 heard
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - debugger: 🎓 known
+  - garbage collection: 👂 heard
+  - refactoring: 🎓 known
+  - code review: 🎓 known
+  - antipatterns: 👂 heard
+  - paradigm: 🎓 known
+  - algorithm: 🎓 known
+  - magic numbers: 👂 heard
+  - hardcode: 👂 heard
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti: 🍴 eaten
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - unreachable code: 👂 heard
+  - duplicate code: 👂 heard
+  - exception: 🎓 known
   - return early
-  - unittest
-  - git
-  - github
+  - unittest: 👂 heard
+  - git: 🎓 known
+  - github: 🎓 known
