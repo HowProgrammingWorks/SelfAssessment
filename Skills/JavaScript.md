@@ -41,11 +41,11 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 👂 heard
+  - for: 🎓 known
+  - for..in 
   - for..of
   - for await
   - throw
@@ -66,7 +66,7 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
