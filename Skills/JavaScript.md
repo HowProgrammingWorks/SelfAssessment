@@ -41,16 +41,16 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if: 🎓 known
+  - while: 🎓 known
   - do..while
-  - for
+  - for: 🎓 known
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break: 👂 heard 
+  - continue: 👂 heard 
   - import
   - export
   - label
@@ -62,11 +62,11 @@
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 👂 heard 
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard 
   - mixin
   - extend
   - typed arrays
