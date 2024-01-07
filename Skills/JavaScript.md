@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
+  - Object 🖐️ used
+  - this 👂 heard
+  - arrow function 🖐️ used
+  - async function 👂 heard
+  - call 👂 heard
   - bind
   - apply
-  - instanceof
+  - instanceof 👂 heard
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
+  - typeof 🖐️ used
+  - destructuring 👂 heard
   - generator
-  - iterator
+  - iterator 👂 heard
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
+  - global 🖐️ used
+  - globalThis 👂 heard
+  - window 👂 heard
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - prototype 👂 heard
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
-  - in
+  - in 👂 heard
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🎓 known
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 👂 heard
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
-  - extend
-  - typed arrays
+  - extend 👂 heard
+  - typed arrays 🖐️ used
   - Map
-  - Set
-  - undefined
-  - null
+  - Set 👂 heard
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers 👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date 👂 heard
+  - BigInt 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
+  - V8 👂 heard
+  - Node.js 👂 heard
   - npm
-  - prettier
+  - prettier 👂 heard
   - MDN
