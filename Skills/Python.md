@@ -1,0 +1,45 @@
+## Python language
+
+- Language: 🖐️ used
+- Statements
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch
+  - class: 🖐️ used
+  - new Error
+  - with
+- Asynch in Python: 🖐️ used
+- Functions
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object
+- Data structures
+  - Array: 🖐️ used
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy
+  - weak collections
+  - timers: 🖐️ used
+  - EventEmitter
+  - RegExp
+  - Date
+  - BigInt
