@@ -1,3 +1,27 @@
--Functions
-  -Digital I/O:
-  
+- Functions
+  - Digital I/O: 🖐️ used
+  - Analog I/O: 🖐️ used
+  - Time: 🖐️ used
+  - Math: 🖐️ used
+  - Trigonometry: 🖐️ used
+  - Bits and Bytes: 🖐️ used
+  - Communication: 🖐️ used
+- Variables
+  - Constants: 🖐️ used
+  - Conversion: 🖐️ used
+  - Data Types: 🖐️ used
+  - Variable Scope & Qualifiers: 🖐️ used
+  - Utilities: 🖐️ used
+- Structure
+  - Sketch: 🖐️ used
+  - Control Structure: 🖐️ used
+  - Further Syntax: 🖐️ used
+  - Arithmetic Operators: 🖐️ used
+  - Comparison Operators: 🖐️ used
+- Official libraries
+  - Servo: 🖐️ used
+  - Stepper: 🖐️ used
+  - Wire: 🖐️ used
+  - SoftwareSerial: 🖐️ used
+  - EEPROM: 🖐️ used
+  - LiquidCrystal: 🖐️ used
