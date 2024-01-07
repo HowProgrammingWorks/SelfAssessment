@@ -1,41 +1,42 @@
 ## Node.js and backend
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons 👂 heard
+  - Contexts and scripts node:vm 🖐️ used
+  - Dependencies: npm, node_modules 🖐️ used
   - Dependencies: package.json and package lock
-  - Module-based permissions model
+  - Module-based permissions model 👂 heard
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach 👂 heard
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🎓 known
+  - Node.js CLI 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
@@ -92,7 +93,7 @@
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 👂 heard
   - Long polling
   - REST
   - RPC
@@ -123,7 +124,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 👂 heard
   - Inspector
   - Reliability
   - Quality
@@ -136,11 +137,11 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 👂 heard
+  - error.stack 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
