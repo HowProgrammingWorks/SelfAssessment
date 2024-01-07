@@ -21,15 +21,15 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 👂 heard
-  - new 👂 heard
-  - Static method 👂 heard
-  - Method 🎓 known
+  - constructor 
+  - new 
+  - Static method 
+  - Method 
   - Async method
-  - Getters, Setters 👂 heard
-  - Public fields 👂 heard
-  - Private fields 👂 heard
-  - Field declarations 👂 heard
+  - Getters, Setters 
+  - Public fields 
+  - Private fields 
+  - Field declarations 
   - Inheritance
   - Parent class
   - Polymorphism
@@ -38,7 +38,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - instance 👂 heard
+  - instance 
   - Introspection
   - Reflection
 - Patterns
