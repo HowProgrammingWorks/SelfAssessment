@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 👂 heard
+  - literal: 👂 heard
+  - expression: 👂 heard
+  - heap:
+  - function: 👂 heard
+  - procedure: 👂 heard
+  - method:
   - class
   - prototype
   - event
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops: 👂 heard
   - assignment
   - regular expression
   - interface
@@ -31,7 +31,7 @@
   - call stack
 - Functions
   - signature
-  - argument
+  - argument: 👂 heard
   - parameter
   - pure function
   - lambda expression
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 👂 heard
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object : 👂 heard
+  - class : 👂 heard
   - collection
   - set
   - hash table
@@ -67,8 +67,8 @@
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue : 👂 heard
+  - stack: 👂 heard 
   - deque
   - tree
   - graph
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 👂 heard
+  - code review: 👂 heard
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm : 👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -98,9 +98,9 @@
   - not invented here
   - dead code
   - unreachable code
-  - duplicate code
-  - exception
+  - duplicate code: 👂 heard
+  - exception: 👂 heard
   - return early
   - unittest
   - git
-  - github
+  - github : 👂 heard
