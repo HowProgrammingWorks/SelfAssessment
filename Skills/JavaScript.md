@@ -1,89 +1,88 @@
 ## JavaScript
-
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+    - Object 🖐 used
+    - this 🖐 used
+    - arrow function 🖐 used
+    - async function 🖐 used
+    - call 🖐 used
+    - bind 🖐 used
+    - apply 🖐 used
+    - instanceof 👂 heard
+    - ...spread
+    - ...rest
+    - typeof 🖐 used
+    - destructuring 👂 heard
+    - generator 👂 heard
+    - iterator 👂 heard
+    - async generator 👂 heard
+    - async iterator 👂 heard
+    - chaining 👂 heard
+    - optional chaining 👂 heard
+    - IIFE 👂 heard
+    - global 👂 heard
+    - globalThis 👂 heard
+    - window 👂 heard
+    - getters and setters 👂 heard
+    - proto 🖐 used
+    - prototype 🖐 used
+    - equality operators 🖐 used
+    - logical operators 🖐 used
+    - bitwise operators 🎓 known
+    - ternary operator 🖐 used
+    - void 🖐 used
+    - yield 👂 heard
+    - await 🖐 used
+    - template literal 🖐 used
+    - strict mode 👂 heard
+    - delete 🖐 used
+    - in 🖐 used
+    - super 👂 heard
+    - Symbol 🖐 used
+    - Reflect 🖐 used
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+    - if 🖐 used
+    - while 🖐 used
+    - do..while 🖐 used
+    - for 🖐 used
+    - for..in 🖐 used
+    - for..of 🖐 used
+    - for await 👂 heard
+    - throw 👂 heard
+    - break 🖐 used
+    - continue 🖐 used
+    - import 👂 heard
+    - export 👂 heard
+    - label 👂 heard
+    - try..catch 👂 heard
+    - switch 🖐 used
+    - class 🖐 used
+    - new Error 👂 heard
+    - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+    - function declaration 🖐 used
+    - function expression 🖐 used
+    - return 🖐 used
+    - default parameters 🖐 used
+    - functional object 🖐 used
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+    - Array 🖐 used
+    - mixin  👂 heard
+    - extend 👂 heard
+    - typed arrays 🖐 used
+    - Map 🖐 used
+    - Set 🖐 used
+    - undefined 🖐 used
+    - null 🖐 used
+    - Proxy 👂 heard
+    - weak collections 👂 heard
+    - timers  🖐 used
+    - EventEmitter 👂 heard
+    - RegExp 👂 heard
+    - Date 👂 heard
+    - BigInt 👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+    - V8 👂 heard
+    - Node.js 👂 heard
+    - npm 👂 heard
+    - prettier 👂 heard
+    - MDN 👂 heard
