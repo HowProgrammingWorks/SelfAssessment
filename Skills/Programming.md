@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
-  - expression 🖐️ used
+  - value 
+  - identifier 
+  - variable 
+  - constant 
+  - scalar 
+  - literal 
+  - expression 
   - heap
-  - function 🖐️ used
-  - procedure 👂 heard
-  - method 👂 heard
-  - class 👂 heard
+  - function 
+  - procedure 
+  - method 
+  - class 
   - prototype
   - event
   - type
@@ -20,8 +20,8 @@
   - reference types
   - flag
   - lexical scope
-  - code block 🖐️ used
-  - conditions 🖐️ used
+  - code block 
+  - conditions 
   - loops
   - assignment
   - regular expression
@@ -30,9 +30,9 @@
   - module
   - call stack
 - Functions
-  - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
+  - signature 
+  - argument 
+  - parameter 
   - pure function 
   - lambda expression
   - side effects
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion 👂 heard
+  - recursion 
   - callback
   - listener
   - compose
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array 🖐️ used
-  - structure 👂 heard
+  - array 
+  - structure 
   - record
   - enum
-  - instance 👂 heard
-  - object 👂 heard
-  - class 👂 heard
+  - instance 
+  - object 
+  - class 
   - collection
-  - set 👂 heard
+  - set 
   - hash table
   - linked list
   - doubly list
@@ -78,14 +78,14 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler 🖐️ used
+  - compiler 
   - transpiler
   - linter
   - polyfill
-  - debugger 👂 heard
+  - debugger 
   - garbage collection
-  - refactoring 🖐️ used
-  - code review 🖐️ used
+  - refactoring 
+  - code review 
   - antipatterns
   - paradigm
   - algorithm
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code 🖐️ used
-  - unreachable code 🖐️ used
-  - duplicate code 🖐️ used
-  - exception 👂 heard
-  - return early 🖐️ used
+  - dead code 
+  - unreachable code 
+  - duplicate code 
+  - exception 
+  - return early 
   - unittest
-  - git 🎓 known
-  - github 🎓 known
+  - git 
+  - github 
