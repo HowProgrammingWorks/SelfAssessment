@@ -40,7 +40,7 @@
   - super: 👂 heard
   - Symbol: 👂 heard
   - Reflect: 👂 heard
-- Statements: 👂 heard
+- Statements
   - if: 👂 heard
   - while: 👂 heard
   - do..while: 👂 heard
@@ -59,13 +59,13 @@
   - class: 👂 heard
   - new Error: 👂 heard
   - with: 👂 heard
-- Functions: 👂 heard
+- Functions
   - function declaration: 👂 heard
   - function expression: 👂 heard
   - return: 👂 heard
   - default parameters: 👂 heard
   - functional object: 👂 heard
-- Data structures: 👂 heard
+- Data structures
   - Array: 👂 heard
   - mixin: 👂 heard
   - extend: 👂 heard
@@ -81,7 +81,7 @@
   - RegExp: 👂 heard
   - Date: 👂 heard
   - BigInt: 👂 heard
-- Infrastructure: 👂 heard
+- Infrastructure
   - V8: 👂 heard
   - Node.js: 👂 heard
   - npm: 👂 heard

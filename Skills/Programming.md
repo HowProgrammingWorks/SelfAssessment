@@ -1,6 +1,6 @@
 ## Programming fundamental concepts
 
-- Syntax and concepts: 👂 heard
+- Syntax and concepts
   - value: 👂 heard
   - identifier: 👂 heard
   - variable: 👂 heard
@@ -29,7 +29,7 @@
   - contract: 👂 heard
   - module: 👂 heard
   - call stack: 👂 heard
-- Functions: 👂 heard
+- Functions
   - signature: 👂 heard
   - argument: 👂 heard
   - parameter: 👂 heard
@@ -52,7 +52,7 @@
   - monoid: 👂 heard
   - generator: 👂 heard
   - coroutine: 👂 heard
-- Data structures: 👂 heard
+- Data structures
   - array: 👂 heard
   - structure: 👂 heard
   - record: 👂 heard
@@ -77,7 +77,7 @@
   - immutable state: 👂 heard
   - serialization: 👂 heard
   - string parsing: 👂 heard
-- Process & style: 👂 heard
+- Process & style
   - compiler: 👂 heard
   - transpiler: 👂 heard
   - linter: 👂 heard
