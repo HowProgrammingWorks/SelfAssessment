@@ -1,0 +1,82 @@
+# Python FastAPI
+
+- Framework
+  - Asynchronous Programming 👂 heard
+  - Routing 👂 heard
+  - Validation 👂 heard
+  - Models 👂 heard
+  - Dependency Management 👂 heard
+  - Background Tasks 👂 heard
+  - Exception Handling 👂 heard
+  - Middleware 👂 heard
+  - Pydantic 👂 heard
+  - CRUD 👂 heard
+  - Authentication 👂 heard
+  - OAuth2 Authentication 👂 heard
+  - JWT 👂 heard
+  - OAuth2 Password Flow 👂 heard
+  - API Key Security 👂 heard
+  - Rate Limiting 👂 heard
+  - Unit Testing in FastAPI 👂 heard
+  - Dockerizing 👂 heard
+  - Performance Optimization 👂 heard
+  - OpenAPI and Swagger UI 👂 heard
+  - WebSocket Communication 👂 heard
+  - Middleware 👂 heard
+- Application structure and architecture 
+  - Isolation between layer 🖐️ used
+  - Multilayer approach 🖐️ used
+  - Separation of concerns 🖐️ used
+  - Inversion of control 🖐️ used
+  - Dependency injection 👂 heard
+  - GRASP 🙋 explained
+  - SOLID 🙋 explained
+  - Distributed systems 🖐️ used
+  - Highload applications 🙋 explained
+  - Clean architecture 🙋 explained
+  - Message Queue 👂 heard
+  - Load balancing 👂 heard
+- Network
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling  🖐️ used
+  - HTTP(S) 🙋 explained
+  - TCP/SSL 🙋 explained
+  - UDP 🖐️ used
+  - TLS 🖐️ used
+  - Websocket 🖐️ used
+  - SSE 👂 heard
+  - HTTP/3 (QUIC) 👂 heard
+  - Long polling 🖐️ used
+  - REST 🙋 explained
+  - RPC 👂 heard
+  - Routing 👂 heard
+  - DoS 👂 heard
+  - DDoS 👂 heard
+  - Path traversal
+  - CSRF 🙋 explained
+  - DNS 🙋 explained
+  - SQL injection 👂 heard
+  - keep-alive  🖐️ used
+  - SSL certificates 🖐️ used
+- Technique and tools
+  - Logging 🖐️ used
+  - Application configuring 🖐️ used
+  - Testing 🖐️ used
+  - CI/CD 🖐️ used
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used 
+  - back pressure 🖐️ used
+  - Buffer 🖐️ used
+  - Console 🖐️ used
+  - Inspector 🖐️ used
+  - Reliability 🖐️ used
+  - Quality 🖐️ used
+  - Availability 🖐️ used
+  - Flexibility 🖐️ used
+- Data access
+  - Data access layer 🖐️ used
+  - Repository 🖐️ used
+  - Active record 🖐️ used
+  - Query builder 🖐️ used
+  - Object-Relational Mapping 🖐️ used

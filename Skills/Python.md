@@ -1,0 +1,52 @@
+# Python Knowledge Self-Assessment
+
+- Language
+  - Variables 🙋 explained 
+  - Data Types (int, float, str, bool) 🙋 explained
+  - Lists 🙋 explained
+  - Tuples 🙋 explained
+  - Sets 🙋 explained
+  - Dictionaries 🙋 explained
+  - Strings 🙋 explained
+  - Input/Output 🙋 explained
+  - Control Flow (if, elif, else) 🙋 explained
+  - Loops 🙋 explained
+  - Functions 🙋 explained
+  - Classes and Objects 🙋 explained
+  - Inheritance 🙋 explained
+  - Modules 🙋 explained
+  - Exception Handling 🙋 explained
+  - List Comprehensions 🙋 explained
+  - Lambda Functions 🙋 explained
+  - Decorators 🙋 explained
+  - Generators 🙋 explained
+  - Context Managers 🙋 explained
+  - Iterators 🙋 explained
+  - Namespace and Scope 🙋 explained
+- Statements
+  - if 🖐️ used
+  - while 🖐️ used
+  - for 🖐️ used
+  - raise 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - try..except 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
+  - Exception 🖐️ used
+  - with 🖐️ used
+- Functions
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
+- Libraries and Frameworks
+  - NumPy 🖐️ used
+  - Pandas 🖐️ used
+  - Matplotlib 🖐️ used
+  - FastAPI 👂 heard
+  - Django 🖐️ used
+  - asyncio 🖐️ used
+  - selenium 🖐️ used
