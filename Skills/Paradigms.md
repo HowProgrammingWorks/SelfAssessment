@@ -7,8 +7,8 @@
   - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
   - Asyncronous programming: 👂 heard
@@ -21,29 +21,29 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 👂 heard
-  - new: 👂 heard
-  - Static method: 👂 heard
-  - Method: 👂 heard
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
   - Async method: 👂 heard
-  - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
-  - Field declarations: 👂 heard
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 👂 heard
-  - Encapsulation: 👂 heard
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - instance: 👂 heard
+  - instance: 🎓 known
   - Introspection
   - Reflection: 👂 heard
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
+  - Singleton: 🎓 known
+  - Factory Method: 🖐️ used
   - Abstract Factory
   - Adapter
   - Observer

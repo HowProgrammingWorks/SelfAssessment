@@ -8,7 +8,7 @@
   - scalar
   - literal: 🎓 known
   - expression: 🎓 known
-  - heap: 👂 heard
+  - heap: 🎓 known
   - function: 🎓 known
   - procedure: 🎓 known
   - method: 🎓 known
@@ -17,7 +17,7 @@
   - event
   - type: 🎓 known
   - primitive types: 🎓 known
-  - reference types: 👂 heard
+  - reference types: 🎓 known
   - flag
   - lexical scope
   - code block
@@ -47,7 +47,7 @@
   - pipe
   - memoize
   - wrapper
-  - functor 👂 heard
+  - functor: 🎓 known
   - monad
   - monoid
   - generator: 🖐️ used
@@ -72,7 +72,7 @@
   - deque
   - tree
   - graph
-  - iterator: 👂 heard
+  - iterator:  🖐️ used
   - mutable state: 👂 heard
   - immutable state: 👂 heard
   - serialization: 👂 heard
@@ -90,15 +90,15 @@
   - paradigm: 🎓 known
   - algorithm: 🎓 known
   - magic numbers: 👂 heard
-  - hardcode: 👂 heard
+  - hardcode 🎓 known
   - complexity
   - decomposition
   - spaghetti: 🍴 eaten
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code: 👂 heard
-  - duplicate code: 👂 heard
+  - unreachable code 🎓 known
+  - duplicate code 🎓 known
   - exception: 🎓 known
   - return early
   - unittest: 👂 heard
