@@ -1,15 +1,15 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch:🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue
+  - kqueue:👂 heard
   - Completion ports
   - Event ports
   - libuv
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread: 🖐️ used
   - Process
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
@@ -52,8 +52,8 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 👂 heard
+  - Async Queue: 🙋 explained
   - Async Collector
   - Semaphore
   - Mutex
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🙋 explained
   - promisify
   - callbackify
   - AsyncLocalStorage
