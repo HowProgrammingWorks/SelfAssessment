@@ -1,46 +1,46 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🎓 known
-  - Imperative programming 👂 heard
-  - Structured programming 🎓 known
-  - Non-structured programming 👂 heard
-  - Functional programming 🖐️ used
+  - Procedural programming: 🎓 known
+  - Imperative programming: 👂 heard
+  - Structured programming: 🎓 known
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🖐️ used
-  - Generic programming 👂 heard
-  - Concurrent computing 👂 heard
-  - Asyncronous programming 🖐️ used
-  - Parallel programming 👂 heard
-  - Reactive programming 👂 heard
-  - FRP (Functional-reactive) 👂 heard
-  - Automata-based programming 👂 heard
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
   - Getters, Setters
-  - Public fields 👂 heard
-  - Private fields 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
-  - Object form 👂 heard
-  - instance 🖐️ used
+  - Object form: 👂 heard
+  - instance: 🖐️ used
   - Introspection
-  - Reflection 👂 heard
+  - Reflection: 👂 heard
 - Patterns
   - Singleton
   - Factory Method
@@ -51,14 +51,14 @@
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command 🖐️ used
-  - Iterator 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
   - State
   - Bridge
   - Builder
-  - Prototype 🖐️ used
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator 🖐️ used
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
