@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 👂 heard
+  - this: 👂 heard
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 👂 heard
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 👂 heard
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
   - bitwise operators
-  - ternary operator
+  - ternary operator: 👂 heard
   - void
   - yield
-  - await
+  - await: 👂 heard
   - template literal
   - strict mode
   - delete
-  - in
+  - in: 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 👂 heard
+  - for..of: 🙋 explained
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 👂 heard
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object
 - Data structures
-  - Array
+  - Array: 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date
   - BigInt
 - Infrastructure
   - V8
   - Node.js
-  - npm
-  - prettier
+  - npm: 👂 heard
+  - prettier: 🖐️ used
   - MDN
