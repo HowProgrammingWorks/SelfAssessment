@@ -1,15 +1,14 @@
 ## Programming fundamental concepts
-
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
   - constant
   - scalar
   - literal
-  - expression
+  - expression 🖐️ used
   - heap
-  - function
+  - function 👂 heard
   - procedure
   - method
   - class
@@ -21,8 +20,8 @@
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops
+  - conditions 🖐️ used
+  - loops 👂 heard
   - assignment
   - regular expression
   - interface
