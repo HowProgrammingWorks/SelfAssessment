@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 🖐️ used
   - identifier
   - variable
   - constant
