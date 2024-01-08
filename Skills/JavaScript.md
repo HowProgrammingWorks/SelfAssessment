@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 🖐️used
   - this
-  - arrow function
+  - arrow function: 🖐️used
   - async function
   - call
   - bind
@@ -22,35 +22,35 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window: 🖐️used
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️used
+  - logical operators: 🖐️used
+  - bitwise operators: 🖐️used
+  - ternary operator: 🖐️used
+  - void: 🖐️used
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in
+  - in: 🖐️used
   - super
-  - Symbol
+  - Symbol: 🖐️used
   - Reflect
 - Statements
   - if: 🖐️used
   - while: 🖐️used
-  - do..while
+  - do..while: 🖐️used
   - for: used
   - for..in: 🖐️used
-  - for..of
+  - for..of: 🖐️used
   - for await
   - throw
   - break: 🖐️used
-  - continue
+  - continue: 🖐️used
   - import: 🖐️used
   - export
   - label
@@ -60,10 +60,10 @@
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️used
+  - function expression: 🖐️used
+  - return: 🖐️used
+  - default parameters: 🖐️used
   - functional object
 - Data structures
   - Array: 🖐️used
@@ -72,8 +72,8 @@
   - typed arrays: 👂heard
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🖐️used
+  - null: 🖐️used
   - Proxy
   - weak collections
   - timers
