@@ -20,9 +20,9 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 👂 heard
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters 👂 heard
   - __proto__
   - prototype 👂 heard
@@ -37,7 +37,7 @@
   - strict mode
   - delete 🖐️ used
   - in 🖐️ used
-  - super
+  - super 👂 heard
   - Symbol
   - Reflect
 - Statements
@@ -48,7 +48,7 @@
   - for..in 🖐️ used
   - for..of 🖐️ used
   - for await
-  - throw
+  - throw 👂 heard
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
@@ -57,8 +57,8 @@
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
-  - new Error
-  - with
+  - new Error 👂 heard
+  - with 👂 heard
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
@@ -69,12 +69,12 @@
   - Array 🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
+  - typed arrays 👂 heard
+  - Map 🖐️ used
   - Set 👂 heard
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy
+  - Proxy 👂 heard
   - weak collections
   - timers 👂 heard
   - EventEmitter
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js 👂 heard
-  - npm
+  - npm 👂 heard
   - prettier
-  - MDN
+  - MDN 👂 heard
