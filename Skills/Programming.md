@@ -3,21 +3,21 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value🖐 used
-  - identifier🖐 used
-  - variable🖐 used
-  - constant🖐 used
-  - scalar
-  - literal
-  - expression
+  - value: 🖐 used
+  - identifier: 🖐 used
+  - variable: 🖐 used
+  - constant: 🖐 used
+  - scalar: 👂 heard
+  - literal: 👂 heard
+  - expression: 👂 heard
   - heap
-  - function🖐 used
+  - function: 🖐 used
   - procedure
-  - method🖐 used
-  - class🖐 used
+  - method: 🖐 used
+  - class: 🖐 used
   - prototype
-  - event🖐 used
-  - type🖐 used
+  - event: 🖐 used
+  - type: 🖐 used
   - primitive types
   - reference types
   - flag
@@ -27,15 +27,15 @@
   - loops
   - assignment
   - regular expression
-  - interface🖐 used
+  - interface: 🖐 used
   - contract
-  - module👂 heard
+  - module: 👂 heard
   - call stack
 - Functions
-  - signature
-  - argument🖐 used
-  - parameter👂 heard
-  - pure function👂 heard
+  - signature: 🖐 used
+  - argument: 🖐 used
+  - parameter: 👂 heard
+  - pure function: 👂 heard
   - lambda expression
   - side effects
   - closure
@@ -55,42 +55,42 @@
   - generator
   - coroutine
 - Data structures
-  - array🖐 used
-  - structure👂 heard
+  - array: 🖐 used
+  - structure: 👂 heard
   - record
-  - enum👂 heard
+  - enum: 👂 heard
   - instance
-  - object🖐 used
-  - class🖐 used
-  - collection🖐 used
-  - set🖐 used
+  - object: 🖐 used
+  - class: 🖐 used
+  - collection: 🖐 used
+  - set: 🖐 used
   - hash table
-  - linked list
+  - linked list: 👂 heard
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack🖐 used
+  - queue: 🖐 used
+  - stack: 🖐 used
   - deque
-  - tree🖐 used
-  - graph🖐 used
-  - iterator🖐 used
+  - tree: 🖐 used
+  - graph: 🖐 used
+  - iterator: 🖐 used
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler👂 heard
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger👂 heard
+  - debugger: 👂 heard
   - garbage collection
   - refactoring
-  - code review👂 heard
+  - code review: 👂 heard
   - antipatterns
-  - paradigm👂 heard
-  - algorithm👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -104,5 +104,5 @@
   - exception
   - return early
   - unittest
-  - git🖐 used
-  - github🖐 used
+  - git: 🖐 used
+  - github: 🖐 used
