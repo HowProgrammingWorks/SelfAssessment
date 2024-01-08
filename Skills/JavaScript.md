@@ -3,8 +3,8 @@
 - Language
   - Object
   - this
-  - arrow function
-  - async function
+  - arrow function : 👂 heard 
+  - async function : 🎓 known
   - call
   - bind
   - apply
@@ -41,10 +41,10 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if : 👂 heard 
+  - while : 👂 heard 
+  - do..while : 👂 heard 
+  - for : 👂 heard 
   - for..in
   - for..of
   - for await
