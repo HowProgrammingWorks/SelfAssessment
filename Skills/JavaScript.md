@@ -1,9 +1,11 @@
+👂 heard, 🎓 known, 🖐 used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object: 🎓 known
   - this
-  - arrow function
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
@@ -14,7 +16,7 @@
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -30,7 +32,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
@@ -41,32 +43,32 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🖐 used
+  - while: 🖐 used
+  - do..while: 🖐 used
+  - for: 🖐 used
+  - for..in: 🖐 used
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break: 🖐 used
+  - continue: 🖐 used
+  - import: 👂 heard
+  - export: 👂 heard
   - label
   - try..catch
-  - switch
+  - switch: 👂 heard
   - class
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐 used
   - mixin
   - extend
   - typed arrays
