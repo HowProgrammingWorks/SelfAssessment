@@ -6,10 +6,10 @@
   - variable
   - constant: used
   - scalar: used
-  - literal
-  - expression
+  - literal: used
+  - expression: used
   - heap
-  - function
+  - function: used
   - procedure
   - method
   - class: used
@@ -84,8 +84,8 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: heard
+  - code review: heard
   - antipatterns
   - paradigm
   - algorithm
