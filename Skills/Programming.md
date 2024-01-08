@@ -1,37 +1,37 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
+  - heap 👂 heard
+  - function 🖐️ used
+  - procedure 👂 heard
+  - method 👂 heard
+  - class 👂 heard
+  - prototype 👂 heard
+  - event 👂 heard
+  - type 🖐️ used
+  - primitive types 🖐️ used
+  - reference types 👂 heard
+  - flag 🖐️ used
+  - lexical scope 👂 heard
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 🖐️ used
+  - assignment 🖐️ used
   - regular expression
-  - interface
+  - interface 
   - contract
-  - module
-  - call stack
+  - module 👂 heard
+  - call stack 👂 heard
 - Functions
   - signature
-  - argument
+  - argument 🖐️ used
   - parameter
   - pure function
   - lambda expression
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 🖐️ used
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object 🖐️ used
+  - class 🖐️ used
   - collection
   - set
   - hash table
@@ -72,35 +72,35 @@
   - deque
   - tree
   - graph
-  - iterator
+  - iterator 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 🖐️ used
 - Process & style
-  - compiler
+  - compiler 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
+  - refactoring 🖐️ used
+  - code review 🖐️ used
+  - antipatterns 👂 heard
+  - paradigm 👂 heard
+  - algorithm 🖐️ used
   - magic numbers
-  - hardcode
-  - complexity
+  - hardcode 🖐️ used
+  - complexity 👂 heard
   - decomposition
-  - spaghetti
+  - spaghetti 👨‍🍳 cooked
   - silver bullet
   - not invented here
   - dead code
   - unreachable code
   - duplicate code
-  - exception
+  - exception 👂 heard
   - return early
   - unittest
-  - git
-  - github
+  - git 🖐️ used
+  - github🖐️ used
