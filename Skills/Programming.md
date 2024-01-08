@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
+  - value : 🖐️ used
+  - identifier : 🖐️ used
+  - variable : 🖐️ used
+  - constant : 🎓 known
+  - scalar : 👂 heard
+  - literal : 👂 heard
+  - expression : 🖐️ used
+  - heap : 👂 heard
+  - function : 🎓 known
   - procedure
   - method
-  - class
+  - class : 👂 heard
   - prototype
   - event
-  - type
-  - primitive types
+  - type : 🖐️ used
+  - primitive types : 🖐️ used
   - reference types
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
+  - code block : 🎓 known
+  - conditions : 🖐️ used
+  - loops : 🖐️ used
+  - assignment : 🖐️ used
+  - regular expression : 👂 heard
+  - interface 
   - contract
-  - module
+  - module : 👂 heard
   - call stack
 - Functions
   - signature
@@ -40,8 +40,8 @@
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion : 🎓 known
+  - callback : 👂 heard
   - listener
   - compose
   - pipe
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
+  - array : 🎓 known
+  - structure : 👂 heard
+  - record 
   - enum
   - instance
   - object
-  - class
+  - class : 👂 heard
   - collection
   - set
   - hash table
@@ -72,35 +72,35 @@
   - deque
   - tree
   - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - iterator : 👂 heard
+  - mutable state : 🎓 known
+  - immutable state : 🎓 known
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler : 🖐️ used
+  - transpiler 
   - linter
   - polyfill
-  - debugger
+  - debugger : 👂 heard
   - garbage collection
   - refactoring
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm : 🖐️ used
   - magic numbers
-  - hardcode
+  - hardcode : 👂 heard
   - complexity
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 
   - unreachable code
-  - duplicate code
+  - duplicate code : 👂 heard
   - exception
-  - return early
+  - return early : 🎓 known
   - unittest
   - git
-  - github
+  - github : 👂 heard
