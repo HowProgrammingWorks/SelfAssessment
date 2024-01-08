@@ -1,170 +1,170 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 🎓 known
+  - node:module 👂 heard
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons 🎓 known
+  - Contexts and scripts node:vm 🎓 known
+  - Dependencies: npm, node_modules 👂 heard
+  - Dependencies: package.json and package lock 🎓 known
+  - Module-based permissions model 👂 heard
+  - Isolation with modularity 👂 heard
+  - Dependency injection 👂 heard
+  - DI containers 🎓 known
+  - Coupling and cohesion 👂 heard
+  - Framework agnostic approach 👂 heard
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Command line arguments 🎓 known
+  - Node.js CLI 👂 heard
+  - Process-based permissions 🎓 known
+  - Graceful shutdown 👂 heard
+  - Clustering 👂 heard
+  - Watch filesystem changes with --watch 👂 heard
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
-  - node:async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
-  - Stream back pressure
-  - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
-  - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
-  - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
+  - Web Crypto API 👂 heard
+  - File system API: sync and async 👂 heard
+  - Copy folder recursively 👂 heard
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard
+  - Native fetch and nodejs/undici 👂 heard
+  - node:async_hooks👂 heard
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 🎓 known
+  - Deprecated domain API 👂 heard
+  - Node.js single executable 👂 heard
+  - Stream back pressure 🎓 known
+  - SharedArrayBuffer 👂 heard
+  - node:worker_threads 🎓 known
+  - node:child_process 👂 heard
+  - MessageChannel, MessagePort 🎓 known
+  - BroadcastChannel 🎓 known
+  - Generating crypto random UUID 👂 heard
+  - node:url vs new URL 🎓 known
+  - node:assert 👂 heard
+  - Internationalization 👂 heard
+  - Blob, File, Buffer, node:buffer 👂 heard
+  - Module node:zlib 👂 heard
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
-  - GoF for Node.js
-  - Leaking abstractions
-- Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - Isolation between layer 👂 heard
+  - Multilayer approach 🖐️ used
+  - Separation of concerns 👂 heard
+  - Inversion of control 👂 heard
+  - Dependency injection 👂 heard
+  - GRASP 👂 heard
+  - SOLID 👂 heard
+  - GoF patterns 👂 heard
+  - Distributed systems 👂 heard
+  - Highload applications 👂 heard
+  - Clean architecture 👂 heard
+  - DDD 👂 heard
+  - Message Queue 👂 heard
+  - CQS 👂 heard
+  - CQRS 👂 heard
+  - Event sourcing 🖐️ used
+  - Load balancing 🖐️ used
+  - Serverless clouds 👂 heard
+  - FaaS clouds 🖐️ used
+  - Fat controller 👂 heard
+  - GoF for Node.js 👂 heard
+  - Leaking abstractions 👂 heard
+- Network 
+  - IP sticky sessions 🎓 known
+  - Endpoint throttling  🎓 known
+  - HTTP(S) 🎓 known
+  - TCP/SSL🎓 known
+  - UDP 🎓 known
+  - TLS 👂 heard
+  - Websocket 👂 heard
+  - SSE 👂 heard
+  - HTTP/3 (QUIC) 🖐️ used
+  - Long polling 👂 heard
+  - REST 👂 heard
+  - RPC 👂 heard
+  - Routing👂 heard
+  - DoS 🎓 known
+  - DDoS 🖐️ used
+  - XSS 👂 heard
   - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
-  - IncomingMessage
-  - SQL injection
-  - noDelay
-  - keep-alive
-  - ALPN
-  - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - CSRF 👂 heard
+  - DNS 🎓 known
+  - Fetch API 👂 heard
+  - IncomingMessage 👂 heard
+  - SQL injection 🖐️ used
+  - noDelay 👂 heard
+  - keep-alive 👂 heard
+  - ALPN 👂 heard
+  - SNI callback 👂 heard
+  - SSL certificates 👂 heard
+  - Protocol agnostic approach 🎓 known
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
-  - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Native test runner 👂 heard
+  - Logging 👂 heard
+  - Application configuring 👂 heard
+  - Testing 👂 heard
+  - CI/CD 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
+  - back pressure 👂 heard
+  - Buffer 👂 heard
+  - Console 🎓 known
+  - Inspector 🎓 known
+  - Reliability 👂 heard
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 🎓 known
+  - Repository 👂 heard
+  - Active record 👂 heard
+  - Query builder 👂 heard
+  - Object-Relational Mapping 👂 heard
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
-  - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
-- Integrations and bindings
-  - Native addons
-  - C and C++ addons
-  - Rust addons
-  - Zig addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI C and C++
-  - NAPI Rust
-  - NAPI Zig
-  - Webassembly WAT
-  - Webassembly C and C++
-  - Webassembly Rust
-  - Webassembly Zig
-  - Webassembly AssemblyScript
-  - Shared memory
-  - SharedArrayBuffer
-  - V8 binary serialization
+  - Error 🎓 known
+  - error.cause 🎓 known
+  - error.code 🎓 known
+  - error.message 🎓 known
+  - error.stack 👂 heard
+  - How to avoid mixins 👂 heard
+  - Error.captureStackTrace 👂 heard
+  - Uncaught exceptions 👂 heard
+  - Heap dump 👂 heard
+  - Debugging tools 🎓 known
+  - Flame graph👂 heard
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
+  - Data race 👂 heard
+- Integrations and bindings 
+  - Native addons 👂 heard
+  - C and C++ addons👂 heard
+  - Rust addons 👂 heard
+  - Zig addons👂 heard
+  - NAN (Native Abstractions for Node.js) 👂 heard
+  - Node-API (formerly N-API) 👂 heard
+  - NAPI C and C++ 👂 heard
+  - NAPI Rust 👂 heard
+  - NAPI Zig 👂 heard
+  - Webassembly WAT 👂 heard
+  - Webassembly C and C++ 👂 heard
+  - Webassembly Rust 👂 heard
+  - Webassembly Zig 👂 heard 
+  - Webassembly AssemblyScript 👂 heard
+  - Shared memory 👂 heard
+  - SharedArrayBuffer 👂 heard
+  - V8 binary serialization 👂 heard
