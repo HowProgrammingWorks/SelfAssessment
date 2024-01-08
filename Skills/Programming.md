@@ -18,7 +18,7 @@
   - type🖐️
   - primitive types🖐️
   - reference types🖐️
-  - flag👂
+  - flag🖐️
   - lexical scope👂
   - code block👂
   - conditions👂
@@ -45,9 +45,9 @@
   - listener👂
   - compose👂
   - pipe👂
-  - memoize👂
-  - wrapper👂
-  - functor👂
+  - memoize🖐️
+  - wrapper🎓
+  - functo🎓
   - monad👂
   - monoid👂
   - generator👂
