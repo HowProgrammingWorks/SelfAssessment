@@ -5,29 +5,29 @@
   - identifier 🖐️ used
   - variable 🖐️ used
   - constant 🖐️ used
-  - scalar
+  - scalar 🖐️ used
   - literal
   - expression 🖐️ used
   - heap
   - function 🖐️ used
-  - procedure
-  - method
+  - procedure 🖐️ used
+  - method 🖐️ used
   - class 🖐️ used
   - prototype 🖐️ used
-  - event
-  - type
-  - primitive types
+  - event 🖐️ used
+  - type 🖐️ used
+  - primitive types 🖐️ used
   - reference types
-  - flag
+  - flag 🖐️ used
   - lexical scope
-  - code block
-  - conditions
+  - code block 🖐️ used
+  - conditions 🖐️ used
   - loops 🎓 known
   - assignment
-  - regular expression
-  - interface
+  - regular expression 🖐️ used
+  - interface 🖐️ used
   - contract
-  - module
+  - module 🖐️ used
   - call stack
 - Functions
   - signature
@@ -36,7 +36,7 @@
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects
-  - closure
+  - closure 🖐️ used
   - partial application
   - curry
   - higher order
@@ -50,7 +50,7 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator 
   - coroutine
 - Data structures
   - array 🖐️ used
@@ -72,11 +72,11 @@
   - deque
   - tree
   - graph
-  - iterator
+  - iterator 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 🖐️ used
 - Process & style
   - compiler
   - transpiler
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early
-  - unittest
-  - git
-  - github
+  - unittest 👂 heard
+  - git 🖐️ used
+  - github 🖐️ used
