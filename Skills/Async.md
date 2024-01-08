@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop 👂 heard
+  - try..catch 👂 heard
+  - Non-blocking 👂 heard
+  - Async I/O 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 👂 heard
+  - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers 👂 heard
+  - setImmediate 👂 heard
+  - nextTick 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,9 +70,9 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell 👂 heard
   - Promise hell
-  - ref() and unref()
+  - ref() and unref() 👂 heard
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization

@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🖐️ used
+  - Dependencies: package.json and package lock 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🖐️ used
+  - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -113,22 +113,22 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
+  - Native test runner 👂 heard
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🖐️ used
   - CI/CD
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
+  - Reliability 🖐️ used
+  - Quality 🖐️ used
   - Availability
-  - Flexibility
+  - Flexibility 🖐️ used
 - Data access
   - Data access layer
   - Repository
@@ -136,19 +136,19 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 🖐️ used
+  - error.stack 🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions 👂 heard
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🖐️ used
+  - Resource leaks 🖐️ used
   - Data race
 - Integrations and bindings
   - Native addons
