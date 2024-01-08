@@ -69,7 +69,7 @@
   - Array: 🖐️used
   - mixin
   - extend
-  - typed arrays: heard
+  - typed arrays: 👂heard
   - Map
   - Set
   - undefined
