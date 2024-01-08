@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops:
+  - loops:🎓 known
   - assignment
   - regular expression
   - interface
