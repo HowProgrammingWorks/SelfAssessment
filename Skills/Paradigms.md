@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Procedural programming 🎓 known
+  - Imperative programming 🎓 known
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 👂 heard
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 👂 heard
+  - Object-based programming 👂 heard
+  - Generic programming 🎓 known
+  - Concurrent computing 🎓 known
+  - Asyncronous programming 🎓 known
+  - Parallel programming 👂 heard
+  - Reactive programming 🎓 known
+  - FRP (Functional-reactive) 👂 heard
+  - Automata-based programming 🎓 known
+  - Domain-specific languages 🎓 known
+  - Multi-paradigm programming 🎓 known
+  - Metaprogramming 🎓 known
+  - Actor model 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 👂 heard
+  - new 👂 heard
+  - Static method 🎓 known
+  - Method 👂 heard
+  - Async method 🎓 known
+  - Getters, Setters 🎓 known
+  - Public fields 🎓 known
+  - Private fields 🎓 known
+  - Field declarations 🎓 known
+  - Inheritance 🎓 known
+  - Parent class 👂 heard
+  - Polymorphism 🖐️ used
+  - Abstract class 👂 heard
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🎓 known
+  - Object form 🖐️ used
+  - instance 🎓 known
+  - Introspection 🖐️ used
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
+  - Abstract Factory 👂 heard
+  - Adapter 👂 heard
+  - Observer 👂 heard
+  - Strategy 🎓 known
+  - Facade 🎓 known
+  - Proxy 🎓 known
+  - Chain of Responsibility 👂 heard
+  - Command 🎓 known
+  - Iterator 🎓 known
+  - State 🎓 known
+  - Bridge 🎓 known
+  - Builder 👂 heard
+  - Prototype 🎓 known
+  - Composite 👂 heard
+  - Decorator 🎓 known
+  - Flyweight 🎓 known
+  - Mediator 🎓 known
+  - Memento 👂 heard
+  - Template Method 🎓 known
+  - Visitor 🎓 known
