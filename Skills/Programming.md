@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
+  - value:🎓 known
+  - identifier:🎓 known
+  - variable:🎓 known
+  - constant:🎓 known
+  - scalar:🎓 known
+  - literal:👂 heard
   - expression
   - heap
-  - function
+  - function:👂 heard
   - procedure
   - method
-  - class
+  - class:👂 heard
   - prototype
   - event
   - type
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops:
   - assignment
   - regular expression
   - interface
