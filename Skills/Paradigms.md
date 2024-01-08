@@ -17,7 +17,7 @@
   - FRP (Functional-reactive)👂
   - Automata-based programming👂
   - Domain-specific languages👂
-  - Multi-paradigm programming👂
+  - Multi-paradigm programming🎓
   - Metaprogramming👂
   - Actor model👂
 - OOP basics
@@ -44,7 +44,7 @@
 - Patterns
   - Singleton👂
   - Factory Method👂
-  - Abstract Factory👂
+  - Abstract Factory🎓
   - Adapter👂
   - Observer👂
   - Strategy👂
@@ -59,7 +59,7 @@
   - Prototype👂
   - Composite👂
   - Decorator👂
-  - Flyweight👂
+  - Flyweight🎓
   - Mediator👂
   - Memento👂
   - Template Method👂
