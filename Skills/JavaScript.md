@@ -41,22 +41,22 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if: used
+  - while: used
   - do..while
-  - for
-  - for..in
+  - for: used
+  - for..in: used
   - for..of
   - for await
   - throw
-  - break
+  - break: used
   - continue
-  - import
+  - import: used
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: used
+  - class: used
   - new Error
   - with
 - Functions
@@ -66,10 +66,10 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: used
   - mixin
   - extend
-  - typed arrays
+  - typed arrays: heard
   - Map
   - Set
   - undefined
