@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof:👂 heard
   - destructuring
   - generator
   - iterator
@@ -41,28 +41,28 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if:🎓 known
+  - while:🎓 known
+  - do..while:🎓 known
+  - for:🎓 known
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break:🎓 known
+  - continue:🎓 known
+  - import:👂 heard
+  - export:👂 heard
   - label
   - try..catch
   - switch
-  - class
+  - class:👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration:👂 heard
+  - function expression:👂 heard
+  - return:🎓 known
   - default parameters
   - functional object
 - Data structures
@@ -72,8 +72,8 @@
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined:🎓 known
+  - null:🎓 known
   - Proxy
   - weak collections
   - timers
