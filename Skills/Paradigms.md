@@ -5,7 +5,7 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
@@ -21,16 +21,16 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor 🎓 known
+  - new 🎓 known
   - Static method
-  - Method
+  - Method 🎓 known
   - Async method
-  - Getters, Setters
+  - Getters, Setters 👂 heard
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
+  - Inheritance 🎓 known
   - Parent class
   - Polymorphism
   - Abstract class
@@ -38,7 +38,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - instance
+  - instance 🎓 known
   - Introspection
   - Reflection
 - Patterns

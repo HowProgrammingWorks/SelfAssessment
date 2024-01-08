@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof 🎓 known
   - ...spread
-  - ...rest
-  - typeof
+  - ...rest 🖐️ used
+  - typeof 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator 🖐️ used
   - async generator
   - async iterator
   - chaining
@@ -23,67 +23,67 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 👂 heard
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - prototype 👂 heard
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 
+  - ternary operator 🖐️ used
+  - void 👂 heard
+  - yield 👂 heard
+  - await 🖐️ used
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete 🖐️ used
+  - in 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
-  - Set
-  - undefined
-  - null
+  - Set 👂 heard
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers 👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 👂 heard
   - npm
   - prettier
   - MDN

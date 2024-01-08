@@ -1,19 +1,19 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
   - scalar
   - literal
-  - expression
+  - expression 🖐️ used
   - heap
-  - function
+  - function 🖐️ used
   - procedure
   - method
-  - class
-  - prototype
+  - class 🖐️ used
+  - prototype 🖐️ used
   - event
   - type
   - primitive types
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🎓 known
   - assignment
   - regular expression
   - interface
@@ -31,17 +31,17 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - argument 🖐️ used
+  - parameter 🖐️ used
+  - pure function 🖐️ used
+  - lambda expression 🖐️ used
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion 🎓 known
+  - callback 🖐️ used
   - listener
   - compose
   - pipe
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🖐️ used
+  - structure 🖐️ used
   - record
   - enum
-  - instance
-  - object
-  - class
+  - instance 🎓🖐️ used
+  - object 🖐️ used
+  - class 🖐️ used
   - collection
-  - set
+  - set 🎓 known
   - hash table
   - linked list
   - doubly list
@@ -82,13 +82,13 @@
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring 🖐️ used
+  - code review 🖐️ used
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -98,8 +98,8 @@
   - not invented here
   - dead code
   - unreachable code
-  - duplicate code
-  - exception
+  - duplicate code 🎓 known
+  - exception 🎓 known
   - return early
   - unittest
   - git
