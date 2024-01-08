@@ -1,8 +1,8 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming : 👂 heard
+  - Imperative programming 
   - Structured programming
   - Non-structured programming
   - Functional programming
