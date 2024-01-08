@@ -1,1 +1,39 @@
-
+- Basics
+  - Main syntax
+  - Identifiers
+  - Keywords
+  - Comments
+  - Variables
+  - Constants
+  - Scope rules
+- Data types
+  - Data types in C
+  - Data type modifiers
+  - Escape sequence
+  - Boolean
+- Input/Output
+  - printf
+  - scanf
+  - Format specifiers
+- Operators
+  - Arithmetic operations
+  - Relational operators
+  - Logical operators
+  - Bitwise operators
+  - Assignment operators
+  - Increment and decrement operators
+- Control statements
+  - if...else
+  - Switch
+  - Loops
+  - break
+  - goto
+- Functions
+  - C functions
+  - Function definitiion and call
+  - Parameter passing techniques
+  - Math functions
+- Arrays
+  - C arrays
+  - Multidimensional arrays
+  - Passing arrays to functions
