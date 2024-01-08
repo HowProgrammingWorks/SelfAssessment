@@ -2,17 +2,17 @@
 
 - Syntax and concepts
   - value : used 
-  - identifier
+  - identifier: used
   - variable
-  - constant
-  - scalar
+  - constant: used
+  - scalar: used
   - literal
   - expression
   - heap
   - function
   - procedure
   - method
-  - class
+  - class: used
   - prototype
   - event
   - type
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: used
   - structure
   - record
   - enum
   - instance
   - object
-  - class
+  - class: used
   - collection
   - set
   - hash table
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂heard
+  - github: 👂heard
