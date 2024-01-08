@@ -9,7 +9,7 @@
   - bind👂
   - apply
   - instanceof👂
-  - ...spread🖐️
+  - ...spread🎓
   - ...rest👂
   - typeof👂
   - destructuring👂
@@ -18,7 +18,7 @@
   - async generator👂
   - async iterator👂
   - chaining👂
-  - optional chaining👂
+  - optional chaining🎓
   - IIFE👂
   - global👂
   - globalThis👂
