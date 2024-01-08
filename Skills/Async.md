@@ -4,8 +4,8 @@
   - Event loop 👂 heard
   - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O 👂 heard
+  - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
   - Concurrent programming
   - Parallel programming
   - Actor Model
   - Thread 👂 heard
-  - Process
+  - Process 👂 heard
 - Async contracts
   - Callbacks 🎓 known
   - Callback-last-error-first 🎓 known
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
@@ -41,9 +41,9 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
@@ -65,7 +65,7 @@
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
-  - Promise double resolve
+  - Promise double resolve 👂 heard
   - child_process
   - worker_threads
   - Atomics
@@ -81,7 +81,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library 👂 heard
   - RxJS library
   - Async composition
   - Promise.all
