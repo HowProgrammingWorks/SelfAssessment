@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 🖐️ used
+  - this: 👂 heard
+  - arrow function: 🖐️ used
   - async function
   - call
   - bind
   - apply
   - instanceof
-  - ...spread
-  - ...rest
-  - typeof
+  - ...spread: 👂 heard
+  - ...rest: 👂 heard
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator: 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🖐️ used
   - globalThis
-  - window
+  - window: 👂 heard
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - prototype: 👂 heard
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators 
+  - ternary operator: 🎓 known
   - void
   - yield
   - await
   - template literal
   - strict mode
-  - delete
+  - delete: 🖐️ used
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 👂 heard
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
+  - export: 👂 heard
   - label
-  - try..catch
-  - switch
+  - try..catch: 👂 heard
+  - switch: 👂 heard
   - class
-  - new Error
+  - new Error: 👂 heard
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
-  - Proxy
+  - undefined: 👂 heard
+  - null: 🎓 known
+  - Proxy: 👂 heard
   - weak collections
-  - timers
+  - timers: 👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 👂 heard
+  - BigInt: 👂 heard
 - Infrastructure
-  - V8
+  - V8: 👂 heard
   - Node.js
   - npm
-  - prettier
-  - MDN
+  - prettier: 🖐️ used
+  - MDN: 👂 heard
