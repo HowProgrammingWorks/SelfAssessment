@@ -1,37 +1,37 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
-  - expression 🖐️ used
-  - heap 👂 heard
-  - function 🖐️ used
-  - procedure 👂 heard
-  - method 👂 heard
-  - class 👂 heard
-  - prototype 👂 heard
-  - event 👂 heard
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 👂 heard
-  - flag 🖐️ used
-  - lexical scope 👂 heard
-  - code block 🖐️ used
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 🖐️ used
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 👂 heard
+  - function: 🖐️ used
+  - procedure: 👂 heard
+  - method: 👂 heard
+  - class: 👂 heard
+  - prototype: 👂 heard
+  - event: 👂 heard
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 👂 heard
+  - flag: 🖐️ used
+  - lexical scope: 👂 heard
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
   - regular expression
   - interface 
   - contract
-  - module 👂 heard
-  - call stack 👂 heard
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
   - signature
-  - argument 🖐️ used
+  - argument: 🖐️ used
   - parameter
   - pure function
   - lambda expression
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion 🖐️ used
+  - recursion: 🖐️ used
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array 🖐️ used
+  - array: 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object 🖐️ used
-  - class 🖐️ used
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
   - set
   - hash table
@@ -72,35 +72,35 @@
   - deque
   - tree
   - graph
-  - iterator 🖐️ used
+  - iterator: 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing 🖐️ used
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler 🖐️ used
+  - compiler: 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger 🖐️ used
+  - debugger: 🖐️ used
   - garbage collection
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 👂 heard
-  - paradigm 👂 heard
-  - algorithm 🖐️ used
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🖐️ used
   - magic numbers
-  - hardcode 🖐️ used
-  - complexity 👂 heard
+  - hardcode: 🖐️ used
+  - complexity: 👂 heard
   - decomposition
-  - spaghetti 👨‍🍳 cooked
+  - spaghetti: 👂 heard
   - silver bullet
   - not invented here
   - dead code
   - unreachable code
   - duplicate code
-  - exception 👂 heard
+  - exception: 👂 heard
   - return early
   - unittest
-  - git 🖐️ used
-  - github🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
