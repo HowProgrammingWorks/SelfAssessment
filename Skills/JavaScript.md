@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object 🖐️ used
+  - Object: 🖐️ used
   - this
-  - arrow function 🖐️ used
+  - arrow function: 🖐️ used
   - async function
   - call
   - bind
@@ -11,76 +11,76 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof 🖐️ used
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator 🖐️ used
+  - iterator: 🖐️ used
   - async generator
   - async iterator
-  - chaining 🖐️ used
+  - chaining: 🖐️ used
   - optional chaining
   - IIFE
-  - global 🖐️ used
+  - global: 🖐️ used
   - globalThis
   - window
   - getters and setters
   - __proto__
-  - prototype 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
-  - void 🖐️ used
+  - prototype: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in 🖐️ used
+  - in: 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
   - do..while
-  - for 🖐️ used
-  - for..in 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
   - for..of
   - for await
   - throw
-  - break 🖐️ used
-  - continue 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
   - import
   - export
   - label
-  - try..catch 👂 heard
-  - switch 👂 heard
+  - try..catch: 👂 heard
+  - switch: 👂 heard
   - class 
   - new Error
   - with 
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array 🖐️ used
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined 🖐️ used
-  - null 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date 🖐️ used
-  - BigInt 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
   - Node.js
