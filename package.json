@@ -1,0 +1,44 @@
+{
+  "name": "self-assessment",
+  "version": "1.0.0",
+  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
+  "license": "MIT",
+  "description": "Software engineering self assessment",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "software",
+    "programming",
+    "software engineering",
+    "self assessment"
+  ],
+  "readmeFilename": "README.md",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HowProgrammingWorks/SelfAssessment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HowProgrammingWorks/SelfAssessment/issues",
+    "email": "timur.shemsedinov@gmail.com"
+  },
+  "homepage": "https://github.com/HowProgrammingWorks/Index",
+  "scripts": {
+    "test": "node ./src/skills.js",
+    "lint": "eslint . && prettier -c \"**/*.js\" \"**/*.json\"",
+    "fmt": "prettier --write \"**/*.js\" \"**/*.json\""
+  },
+  "dependencies": {
+    "concolor": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-metarhia": "^8.2.2",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.1.1"
+  }
+}
