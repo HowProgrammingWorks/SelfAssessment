@@ -1,109 +1,109 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model🙋 explained
   - Modeling
-  - Subject domain
+  - Subject domain🙋 explained
   - Algorithm
-  - Syntax
+  - Syntax🙋 explained
   - Semantics
-  - Code
+  - Code🙋 explained
   - Programm
   - Programming paradigm
   - Programming language
   - Software engineering
   - Decomposition
   - Control flow
-  - Data flow
+  - Data flow🙋 explained
 - Syntax and concepts
-  - value
+  - value🖐️ used
   - identifier
-  - variable
-  - constant
-  - scalar
+  - variable🖐️ used
+  - constant🖐️ used
+  - scalar🖐️ used
   - literal
-  - expression
-  - heap
-  - function
+  - expression🖐️ used
+  - heap🖐️ used
+  - function🙋 explained
   - procedure
-  - method
-  - class
-  - prototype
+  - method🙋 explained
+  - class🙋 explained
+  - prototype🙋 explained
   - event
-  - type
+  - type🙋 explained
   - primitive types
   - reference types
   - flag
   - lexical scope
   - code block
   - conditions
-  - loops
-  - assignment
+  - loops🙋 explained
+  - assignment🎓 known
   - regular expression
   - interface
-  - contract
+  - contract🎓 known
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature🙋 explained
+  - argument🙋 explained
+  - parameter🙋 explained
   - pure function
   - lambda expression
   - side effects
-  - closure
+  - closure🖐️ used
   - partial application
-  - curry
+  - curry🖐️ used
   - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
+  - recursion🎓 known
+  - callback🖐️ used
+  - listener🖐️ used
+  - compose🖐️ used
+  - pipe🎓 known
+  - memoize🎓 known
   - wrapper
   - functor
   - monad
   - monoid
-  - generator
+  - generator🙋 explained
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array🙋 explained
+  - structure🙋 explained
+  - record🙋 explained
+  - enum🙋 explained
+  - instance🙋 explained
+  - object🙋 explained
+  - class🙋 explained
+  - collection🖐️ used
+  - set🖐️ used
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
+  - queue🖐️ used
+  - stack🖐️ used
+  - deque🖐️ used
+  - tree🖐️ used
+  - graph🖐️ used
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
-  - linter
+  - compiler🎓 known
+  - transpiler🎓 known
+  - linter🎓 known
   - polyfill
   - debugger
   - garbage collection
   - refactoring
   - code review
-  - antipatterns
-  - paradigm
-  - algorithm
+  - antipatterns🎓 known
+  - paradigm🖐️ used
+  - algorithm🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -117,5 +117,6 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git🖐️ used
+  - github🖐️ used
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
