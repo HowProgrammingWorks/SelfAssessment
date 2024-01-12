@@ -1,20 +1,20 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming🖐️ used
+  - Imperative programming🎓 known
+  - Structured programming🎓 known
+  - Non-structured programming🎓 known
+  - Functional programming🖐️ used
+  - Prototype-based programming🖐️ used
+  - Object-oriented programming🖐️ used
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
+  - Generic programming🎓 known
+  - Concurrent computing🖐️ used
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming🎓 known
   - Reactive programming
-  - FRP (Functional-reactive)
+  - FRP (Functional-reactive)🎓 known
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
@@ -22,45 +22,45 @@
   - Actor model
 - OOP basics
   - constructor
-  - new
+  - new🖐️ used
   - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
+  - Method🖐️ used
+  - Async method🖐️ used
+  - Getters, Setters🖐️ used
+  - Public fields🖐️ used
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance🖐️ used
+  - Parent class👂 heard
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface🖐️ used
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form🖐️ used
   - instance
   - Introspection
-  - Reflection
+  - Reflection🖐️ used
 - Patterns
-  - Singleton
+  - Singleton👂 heard
   - Factory Method
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Adapter👂 heard
+  - Observer👂 heard
+  - Strategy🎓 known
   - Facade
-  - Proxy
+  - Proxy🎓 known
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command🎓 known
+  - Iterator🎓 known
   - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Bridge🎓 known
+  - Builder🎓 known
+  - Prototype👂 heard
+  - Composite🎓 known
+  - Decorator🎓 known
   - Flyweight
-  - Mediator
+  - Mediator👂 heard
   - Memento
   - Template Method
-  - Visitor
+  - Visitor🎓 known
