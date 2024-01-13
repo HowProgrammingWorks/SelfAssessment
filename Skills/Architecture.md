@@ -1,6 +1,5 @@
 ## Architecture
 
-- Application structure and architecture
 - Application structure
   - Modularity
   - Components
@@ -8,48 +7,52 @@
   - GRASP
   - SOLID
   - GoF patterns
+  - CQS
   - Leaking abstractions
   - Multiparadigm code
-  - Domain-specific language (DSL)
   - Contract programming
-  - Separation of system and applied
   - Platform-agnostic
   - Transport-agnostic
+  - Framework-agnostic
 - Application architecture
   - Isolation between layer
+  - Domain-specific language (DSL)
+  - System vs applied code
   - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - Distributed systems
-  - Highload applications
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
   - Clean architecture
-  - Domain-driven design
-  - Message Queue
-  - CQS
+  - Domain-driven design (DDD)
+  - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - Load balancing
-  - Gateways
-  - Serverless
-  - FaaS clouds
-  - Metaprogramming
-- Solution srchitecture
-  - A software requirements specification (SRS)
-  - Visions
-  - Capabilities
-  - Process modelling
-  - Data modelling
-  - Modularity
-  - Components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-- Enterprise architecture
-  - Understanding business needs
-  - Strategy
-  - Integration with subsystems
-  - Visions
-  - Capabilities
   - Project scope
   - Work breakdown structure
   - Budget estimation
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+- Solution srchitecture
+  - A software requirements specification (SRS)
+  - Solution vision
+  - Capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Risk assessment
+  - Non Functional Requirements (NFR)
+  - Clouds
+- Enterprise architecture
+  - Understanding business needs
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
