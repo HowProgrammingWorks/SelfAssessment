@@ -28,6 +28,22 @@ const loadFile = async (file) => {
   return data;
 };
 
+const LEVEL = [
+  'heard',
+  'known',
+  'used',
+  'explained',
+  'talked',
+  'researched',
+  'constructed',
+];
+
+const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
+
+const LEVEL_EMOJI = Object.fromEntries(LEVEL.map((name, i) => [name, EMOJI[i]]));
+
+console.log({ LEVEL, EMOJI, LEVEL_EMOJI });
+
 const countLines = (s) => {
   let count = 1;
   for (let i = 0; i < s.length; i++) {
