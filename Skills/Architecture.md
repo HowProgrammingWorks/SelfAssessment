@@ -34,22 +34,21 @@
   - Serverless
   - FaaS clouds
   - Metaprogramming
-- Solution srchitecture
+- Solution architecture
   - A software requirements specification (SRS)
-  - Visions
-  - Capabilities
+  - Solution visions
+  - Solution capabilities
   - Process modelling
   - Data modelling
-  - Modularity
-  - Components
+  - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
 - Enterprise architecture
   - Understanding business needs
   - Strategy
   - Integration with subsystems
-  - Visions
-  - Capabilities
+  - Enterprise visions
+  - Enterprise capabilities
   - Project scope
   - Work breakdown structure
   - Budget estimation

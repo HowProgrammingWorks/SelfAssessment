@@ -143,5 +143,4 @@
   - Webassembly Zig
   - Webassembly AssemblyScript
   - Shared memory
-  - SharedArrayBuffer
   - V8 binary serialization
