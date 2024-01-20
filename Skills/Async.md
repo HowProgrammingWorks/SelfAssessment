@@ -76,8 +76,6 @@
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify
-  - callbackify
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
@@ -92,4 +90,3 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API
