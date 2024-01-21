@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON streaming serialization
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
