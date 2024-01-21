@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
+  - Model: 🎓 known
+  - Modeling 🎓 known
+  - Subject domain: known
+  - Algorithm: 🎓
+  - Syntax: unknown
+  - Semantics:
+  - Code: 
+  - Programm: 🎓 unknown
+  - Programming paradigm: 👂 known
+  - Programming language heard, known
+  - Software engineering known
   - Decomposition
   - Control flow
   - Data flow
