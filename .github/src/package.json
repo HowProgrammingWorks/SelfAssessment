@@ -4,34 +4,17 @@
   "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
   "license": "MIT",
   "description": "Software engineering self assessment",
-  "keywords": [
-    "node.js",
-    "javascript",
-    "software",
-    "programming",
-    "software engineering",
-    "self assessment"
-  ],
   "readmeFilename": "README.md",
   "engines": {
     "node": ">=18.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HowProgrammingWorks/SelfAssessment.git"
-  },
-  "bugs": {
-    "url": "https://github.com/HowProgrammingWorks/SelfAssessment/issues",
-    "email": "timur.shemsedinov@gmail.com"
-  },
-  "homepage": "https://github.com/HowProgrammingWorks/Index",
   "scripts": {
-    "test": "node ./src/skills.js",
     "lint": "eslint . && prettier -c \"**/*.js\" \"**/*.json\"",
     "fmt": "prettier --write \"**/*.js\" \"**/*.json\""
   },
   "dependencies": {
-    "concolor": "^1.1.0"
+    "concolor": "^1.1.0",
+    "metautil": "^5.2.0"
   },
   "devDependencies": {
     "eslint": "^8.56.0",

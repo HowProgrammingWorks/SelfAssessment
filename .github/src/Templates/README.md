@@ -1,5 +1,7 @@
 ## Software engineering self assessment
 
+$BADGE
+
 ## Skills
 
 - [Programming fundamentals](Skills/Programming.md)

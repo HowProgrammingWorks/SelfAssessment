@@ -1,10 +1,12 @@
-name: Check slills
+name: Check skills
 on: pull_request
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
       - name: Node.js
         uses: actions/setup-node@v4
         with:
@@ -16,4 +18,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - run: npm ci
-      - run: npm t
+        working-directory: .github/src
+      - run: node skills.js
+        working-directory: .github/src
+      - name: Generate results
+        run: |
+          git config --global user.name "Metarhia skill bot"
+          git config --global user.email "timur@metarhia.com"
+          git add ./Profile ./README.md
+          git commit -m "Automated skill analysis"
+          git push

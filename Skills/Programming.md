@@ -74,7 +74,6 @@
   - enum
   - instance
   - object
-  - class
   - collection
   - set
   - hash table
