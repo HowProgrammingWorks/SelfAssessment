@@ -66,8 +66,41 @@ const LEVEL = [
 const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
 
 const LEVEL_EMOJI = Object.fromEntries(LEVEL.map((n, i) => [n, EMOJI[i]]));
+const EMOJI_LEVEL = Object.fromEntries(EMOJI.map((n, i) => [n, LEVEL[i]]));
 
-//console.log({ LEVEL, EMOJI, LEVEL_EMOJI });
+const removeColon = (line) => {
+  const s = line.trim();
+  if (!s.endsWith(':')) return s;
+  return s.substring(0, s.length - 1).trim();
+};
+
+const formatSkill = (line) => {
+  let skill = removeColon(line.substring(1).trim());
+  let icon = '';
+  let name = '';
+  for (const emoji of EMOJI) {
+    const pos = skill.indexOf(emoji);
+    if (pos === -1) continue;
+    icon = emoji;
+    name = skill.substring(pos + emoji.length, skill.length).trim();
+    skill = skill.substring(0, pos);
+    break;
+  }
+  if (!icon) {
+    for (const level of LEVEL) {
+      if (!skill.endsWith(' ' + level)) continue;
+      name = level;
+      skill = skill.substring(0, skill.length - level.length);
+      break;
+    }
+  }
+  skill = removeColon(skill);
+  if (icon && !name) name = EMOJI_LEVEL[icon];
+  if (name && !icon) icon = LEVEL_EMOJI[name];
+  let level = (icon + ' ' + name).trim();
+  if (icon && name && LEVEL_EMOJI[name] !== icon) level = undefined;
+  return { skill, level };
+};
 
 const getSkills = (data, file) => {
   const lines = data.split('\n');
@@ -98,11 +131,18 @@ const getSkills = (data, file) => {
       continue;
     }
     if (s.startsWith('  -')) {
-      const skill = line.slice('  -'.length - 1).trim();
+      const { skill, level } = formatSkill(line);
+      if (level === undefined) {
+        const msg = 'not matching level and emoji';
+        wrongFormat(`${msg} «${line}» at line ${i + 1}`, file);
+        out.push(s + ' 👉 Warning: ' + msg);
+        skills.push(skill);
+        continue;
+      }
       if (skills.includes(skill)) {
         warnFixup(`removed duplicate skill «${skill}» at line ${i + 1}`, file);
       } else {
-        out.push('  - ' + skill);
+        out.push(level ? `  - ${skill}: ${level}` : `  - ${skill}`);
         skills.push(skill);
       }
       continue;
