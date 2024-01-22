@@ -3,7 +3,7 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
+  - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
   - Garbage collection
