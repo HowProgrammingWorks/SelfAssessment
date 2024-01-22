@@ -64,6 +64,7 @@ const LEVEL = [
 ];
 
 const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
+const SYMBOLS = ['~', '+', '*', '!'];
 
 const LEVEL_EMOJI = Object.fromEntries(LEVEL.map((n, i) => [n, EMOJI[i]]));
 const EMOJI_LEVEL = Object.fromEntries(EMOJI.map((n, i) => [n, LEVEL[i]]));
@@ -74,8 +75,19 @@ const removeColon = (line) => {
   return s.substring(0, s.length - 1).trim();
 };
 
+const useSymbol = (s) => {
+  for (const symbol of SYMBOLS) {
+    if (s.endsWith(symbol)) {
+      const emoji = EMOJI[SYMBOLS.indexOf(symbol)];
+      return s.substring(0, s.length - 1) + emoji;
+    }
+  }
+  return s;
+};
+
 const formatSkill = (line) => {
   let skill = removeColon(line.substring(1).trim());
+  skill = useSymbol(skill);
   let icon = '';
   let name = '';
   for (const emoji of EMOJI) {
