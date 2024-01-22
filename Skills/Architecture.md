@@ -40,7 +40,6 @@
   - SaaS
   - FaaS clouds
   - Serverless
-  - Metaprogramming
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -59,4 +58,3 @@
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
-  - Work breakdown structure
