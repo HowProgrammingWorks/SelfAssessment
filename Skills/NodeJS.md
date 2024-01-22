@@ -130,18 +130,18 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
-  - Rust addons
-  - Zig addons
+  - `C` and `C++` addons
+  - `Rust` addons
+  - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI C and C++
-  - NAPI Rust
-  - NAPI Zig
-  - Webassembly WAT
-  - Webassembly C and C++
-  - Webassembly Rust
-  - Webassembly Zig
-  - Webassembly AssemblyScript
+  - NAPI `C` and `C++`
+  - NAPI `Rust`
+  - NAPI `Zig`
+  - Webassembly `WAT`
+  - Webassembly `C` and `C++`
+  - Webassembly `Rust`
+  - Webassembly `Zig`
+  - Webassembly `AssemblyScript`
   - Shared memory
   - V8 binary serialization
