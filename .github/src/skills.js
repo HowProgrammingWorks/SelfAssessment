@@ -171,24 +171,38 @@ const getSkills = (data, file) => {
 };
 
 const analise = async (section) => {
+  console.log(concolor`\nCheck: ${section}(b,white)`);
   const file = `Skills/${section}.md`;
   const md = await loadFile(file);
   const skills = getSkills(md, file);
   console.log(concolor.info(`Skills: ${skills.length}`));
-  return;
+};
+
+const match = async (role) => {
+  console.log(concolor`\nRoles: ${role}(b,white)`);
+  const file = `.github/src/Roles/${role}.md`;
+  const md = await loadFile(file);
+  console.log(concolor.info(`Size: ${md.length}`));
 };
 
 (async () => {
   console.log(concolor.white(TITLE));
   console.log(concolor.info('Auto Checker'));
 
-  const files = await fs.readdir(`${PATH}/Skills/`);
-  const sections = files
+  const skillFiles = await fs.readdir(`${PATH}/Skills/`);
+  const sections = skillFiles
     .filter((file) => file.endsWith('.md'))
     .map((file) => file.substring(0, file.length - '.md'.length));
   for (const section of sections) {
-    console.log(concolor`\nCheck: ${section}(b,white)`);
     await analise(section);
+  }
+
+  const roleFiles = await fs.readdir(`${PATH}/.github/src/Roles/`);
+  const roles = roleFiles
+    .filter((file) => file.endsWith('.md'))
+    .map((file) => file.substring(0, file.length - '.md'.length));
+  for (const role of roles) {
+    await match(role);
   }
 
   const badgeCode = codeBlock(BADGE);
