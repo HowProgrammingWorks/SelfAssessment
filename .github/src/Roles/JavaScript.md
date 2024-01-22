@@ -1,53 +1,54 @@
 ## JavaScript
 
-- To start Node.js
-  - Object
-  - this
+- To start asynchronous programming
   - arrow function
-  - async function
-  - instanceof
   - ...spread
   - ...rest
+  - instanceof
   - typeof
   - destructuring
+  - generator
   - iterator
-  - async generator
-  - async iterator
   - chaining
-  - global
-  - globalThis
-  - getters and setters
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
+  - yield
   - Symbol
-  - Reflect
-  - if
-  - for
-  - for..of
-  - for await
-  - throw
-  - import
-  - export
-  - try..catch
   - class
-  - new Error
-  - function declaration
-  - function expression
+  - this
+  - super
+  - try..catch
   - return
+  - new Error
   - default parameters
+  - Object
   - Array
   - Map
   - Set
-  - undefined
-  - null
+  - IIFE
+  - throw
+- To start Node.js
+  - async function
+  - async generator
+  - async iterator
+  - optional chaining
+  - global
+  - globalThis
+  - getters and setters
+  - prototype
+  - equality operators
+  - logical operators
+  - ternary operator
+  - await
+  - template literal
+  - strict mode
+  - Reflect
+  - for await
+  - import
+  - export
+  - mixin
+  - extend
   - Proxy
   - timers
   - EventEmitter
-  - RegExp
   - Date
+  - BigInt
   - npm
-  - prettier
