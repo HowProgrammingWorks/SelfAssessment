@@ -1,120 +1,119 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
+  - Code: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
+  - Software engineering: 🖐️ used
+  - Decomposition: 
+  - Control flow: 
+  - Data flow: 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 👂 heard
+  - identifier: 🎓 known
+  - variable: 🖐️ used
+  - constant: 👂 heard
+  - scalar: 🖐️ used
+  - literal: 👂 heard
+  - expression: 🖐️ used
+  - heap: 👂 heard
+  - function: 🎓 known
+  - procedure: 👂 heard
+  - method: 👂 heard
+  - class: 🖐️ used
+  - prototype: 👂 heard
+  - event: 👂 heard
+  - type: 👂 heard
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
+  - flag: 👂 heard
+  - lexical scope: 🖐️ used
+  - code block: 👂 heard
+  - conditions: 🖐️ used
+  - loops: 👂 heard
+  - assignment: 🎓 known
+  - regular expression: 👂 heard
+  - interface: 👂 heard
+  - contract: 🖐️ used
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature:🖐️ used
+  - argument: 🖐️ used
+  - parameter:
+  - pure function: 
+  - lambda expression: 🖐️ used
+  - side effects: 
+  - closure:🖐️ used
+  - partial application: 🎓 known
+  - curry: 
+  - higher order: 🎓 known
+  - recursion: 🖐️ used
+  - callback: 
+  - listener: 👂 heard
+  - compose: 
+  - memoize: 
+  - wrapper: 👂 heard
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 🖐️ used
+  - generator: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 👂 heard
+  - structure:
+  - record: 🎓 known
+  - enum: 👂 heard
+  - instance: 👂 heard
+  - object: 👂 heard
+  - collection: 👂 heard
+  - set: 🎓 known
+  - hash table: 🖐️ used
+  - linked list: 🖐️ used
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 
+  - queue: 👂 heard
+  - stack: 🖐️ used
+  - deque:
+  - tree: 👂 heard
+  - graph: 🎓 known
+  - iterator: 👂 heard
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 🖐️ used
+  - string parsing: 👂 heard
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler: 👂 heard
+  - transpiler: 👂 heard
+  - linter: 
+  - polyfill: 
+  - debugger: 🖐️ used
+  - garbage collection: 👂 heard
+  - refactoring: 🖐️ used
+  - code review: 👂 heard
+  - antipatterns: 👂 heard
+  - paradigm: 
+  - algorithm: 🎓 known
+  - magic numbers: 👂 heard
+  - hardcode: 
+  - complexity: 🖐️ used
+  - decomposition: 
+  - spaghetti: 
+  - silver bullet: 
+  - not invented here: 
+  - dead code: 👂 heard
+  - unreachable code: 
+  - duplicate code: 👂 heard
+  - exception: 🎓 known
+  - return early: 🎓 known
+  - unittest: 
+  - git: 👂 heard
+  - github: 👂 heard

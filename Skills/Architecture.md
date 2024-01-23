@@ -1,62 +1,62 @@
 ## Architecture
 
+
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Modularity: 🖐️ used
+  - Components: 🎓 known
+  - Directories: 👂 heard
+  - GRASP: 🎓 known
+  - SOLID: 👂 heard
+  - GoF patterns: 🖐️ used
+  - CQS: 👂 heard
+  - Leaking abstractions: 
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Metaprogramming
+  - Isolation between layers: 👂 heard
+  - Domain-specific language (DSL): 🎓 known
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming:
+  - Inversion of control (IoC):
+  - Dependency injection (DI):
+  - Clean architecture:
+  - Domain-driven design (DDD): 🖐️ used
+  - Message Queue (MQ): 👂 heard
+  - CQRS: 
+  - Event sourcing: 👂 heard
+  - Work breakdown structure: 
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 
+  - Load balancing: 
+  - Gateways: 👂 heard
+  - On-premises: 👂 heard
+  - IaaS: 
+  - PaaS: 👂 heard
+  - SaaS: 🎓 known
+  - FaaS clouds: 👂 heard
+  - Serverless: 🖐️ used
+  - Metaprogramming: 🖐️ used
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - A software requirements specification (SRS): 👂 heard
+  - Solution visions: 
+  - Solution capabilities: 🎓 known
+  - System design: 
+  - Process modeling: 🎓 known
+  - Data modeling: 
+  - Solution components: 
+  - Risk assessment: 👂 heard
+  - Non-Functional Requirements (NFR): 👂 heard
+  - Clouds:
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Work breakdown structure
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🖐️ used
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
+  - Work breakdown structure: 🎓 known
