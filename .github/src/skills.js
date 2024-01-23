@@ -6,7 +6,11 @@ const cp = require('node:child_process');
 const metautil = require('metautil');
 const concolor = require('concolor');
 
-const TITLE = 'Software engineering self assessment';
+const caption = concolor('b,white');
+const fatal = concolor('b,white/red');
+const fixup = concolor('b,black/yellow');
+
+const TITLE = caption`Software engineering self assessment`;
 const PARSING_TIMEOUT = 1000;
 const EXECUTION_TIMEOUT = 5000;
 
@@ -21,9 +25,6 @@ const STYLE = `style=flat-square`;
 const BADGE = `[![Skills](${BASE}?${STYLE})](${LINK})`;
 
 let exitCode = 0;
-
-const fatal = concolor('b,white/red');
-const fixup = concolor('b,black/yellow');
 
 const wrongFormat = (msg, file) => {
   exitCode = 1;
@@ -147,14 +148,14 @@ const getSkills = (data, file) => {
       if (level === undefined) {
         const msg = 'not matching level and emoji';
         wrongFormat(`${msg} «${line}» at line ${i + 1}`, file);
-        out.push(s + ' 👉 Warning: ' + msg);
+        out.push(`${s} 👉 Warning: ${msg}`);
         skills.push(skill);
         continue;
       }
       if (skills.includes(skill)) {
         warnFixup(`removed duplicate skill «${skill}» at line ${i + 1}`, file);
       } else {
-        out.push(level ? `  - ${skill}: ${level}` : `  - ${skill}`);
+        out.push(`  - ${skill}${level ? ': ' + level : ''}`);
         skills.push(skill);
       }
       continue;
@@ -170,40 +171,62 @@ const getSkills = (data, file) => {
   return skills;
 };
 
+const getRoles = (data, file) => {
+  const lines = data.split('\n');
+  if (lines.at(-1).trim() === '') lines.pop();
+  let section = '';
+  const roles = {};
+  for (const [i, s] of lines.entries()) {
+    const line = s.trim();
+    if (s.startsWith('-')) {
+      section = line.slice(1).trim();
+      roles[section] = [];
+      continue;
+    }
+    if (s.startsWith('  -')) {
+      const skill = line.slice(1).trim();
+      roles[section].push(skill);
+    }
+  }
+  return roles;
+};
+
 const analise = async (section) => {
-  console.log(concolor`\nCheck: ${section}(b,white)`);
+  console.log(caption`Skills: ${section}`);
   const file = `Skills/${section}.md`;
   const md = await loadFile(file);
   const skills = getSkills(md, file);
-  console.log(concolor.info(`Skills: ${skills.length}`));
+  console.log(`Count: ${skills.length}\n`);
+  return skills;
 };
 
 const match = async (role) => {
-  console.log(concolor`\nRoles: ${role}(b,white)`);
+  console.log(caption`Roles: ${role}`);
   const file = `.github/src/Roles/${role}.md`;
   const md = await loadFile(file);
-  console.log(concolor.info(`Size: ${md.length}`));
+  const roles = getRoles(md, file);
+  console.log(`Count: ${Object.keys(roles).length}\n`);
+  return roles;
+};
+
+const loadDir = async (dir, mapper) => {
+  const files = await fs.readdir(dir);
+  const sections = files
+    .filter((file) => file.endsWith('.md'))
+    .map((file) => file.substring(0, file.length - '.md'.length));
+  const collection = {};
+  for (const section of sections) {
+    collection[section] = await mapper(section);
+  }
+  return collection;
 };
 
 (async () => {
-  console.log(concolor.white(TITLE));
-  console.log(concolor.info('Auto Checker'));
+  console.log(TITLE);
+  console.log('Auto Checker\n');
 
-  const skillFiles = await fs.readdir(`${PATH}/Skills/`);
-  const sections = skillFiles
-    .filter((file) => file.endsWith('.md'))
-    .map((file) => file.substring(0, file.length - '.md'.length));
-  for (const section of sections) {
-    await analise(section);
-  }
-
-  const roleFiles = await fs.readdir(`${PATH}/.github/src/Roles/`);
-  const roles = roleFiles
-    .filter((file) => file.endsWith('.md'))
-    .map((file) => file.substring(0, file.length - '.md'.length));
-  for (const role of roles) {
-    await match(role);
-  }
+  const skills = await loadDir(`${PATH}/Skills/`, analise);
+  const roles = await loadDir(`${PATH}/.github/src/Roles/`, match);
 
   const badgeCode = codeBlock(BADGE);
 
