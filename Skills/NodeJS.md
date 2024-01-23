@@ -1,25 +1,25 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and blocking code 👂 heard
+  - Event loop phases 👂 heard
+  - Event loop microtasks and macrotasks 👂 heard
+  - Garbage collection 
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies
-  - npm, node_modules
-  - package.json and package lock
+  - CommonJS modules 👂 heard
+  - ECMAScript modules 👂 heard
+  - Module `node:module` 👂 heard
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons 👂 heard
+  - Contexts and scripts module `node:vm` 👂 heard
+  - Dependencies 👂 heard
+  - npm, node_modules 👂 heard
+  - package.json and package lock 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -27,56 +27,56 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 👂 heard
+  - Node.js CLI 👂 heard 
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async)
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with crypto.scrypt 👂 heard
+  - Web Crypto API 👂 heard
+  - File system API (sync and async) 👂 heard
   - Copy folder recursively
-  - Worker threads
+  - Worker threads 🎓 known
   - Performance hooks
   - Native fetch and nodejs/undici
-  - async_hooks
+  - async_hooks 
   - AsyncLocalStorage
-  - AsyncResource
+  - AsyncResource 👂 heard
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
-  - SharedArrayBuffer
-  - worker_threads
+  - SharedArrayBuffer 👂 heard
+  - worker_threads 👂 heard
   - child_process
-  - MessageChannel, MessagePort
+  - MessageChannel, MessagePort 👂 heard
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs new URL
+  - Module `node:url` vs new URL 👂 heard
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling 👂 heard
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
+  - UDP 👂 heard
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard 
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 👂 heard
+  - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
@@ -94,42 +94,42 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing 👂 heard
+  - CI/CD 👂 heard
+  - Readable 👂 heard 
+  - Writable 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 👂 heard
+  - Console 👂 heard
   - Inspector
-  - Reliability
+  - Reliability 👂 heard
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
+  - Data access layer 👂 heard
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 👂 heard
   - error.cause
-  - error.code
+  - error.code 👂 heard 
   - error.message
-  - error.stack
+  - error.stack 
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Heap dump 🎓 known
+  - Debugging tools 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons 👂 heard
   - C and C++ addons
   - Rust addons
   - Zig addons

@@ -2,63 +2,63 @@
 
 - Language
   - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
+  - this 👂 heard
+  - arrow function 👂 heard
+  - async function 👂 heard
+  - call  👂 heard
+  - bind  👂 heard
   - apply
-  - instanceof
+  - instanceof  👂 heard
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - typeof 👂 heard
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 👂 heard
+  - async generator 👂 heard
+  - async iterator 👂 heard 
   - chaining
   - optional chaining
   - IIFE
   - global
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters
-  - __proto__
+  - __proto__ 👂 heard
   - prototype
   - equality operators
   - logical operators
   - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
+  - ternary operator 👂 heard
+  - void 👂 heard
+  - yield 👂 heard
+  - await 👂 heard
+  - template literal 👂 heard
   - strict mode
-  - delete
-  - in
+  - delete  👂 heard
+  - in  👂 heard
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 🎓 known
+  - for 🎓 known
+  - for..in 🎓 known
+  - for..of 🎓 known
+  - for await 🎓 known
   - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - break 🎓 known
+  - continue 🎓 known
+  - import 🎓 known
+  - export 🎓 known
+  - label  🎓 known
+  - try..catch  🎓 known
+  - switch  👂 heard
+  - class 🎓 known 
+  - new Error  🎓 known
+  - with 🎓 known
 - Functions
   - function declaration
   - function expression
@@ -66,24 +66,24 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
-  - mixin
+  - Array  🎓 known
+  - mixin 🎓 known 
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Map  🎓 known
+  - Set  🎓 known
+  - undefined  🎓 known
+  - null  🎓 known
+  - Proxy  👂 heard
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - RegExp  🎓 known
+  - Date 👂 heard
+  - BigInt 👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8 👂 heard
+  - Node.js 👂 heard
+  - npm 👂 heard 
+  - prettier 👂 heard
   - MDN

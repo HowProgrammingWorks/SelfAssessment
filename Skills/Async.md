@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 🎓 known
+  - try..catch 🎓 known
   - Non-blocking
-  - Async I/O
+  - Async I/O 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -14,34 +14,34 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks 
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard 
   - Actor Model
-  - Thread
+  - Thread 👂 heard
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks 👂 heard
+  - Callback-last-error-first 
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 👂 heard
+  - Async/await 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 🎓 known 
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Stream 🎓 known
+  - Chain of responsibility 👂 heard
+  - Middleware 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify
+  - callbackify 👂 heard
   - promisify
   - asyncify
   - callbacks compose
@@ -49,14 +49,14 @@
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 
   - Async Pool
   - Async Queue
-  - Async Collector
+  - Async Collector 👂 heard
   - Semaphore
-  - Mutex
+  - Mutex 
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -66,12 +66,12 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
+  - child_process 👂 heard
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 👂 heard
+  - Promise hell 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -82,11 +82,11 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
+  - Promise.all 👂 heard
+  - Promise.allSettled 👂 heard
+  - Promise.race 👂 heard
   - Promise.any
-  - Web Locks API
+  - Web Locks API 👂 heard
   - IPC
-  - Channel API
+  - Channel API 👂 heard
   - Revealing Constructor
