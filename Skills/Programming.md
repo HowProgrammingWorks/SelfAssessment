@@ -20,19 +20,19 @@
   - identifier
   - variable
   - constant
-  - scalar
+  - scalar: 👂 heard
   - literal
-  - expression
+  - expression: 👂 heard
   - heap
-  - function
+  - function: 👂 heard
   - procedure
-  - method
-  - class
-  - prototype
-  - event
+  - method: 👂 heard
+  - class: 👂 heard
+  - prototype: 👂 heard
+  - event: 👂 heard
   - type
-  - primitive types
-  - reference types
+  - primitive types: 👂 heard
+  - reference types: 👂 heard
   - flag
   - lexical scope
   - code block
@@ -45,23 +45,23 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature: 👂 heard
+  - argument: 👂 heard
+  - parameter: 👂 heard
+  - pure function: 👂 heard
   - lambda expression
-  - side effects
-  - closure
+  - side effects: 👂 heard
+  - closure: 👂 heard
   - partial application
   - curry
-  - higher order
+  - higher order: 👂 heard
   - recursion
   - callback
   - listener
-  - compose
-  - pipe
+  - compose: 👂 heard
+  - pipe: 👂 heard
   - memoize
-  - wrapper
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
@@ -116,5 +116,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used
