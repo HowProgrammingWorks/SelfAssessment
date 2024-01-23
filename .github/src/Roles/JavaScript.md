@@ -1,54 +1,54 @@
 ## JavaScript
 
 - To start asynchronous programming
-  - arrow function
-  - ...spread
-  - ...rest
-  - instanceof
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - chaining
-  - yield
-  - Symbol
-  - class
-  - this
-  - super
-  - try..catch
-  - return
-  - new Error
-  - default parameters
-  - Object
-  - Array
-  - Map
-  - Set
-  - IIFE
-  - throw
+  - arrow function: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - instanceof: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - chaining: 🎓 known
+  - yield: 🎓 known
+  - Symbol: 🎓 known
+  - class: 🖐️ used
+  - this: 🖐️ used
+  - super: 🖐️ used
+  - try..catch: 🖐️ used
+  - return: 🖐️ used
+  - new Error: 🖐️ used
+  - default parameters: 🖐️ used
+  - Object: 🖐️ used
+  - Array: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - IIFE: 🖐️ used
+  - throw: 🖐️ used
 - To start Node.js
-  - async function
-  - async generator
-  - async iterator
-  - optional chaining
-  - global
-  - globalThis
-  - getters and setters
-  - prototype
-  - equality operators
-  - logical operators
-  - ternary operator
-  - await
-  - template literal
-  - strict mode
-  - Reflect
-  - for await
-  - import
-  - export
-  - mixin
-  - extend
-  - Proxy
-  - timers
-  - EventEmitter
-  - Date
-  - BigInt
-  - npm
+  - async function: 🖐️ used
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - optional chaining: 🎓 known
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - getters and setters: 🖐️ used
+  - prototype: 🎓 known
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - await: 🖐️ used
+  - template literal: 🖐️ used
+  - strict mode: 🖐️ used
+  - Reflect: 🎓 known
+  - for await: 🎓 known
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - mixin: 🎓 known
+  - extend: 🎓 known
+  - Proxy: 🎓 known
+  - timers: 🖐️ used
+  - EventEmitter: 🎓 known
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
+  - npm: 🎓 known
