@@ -8,7 +8,6 @@
   - `BigInt`
   - `String`
   - `Symbol`
-  - `Function`
   - `undefined`
   - `null`
   - `this`
