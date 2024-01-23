@@ -1,120 +1,120 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🙋 explained
+  - Code: 🖐️ used
+  - Programm: 🙋 explained
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
+  - Software engineering: 🖐️ used
+  - Decomposition: 🙋 explained
+  - Control flow: 🖐️ used
+  - Data flow: 🖐️ used
 - Syntax and concepts
-  - value
+  - value: 🙋 explained
   - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🙋 explained
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🖐️ used
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🙋 explained
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🙋 explained
+  - lexical scope: 🖐️ used
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🙋 explained
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🙋 explained
+  - lambda expression: 🖐️ used
+  - side effects: 🖐️ used
+  - closure: 🖐️ used
   - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - curry: 🖐️ used
+  - higher order: 🙋 explained
+  - recursion: 🖐️ used
+  - callback: 🙋 explained
+  - listener: 🖐️ used
+  - compose: 🖐️ used
+  - pipe: 🙋 explained
+  - memoize: 🖐️ used
+  - wrapper: 🖐️ used
+  - functor: 🖐️ used
+  - monad: 🖐️ used
+  - monoid: 🙋 explained
+  - generator: 🖐️ used
+  - coroutine: 🙋 explained
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🖐️ used
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🖐️ used
+  - instance: 🖐️ used
+  - object: 🖐️ used
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🙋 explained
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 🖐️ used
+  - circular list: 🖐️ used
+  - queue: 🖐️ used
+  - stack: 🖐️ used
+  - deque: 🖐️ used
+  - tree: 🖐️ used
+  - graph: 🙋 explained
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
+  - linter: 🖐️ used
+  - polyfill: 🖐️ used
+  - debugger: 🖐️ used
+  - garbage collection: 🖐️ used
   - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
+  - spaghetti: 🖐️ used
+  - silver bullet: 🖐️ used
+  - not invented here: 🖐️ used
+  - dead code: 🖐️ used
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 🖐️ used
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
