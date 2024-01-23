@@ -10,7 +10,7 @@ const caption = concolor('b,white');
 const fatal = concolor('b,white/red');
 const fixup = concolor('b,black/yellow');
 
-const TITLE = caption`Software engineering self assessment`;
+const TITLE = 'Software engineering self assessment';
 const PARSING_TIMEOUT = 1000;
 const EXECUTION_TIMEOUT = 5000;
 
@@ -29,27 +29,27 @@ let exitCode = 0;
 const wrongFormat = (msg, file) => {
   exitCode = 1;
   console.log(fatal` Wrong file format: ${msg} `);
-  console.log(`File: ${file}`);
+  console.log(fatal` File: ${file} `);
 };
 
 const warnFixup = (msg, file) => {
   console.log(fixup` Fixup file format: ${msg} `);
-  console.log(`File: ${file}`);
+  console.log(fixup` File: ${file} `);
 };
 
 const codeBlock = (code) => '```\n' + code + '\n```';
 
-const loadFile = async (file) => {
-  const fileName = path.join(PATH, file);
-  const data = await fs.readFile(fileName, 'utf8');
+const loadFile = async (filePath) => {
+  const fileName = path.basename(filePath);
+  const data = await fs.readFile(filePath, 'utf8');
   if (data.includes('\r')) {
-    warnFixup('expected LF linebreaks, not CRLF or CR', file);
+    warnFixup('expected LF linebreaks, not CRLF or CR', fileName);
   }
   if (!data.startsWith('## ')) {
-    wrongFormat('no markdown «## Heading»', file);
+    wrongFormat('no markdown «## Heading»', fileName);
   }
   if (!data.endsWith('\n')) {
-    warnFixup('no newline at the end of file', file);
+    warnFixup('no newline at the end of file', fileName);
   }
   return data;
 };
@@ -115,13 +115,14 @@ const formatSkill = (line) => {
   return { skill, level };
 };
 
-const getSkills = (data, file) => {
+const getSkills = (data, file, options) => {
   const lines = data.split('\n');
   if (lines.at(-1).trim() === '') lines.pop();
   let section = '';
   let empty = 0;
+  const sections = {};
+  const skills = new Set();
   const out = [];
-  const skills = [];
   for (const [i, s] of lines.entries()) {
     const line = s.trim();
     if (line === '') {
@@ -141,6 +142,7 @@ const getSkills = (data, file) => {
     if (s.startsWith('-')) {
       out.push(line);
       section = line.slice(1).trim();
+      sections[section] = {};
       continue;
     }
     if (s.startsWith('  -')) {
@@ -149,14 +151,20 @@ const getSkills = (data, file) => {
         const msg = 'not matching level and emoji';
         wrongFormat(`${msg} «${line}» at line ${i + 1}`, file);
         out.push(`${s} 👉 Warning: ${msg}`);
-        skills.push(skill);
+        skills.add(skill);
         continue;
       }
-      if (skills.includes(skill)) {
+      if (skills.has(skill) && options.unique) {
         warnFixup(`removed duplicate skill «${skill}» at line ${i + 1}`, file);
       } else {
-        out.push(`  - ${skill}${level ? ': ' + level : ''}`);
-        skills.push(skill);
+        if (level) {
+          out.push(`  - ${skill}: ${level}`);
+          sections[section][skill] = level;
+        } else {
+          out.push(`  - ${skill}`);
+          sections[section][skill] = '';
+        }
+        skills.add(skill);
       }
       continue;
     }
@@ -164,78 +172,51 @@ const getSkills = (data, file) => {
   }
   const output = out.join('\n') + '\n';
   if (data !== output) {
-    const fileName = path.join(PATH, file);
-    fs.writeFile(fileName, output).catch(() => {});
-    console.log(`Fixup: ${data.length} -> ${output.length} saved: ${file}`);
+    fs.writeFile(file, output).catch(() => {});
+    const fileName = file.slice(PATH.length);
+    console.log(`Fixup: ${data.length} -> ${output.length} saved: ${fileName}`);
   }
-  return skills;
+  return { sections, skills };
 };
 
-const getRoles = (data, file) => {
-  const lines = data.split('\n');
-  if (lines.at(-1).trim() === '') lines.pop();
-  let section = '';
-  const roles = {};
-  for (const [i, s] of lines.entries()) {
-    const line = s.trim();
-    if (s.startsWith('-')) {
-      section = line.slice(1).trim();
-      roles[section] = [];
-      continue;
-    }
-    if (s.startsWith('  -')) {
-      const skill = line.slice(1).trim();
-      roles[section].push(skill);
-    }
-  }
-  return roles;
-};
-
-const analise = async (section) => {
-  console.log(caption`Skills: ${section}`);
-  const file = `Skills/${section}.md`;
+const analise = async (dir, unit, options) => {
+  console.log(caption`Unit: ${unit}`);
+  const file = `${dir}/${unit}.md`;
   const md = await loadFile(file);
-  const skills = getSkills(md, file);
-  console.log(`Count: ${skills.length}\n`);
-  return skills;
+  const data = getSkills(md, file, options);
+  const { sections, skills } = data;
+  const count = Object.keys(sections).length;
+  console.log(`Sections: ${count}, Skills: ${skills.size}\n`);
+  return data;
 };
 
-const match = async (role) => {
-  console.log(caption`Roles: ${role}`);
-  const file = `.github/src/Roles/${role}.md`;
-  const md = await loadFile(file);
-  const roles = getRoles(md, file);
-  console.log(`Count: ${Object.keys(roles).length}\n`);
-  return roles;
-};
-
-const loadDir = async (dir, mapper) => {
+const loadDir = async (place, options = {}) => {
+  const dir = path.join(PATH, place);
   const files = await fs.readdir(dir);
-  const sections = files
+  const units = files
     .filter((file) => file.endsWith('.md'))
     .map((file) => file.substring(0, file.length - '.md'.length));
   const collection = {};
-  for (const section of sections) {
-    collection[section] = await mapper(section);
+  for (const unit of units) {
+    collection[unit] = await analise(dir, unit, options);
   }
   return collection;
 };
 
 (async () => {
-  console.log(TITLE);
+  console.log(caption`${TITLE}`);
   console.log('Auto Checker\n');
 
-  const skills = await loadDir(`${PATH}/Skills/`, analise);
-  const roles = await loadDir(`${PATH}/.github/src/Roles/`, match);
+  const skills = await loadDir('Skills', { unique: true });
+  const roles = await loadDir('.github/src/Roles');
 
   const badgeCode = codeBlock(BADGE);
-
   const report = `## ${TITLE}\n\n${BADGE}\n\n${badgeCode}\n`;
   await fs.writeFile(`${PATH}/Profile/REPORT.md`, report);
 
-  const readme = await loadFile('.github/src/Templates/README.md');
-  const newReadme = readme.replace('$BADGE', BADGE);
-  await fs.writeFile(`${PATH}/README.md`, newReadme);
+  const template = await loadFile(`${PATH}/.github/src/Templates/README.md`);
+  const readme = template.replace('$BADGE', BADGE);
+  await fs.writeFile(`${PATH}/README.md`, readme);
 
   console.log('');
   process.exit(exitCode);
