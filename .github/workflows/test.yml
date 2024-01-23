@@ -19,12 +19,12 @@ jobs:
             ${{ runner.os }}-node-
       - run: npm ci
         working-directory: .github/src
-      - run: node skills.js
+      - run: node check.js
         working-directory: .github/src
       - name: Generate results
         run: |
           git config --global user.name "Metarhia skill bot"
           git config --global user.email "timur@metarhia.com"
-          git add ./Profile ./README.md
+          git add ./Profile ./README.md ./Skills
           git commit -m "Automated skill analysis"
           git push
