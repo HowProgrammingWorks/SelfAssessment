@@ -231,7 +231,9 @@ const match = (expected, answered) => {
     for (const [skill, level] of entries) {
       if (level) count++;
       const actual = answered.skills.get(skill) || '🤷 unknown';
-      todo.push(`  - ${skill}: ${actual} ⟶  ${level}`);
+      if (actual !== level) {
+        todo.push(`  - ${skill}: ${actual} ⟶  ${level}`);
+      }
     }
   }
   return todo;
