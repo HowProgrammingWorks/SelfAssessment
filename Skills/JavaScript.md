@@ -34,6 +34,7 @@
   - `prototype`
   - Equality operators
   - Logical operators
+  - Logical Assignment
   - Bitwise operators
   - Ternary operator
   - `void`
@@ -47,11 +48,16 @@
   - `super`
   - `eval`
   - `static`
-  - `parseInt`
-  - `parseFloat`
+  - `Number.parseInt`
+  - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
   - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
   - `if`
   - `while`

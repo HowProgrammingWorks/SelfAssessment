@@ -86,6 +86,7 @@
   - Currying
   - Higher order
   - Recursion
+  - Tail call optimisation
   - Callback
   - Listener
   - Composition
@@ -121,6 +122,9 @@
   - Immutable state
   - Serialization
   - String parsing
+  - JSON
+  - JSON5
+  - YAML
 - Networking
   - DNS
   - CDN
