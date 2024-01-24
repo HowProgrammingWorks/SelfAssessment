@@ -17,8 +17,11 @@ const EXECUTION_TIMEOUT = 5000;
 
 const PATH = path.join(process.cwd(), '../..');
 
-const OUT = cp.execSync('git config --get remote.origin.url').toString();
-const REPO = metautil.between(OUT, ':', '.');
+let REPO = process.env.GITHUB_REPOSITORY;
+if (!REPO) {
+  const OUT = cp.execSync('git config --get remote.origin.url').toString();
+  REPO = metautil.between(OUT, ':', '.');
+}
 const LINK = 'https://github.com/' + REPO;
 
 const BASE = 'https://img.shields.io/badge/Self_Assessment-skills-009933';
