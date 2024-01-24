@@ -1,1 +1,807 @@
 ## Software engineering self assessment
+
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/HowProgrammingWorks/SelfAssessment)
+
+```
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/HowProgrammingWorks/SelfAssessment)
+```
+
+```
+<a href="https://github.com/HowProgrammingWorks/SelfAssessment"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square"></a>
+```
+
+## Assessment totals
+
+- Programming
+  - Concepts: 0 of 23
+  - Syntax and concepts: 0 of 34
+  - Types: 0 of 14
+  - Functions: 0 of 23
+  - Data structures: 0 of 26
+  - Networking: 0 of 9
+  - Process and tools: 0 of 29
+  - Antipatterns: 0 of 30
+  - Runtimes and virtual machines: 0 of 5
+  - Operation systems: 0 of 13
+  - Standards: 0 of 15
+- JavaScript
+  - Language: 0 of 57
+  - Statements: 0 of 19
+  - Functions: 0 of 10
+  - Data structures: 0 of 7
+  - Standard classes and namespaces: 0 of 14
+  - Infrastructure: 0 of 6
+- Async
+  - Theory: 0 of 20
+  - Async contracts: 0 of 18
+  - Async adapters and utils: 0 of 5
+  - Async abstractions interfaces: 0 of 11
+  - JavaScript & Node.js specific: 0 of 19
+  - Techniques: 0 of 11
+- NodeJS
+  - Internals and concepts: 0 of 9
+  - Modularity, layers and dependencies: 0 of 14
+  - Environment: 0 of 6
+  - Internal API: 0 of 27
+  - Network: 0 of 28
+  - Technique and tools: 0 of 12
+  - Data access: 0 of 7
+  - Error handling and debugging: 0 of 14
+  - Integrations and bindings: 0 of 16
+- Paradigms
+  - Theory: 0 of 23
+  - OOP basics: 0 of 21
+  - Patterns: 0 of 25
+- Architecture
+  - Application structure: 0 of 22
+  - Application architecture: 0 of 36
+  - Solution architecture: 0 of 18
+  - Enterprise architecture: 0 of 18
+
+## JavaScript
+
+- To start asynchronous programming
+  - `Object`: 🤷 unknown ⟶  🖐️ used
+  - `Function`: 🤷 unknown ⟶  🖐️ used
+  - `Boolean`: 🤷 unknown ⟶  🖐️ used
+  - `Number`: 🤷 unknown ⟶  🖐️ used
+  - `Symbol`: 🤷 unknown ⟶  🎓 known
+  - `undefined`: 🤷 unknown ⟶  🖐️ used
+  - `null`: 🤷 unknown ⟶  🖐️ used
+  - `this`: 🤷 unknown ⟶  🖐️ used
+  - `instanceof`: 🤷 unknown ⟶  🖐️ used
+  - `...spread`: 🤷 unknown ⟶  🖐️ used
+  - `...rest`: 🤷 unknown ⟶  🖐️ used
+  - `typeof`: 🤷 unknown ⟶  🖐️ used
+  - Destructuring: 🤷 unknown ⟶  🖐️ used
+  - Generators: 🤷 unknown ⟶  👂 heard
+  - Iterators: 🤷 unknown ⟶  👂 heard
+  - Async generator: 🤷 unknown ⟶  👂 heard
+  - Async iterator: 🤷 unknown ⟶  👂 heard
+  - Chaining: 🤷 unknown ⟶  👂 heard
+  - Optional chaining: 🤷 unknown ⟶  👂 heard
+  - IIFE: 🤷 unknown ⟶  👂 heard
+  - Async IIFE: 🤷 unknown ⟶  👂 heard
+  - `global`: 🤷 unknown ⟶  🎓 known
+  - `globalThis`: 🤷 unknown ⟶  👂 heard
+  - Getters and setters: 🤷 unknown ⟶  👂 heard
+  - `prototype`: 🤷 unknown ⟶  👂 heard
+  - Equality operators: 🤷 unknown ⟶  🖐️ used
+  - Logical operators: 🤷 unknown ⟶  🖐️ used
+  - Ternary operator: 🤷 unknown ⟶  🖐️ used
+  - `yield`: 🤷 unknown ⟶  👂 heard
+  - `await`: 🤷 unknown ⟶  👂 heard
+  - Template literal: 🤷 unknown ⟶  🖐️ used
+  - Strict mode: 🤷 unknown ⟶  🖐️ used
+  - `super`: 🤷 unknown ⟶  🖐️ used
+  - `static`: 🤷 unknown ⟶  👂 heard
+  - Private class fields: 🤷 unknown ⟶  🎓 known
+  - Private class methods: 🤷 unknown ⟶  🎓 known
+  - `if`: 🤷 unknown ⟶  🖐️ used
+  - `while`: 🤷 unknown ⟶  🖐️ used
+  - `do..while`: 🤷 unknown ⟶  🎓 known
+  - `for`: 🤷 unknown ⟶  🖐️ used
+  - `for..of`: 🤷 unknown ⟶  🖐️ used
+  - `for await`: 🤷 unknown ⟶  👂 heard
+  - `throw`: 🤷 unknown ⟶  🖐️ used
+  - `break`: 🤷 unknown ⟶  🎓 known
+  - `continue`: 🤷 unknown ⟶  🎓 known
+  - `import`: 🤷 unknown ⟶  🎓 known
+  - `export`: 🤷 unknown ⟶  🎓 known
+  - `try..catch`: 🤷 unknown ⟶  🎓 known
+  - `class`: 🤷 unknown ⟶  🖐️ used
+  - `extends`: 🤷 unknown ⟶  🖐️ used
+  - `new`: 🤷 unknown ⟶  🖐️ used
+  - Arrow function: 🤷 unknown ⟶  🖐️ used
+  - Async function: 🤷 unknown ⟶  🎓 known
+  - Function declaration: 🤷 unknown ⟶  🖐️ used
+  - Function expression: 🤷 unknown ⟶  🖐️ used
+  - Default parameters: 🤷 unknown ⟶  🖐️ used
+  - Functional object: 🤷 unknown ⟶  👂 heard
+  - `return`: 🤷 unknown ⟶  🖐️ used
+  - `Array`: 🤷 unknown ⟶  🖐️ used
+  - `Map`: 🤷 unknown ⟶  🖐️ used
+  - `Set`: 🤷 unknown ⟶  🖐️ used
+  - Mixins: 🤷 unknown ⟶  🎓 known
+  - `Object.assign`: 🤷 unknown ⟶  🎓 known
+  - `Proxy`: 🤷 unknown ⟶  🎓 known
+  - `Error`: 🤷 unknown ⟶  🖐️ used
+  - `WeakRef`: 🤷 unknown ⟶  👂 heard
+  - `FinalizationRegistry`: 🤷 unknown ⟶  👂 heard
+  - `Promise`: 🤷 unknown ⟶  👂 heard
+  - `console`: 🤷 unknown ⟶  🖐️ used
+  - Timers: 🤷 unknown ⟶  🖐️ used
+  - V8: 🤷 unknown ⟶  👂 heard
+  - prettier: 🤷 unknown ⟶  🎓 known
+- To start Node.js
+  - `Object`: 🤷 unknown ⟶  🖐️ used
+  - `Function`: 🤷 unknown ⟶  🖐️ used
+  - `Boolean`: 🤷 unknown ⟶  🖐️ used
+  - `Number`: 🤷 unknown ⟶  🖐️ used
+  - `BigInt`: 🤷 unknown ⟶  🖐️ used
+  - `String`: 🤷 unknown ⟶  🖐️ used
+  - `Symbol`: 🤷 unknown ⟶  🖐️ used
+  - `Infinity`: 🤷 unknown ⟶  🖐️ used
+  - `NaN`: 🤷 unknown ⟶  🖐️ used
+  - `undefined`: 🤷 unknown ⟶  🖐️ used
+  - `null`: 🤷 unknown ⟶  🖐️ used
+  - `this`: 🤷 unknown ⟶  🖐️ used
+  - `instanceof`: 🤷 unknown ⟶  🖐️ used
+  - `...spread`: 🤷 unknown ⟶  🖐️ used
+  - `...rest`: 🤷 unknown ⟶  🖐️ used
+  - `typeof`: 🤷 unknown ⟶  🖐️ used
+  - Destructuring: 🤷 unknown ⟶  🖐️ used
+  - Generators: 🤷 unknown ⟶  🖐️ used
+  - Iterators: 🤷 unknown ⟶  🖐️ used
+  - Async generator: 🤷 unknown ⟶  🖐️ used
+  - Async iterator: 🤷 unknown ⟶  🖐️ used
+  - Chaining: 🤷 unknown ⟶  🖐️ used
+  - IIFE: 🤷 unknown ⟶  🖐️ used
+  - Async IIFE: 🤷 unknown ⟶  🖐️ used
+  - `global`: 🤷 unknown ⟶  🖐️ used
+  - `globalThis`: 🤷 unknown ⟶  🖐️ used
+  - Getters and setters: 🤷 unknown ⟶  🖐️ used
+  - Equality operators: 🤷 unknown ⟶  🖐️ used
+  - Logical operators: 🤷 unknown ⟶  🖐️ used
+  - Ternary operator: 🤷 unknown ⟶  🖐️ used
+  - `void`: 🤷 unknown ⟶  🖐️ used
+  - `yield`: 🤷 unknown ⟶  🖐️ used
+  - `await`: 🤷 unknown ⟶  🖐️ used
+  - Template literal: 🤷 unknown ⟶  🖐️ used
+  - Strict mode: 🤷 unknown ⟶  🖐️ used
+  - `delete`: 🤷 unknown ⟶  🖐️ used
+  - `in`: 🤷 unknown ⟶  👂 heard
+  - `super`: 🤷 unknown ⟶  🖐️ used
+  - `eval`: 🤷 unknown ⟶  🎓 known
+  - `static`: 🤷 unknown ⟶  🖐️ used
+  - `Number.parseInt`: 🤷 unknown ⟶  🖐️ used
+  - `Number.parseFloat`: 🤷 unknown ⟶  🖐️ used
+  - Property descriptors: 🤷 unknown ⟶  🎓 known
+  - Sealing properties: 🤷 unknown ⟶  🎓 known
+  - Freezing properties: 🤷 unknown ⟶  🎓 known
+  - Computed properties: 🤷 unknown ⟶  🎓 known
+  - Instance class fields: 🤷 unknown ⟶  🎓 known
+  - Static class fields: 🤷 unknown ⟶  🎓 known
+  - Private class fields: 🤷 unknown ⟶  🎓 known
+  - Private class methods: 🤷 unknown ⟶  🎓 known
+  - `if`: 🤷 unknown ⟶  🖐️ used
+  - `while`: 🤷 unknown ⟶  🖐️ used
+  - `do..while`: 🤷 unknown ⟶  🖐️ used
+  - `for`: 🤷 unknown ⟶  🖐️ used
+  - `for..in`: 🤷 unknown ⟶  🎓 known
+  - `for..of`: 🤷 unknown ⟶  🖐️ used
+  - `for await`: 🤷 unknown ⟶  🖐️ used
+  - `throw`: 🤷 unknown ⟶  🖐️ used
+  - `break`: 🤷 unknown ⟶  🖐️ used
+  - `continue`: 🤷 unknown ⟶  🖐️ used
+  - `import`: 🤷 unknown ⟶  🖐️ used
+  - `export`: 🤷 unknown ⟶  🖐️ used
+  - `try..catch`: 🤷 unknown ⟶  🖐️ used
+  - `class`: 🤷 unknown ⟶  🖐️ used
+  - `extends`: 🤷 unknown ⟶  🖐️ used
+  - `new`: 🤷 unknown ⟶  🖐️ used
+  - Arrow function: 🤷 unknown ⟶  🖐️ used
+  - Async function: 🤷 unknown ⟶  🖐️ used
+  - Function declaration: 🤷 unknown ⟶  🖐️ used
+  - Function expression: 🤷 unknown ⟶  🖐️ used
+  - Default parameters: 🤷 unknown ⟶  🖐️ used
+  - Functional object: 🤷 unknown ⟶  👂 heard
+  - `return`: 🤷 unknown ⟶  🖐️ used
+  - `Array`: 🤷 unknown ⟶  🖐️ used
+  - `Map`: 🤷 unknown ⟶  🖐️ used
+  - `Set`: 🤷 unknown ⟶  🖐️ used
+  - Weak collections: 🤷 unknown ⟶  🎓 known
+  - Typed arrays: 🤷 unknown ⟶  🎓 known
+  - Mixins: 🤷 unknown ⟶  👂 heard
+  - `Object.assign`: 🤷 unknown ⟶  🎓 known
+  - `Proxy`: 🤷 unknown ⟶  🎓 known
+  - `RegExp`: 🤷 unknown ⟶  🎓 known
+  - `Date`: 🤷 unknown ⟶  🎓 known
+  - `Math`: 🤷 unknown ⟶  🎓 known
+  - `Reflect`: 🤷 unknown ⟶  🎓 known
+  - `Error`: 🤷 unknown ⟶  🖐️ used
+  - `Atomics`: 🤷 unknown ⟶  👂 heard
+  - `JSON`: 🤷 unknown ⟶  🖐️ used
+  - `WeakRef`: 🤷 unknown ⟶  👂 heard
+  - `FinalizationRegistry`: 🤷 unknown ⟶  👂 heard
+  - `Promise`: 🤷 unknown ⟶  🖐️ used
+  - `console`: 🤷 unknown ⟶  🖐️ used
+  - Timers: 🤷 unknown ⟶  🖐️ used
+  - V8: 🤷 unknown ⟶  🖐️ used
+  - Node.js: 🤷 unknown ⟶  👂 heard
+  - npm: 🤷 unknown ⟶  🎓 known
+  - prettier: 🤷 unknown ⟶  🎓 known
+
+## Async
+
+- For Node.js applied programming
+  - try..catch: 🤷 unknown ⟶  
+  - Callbacks: 🤷 unknown ⟶  
+  - Callback-last-error-first: 🤷 unknown ⟶  
+  - Promise: 🤷 unknown ⟶  
+  - Async/await: 🤷 unknown ⟶  
+  - Event: 🤷 unknown ⟶  
+  - Signal: 🤷 unknown ⟶  
+  - Stream: 🤷 unknown ⟶  
+  - Timers: 🤷 unknown ⟶  
+  - Callback hell: 🤷 unknown ⟶  
+  - Promise hell: 🤷 unknown ⟶  
+  - Race conditions: 🤷 unknown ⟶  
+  - Promise.all: 🤷 unknown ⟶  
+  - Promise.allSettled: 🤷 unknown ⟶  
+  - Promise.race: 🤷 unknown ⟶  
+  - Promise.any: 🤷 unknown ⟶  
+  - Error handling in async code: 🤷 unknown ⟶  
+- To start Node.js
+  - Event loop: 🤷 unknown ⟶  
+  - Non-blocking: 🤷 unknown ⟶  
+  - Async I/O: 🤷 unknown ⟶  
+  - Thread: 🤷 unknown ⟶  
+  - Process: 🤷 unknown ⟶  
+  - Async Iterator: 🤷 unknown ⟶  
+  - Chain of responsibility: 🤷 unknown ⟶  
+  - Middleware: 🤷 unknown ⟶  
+  - callbackify: 🤷 unknown ⟶  
+  - promisify: 🤷 unknown ⟶  
+  - asyncify: 🤷 unknown ⟶  
+  - EventEmitter: 🤷 unknown ⟶  
+  - Observable/Observer: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - Async Pool: 🤷 unknown ⟶  
+  - Async Queue: 🤷 unknown ⟶  
+  - Async Collector: 🤷 unknown ⟶  
+  - setImmediate: 🤷 unknown ⟶  
+  - nextTick: 🤷 unknown ⟶  
+  - AbortController: 🤷 unknown ⟶  
+  - AbortSignal: 🤷 unknown ⟶  
+  - Web Locks API: 🤷 unknown ⟶  
+  - Revealing Constructor: 🤷 unknown ⟶  
+  - ref() and unref(): 🤷 unknown ⟶  
+- For Node.js platform/system programming
+  - Thread pool: 🤷 unknown ⟶  
+  - Pattern Reactor: 🤷 unknown ⟶  
+  - CAS operations: 🤷 unknown ⟶  
+  - libuv: 🤷 unknown ⟶  
+  - Dead locks: 🤷 unknown ⟶  
+  - Live locks: 🤷 unknown ⟶  
+  - Concurrent programming: 🤷 unknown ⟶  
+  - Parallel programming: 🤷 unknown ⟶  
+  - Actor Model: 🤷 unknown ⟶  
+  - Thenable: 🤷 unknown ⟶  
+  - Sync generator: 🤷 unknown ⟶  
+  - Async Generator: 🤷 unknown ⟶  
+  - Coroutine: 🤷 unknown ⟶  
+  - Locks: 🤷 unknown ⟶  
+  - callbacks compose: 🤷 unknown ⟶  
+  - async compose: 🤷 unknown ⟶  
+  - Semaphore: 🤷 unknown ⟶  
+  - Mutex: 🤷 unknown ⟶  
+  - Spin Lock: 🤷 unknown ⟶  
+  - Promise unhandled rejection: 🤷 unknown ⟶  
+  - Promise double resolve: 🤷 unknown ⟶  
+  - Atomics: 🤷 unknown ⟶  
+  - High resolution clock: 🤷 unknown ⟶  
+  - Better stack traces with return await: 🤷 unknown ⟶  
+  - JSON streaming serialization: 🤷 unknown ⟶  
+  - AsyncLocalStorage: 🤷 unknown ⟶  
+  - AsyncResource: 🤷 unknown ⟶  
+  - RxJS library: 🤷 unknown ⟶  
+  - Async composition: 🤷 unknown ⟶  
+  - IPC: 🤷 unknown ⟶  
+  - Channel API: 🤷 unknown ⟶  
+
+## NodeJS
+
+- API and domain logic developer
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - Nonblocking I/O and blocking code: 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Modules as singletons: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Streams API: 🤷 unknown ⟶  
+  - Crypto API: 🤷 unknown ⟶  
+  - Password hashing with crypto.scrypt: 🤷 unknown ⟶  
+  - File system API (sync and async): 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - Generating crypto random UUID: 🤷 unknown ⟶  
+  - Module `node:url` vs new URL: 🤷 unknown ⟶  
+  - Module `node:assert`: 🤷 unknown ⟶  
+  - Blob, File, Buffer, module `node:buffer`: 🤷 unknown ⟶  
+  - Endpoint throttling: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - TLS: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - Routing: 🤷 unknown ⟶  
+  - DoS: 🤷 unknown ⟶  
+  - DDoS: 🤷 unknown ⟶  
+  - Path traversal: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - SQL injection: 🤷 unknown ⟶  
+  - SSL certificates: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Native test runner: 🤷 unknown ⟶  
+  - Logging: 🤷 unknown ⟶  
+  - Application configuring: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - back pressure: 🤷 unknown ⟶  
+  - Buffer: 🤷 unknown ⟶  
+  - Console: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Repository: 🤷 unknown ⟶  
+  - Active record: 🤷 unknown ⟶  
+  - Query builder: 🤷 unknown ⟶  
+  - Object-Relational Mapping: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Uncaught exceptions: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+- Enterprise applications
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - Nonblocking I/O and blocking code: 🤷 unknown ⟶  
+  - Node.js LTS schedule: 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Modules as singletons: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Command line arguments: 🤷 unknown ⟶  
+  - Node.js CLI: 🤷 unknown ⟶  
+  - Graceful shutdown: 🤷 unknown ⟶  
+  - Clustering: 🤷 unknown ⟶  
+  - Watch filesystem changes with --watch: 🤷 unknown ⟶  
+  - Streams API: 🤷 unknown ⟶  
+  - Crypto API: 🤷 unknown ⟶  
+  - Password hashing with crypto.scrypt: 🤷 unknown ⟶  
+  - File system API (sync and async): 🤷 unknown ⟶  
+  - Copy folder recursively: 🤷 unknown ⟶  
+  - Worker threads: 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - worker_threads: 🤷 unknown ⟶  
+  - child_process: 🤷 unknown ⟶  
+  - Generating crypto random UUID: 🤷 unknown ⟶  
+  - Module `node:url` vs new URL: 🤷 unknown ⟶  
+  - Module `node:assert`: 🤷 unknown ⟶  
+  - Internationalization: 🤷 unknown ⟶  
+  - Blob, File, Buffer, module `node:buffer`: 🤷 unknown ⟶  
+  - Module `node:zlib`: 🤷 unknown ⟶  
+  - Endpoint throttling: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - TLS: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - SSE: 🤷 unknown ⟶  
+  - Long polling: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - Routing: 🤷 unknown ⟶  
+  - DoS: 🤷 unknown ⟶  
+  - DDoS: 🤷 unknown ⟶  
+  - XSS: 🤷 unknown ⟶  
+  - Path traversal: 🤷 unknown ⟶  
+  - CSRF: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - SQL injection: 🤷 unknown ⟶  
+  - noDelay: 🤷 unknown ⟶  
+  - keep-alive: 🤷 unknown ⟶  
+  - ALPN: 🤷 unknown ⟶  
+  - SNI callback: 🤷 unknown ⟶  
+  - SSL certificates: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Native test runner: 🤷 unknown ⟶  
+  - Logging: 🤷 unknown ⟶  
+  - Application configuring: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - back pressure: 🤷 unknown ⟶  
+  - Buffer: 🤷 unknown ⟶  
+  - Console: 🤷 unknown ⟶  
+  - Inspector: 🤷 unknown ⟶  
+  - Reliability: 🤷 unknown ⟶  
+  - Quality: 🤷 unknown ⟶  
+  - Availability: 🤷 unknown ⟶  
+  - Flexibility: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Repository: 🤷 unknown ⟶  
+  - Active record: 🤷 unknown ⟶  
+  - Query builder: 🤷 unknown ⟶  
+  - Object-Relational Mapping: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Error.captureStackTrace: 🤷 unknown ⟶  
+  - Uncaught exceptions: 🤷 unknown ⟶  
+  - Heap dump: 🤷 unknown ⟶  
+  - Debugging tools: 🤷 unknown ⟶  
+  - Flame graph: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+- Real-Time, gamedev, messaging
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - Nonblocking I/O and blocking code: 🤷 unknown ⟶  
+  - Event loop phases: 🤷 unknown ⟶  
+  - Event loop microtasks and macrotasks: 🤷 unknown ⟶  
+  - I/O-bound, CPU-bound, memory-bound tasks: 🤷 unknown ⟶  
+  - Interactive applications (close to real-time): 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Graceful shutdown: 🤷 unknown ⟶  
+  - Clustering: 🤷 unknown ⟶  
+  - Streams API: 🤷 unknown ⟶  
+  - File system API (sync and async): 🤷 unknown ⟶  
+  - Worker threads: 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - Stream back pressure: 🤷 unknown ⟶  
+  - worker_threads: 🤷 unknown ⟶  
+  - child_process: 🤷 unknown ⟶  
+  - Generating crypto random UUID: 🤷 unknown ⟶  
+  - Endpoint throttling: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - UDP: 🤷 unknown ⟶  
+  - TLS: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - SSE: 🤷 unknown ⟶  
+  - HTTP/3 (QUIC): 🤷 unknown ⟶  
+  - Long polling: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - Routing: 🤷 unknown ⟶  
+  - DoS: 🤷 unknown ⟶  
+  - DDoS: 🤷 unknown ⟶  
+  - XSS: 🤷 unknown ⟶  
+  - Path traversal: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - noDelay: 🤷 unknown ⟶  
+  - keep-alive: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Logging: 🤷 unknown ⟶  
+  - Application configuring: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - back pressure: 🤷 unknown ⟶  
+  - Buffer: 🤷 unknown ⟶  
+  - Inspector: 🤷 unknown ⟶  
+  - Reliability: 🤷 unknown ⟶  
+  - Availability: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Heap dump: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+- Web and Frontend
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Web Streams API: 🤷 unknown ⟶  
+  - Web Crypto API: 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - Module `node:url` vs new URL: 🤷 unknown ⟶  
+  - Internationalization: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - SSL certificates: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Native test runner: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Console: 🤷 unknown ⟶  
+  - Inspector: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Heap dump: 🤷 unknown ⟶  
+  - Debugging tools: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+- Fullstack development
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - Nonblocking I/O and blocking code: 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Streams API: 🤷 unknown ⟶  
+  - Web Streams API: 🤷 unknown ⟶  
+  - Crypto API: 🤷 unknown ⟶  
+  - Password hashing with crypto.scrypt: 🤷 unknown ⟶  
+  - Web Crypto API: 🤷 unknown ⟶  
+  - File system API (sync and async): 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - Module `node:url` vs new URL: 🤷 unknown ⟶  
+  - Module `node:assert`: 🤷 unknown ⟶  
+  - Internationalization: 🤷 unknown ⟶  
+  - Blob, File, Buffer, module `node:buffer`: 🤷 unknown ⟶  
+  - Module `node:zlib`: 🤷 unknown ⟶  
+  - Endpoint throttling: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - TLS: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - SSE: 🤷 unknown ⟶  
+  - Long polling: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - Routing: 🤷 unknown ⟶  
+  - DoS: 🤷 unknown ⟶  
+  - DDoS: 🤷 unknown ⟶  
+  - XSS: 🤷 unknown ⟶  
+  - Path traversal: 🤷 unknown ⟶  
+  - CSRF: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - SQL injection: 🤷 unknown ⟶  
+  - noDelay: 🤷 unknown ⟶  
+  - keep-alive: 🤷 unknown ⟶  
+  - SSL certificates: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Native test runner: 🤷 unknown ⟶  
+  - Logging: 🤷 unknown ⟶  
+  - Application configuring: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - back pressure: 🤷 unknown ⟶  
+  - Buffer: 🤷 unknown ⟶  
+  - Console: 🤷 unknown ⟶  
+  - Inspector: 🤷 unknown ⟶  
+  - Reliability: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Repository: 🤷 unknown ⟶  
+  - Active record: 🤷 unknown ⟶  
+  - Query builder: 🤷 unknown ⟶  
+  - Object-Relational Mapping: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Uncaught exceptions: 🤷 unknown ⟶  
+  - Heap dump: 🤷 unknown ⟶  
+  - Debugging tools: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+- Platform/system development
+  - Strong and weak sides of node.js: 🤷 unknown ⟶  
+  - Stateful and stateless servers: 🤷 unknown ⟶  
+  - Nonblocking I/O and blocking code: 🤷 unknown ⟶  
+  - Event loop phases: 🤷 unknown ⟶  
+  - Event loop microtasks and macrotasks: 🤷 unknown ⟶  
+  - Garbage collection: 🤷 unknown ⟶  
+  - Node.js LTS schedule: 🤷 unknown ⟶  
+  - I/O-bound, CPU-bound, memory-bound tasks: 🤷 unknown ⟶  
+  - CommonJS modules: 🤷 unknown ⟶  
+  - ECMAScript modules: 🤷 unknown ⟶  
+  - Module `node:module`: 🤷 unknown ⟶  
+  - Caching in CJS and ESM: 🤷 unknown ⟶  
+  - Modules as singletons: 🤷 unknown ⟶  
+  - Contexts and scripts module `node:vm`: 🤷 unknown ⟶  
+  - Dependencies: 🤷 unknown ⟶  
+  - npm, node_modules: 🤷 unknown ⟶  
+  - package.json and package lock: 🤷 unknown ⟶  
+  - Module-based permissions model: 🤷 unknown ⟶  
+  - Isolation with modularity: 🤷 unknown ⟶  
+  - Dependency injection: 🤷 unknown ⟶  
+  - DI containers: 🤷 unknown ⟶  
+  - Coupling and cohesion: 🤷 unknown ⟶  
+  - Framework agnostic approach: 🤷 unknown ⟶  
+  - Command line arguments: 🤷 unknown ⟶  
+  - Node.js CLI: 🤷 unknown ⟶  
+  - Process-based permissions: 🤷 unknown ⟶  
+  - Graceful shutdown: 🤷 unknown ⟶  
+  - Clustering: 🤷 unknown ⟶  
+  - Watch filesystem changes with --watch: 🤷 unknown ⟶  
+  - Streams API: 🤷 unknown ⟶  
+  - Web Streams API: 🤷 unknown ⟶  
+  - Crypto API: 🤷 unknown ⟶  
+  - Password hashing with crypto.scrypt: 🤷 unknown ⟶  
+  - Web Crypto API: 🤷 unknown ⟶  
+  - File system API (sync and async): 🤷 unknown ⟶  
+  - Copy folder recursively: 🤷 unknown ⟶  
+  - Worker threads: 🤷 unknown ⟶  
+  - Performance hooks: 🤷 unknown ⟶  
+  - Native fetch and nodejs/undici: 🤷 unknown ⟶  
+  - async_hooks: 🤷 unknown ⟶  
+  - AsyncLocalStorage: 🤷 unknown ⟶  
+  - AsyncResource: 🤷 unknown ⟶  
+  - Deprecated domain API: 🤷 unknown ⟶  
+  - Node.js single executable: 🤷 unknown ⟶  
+  - Stream back pressure: 🤷 unknown ⟶  
+  - SharedArrayBuffer: 🤷 unknown ⟶  
+  - worker_threads: 🤷 unknown ⟶  
+  - child_process: 🤷 unknown ⟶  
+  - MessageChannel, MessagePort: 🤷 unknown ⟶  
+  - BroadcastChannel: 🤷 unknown ⟶  
+  - Generating crypto random UUID: 🤷 unknown ⟶  
+  - Module `node:url` vs new URL: 🤷 unknown ⟶  
+  - Module `node:assert`: 🤷 unknown ⟶  
+  - Internationalization: 🤷 unknown ⟶  
+  - Blob, File, Buffer, module `node:buffer`: 🤷 unknown ⟶  
+  - Module `node:zlib`: 🤷 unknown ⟶  
+  - IP sticky sessions: 🤷 unknown ⟶  
+  - Endpoint throttling: 🤷 unknown ⟶  
+  - HTTP(S): 🤷 unknown ⟶  
+  - TCP/SSL: 🤷 unknown ⟶  
+  - UDP: 🤷 unknown ⟶  
+  - TLS: 🤷 unknown ⟶  
+  - Websocket: 🤷 unknown ⟶  
+  - SSE: 🤷 unknown ⟶  
+  - HTTP/3 (QUIC): 🤷 unknown ⟶  
+  - Long polling: 🤷 unknown ⟶  
+  - REST: 🤷 unknown ⟶  
+  - RPC: 🤷 unknown ⟶  
+  - Routing: 🤷 unknown ⟶  
+  - DoS: 🤷 unknown ⟶  
+  - DDoS: 🤷 unknown ⟶  
+  - XSS: 🤷 unknown ⟶  
+  - Path traversal: 🤷 unknown ⟶  
+  - CSRF: 🤷 unknown ⟶  
+  - DNS: 🤷 unknown ⟶  
+  - Fetch API: 🤷 unknown ⟶  
+  - IncomingMessage: 🤷 unknown ⟶  
+  - SQL injection: 🤷 unknown ⟶  
+  - noDelay: 🤷 unknown ⟶  
+  - keep-alive: 🤷 unknown ⟶  
+  - ALPN: 🤷 unknown ⟶  
+  - SNI callback: 🤷 unknown ⟶  
+  - SSL certificates: 🤷 unknown ⟶  
+  - Protocol agnostic approach: 🤷 unknown ⟶  
+  - Native test runner: 🤷 unknown ⟶  
+  - Logging: 🤷 unknown ⟶  
+  - Application configuring: 🤷 unknown ⟶  
+  - Testing: 🤷 unknown ⟶  
+  - CI/CD: 🤷 unknown ⟶  
+  - Readable: 🤷 unknown ⟶  
+  - Writable: 🤷 unknown ⟶  
+  - Transform: 🤷 unknown ⟶  
+  - back pressure: 🤷 unknown ⟶  
+  - Buffer: 🤷 unknown ⟶  
+  - Console: 🤷 unknown ⟶  
+  - Inspector: 🤷 unknown ⟶  
+  - Reliability: 🤷 unknown ⟶  
+  - Quality: 🤷 unknown ⟶  
+  - Availability: 🤷 unknown ⟶  
+  - Flexibility: 🤷 unknown ⟶  
+  - Data access layer: 🤷 unknown ⟶  
+  - Repository: 🤷 unknown ⟶  
+  - Active record: 🤷 unknown ⟶  
+  - Query builder: 🤷 unknown ⟶  
+  - Object-Relational Mapping: 🤷 unknown ⟶  
+  - Error: 🤷 unknown ⟶  
+  - error.cause: 🤷 unknown ⟶  
+  - error.code: 🤷 unknown ⟶  
+  - error.message: 🤷 unknown ⟶  
+  - error.stack: 🤷 unknown ⟶  
+  - How to avoid mixins: 🤷 unknown ⟶  
+  - Error.captureStackTrace: 🤷 unknown ⟶  
+  - Uncaught exceptions: 🤷 unknown ⟶  
+  - Heap dump: 🤷 unknown ⟶  
+  - Debugging tools: 🤷 unknown ⟶  
+  - Flame graph: 🤷 unknown ⟶  
+  - Memory leaks: 🤷 unknown ⟶  
+  - Resource leaks: 🤷 unknown ⟶  
+  - Data race: 🤷 unknown ⟶  
+  - Native addons: 🤷 unknown ⟶  
+  - `C` and `C++` addons: 🤷 unknown ⟶  
+  - `Rust` addons: 🤷 unknown ⟶  
+  - `Zig` addons: 🤷 unknown ⟶  
+  - NAN (Native Abstractions for Node.js): 🤷 unknown ⟶  
+  - Node-API (formerly N-API): 🤷 unknown ⟶  
+  - NAPI `C` and `C++`: 🤷 unknown ⟶  
+  - NAPI `Rust`: 🤷 unknown ⟶  
+  - NAPI `Zig`: 🤷 unknown ⟶  
+  - Webassembly `WAT`: 🤷 unknown ⟶  
+  - Webassembly `C` and `C++`: 🤷 unknown ⟶  
+  - Webassembly `Rust`: 🤷 unknown ⟶  
+  - Webassembly `Zig`: 🤷 unknown ⟶  
+  - Webassembly `AssemblyScript`: 🤷 unknown ⟶  
+  - Shared memory: 🤷 unknown ⟶  
+  - V8 binary serialization: 🤷 unknown ⟶  
