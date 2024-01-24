@@ -48,7 +48,6 @@
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
   - SharedArrayBuffer
   - Module `node:worker_threads`
   - Module `node:child_process`
