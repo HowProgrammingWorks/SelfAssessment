@@ -48,7 +48,7 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Data access layer
@@ -135,7 +135,7 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Inspector
@@ -185,9 +185,8 @@
   - File system API (sync and async)
   - Worker threads
   - Native fetch and nodejs/undici
-  - Stream back pressure
-  - worker_threads
-  - child_process
+  - Module `node:worker_threads`
+  - Module `node:child_process`
   - Generating crypto random UUID
   - Endpoint throttling
   - HTTP(S)
@@ -218,7 +217,7 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Inspector
   - Reliability
@@ -334,7 +333,7 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Inspector
@@ -401,7 +400,6 @@
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
   - SharedArrayBuffer
   - worker_threads
   - child_process
@@ -449,7 +447,7 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Inspector
