@@ -14,20 +14,38 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
+  - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
+  - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
   - Domain-driven design (DDD)
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
+  - E-R data modeling
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -40,6 +58,8 @@
   - SaaS
   - FaaS clouds
   - Serverless
+  - Vendor lock-in
+  - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -51,6 +71,14 @@
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
+  - BPMN
+  - Low-code
+  - No-code
+  - Metric
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -58,3 +86,15 @@
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene

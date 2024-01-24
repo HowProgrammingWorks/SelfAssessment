@@ -17,9 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies
-  - npm, node_modules
-  - package.json and package lock
+  - Dependencies: `npm`, `node_modules`
+  - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -99,14 +98,10 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
 - Data access
   - Data access layer
   - Repository
@@ -114,14 +109,15 @@
   - Query builder
   - Object-Relational Mapping
   - CRUD
+  - DTO
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - `Error`
+  - `error.cause`
+  - `error.code`
+  - `error.message`
+  - `error.stack`
+  - `Error.captureStackTrace`
   - How to avoid mixins
-  - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
