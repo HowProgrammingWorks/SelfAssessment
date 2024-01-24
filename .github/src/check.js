@@ -11,10 +11,11 @@ const chapter = concolor('b,yellow');
 const fatal = concolor('b,white/red');
 const fixup = concolor('b,black/yellow');
 
+let exitCode = 0;
+
 const TITLE = 'Software engineering self assessment';
 const PARSING_TIMEOUT = 1000;
 const EXECUTION_TIMEOUT = 5000;
-
 const PATH = path.join(process.cwd(), '../..');
 
 let REPO = process.env.GITHUB_REPOSITORY;
@@ -24,9 +25,13 @@ if (!REPO) {
 }
 const LINK = 'https://github.com/' + REPO;
 
-const BASE = 'https://img.shields.io/badge/Self_Assessment-skills-009933';
+const BASE = 'https://img.shields.io/badge/Self_Assessment-skills';
 const STYLE = `style=flat-square`;
-const BADGE = `[![Skills](${BASE}?${STYLE})](${LINK})`;
+
+const generateBadge = () => {
+  const color = exitCode === 0 ? '009933' : 'FF3300';
+  return `[![Skills](${BASE}-${color}?${STYLE})](${LINK})`;
+};
 
 const UNITS = [
   'Programming',
@@ -37,7 +42,6 @@ const UNITS = [
   'Architecture',
 ];
 
-let exitCode = 0;
 
 const wrongFormat = (msg, file) => {
   exitCode = 1;
@@ -274,16 +278,17 @@ const getTotal = (answered) => {
     totals.push(...total);
   }
 
-  const badgeCode = codeBlock(BADGE);
+  const badge = generateBadge();
+  const badgeCode = codeBlock(badge);
   const report = [
-    `## ${TITLE}\n\n${BADGE}\n\n${badgeCode}\n`,
+    `## ${TITLE}\n\n${badge}\n\n${badgeCode}\n`,
     ...totals,
     ...todos,
   ].join('\n') + '\n';
   await fs.writeFile(`${PATH}/Profile/REPORT.md`, report);
 
   const template = await loadFile(`${PATH}/.github/src/Templates/README.md`);
-  const readme = template.replace('$BADGE', BADGE);
+  const readme = template.replace('$BADGE', badge);
   await fs.writeFile(`${PATH}/README.md`, readme);
 
   console.log('');
