@@ -25,6 +25,15 @@ const BASE = 'https://img.shields.io/badge/Self_Assessment-skills-009933';
 const STYLE = `style=flat-square`;
 const BADGE = `[![Skills](${BASE}?${STYLE})](${LINK})`;
 
+const UNITS = [
+  'Programming',
+  'JavaScript',
+  'Async',
+  'NodeJS',
+  'Paradigms',
+  'Architecture',
+];
+
 let exitCode = 0;
 
 const wrongFormat = (msg, file) => {
@@ -246,10 +255,9 @@ const getTotal = (answered) => {
   const roles = await loadDir('.github/src/Roles');
 
   console.log(caption`Match profiles`);
-  const units = Object.keys(skills);
   const todos = [];
   const totals = ['## Assessment totals\n'];
-  for (const unit of units) {
+  for (const unit of UNITS) {
     console.log(chapter`  Unit: ${unit}`);
     const expected = roles[unit];
     const answered = skills[unit];
