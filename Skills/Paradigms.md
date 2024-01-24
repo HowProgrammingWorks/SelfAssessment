@@ -14,13 +14,16 @@
   - Asyncronous programming
   - Parallel programming
   - Reactive programming
-  - FRP (Functional-reactive)
+  - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
   - Lambda calculus
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
 - OOP basics
   - Constructor
   - Operator `new`
@@ -42,6 +45,7 @@
   - Instance
   - Introspection
   - Reflection
+  - The diamond problem
 - Patterns
   - Singleton
   - Factory Method
@@ -68,4 +72,3 @@
   - Reactor
   - Active object
   - Delegation
-  - 

@@ -22,6 +22,7 @@
   - Quality
   - Availability
   - Flexibility
+  - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -75,6 +76,9 @@
   - No-code
   - Metric
   - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -91,3 +95,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene

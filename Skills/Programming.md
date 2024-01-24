@@ -10,6 +10,8 @@
   - Programm
   - Programming paradigm
   - Programming language
+  - Framework
+  - Platform
   - Source code
   - Object code
   - Machine code
@@ -18,6 +20,10 @@
   - Decomposition
   - Control flow
   - Data flow
+  - Code reuse
+  - Defensive programming
+  - Don't repeat yourself (DRY)
+  - KISS principle
 - Syntax and concepts
   - Value
   - Identifier
@@ -34,8 +40,6 @@
   - Prototype
   - Event
   - Type
-  - Primitive types
-  - Reference types
   - Flag
   - Lexical scope
   - Code block
@@ -48,11 +52,28 @@
   - Module
   - Call stack
   - Naming conventions
+  - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
+  - Fail-fast
+- Types
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typeing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
   - Signature
   - Argument
@@ -169,6 +190,8 @@
   - Use fields instead of arguments
   - Data clump
   - Feature envy
+  - Monkey patch
+  - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
   - V8
@@ -204,3 +227,4 @@
   - OWASP
   - UTF-8
   - W3C
+  - ODMG
