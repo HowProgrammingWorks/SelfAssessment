@@ -89,4 +89,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing Constructor
+  - Revealing constructor

@@ -20,9 +20,10 @@
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
+  - Lambda calculus
 - OOP basics
-  - constructor
-  - new
+  - Constructor
+  - Operator `new`
   - Static method
   - Method
   - Async method
@@ -38,7 +39,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - instance
+  - Instance
   - Introspection
   - Reflection
 - Patterns
@@ -64,3 +65,7 @@
   - Memento
   - Template Method
   - Visitor
+  - Reactor
+  - Active object
+  - Delegation
+  - 

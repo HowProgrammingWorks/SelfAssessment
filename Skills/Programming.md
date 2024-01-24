@@ -7,10 +7,13 @@
   - Algorithm
   - Syntax
   - Semantics
-  - Code
   - Programm
   - Programming paradigm
   - Programming language
+  - Source code
+  - Object code
+  - Machine code
+  - Microcode
   - Software engineering
   - Decomposition
   - Control flow
@@ -32,7 +35,7 @@
   - Event
   - Type
   - Primitive types
-  - Feference types
+  - Reference types
   - Flag
   - Lexical scope
   - Code block
@@ -44,6 +47,12 @@
   - Contract
   - Module
   - Call stack
+  - Naming conventions
+  - Camel case
+  - Snake case
+  - Kebab case
+  - Trailing commas
+  - Return early
 - Functions
   - Signature
   - Argument
@@ -53,7 +62,7 @@
   - Side effects
   - Closure
   - Partial application
-  - Curry
+  - Currying
   - Higher order
   - Recursion
   - Callback
@@ -101,31 +110,85 @@
   - URL
   - URN
   - URI
-- Process & style
+- Process and tools
   - Compiler
+  - Just-in-time compilation
+  - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
+  - Interpreter
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime
+  - Virtual machine
+  - Register-based VM
+  - Stack-based VM
+  - Containerization
   - Debugger
+  - Tracing
   - Garbage collection
   - Refactoring
   - Code review
-  - Antipatterns
   - Paradigm
+  - Exception
+  - Unittesting
+  - git
+  - Hithub
+  - Docker
+  - Kubernetes
+  - GCC
+  - LLVM
+- Antipatterns
   - Magic numbers
-  - Hardcode
-  - Complexity
+  - Hard code
+  - Soft code
+  - Cryptic code
+  - Improbability factor
+  - Accidental complexity
+  - Action at a distance
   - Spaghetti
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
   - Duplicate code
-  - Exception
-  - Return early
-  - Unittesting
-  - git
-  - Hithub
+  - Premature optimization
+  - Micro-optimization
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters
+  - Pass-through parameters
+  - Accumulate and fire
+  - Use switch/case
+  - Temporary field
+  - Handle object as instances and hashes at the same time
+  - Use fields instead of arguments
+  - Data clump
+  - Feature envy
+- Runtimes and virtual machines
+  - Bytecode
+  - V8
+  - VJM
+  - CLR
+  - Mono
+- Operation systems
+  - Interrupts
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
+  - BSD
+  - MacOS
+  - Windows
+  - Real-time OS
+  - Embedded OS
 - Standards
   - ASCII
   - Escape sequence

@@ -8,6 +8,8 @@
   - `BigInt`
   - `String`
   - `Symbol`
+  - `Infinity`
+  - `NaN`
   - `undefined`
   - `null`
   - `this`
@@ -43,12 +45,13 @@
   - `delete`
   - `in`
   - `super`
-  - `Reflect`
   - `eval`
   - `static`
-  - `Proxy`
-  - `RegExp`
-  - `Date`
+  - `parseInt`
+  - `parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
 - Statements
   - `if`
   - `while`
@@ -67,8 +70,8 @@
   - `switch`
   - `class`
   - `extends`
-  - `new Error`
   - `with`
+  - `new`
 - Functions
   - Arrow function
   - Async function
@@ -87,11 +90,26 @@
   - Weak collections
   - Typed arrays
   - Mixins
-  - `extend`
-- Infrastructure
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
   - Timers
+- Infrastructure
   - V8
   - Node.js
   - npm
   - prettier
   - MDN
+  - TC39
