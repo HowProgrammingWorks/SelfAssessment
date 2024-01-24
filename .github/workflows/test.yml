@@ -17,15 +17,23 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      - run: npm ci
+      - id: prepare
+        run: npm ci
         working-directory: .github/src
-      - run: node check.js
+      - id: check
+        name: Run auto skill checks
         working-directory: .github/src
-      - name: Generate results
-        if: always()
+        continue-on-error: true
+        run: node check.js
+      - id: results
+        name: Generate results
         run: |
           git config --global user.name "Metarhia skill bot"
           git config --global user.email "timur@metarhia.com"
           git add ./Profile ./README.md ./Skills
           git commit -m "Automated skill analysis and report"
           git push
+      - id: finalize
+        name: Finalization
+        if: steps.check.outcome != 'success'
+        run: exit 1
