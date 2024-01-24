@@ -28,9 +28,15 @@ const LINK = 'https://github.com/' + REPO;
 const BASE = 'https://img.shields.io/badge/Self_Assessment-skills';
 const STYLE = `style=flat-square`;
 
+const codeBlock = (code) => '```\n' + code + '\n```';
+
 const generateBadge = () => {
   const color = exitCode === 0 ? '009933' : 'FF3300';
-  return `[![Skills](${BASE}-${color}?${STYLE})](${LINK})`;
+  const img = `${BASE}-${color}?${STYLE}`;
+  return {
+    md: `[![Skills](${img})](${LINK})`,
+    html: `<a href="${LINK}"><img alt="Skills" src="${img}"></a>`,
+  };
 };
 
 const UNITS = [
@@ -42,7 +48,6 @@ const UNITS = [
   'Architecture',
 ];
 
-
 const wrongFormat = (msg, file) => {
   exitCode = 1;
   console.log(fatal` Wrong file format: ${msg} `);
@@ -53,8 +58,6 @@ const warnFixup = (msg, file) => {
   console.log(fixup` Fixup file format: ${msg} `);
   console.log(fixup` File: ${file} `);
 };
-
-const codeBlock = (code) => '```\n' + code + '\n```';
 
 const loadFile = async (filePath) => {
   const fileName = path.basename(filePath);
@@ -174,15 +177,12 @@ const getSkills = (data, file, options) => {
       if (skills.has(skill) && options.unique) {
         warnFixup(`removed duplicate skill «${skill}» at line ${i + 1}`, file);
       } else {
-        if (level) {
-          out.push(`  - ${skill}: ${level}`);
-          sections[section][skill] = level;
-          skills.set(skill, level);
-        } else {
-          out.push(`  - ${skill}`);
-          sections[section][skill] = '';
-          skills.set(skill, '');
-        }
+        let row = `  - ${skill}`;
+        if (level) row += `: ${level}`;
+        out.push(row);
+        const value = level || '';
+        sections[section][skill] = value;
+        skills.set(skill, value);
       }
       continue;
     }
@@ -279,16 +279,17 @@ const getTotal = (answered) => {
   }
 
   const badge = generateBadge();
-  const badgeCode = codeBlock(badge);
+  const badgeCode = `${codeBlock(badge.md)}\n\n${codeBlock(badge.html)}`;
   const report = [
-    `## ${TITLE}\n\n${badge}\n\n${badgeCode}\n`,
+    `## ${TITLE}\n\n${badge.md}\n\n${badgeCode}\n`,
     ...totals,
     ...todos,
-  ].join('\n') + '\n';
-  await fs.writeFile(`${PATH}/Profile/REPORT.md`, report);
+  ];
+  const profileReport = report.join('\n') + '\n';
+  await fs.writeFile(`${PATH}/Profile/REPORT.md`, profileReport);
 
   const template = await loadFile(`${PATH}/.github/src/Templates/README.md`);
-  const readme = template.replace('$BADGE', badge);
+  const readme = template.replace('$BADGE', badge.md);
   await fs.writeFile(`${PATH}/README.md`, readme);
 
   console.log('');
