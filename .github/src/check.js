@@ -75,14 +75,15 @@ const loadFile = async (filePath) => {
 };
 
 const SYMBOLS = ['~', '+', '*', '!'];
+const LETTERS = ['h', 'k', 'u', 'e', 't', 'r', 'c'];
 const LEVEL_COMMON = ['heard', 'known', 'used', 'explained'];
 const LEVEL_EXT = ['talked', 'researched', 'constructed'];
 const LEVEL = [...LEVEL_COMMON, ...LEVEL_EXT];
 const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
 const LEVEL_EMOJI = Object.fromEntries(LEVEL.map((n, i) => [n, EMOJI[i]]));
 const EMOJI_LEVEL = Object.fromEntries(EMOJI.map((n, i) => [n, LEVEL[i]]));
-const LEVEL_LABELS = [...LEVEL].map((n, i) => `${EMOJI[i]} ${n}`);
-LEVEL_LABELS.unshift('🤷 unknown');
+const LABELS = LEVEL.map((n, i) => `${EMOJI[i]} ${n}`);
+const LEVEL_LABELS = ['🤷 unknown', ...LABELS];
 
 const removeColon = (line) => {
   const s = line.trim();
@@ -90,19 +91,28 @@ const removeColon = (line) => {
   return s.substring(0, s.length - 1).trim();
 };
 
-const useSymbol = (s) => {
+const useShorthand = (s) => {
+  let index = -1;
   for (const symbol of SYMBOLS) {
     if (s.endsWith(symbol)) {
-      const emoji = EMOJI[SYMBOLS.indexOf(symbol)];
-      return s.substring(0, s.length - 1) + emoji;
+      index = SYMBOLS.indexOf(symbol);
+      break;
     }
+  }
+  if (index === -1 && s.at(-2) === ' ') {
+    const last = s.at(-1).toLowerCase();
+    index = LETTERS.indexOf(last);
+  }
+  if (index >= 0) {
+    const emoji = EMOJI[index];
+    return s.substring(0, s.length - 1) + emoji;
   }
   return s;
 };
 
 const formatSkill = (line) => {
   let skill = removeColon(line.substring(1).trim());
-  skill = useSymbol(skill);
+  skill = useShorthand(skill);
   let icon = '';
   let name = '';
   for (const emoji of EMOJI) {
@@ -249,8 +259,8 @@ const getTotal = (answered) => {
   for (const section in answered.sections) {
     const skills = answered.sections[section];
     let count = 0;
-    const entries = Object.entries(skills);
-    for (const [skill, level] of entries) {
+    const entries = Object.values(skills);
+    for (const level of entries) {
       if (level) count++;
     }
     total.push(`  - ${section}: \`${count}\` of \`${entries.length}\``);
