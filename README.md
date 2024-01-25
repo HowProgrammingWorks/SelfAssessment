@@ -12,6 +12,7 @@
 ## How to use
 
 - Fork repository
+- Enable Githib Actions workflows at tab `Actions` of your fork
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
   - `👂 heard`, `🎓 known`, `🖐️ used`, `🙋 explained`, `📢 talked`, `🔬 researched`, `🚀 constructed`
