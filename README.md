@@ -15,10 +15,17 @@
 - Enable Githib Actions workflows at tab `Actions` of your fork
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
-  - `👂 heard`, `🎓 known`, `🖐️ used`, `🙋 explained`, `📢 talked`, `🔬 researched`, `🚀 constructed`
-  - You can use just emojis: `👂`, `🎓`, `🖐️`, `🙋`, `📢`, `🔬`, `🚀`
-  - or just text levels: `heard`, `known`, `used`, `explained`, `talked`, `researched`, `constructed`
-  - or just shorthands: `~` for `heard`, `+` for `known`, `*` for `used`, `!` for `explained`
+
+|      | Level         | Shorthand | Description                                            |
+| ---- | ------------- | --------- | ------------------------------------------------------ |
+| `👂` | `heard`       | `~`       | Heard or have some idea                                |
+| `🎓` | `known`       | `+`       | Learned, read, but didn’t use                          |
+| `🖐️` | `used`        | `*`       | Used in work or real project                           |
+| `🙋` | `explained`   | `!`       | Explained to colleagues or can freely explain          |
+| `📢` | `talked`      |           | Gave a public speech or lecture on a topic             |
+| `🔬` | `researched`  |           | Deep research, measurements, comparisons, read sources |
+| `🚀` | `constructed` |           | Developed an implementation or equivalent              |
+
 - Now you can create pull request and merge this to main branch of your fork (not to original repo)
 - Pull request will fire Github Actions CI processing which will generate new commit with `Profile/REPORT.md` file with skill analisis and role matching report
 - CI processing will fix all simple mistakes in filling and replace shorthands
