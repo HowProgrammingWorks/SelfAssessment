@@ -74,21 +74,15 @@ const loadFile = async (filePath) => {
   return data;
 };
 
-const LEVEL = [
-  'heard',
-  'known',
-  'used',
-  'explained',
-  'talked',
-  'researched',
-  'constructed',
-];
-
-const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
 const SYMBOLS = ['~', '+', '*', '!'];
-
+const LEVEL_COMMON = ['heard', 'known', 'used', 'explained'];
+const LEVEL_EXT = ['talked', 'researched', 'constructed'];
+const LEVEL = [...LEVEL_COMMON, ...LEVEL_EXT];
+const EMOJI = ['👂', '🎓', '🖐️', '🙋', '📢', '🔬', '🚀'];
 const LEVEL_EMOJI = Object.fromEntries(LEVEL.map((n, i) => [n, EMOJI[i]]));
 const EMOJI_LEVEL = Object.fromEntries(EMOJI.map((n, i) => [n, LEVEL[i]]));
+const LEVEL_LABELS = [...LEVEL].map((n, i) => `${EMOJI[i]} ${n}`);
+LEVEL_LABELS.unshift('🤷 unknown');
 
 const removeColon = (line) => {
   const s = line.trim();
@@ -227,14 +221,25 @@ const match = (expected, answered) => {
     todo.push(`- ${section}`);
     const needed = expected.sections[section];
     let count = 0;
+    let have = 0;
+    let above = 0;
+    let upgrade = 0;
     const entries = Object.entries(needed);
     for (const [skill, level] of entries) {
       if (level) count++;
       const actual = answered.skills.get(skill) || '🤷 unknown';
-      if (actual !== level) {
+      const actualIndex = LEVEL_LABELS.indexOf(actual);
+      const levelIndex = LEVEL_LABELS.indexOf(level || '🤷 unknown');
+      if (actualIndex < levelIndex) {
+        upgrade++;
         todo.push(`  - ${skill}: ${actual} ⟶  ${level}`);
       }
+      if (actualIndex > levelIndex) above++;
+      if (actualIndex >= levelIndex && levelIndex !== 0) have++;
     }
+    const total = `you have \`${have}\` of \`${count}\` skills`;
+    const ext = `\`${upgrade}\` to be upgraded, and \`${above}\` above needed`;
+    todo.push(`  - Total: ${total}, ${ext}`);
   }
   return todo;
 };
@@ -248,7 +253,7 @@ const getTotal = (answered) => {
     for (const [skill, level] of entries) {
       if (level) count++;
     }
-    total.push(`  - ${section}: ${count} of ${entries.length}`);
+    total.push(`  - ${section}: \`${count}\` of \`${entries.length}\``);
   }
   return total;
 };
