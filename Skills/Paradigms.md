@@ -1,74 +1,74 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming: k
+  - Imperative programming: k
+  - Structured programming: k
+  - Non-structured programming: k
+  - Functional programming: k
+  - Prototype-based programming: k
+  - Object-oriented programming: k
   - Object-based programming
   - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Concurrent computing: k
+  - Asyncronous programming: k
+  - Parallel programming: k
+  - Reactive programming: k
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming: h
+  - Metaprogramming: h
   - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
+  - Lambda calculus: h
+  - Black box: k
+  - Information hiding: k
   - Aspect-oriented programming
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor: k
+  - Operator `new`: k
+  - Static method: k
+  - Method: k
+  - Async method: k
+  - Getters, Setters: k
+  - Public fields: k
+  - Private fields: k
+  - Field declarations: k
+  - Inheritance: k
+  - Parent class: k
+  - Polymorphism: k
+  - Abstract class: k
+  - Interface: k
+  - Encapsulation: k
+  - Hidden class: k
+  - Object form: k
+  - Instance: k
+  - Introspection: k
+  - Reflection: k
+  - The diamond problem: k
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton: u
+  - Factory Method: u
+  - Abstract Factory: u
+  - Adapter: k
+  - Observer: k
+  - Strategy: u
+  - Facade: k
+  - Proxy: k
+  - Chain of Responsibility: k
+  - Command: k
+  - Iterator: u
+  - State: k
+  - Bridge: k
+  - Builder: u
+  - Prototype: k
+  - Composite: k
+  - Decorator: u
+  - Flyweight: k
+  - Mediator: u
+  - Memento: k
+  - Template Method: h
+  - Visitor: u
+  - Reactor: h
+  - Active object: h
+  - Delegation: h

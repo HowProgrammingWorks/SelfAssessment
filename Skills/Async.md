@@ -1,77 +1,77 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop: used
+  - `try..catch`: used
+  - Non-blocking: known
+  - Async I/O: used
+  - Thread pool: known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
+  - Event ports: heard
+  - libuv: heard
+  - Race conditions: known
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: used
+  - Parallel programming: used
   - Actor Model
-  - Thread
-  - Process
+  - Thread: known
+  - Process: known
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks: used
+  - Callback-last-error-first: used
+  - Thenable: used
+  - Promise: used
+  - Async/await: used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator: known
+  - Async Generator: used
+  - Async Iterator: used
+  - Event: known
   - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Goroutine: heard
+  - Signal: heard
+  - Stream: heard
+  - Chain of responsibility: known
+  - Middleware: used
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify: known
+  - promisify: known
+  - asyncify: known
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter: heard
+  - Observable/Observer: heard
+  - Readable: heard
+  - Writable: heard
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: heard
+  - Async Queue: heard
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: heard
+  - Mutex: heard
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - `setImmediate`: known
+  - `nextTick`: known
+  - AbortController: used
+  - AbortSignal: used
+  - Promise unhandled rejection: heard
+  - Promise double resolve: heard
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: used
+  - Promise hell: heard
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: used 
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: used
+  - Promise.allSettled: used
+  - Promise.race: used
+  - Promise.any: used
   - Web Locks API
   - IPC
   - Channel API

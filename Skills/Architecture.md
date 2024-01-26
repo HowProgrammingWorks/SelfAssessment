@@ -1,70 +1,70 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Modularity: explained
+  - Components: explained
+  - Directories: explained
+  - GRASP: heard
+  - SOLID: explained
+  - GoF patterns: explained
+  - CQS: heard
+  - Leaking abstractions: known
+  - Multiparadigm code: heard
+  - Contract programming: heard
+  - Platform-agnostic: known
+  - Transport-agnostic: heard
+  - Framework-agnostic: known
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion: known
+  - Coupling: known
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: known
+  - Quality: explained
+  - Availability: known
+  - Flexibility: known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - System vs applied code: known
+  - Multilayer approach: known
+  - Hexagonal architecture: known
+  - Separation of concerns (SoC): known
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Inversion of control (IoC): used 
+  - Dependency injection (DI): used 
+  - Clean architecture: known
+  - Domain-driven design (DDD): known 
+  - Pub/sub: known 
+  - Message brocker: known 
   - Agent
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - Message Queue (MQ): known
+  - CQRS: heard 
+  - Event sourcing: heard
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: known
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Budget estimation: known
+  - Distributed systems: known
+  - High-intensive computing: known
+  - Load balancing: known
+  - Gateways: known
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
+  - IaaS: heard
+  - PaaS: heard
+  - SaaS: known
+  - FaaS clouds: known
+  - Serverless: heard
   - Vendor lock-in
-  - Bus factor
+  - Bus factor: used
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: known
   - Process modelling
   - Data modelling
   - Solution components
@@ -78,23 +78,23 @@
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): known
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: known
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: heard
+  - Microservices: known
   - Process choreography
   - Service orchestration
   - Data warehouse
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
+  - Conways Law: known
+  - Quality assurance: used
   - Engineering Hygiene
