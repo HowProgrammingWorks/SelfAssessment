@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: e
+  - Model: explained
   - Modeling: e
   - Subject domain: e
   - Algorithm: e
