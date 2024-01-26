@@ -1,5 +1,7 @@
 ## Software engineering self assessment
 
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/HowProgrammingWorks/SelfAssessment)
+
 ## Skills
 
 - [Programming fundamentals](Skills/Programming.md)
@@ -7,26 +9,17 @@
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
-- [Databases](Skills/Databases.md)
 - [Architecture](Skills/Architecture.md)
 
 ## How to use
 
 - Fork repository
-- Enable Githib Actions workflows at tab `Actions` of your fork
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
-
-|      | Level         | Shorthand  | Description                                            |
-| ---- | ------------- | ----------:| ------------------------------------------------------ |
-| `👂` | `heard`       | `~` or `h` | Heard or have some idea                                |
-| `🎓` | `known`       | `+` or `k` | Learned, read, but didn’t use                          |
-| `🖐️` | `used`        | `*` or `u` | Used in work or real project                           |
-| `🙋` | `explained`   | `!` or `e` | Explained to colleagues or can freely explain          |
-| `📢` | `talked`      |        `t` | Gave a public speech or lecture on a topic             |
-| `🔬` | `researched`  |        `r` | Deep research, measurements, comparisons, read sources |
-| `🚀` | `constructed` |        `c` | Developed an implementation or equivalent              |
-
+  - `👂 heard`, `🎓 known`, `🖐️ used`, `🙋 explained`, `📢 talked`, `🔬 researched`, `🚀 constructed`
+  - You can use just emojis: `👂`, `🎓`, `🖐️`, `🙋`, `📢`, `🔬`, `🚀`
+  - or just text levels: `heard`, `known`, `used`, `explained`, `talked`, `researched`, `constructed`
+  - or just shorthands: `~` for `heard`, `+` for `known`, `*` for `used`, `!` for `explained`
 - Now you can create pull request and merge this to main branch of your fork (not to original repo)
 - Pull request will fire Github Actions CI processing which will generate new commit with `Profile/REPORT.md` file with skill analisis and role matching report
 - CI processing will fix all simple mistakes in filling and replace shorthands
