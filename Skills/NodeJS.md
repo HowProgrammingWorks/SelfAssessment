@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Strong and weak sides of node.js: h
+  - Stateful and stateless servers: h
+  - Nonblocking I/O and blocking code: k
+  - Event loop phases: k
+  - Event loop microtasks and macrotasks: k
+  - Garbage collection: k
+  - Node.js LTS schedule: u
+  - I/O-bound, CPU-bound, memory-bound tasks: h
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules: e
+  - ECMAScript modules: e
+  - Module `node:module`: e
+  - Caching in CJS and ESM: h
+  - Modules as singletons: u
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: u
+  - Files `package.json`, `package-lock.json`: u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: u
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion: k
+  - Framework agnostic approach: k
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: k
+  - Node.js CLI: k
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -63,52 +63,52 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
-  - Fetch API
+  - SSL certificates: h
+  - Protocol agnostic approach: h
+  - Fetch API: u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): k
+  - TCP/SSL: k
+  - UDP: k
   - TLS
-  - Websocket
+  - Websocket: k
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): h
   - Long polling
-  - REST
-  - RPC
-  - Routing
+  - REST: u
+  - RPC: k
+  - Routing: u
   - DoS
-  - DDoS
-  - XSS
+  - DDoS: h
+  - XSS: h
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS: k
+  - SQL injection: k
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
   - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Application configuring: u
+  - Testing: u
+  - CI/CD: u
+  - Readable: k
+  - Writable: k
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: k
+  - Repository: h
   - Active record
-  - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Query builder: h
+  - Object-Relational Mapping: u
+  - CRUD: u
+  - DTO: u
 - Error handling and debugging
   - `Error`
   - `error.cause`
@@ -119,7 +119,7 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: k
   - Flame graph
   - Memory leaks
   - Resource leaks
