@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Algorithm used
+  - Syntax used
+  - Semantics used
+  - Programm used
+  - Programming paradigm used
+  - Programming language used
+  - Framework used
+  - Platform used
+  - Source code used
+  - Object code used
+  - Machine code used
   - Microcode
   - Software engineering
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse used
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) used
+  - KISS principle used
 - Syntax and concepts
   - Value
   - Identifier
