@@ -24,6 +24,8 @@
   - Black box
   - Information hiding
   - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
   - Constructor
   - Operator `new`
@@ -46,6 +48,22 @@
   - Introspection
   - Reflection
   - The diamond problem
+- GRASP
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Polymorphism
+  - Protected variations
+  - Pure fabrication
+- SOLID
+  - Single-responsibility principle (SRP)
+  - Open–closed principle (OCP)
+  - Liskov substitution principle (LSP)
+  - Interface segregation principle (ISP)
+  - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
   - Factory Method
