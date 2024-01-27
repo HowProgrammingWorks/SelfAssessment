@@ -13,7 +13,7 @@
 ## How to use
 
 - Fork repository
-- Enable Githib Actions workflows at tab `Actions` of your fork
+- Enable Github Actions workflows at tab `Actions` of your fork
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
 
@@ -28,10 +28,10 @@
 | `🚀` | `constructed` |        `c` | Developed an implementation or equivalent              |
 
 - Now you can create pull request and merge this to main branch of your fork (not to original repo)
-- Pull request will fire Github Actions CI processing which will generate new commit with `Profile/REPORT.md` file with skill analisis and role matching report
+- Pull request will fire Github Actions CI processing which will generate new commit with `Profile/REPORT.md` file with skill analysis and role matching report
 - CI processing will fix all simple mistakes in filling and replace shorthands
-- If CI processing will detect unrecoverable error it will generate dubug output and you will receive email with link
-- Auto-generated commit will also contain bagde in `md` and `html` formats
+- If CI processing will detect unrecoverable error it will generate debug output and you will receive email with link
+- Auto-generated commit will also contain badge in `md` and `html` formats
 - Repeat self assessment after course or training
 - Now You can compare branches with URL:
   - `https://github.com/<YOUR-ACCOUNT>/SelfAssessment/compare/2023-autumn...2024-winter`
