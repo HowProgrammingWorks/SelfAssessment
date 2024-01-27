@@ -7,9 +7,16 @@
   - Algorithm
   - Syntax
   - Semantics
+  - Abstraction
+  - Paradigm
   - Programm
   - Programming paradigm
   - Programming language
+  - Contract
+  - Module
+  - Library
+  - Package
+  - Component
   - Framework
   - Platform
   - Source code
@@ -48,8 +55,7 @@
   - Assignment
   - Regular expression
   - Interface
-  - Contract
-  - Module
+  - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -156,7 +162,6 @@
   - Garbage collection
   - Refactoring
   - Code review
-  - Paradigm
   - Exception
   - Unittesting
   - git
