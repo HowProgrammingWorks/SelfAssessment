@@ -23,7 +23,7 @@ if (!REPO) {
   const OUT = cp.execSync('git config --get remote.origin.url').toString();
   REPO = metautil.between(OUT, ':', '.');
 }
-const LINK = 'https://github.com/' + REPO;
+const LINK = 'https://github.com/' + REPO + '/Profile/REPORT.md';
 
 const BASE = 'https://img.shields.io/badge/Self_Assessment';
 const STYLE = `style=flat-square`;
@@ -315,9 +315,10 @@ const getTotal = (answered) => {
   const profileReport = report.join('\n') + '\n';
   await fs.writeFile(`${PATH}/Profile/REPORT.md`, profileReport);
 
-  const template = await loadFile(`${PATH}/.github/src/Templates/README.md`);
-  const readme = template.replace('$BADGE', badge.md);
-  await fs.writeFile(`${PATH}/README.md`, readme);
+  const readmeFile = `${PATH}/README.md`;
+  const template = await loadFile(readmeFile);
+  const readme = template.replace('<!--- $BADGE -->', badge.md);
+  await fs.writeFile(readmeFile, readme);
 
   console.log('');
   process.exit(exitCode);
