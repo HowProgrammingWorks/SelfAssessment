@@ -235,6 +235,7 @@ const match = (expected, answered) => {
     let above = 0;
     let upgrade = 0;
     const entries = Object.entries(needed);
+    const propose = [];
     for (const [skill, level] of entries) {
       if (level) count++;
       const actual = answered.skills.get(skill) || '🤷 unknown';
@@ -242,11 +243,12 @@ const match = (expected, answered) => {
       const levelIndex = LEVEL_LABELS.indexOf(level || '🤷 unknown');
       if (actualIndex < levelIndex) {
         upgrade++;
-        todo.push(`  - ${skill}: ${actual} ⟶  ${level}`);
+        propose.push(`  - ${skill}: ${actual} ⟶  ${level}`);
       }
       if (actualIndex > levelIndex) above++;
       if (actualIndex >= levelIndex && levelIndex !== 0) have++;
     }
+    if (have) todo.push(...propose);
     const total = `you have \`${have}\` of \`${count}\` skills`;
     const ext = `\`${upgrade}\` to be upgraded, and \`${above}\` above needed`;
     todo.push(`  - Total: ${total}, ${ext}`);
@@ -287,7 +289,7 @@ const getTotal = (answered) => {
     const answered = skills[unit];
     if (expected) {
       const todo = match(expected, answered);
-      todos.push(`\n## ${unit}\n`);
+      todos.push(`\n## [${unit}](Skills/${unit}.md)\n`);
       todos.push(...todo);
     }
     totals.push(`- ${unit}`);
