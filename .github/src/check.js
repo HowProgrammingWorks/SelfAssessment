@@ -289,10 +289,10 @@ const getTotal = (answered) => {
     const answered = skills[unit];
     if (expected) {
       const todo = match(expected, answered);
-      todos.push(`\n## [${unit}](Skills/${unit}.md)\n`);
+      todos.push(`\n## [${unit}](/Skills/${unit}.md)\n`);
       todos.push(...todo);
     }
-    totals.push(`- [${unit}](Skills/${unit}.md)`);
+    totals.push(`- [${unit}](/Skills/${unit}.md)`);
     const total = getTotal(answered);
     totals.push(...total);
   }
