@@ -25,14 +25,17 @@ if (!REPO) {
 }
 const LINK = 'https://github.com/' + REPO;
 
-const BASE = 'https://img.shields.io/badge/Self_Assessment-skills';
+const BASE = 'https://img.shields.io/badge/Self_Assessment';
 const STYLE = `style=flat-square`;
 
 const codeBlock = (code) => '```\n' + code + '\n```';
 
+const overall = { count: 0, total: 0, all: 0 };
+
 const generateBadge = () => {
   const color = exitCode === 0 ? '009933' : 'FF3300';
-  const img = `${BASE}-${color}?${STYLE}`;
+  const stat = overall.count + '/' + overall.total + '/' + overall.all;
+  const img = `${BASE}-${stat}-${color}?${STYLE}`;
   return {
     md: `[![Skills](${img})](${LINK})`,
     html: `<a href="${LINK}"><img alt="Skills" src="${img}"></a>`,
@@ -266,6 +269,11 @@ const getTotal = (answered) => {
       if (level) count++;
     }
     total.push(`  - ${section}: \`${count}\` of \`${entries.length}\``);
+    if (count > 0) {
+      overall.count += count;
+      overall.total += entries.length;
+    }
+    overall.all += entries.length;
   }
   return total;
 };
