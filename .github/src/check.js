@@ -292,7 +292,7 @@ const getTotal = (answered) => {
       todos.push(`\n## [${unit}](Skills/${unit}.md)\n`);
       todos.push(...todo);
     }
-    totals.push(`- ${unit}`);
+    totals.push(`- [${unit}](Skills/${unit}.md)`);
     const total = getTotal(answered);
     totals.push(...total);
   }
