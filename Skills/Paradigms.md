@@ -55,7 +55,6 @@
   - Indirection
   - Low coupling
   - High cohesion
-  - Polymorphism
   - Protected variations
   - Pure fabrication
 - SOLID
