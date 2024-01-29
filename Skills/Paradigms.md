@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming k
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
