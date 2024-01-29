@@ -23,7 +23,7 @@ if (!REPO) {
   const OUT = cp.execSync('git config --get remote.origin.url').toString();
   REPO = metautil.between(OUT, ':', '.');
 }
-const LINK = 'https://github.com/' + REPO + '/Profile/REPORT.md';
+const LINK = 'https://github.com/' + REPO + '/blob/main/Profile/REPORT.md';
 
 const BASE = 'https://img.shields.io/badge/Self_Assessment';
 const STYLE = `style=flat-square`;
