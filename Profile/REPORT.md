@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-55/153/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-55/153/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-55/153/730-009933?style=flat-square"></a>
+<a href="https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,17 +15,17 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `0` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `0` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `10` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `17` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `8` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `14` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `1` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `8` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `2` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `18` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `14` | `19` |

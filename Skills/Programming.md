@@ -4,62 +4,62 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax h
+  - Algorithm: 👂 heard
+  - Syntax: 👂 heard
   - Semantics
   - Abstraction
-  - Paradigm h
-  - Programm h
-  - Programming paradigm h
-  - Programming language h
+  - Paradigm: 👂 heard
+  - Programm: 👂 heard
+  - Programming paradigm: 👂 heard
+  - Programming language: 👂 heard
   - Contract
   - Module
-  - Library h
+  - Library: 👂 heard
   - Package
   - Component
-  - Framework h
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) h
+  - Don't repeat yourself (DRY): 👂 heard
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar h
-  - Literal u
-  - Expression u
-  - Heap h
-  - Function u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 👂 heard
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 👂 heard
+  - Function: 🖐️ used
   - Procedure
-  - Method u
-  - Class u
-  - Prototype h
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
   - Event
   - Type
-  - Flag u
+  - Flag: 🖐️ used
   - Lexical scope
   - Code block
-  - Conditions u
-  - Loops u
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
-  - Namespaces u
+  - Namespaces: 🖐️ used
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -81,54 +81,54 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature k
-  - Argument k
-  - Parameter k
+  - Signature: 🎓 known
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
-  - Lambda expression h
+  - Lambda expression: 👂 heard
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion u
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback h
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
-  - Memoize h
+  - Memoize: 👂 heard
   - Wrapper
-  - Functor h
+  - Functor: 👂 heard
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array h
-  - Structure h
+  - Array: 👂 heard
+  - Structure: 👂 heard
   - Record
-  - Enum h
+  - Enum: 👂 heard
   - Instance
   - Cbject
   - Collection
-  - Set h
-  - Hash table h
+  - Set: 👂 heard
+  - Hash table: 👂 heard
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue h
-  - Stack h
-  - Deque h
-  - Tree h
-  - Graph h
-  - Iterator h
-  - Mutable state h
-  - Immutable state h
+  - Queue: 👂 heard
+  - Stack: 👂 heard
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph: 👂 heard
+  - Iterator: 👂 heard
+  - Mutable state: 👂 heard
+  - Immutable state: 👂 heard
   - Serialization
   - String parsing
-  - JSON h
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -164,36 +164,36 @@
   - Code review
   - Exception
   - Unittesting
-  - git h
+  - git: 👂 heard
   - Hithub
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
+  - Spaghetti: 👂 heard
   - Silver bullet
-  - Not invented here h
+  - Not invented here: 👂 heard
   - Dead code
-  - Unreachable code k
-  - Duplicate code k
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
-  - Long method/function/procedure h
+  - Long method/function/procedure: 👂 heard
   - Long inheritance
   - Large class/file
-  - Too many parameters h
+  - Too many parameters: 👂 heard
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case h
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
+  - Linux: 👂 heard
   - Unix
   - BSD
   - MacOS
-  - Windows k
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
