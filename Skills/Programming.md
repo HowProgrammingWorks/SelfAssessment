@@ -1,106 +1,239 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm
+  - Syntax
+  - Semantics
+  - Abstraction
+  - Paradigm
+  - Programm
+  - Programming paradigm
+  - Programming language
+  - Contract
+  - Module
+  - Library
+  - Package
+  - Component
+  - Framework
+  - Platform
+  - Source code
+  - Object code
+  - Machine code
+  - Microcode
+  - Software engineering
+  - Decomposition
+  - Control flow
+  - Data flow
+  - Code reuse
+  - Defensive programming
+  - Don't repeat yourself (DRY)
+  - KISS principle
 - Syntax and concepts
-  - value: used
-  - identifier: used
-  - variable: used
-  - constant: used
-  - scalar: used
-  - literal: used
-  - expression: used
-  - heap: used
-  - function: used
-  - procedure: used
-  - method: used
-  - class: used
-  - prototype: used
-  - event
-  - type: used
-  - primitive types: used
-  - reference types: used
-  - flag: used
-  - lexical scope
-  - code block: used
-  - conditions: used
-  - loops: used
-  - assignment: used
-  - regular expression
-  - interface: heard
-  - contract
-  - module
-  - call stack
+  - Value
+  - Identifier
+  - Variable
+  - Constant
+  - Scalar
+  - Literal
+  - Expression
+  - Heap
+  - Function
+  - Procedure
+  - Method
+  - Class
+  - Prototype
+  - Event
+  - Type
+  - Flag
+  - Lexical scope
+  - Code block
+  - Conditions
+  - Loops
+  - Assignment
+  - Regular expression
+  - Interface
+  - Namespaces
+  - Call stack
+  - Naming conventions
+  - Coding conventions
+  - Camel case
+  - Snake case
+  - Kebab case
+  - Trailing commas
+  - Return early
+  - Fail-fast
+- Types
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typeing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
-  - signature: used
-  - argument: used
-  - parameter: used
-  - pure function: known
-  - lambda expression: known
-  - side effects: heard
-  - closure: heard
-  - partial application
-  - curry
-  - higher order: heard
-  - recursion: known
-  - callback: heard
-  - listener
-  - compose
-  - pipe
-  - memoize: heard
-  - wrapper
-  - functor: heard
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - Signature
+  - Argument
+  - Parameter
+  - Pure function
+  - Lambda expression
+  - Side effects
+  - Closure
+  - Partial application
+  - Currying
+  - Higher order
+  - Recursion
+  - Tail call optimisation
+  - Callback
+  - Listener
+  - Composition
+  - Pipe
+  - Memoize
+  - Wrapper
+  - Functor
+  - Monad
+  - Monoid
+  - Generator
+  - Coroutine
 - Data structures
-  - array: used
-  - structure: used
-  - record: heard
-  - enum: known
-  - instance: known
-  - object: used
-  - class: used
-  - collection: heard
-  - set: heard
-  - hash table: heard
-  - linked list: heard
-  - doubly list: heard
-  - unrolled list
-  - circular list
-  - queue: heard
-  - stack: heard
-  - deque
-  - tree: heard
-  - graph: heard
-  - iterator: heard
-  - mutable state: heard
-  - immutable state: heard
-  - serialization
-  - string parsing
-- Process & style
-  - compiler: known
-  - transpiler
-  - linter
-  - polyfill
-  - debugger: known
-  - garbage collection
-  - refactoring
-  - code review: heard
-  - antipatterns
-  - paradigm: heard
-  - algorithm: known
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code: heard
-  - duplicate code: heard
-  - exception: known
-  - return early
-  - unittest
-  - git: heard
-  - github: heard
+  - Array
+  - Structure
+  - Record
+  - Enum
+  - Instance
+  - Cbject
+  - Collection
+  - Set
+  - Hash table
+  - Linked list
+  - Doubly list
+  - Unrolled list
+  - Circular list
+  - Queue
+  - Stack
+  - Deque
+  - Tree
+  - Graph
+  - Iterator
+  - Mutable state
+  - Immutable state
+  - Serialization
+  - String parsing
+  - JSON
+  - JSON5
+  - YAML
+- Networking
+  - DNS
+  - CDN
+  - CORS
+  - IPv4
+  - IPv6
+  - NAT
+  - URL
+  - URN
+  - URI
+- Process and tools
+  - Compiler
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler
+  - Linter
+  - Polyfill
+  - Interpreter
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime
+  - Virtual machine
+  - Register-based VM
+  - Stack-based VM
+  - Containerization
+  - Debugger
+  - Tracing
+  - Garbage collection
+  - Refactoring
+  - Code review
+  - Exception
+  - Unittesting
+  - git
+  - Hithub
+  - Docker
+  - Kubernetes
+  - GCC
+  - LLVM
+- Antipatterns
+  - Magic numbers
+  - Hard code
+  - Soft code
+  - Cryptic code
+  - Improbability factor
+  - Accidental complexity
+  - Action at a distance
+  - Spaghetti
+  - Silver bullet
+  - Not invented here
+  - Dead code
+  - Unreachable code
+  - Duplicate code
+  - Premature optimization
+  - Micro-optimization
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters
+  - Pass-through parameters
+  - Accumulate and fire
+  - Use switch/case
+  - Temporary field
+  - Handle object as instances and hashes at the same time
+  - Use fields instead of arguments
+  - Data clump
+  - Feature envy
+  - Monkey patch
+  - Yo-yo problem
+- Runtimes and virtual machines
+  - Bytecode
+  - V8
+  - VJM
+  - CLR
+  - Mono
+- Operation systems
+  - Interrupts
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
+  - BSD
+  - MacOS
+  - Windows
+  - Real-time OS
+  - Embedded OS
+- Standards
+  - ASCII
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64
+  - ECMA
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8
+  - W3C
+  - ODMG
