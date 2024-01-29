@@ -9,7 +9,6 @@
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
-
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
@@ -29,7 +28,6 @@
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
-
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
@@ -38,7 +36,6 @@
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
-
 - Network and Protocols
   - HTTP/HTTPS support
   - WebSockets for real-time communication
@@ -48,7 +45,6 @@
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
-
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -56,7 +52,6 @@
   - Application monitoring and telemetry
   - Debugging tools and strategies
   - Performance profiling and analysis
-
 - Data Access and ORM
   - Entity Framework Core
   - Dapper
@@ -64,21 +59,18 @@
   - Data modeling and migration
   - Repository and Unit of Work patterns
   - CRUD operations
-
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
-
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
   - COM interop
   - .NET for `WebAssembly`
   - Custom middleware development
-
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
   - Microservices architecture
@@ -103,7 +95,6 @@
   - Using .NET libraries in `F#`
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
-
 - VB.NET Development
   - VB.NET syntax and language fundamentals
   - Event-driven programming
@@ -111,7 +102,6 @@
   - XML and file handling
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
-
 - C++/CLI Development Development
   - C++ syntax and language fundamentals
   - Interoperability between managed (.NET) and unmanaged (native) code
