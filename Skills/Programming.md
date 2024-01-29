@@ -5,25 +5,25 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax h
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm h
+  - Programming paradigm h
+  - Programming language k
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
-  - Framework
+  - Framework h
   - Platform
-  - Source code
-  - Object code
+  - Source code h
+  - Object code h
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar h
+  - Literal u
+  - Expression h
+  - Heap k
+  - Function u
+  - Procedure h
+  - Method u
+  - Class u
+  - Prototype u
+  - Event h
+  - Type h
+  - Flag u
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions u
+  - Loops u
   - Assignment
   - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
+  - Interface h
+  - Namespaces k
+  - Call stack h
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case u
+  - Snake case h
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typeing
@@ -81,104 +81,104 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression h
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
-  - Memoize
+  - Memoize h
   - Wrapper
-  - Functor
+  - Functor h
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - array
-  - structure
+  - array u
+  - structure h
   - record
-  - enum
+  - enum h
   - instance
-  - object
-  - class
+  - object u
+  - class u
   - collection
-  - set: heard
-  - hash table
+  - set h
+  - hash table h
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - queue h
+  - stack h
+  - deque h
+  - tree h
+  - graph h
+  - iterator h
+  - mutable state h
+  - immutable state h
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler h
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger h
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - refactoring u
+  - code review h
+  - antipatterns k
+  - paradigm h
+  - algorithm h
+  - magic numbers k
+  - hardcode h 
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti h
   - silver bullet
-  - not invented here
+  - not invented here h
   - dead code
   - unreachable code
-  - duplicate code
+  - duplicate code h
   - exception
   - return early
   - unittest
 =======
-  - Array
-  - Structure
-  - Record
-  - Enum
+  - Array h
+  - Structure h
+  - Record h
+  - Enum h
   - Instance
   - Cbject
-  - Collection
-  - Set
-  - Hash table
+  - Collection h
+  - Set h
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
+  - Queue h
+  - Stack h
+  - Deque h
+  - Tree h
+  - Graph h
+  - Iterator h
+  - Mutable state h
+  - Immutable state h
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -203,48 +203,48 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring u
+  - Code review h
+  - Exception h
   - Unittesting
-  - git
-  - Hithub
+  - git h
+  - Hithub u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers h
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
-  - Not invented here
+  - Not invented here h
   - Dead code
   - Unreachable code
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops u
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case h
+  - Temporary field h
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -264,15 +264,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
