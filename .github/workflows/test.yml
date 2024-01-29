@@ -1,0 +1,39 @@
+name: Check skills
+on: pull_request
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - id: prepare
+        run: npm ci
+        working-directory: .github/src
+      - id: check
+        name: Run auto skill checks
+        working-directory: .github/src
+        continue-on-error: true
+        run: node check.js
+      - id: results
+        name: Generate results
+        run: |
+          git config --global user.name "Metarhia skill bot"
+          git config --global user.email "timur@metarhia.com"
+          git add ./Profile ./README.md ./Skills
+          git commit -m "Automated skill analysis and report"
+          git push
+      - id: finalize
+        name: Finalization
+        if: steps.check.outcome != 'success'
+        run: exit 1
