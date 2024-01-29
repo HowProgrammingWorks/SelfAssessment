@@ -11,7 +11,7 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming h
+  - Asyncronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,22 +27,22 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor k
-  - Operator `new` h
-  - Static method h
-  - Method u
+  - Constructor: 🎓 known
+  - Operator `new`: 👂 heard
+  - Static method: 👂 heard
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters u
-  - Public fields h
-  - Private fields h
+  - Getters, Setters: 🖐️ used
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance k
-  - Parent class k
-  - Polymorphism h
-  - Abstract class h
-  - Interface h
-  - Encapsulation k
-  - Hidden class h
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 👂 heard
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
+  - Hidden class: 👂 heard
   - Object form
   - Instance
   - Introspection
