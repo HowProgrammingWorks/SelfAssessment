@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` k
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `String` u
+  - `Symbol` u
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
+  - `this` h
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` h
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators h
+  - Logical operators k
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators k
+  - Ternary operator h
+  - `void` h
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode h
   - Hoisting
   - `delete`
   - `in`
@@ -59,30 +59,30 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` h
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` h
+  - `break` h
+  - `continue` h
+  - `import` u
+  - `export` h
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch` h
+  - `switch` h
+  - `class` h
   - `extends`
   - `with`
-  - `new`
+  - `new` h
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration k
+  - Function expression k
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,12 +90,12 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` h
+  - `Map` h
+  - `Set` h
   - Weak collections
   - Typed arrays
-  - Mixins
+  - Mixins h
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
@@ -103,9 +103,9 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -114,7 +114,7 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js h
   - npm
   - prettier
   - MDN
