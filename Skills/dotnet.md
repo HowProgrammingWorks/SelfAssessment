@@ -30,12 +30,9 @@
   - Performance monitoring and diagnostics
 
 - APIs and Framework Features
-  - Entity Framework
   - LINQ
-  - ASP.NET Core
   - SignalR for real-time web functionality
-  - gRPC for high-performance RPC
-  - RESTful API development
+  - gRPC for high-performance RPC  
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management
@@ -87,17 +84,9 @@
   - Containerization with Docker
   - Kubernetes for orchestration
   - Serverless computing
-
-- Frameworks:
-  - .NET MAUI, Xamarin
-  - Unity
-  - Blazor
  
-## Language-specific skills for C#, F#, VB.NET, and C++/CLI
-
-### C# Development
-
-- Language Fundamentals
+- C# Development
+  - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
   - Data types and collections
@@ -105,49 +94,49 @@
   - Attributes and annotations
   - Interoperability with other .NET languages
  
-### F# Development
-
-- Functional Programming
+- F# Development
+  - F# syntax and language fundamentals
   - Immutable data structures
   - Pattern matching and discriminated unions
   - Functional-first design and development
   - Type providers and metaprogramming
   - Asynchronous and parallel programming
-
-- Integration with .NET
-  - Interoperability with C# and VB.NET
   - Using .NET libraries in F#
   - Building web applications with F# and Giraffe or Saturn
   - Testing with FsUnit
 
-### VB.NET Development
-
-- Language Features
-  - VB.NET syntax and constructs
+- VB.NET Development
+  - VB.NET syntax and language fundamentals
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
-
-- Framework and Windows Integration  
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 
-### C++/CLI Development
-
-- Mixed-language Development
+- C++/CLI Development Development
+  - C++ syntax and language fundamentals
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - C++/CLI syntax and usage
   - Accessing .NET Framework classes in C++
-
-- Advanced Concepts
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in C++
   - Managing resource disposal and finalization
-
-- Application Scenarios
   - Creating and consuming DLLs (Dynamic Link Libraries)
   - Working with Windows API
   - Migration of legacy C++ code to .NET
   - Enhancing existing .NET applications with C++/CLI
+ 
+- Mobile development
+  - .NET MAUI / Xamarin
+  - Interoperability between managed code and iOS/Android API
+ 
+- Gamin development
+  - Unity
+  
+- Web development
+  - ASP.NET Core
+  - Blazor
+  - Razor Syntax
+  - RESTful API development
