@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` h
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String` h
+  - `Symbol` u
+  - `Infinity` h
+  - `NaN` h
+  - `undefined` h
+  - `null` h
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` h
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u
+  - Logical operators u
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators h
+  - Ternary operator h
+  - `void` h
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode u
   - Hoisting
   - `delete`
   - `in`
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` h
+  - `for` u
+  - `for..in` h
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `throw` h
+  - `break` h
+  - `continue` h
+  - `import` u
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch` h
+  - `switch` h
+  - `class` h
+  - `extends` h
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function u
+  - Async function h
   - Function declaration
   - Function expression
   - Default parameters
@@ -90,12 +90,12 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` h
+  - `Map` h
+  - `Set` h
   - Weak collections
   - Typed arrays
-  - Mixins
+  - Mixins h
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
@@ -105,7 +105,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
