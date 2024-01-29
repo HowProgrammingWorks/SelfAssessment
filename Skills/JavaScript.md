@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` h
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
+  - `Object`: 👂 heard
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String` h
-  - `Symbol` u
-  - `Infinity` h
-  - `NaN` h
-  - `undefined` h
-  - `null` h
+  - `String`: 👂 heard
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` h
+  - `typeof`: 👂 heard
   - Destructuring
   - Generators
-  - Iterators h
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators h
-  - Ternary operator h
-  - `void` h
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
-  - Strict mode u
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` h
-  - `for` u
-  - `for..in` h
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 👂 heard
+  - `for`: 🖐️ used
+  - `for..in`: 👂 heard
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` h
-  - `break` h
-  - `continue` h
-  - `import` u
+  - `throw`: 👂 heard
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
+  - `import`: 🖐️ used
   - `export`
   - `label`
-  - `try..catch` h
-  - `switch` h
-  - `class` h
-  - `extends` h
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
+  - `class`: 👂 heard
+  - `extends`: 👂 heard
   - `with`
   - `new`
 - Functions
-  - Arrow function u
-  - Async function h
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
   - Function declaration
   - Function expression
   - Default parameters
@@ -90,12 +90,12 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` h
-  - `Map` h
-  - `Set` h
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - Weak collections
   - Typed arrays
-  - Mixins h
+  - Mixins: 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
@@ -105,7 +105,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
