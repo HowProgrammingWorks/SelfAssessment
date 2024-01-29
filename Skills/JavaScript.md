@@ -1,121 +1,121 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  🔬 researched `Object`
+  🔬 researched `Function`
+  🙋 explained `Boolean`
+  🎓 known `Number`
+  🎓 known `BigInt`
+  🎓 known `String`
+  🎓 known `Symbol`
+  🎓 known `Infinity`
+  🎓 known `NaN`
+  🖐️ used`undefined`
+  🖐️ used`null`
+  🖐️ used`this`
+  🖐️ used`instanceof`
+  🖐️ used`...spread`
+  🖐️ used`...rest`
+  🖐️ used`typeof`
+  🎓 known Destructuring
+  🎓 known Generators
+  🙋 explained Iterators
+  👂 heard Async generator
+  👂 heard Async iterator
+  🎓 known Chaining
+  👂 heard Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  👂 heard `global`
+  👂 heard `globalThis`
+  👂 heard `window`
+  🎓 known Getters and setters
+  🎓 known `__proto__`
+  🎓 known `prototype`
+  🙋 explained Equality operators
+  🙋 explained Logical operators
+  🎓 known Logical Assignment
+  🎓 known Bitwise operators
+  🖐️ used Ternary operator
+  🎓 known `void`
+  👂 heard `yield`
+  🎓 known `await`
   - Template literal
-  - Strict mode
+  🎓 known Strict mode
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
+  🖐️ used `delete`
+  🎓 known `in`
+  🎓 known `super`
+  🎓 known `eval`
+  🎓 known `static`
+  🖐️ used`Number.parseInt`
+  🎓 known `Number.parseFloat`
+  🎓 known Property descriptors
+  👂 heard Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
+  👂 heard Static class fields
   - Private class fields
-  - Private class methods
+  🎓 known Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  🔬 researched `if`
+  🙋 explained `while`
+  🙋 explained `do..while`
+  🙋 explained `for`
+  🎓 known `for..in`
+  🙋 explained `for..of`
+  👂 heard `for await`
+  🎓 known `throw`
+  🖐️ used`break`
+  🖐️ used`continue`
+  🖐️ used`import`
+  🖐️ used`export`
+  🎓 known `label`
+  🙋 explained `try..catch`
+  🎓 known `switch`
+  🖐️ used `class`
+  🎓 known `extends`
+  🎓 known `with`
+  🙋 explained `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  🙋 explained Arrow function
+  🎓 known Async function
+  🙋 explained Function declaration
+  🎓 known Function expression
+  🙋 explained Default parameters
+  🎓 known Functional object
+  🎓 known `Function.prototype.call`
+  🖐️ used`Function.prototype.bind`
+  🎓 known `Function.prototype.apply`
+  🖐️ used`return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - Weak collections
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  🙋 explained `Array`
+  🙋 explained `Map`
+  🙋 explained `Set`
+  🎓 known Weak collections
+  🎓 known Typed arrays
+  🎓 known Mixins
+  🎓 known `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
+  🎓 known `Proxy`
+  🎓 known `RegExp`
+  k`Date`
+  k`Math`
+  👂 heard `Reflect`
+  🎓 known `Error`
   - `Atomics`
-  - `JSON`
+  🖐️ used `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  🎓 known `Promise`
+  🎓 known `console`
+  🎓 known Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  🖐️ usedV8
+  🖐️ usedNode.js
+  🖐️ usednpm
+  🖐️ usedprettier
+  🖐️ usedMDN
   - TC39

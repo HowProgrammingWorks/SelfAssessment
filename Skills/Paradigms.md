@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  🎓 known Procedural programming
+  👂 heard Imperative programming
+  🎓 known Structured programming
+  🎓 known Non-structured programming
+  🎓 known Functional programming
+  🎓 known Prototype-based programming
+  🙋 explained Object-oriented programming
+  👂 heard Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  👂 heard Asyncronous programming
+  👂 heard Parallel programming
+  🎓 known Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -25,18 +25,18 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  🎓 known Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
+  🎓 known Constructor
+  🖐️ used Operator `new`
+  🙋 explained Static method
+  🖐️ used Method
+  👂 heard Async method
+  🎓 known Getters, Setters
+  🎓 known Public fields
+  🎓 known Private fields
+  🎓 known Field declarations
+  🎓 known Inheritance
   - Parent class
   - Polymorphism
   - Abstract class
@@ -44,7 +44,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  🎓 known Instance
   - Introspection
   - Reflection
   - The diamond problem
@@ -71,10 +71,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  👂 heard Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  👂 heard Iterator
   - State
   - Bridge
   - Builder

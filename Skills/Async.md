@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  🎓 known Event loop
+  🎓 known `try..catch`
   - Non-blocking
-  - Async I/O
+  👂 heard Async I/O
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -31,7 +31,7 @@
   - Deferred
   - Sync generator
   - Async Generator
-  - Async Iterator
+  👂 heard Async Iterator
   - Event
   - Coroutine
   - Goroutine
@@ -59,16 +59,16 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  🎓 known Timers
+  🎓 known `setImmediate`
+  🎓 known `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  🎓 known Callback hell
   - Promise hell
   - ref() and unref()
   - Error handling in async code
