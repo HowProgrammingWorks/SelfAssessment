@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js+
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Nonblocking I/O and blocking code+
+  - Event loop phases+
   - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection+
+  - Node.js LTS schedule+
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
