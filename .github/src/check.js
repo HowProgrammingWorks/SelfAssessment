@@ -231,7 +231,8 @@ const loadDir = async (place, options = {}) => {
 const match = (expected, answered) => {
   const todo = [];
   for (const section in expected.sections) {
-    todo.push(`- ${section}`);
+    todo.push(`\n| ${section} | actual | ⟶  | required |`);
+    todo.push(`| --- | --- | --- | --- |`);
     const needed = expected.sections[section];
     let count = 0;
     let have = 0;
@@ -246,7 +247,7 @@ const match = (expected, answered) => {
       const levelIndex = LEVEL_LABELS.indexOf(level || '🤷 unknown');
       if (actualIndex < levelIndex) {
         upgrade++;
-        propose.push(`  - ${skill}: ${actual} ⟶  ${level}`);
+        propose.push(`| ${skill} | ${actual} | ⟶  | ${level} |`);
       }
       if (actualIndex > levelIndex) above++;
       if (actualIndex >= levelIndex && levelIndex !== 0) have++;
@@ -254,10 +255,12 @@ const match = (expected, answered) => {
     if (have) todo.push(...propose);
     const total = `you have \`${have}\` of \`${count}\` skills`;
     const ext = `\`${upgrade}\` to be upgraded, and \`${above}\` above needed`;
-    todo.push(`  - Total: ${total}, ${ext}`);
+    todo.push(`\nTotal: ${total}, ${ext}`);
   }
   return todo;
 };
+
+const NBSP = '&nbsp;&nbsp;&nbsp;&nbsp;';
 
 const getTotal = (answered) => {
   const total = [];
@@ -268,7 +271,7 @@ const getTotal = (answered) => {
     for (const level of entries) {
       if (level) count++;
     }
-    total.push(`  - ${section}: \`${count}\` of \`${entries.length}\``);
+    total.push(`| ${NBSP} ${section} | \`${count}\` | \`${entries.length}\` |`);
     if (count > 0) {
       overall.count += count;
       overall.total += entries.length;
@@ -291,6 +294,8 @@ const getTotal = (answered) => {
   console.log(caption`Match profiles`);
   const todos = [];
   const totals = ['## Assessment totals\n'];
+  totals.push(`| Unit | Marked | Of |`);
+  totals.push(`| ---- | ------ | -- |`);
   for (const unit of UNITS) {
     console.log(chapter`  Unit: ${unit}`);
     const expected = roles[unit];
@@ -300,7 +305,7 @@ const getTotal = (answered) => {
       todos.push(`\n## [${unit}](/Skills/${unit}.md)\n`);
       todos.push(...todo);
     }
-    totals.push(`- [${unit}](/Skills/${unit}.md)`);
+    totals.push(`| [${unit}](/Skills/${unit}.md) | | |`);
     const total = getTotal(answered);
     totals.push(...total);
   }
