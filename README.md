@@ -6,7 +6,7 @@
 - [JavaScript](Skills/JavaScript.md)
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)
-- [.NET](Skills/dotnet.md)
+- [.NET](Skills/DotNET.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
 - [Databases](Skills/Databases.md)
 - [Architecture](Skills/Architecture.md)
