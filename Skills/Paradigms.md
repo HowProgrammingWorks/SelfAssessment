@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming ~
+  - Imperative programming \*
+  - Structured programming ~
+  - Non-structured programming ~
+  - Functional programming \*
+  - Prototype-based programming ~
+  - Object-oriented programming \*
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
+  - Generic programming ~
+  - Concurrent computing ~
+  - Asyncronous programming \*
+  - Parallel programming ~
+  - Reactive programming +
+  - Functional-reactive (FRP) ~
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Multi-paradigm programming ~
+  - Metaprogramming ~
+  - Actor model \*
   - Lambda calculus
   - Black box
   - Information hiding
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor \*
+  - Operator `new` \*
+  - Static method \*
+  - Method \*
+  - Async method \*
+  - Getters, Setters +
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Inheritance +
+  - Parent class \*
+  - Polymorphism ~
   - Abstract class
-  - Interface
+  - Interface ~
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
-  - Reflection
+  - Instance \*
+  - Introspection ~
+  - Reflection ~
   - The diamond problem
 - GRASP
   - Information expert
@@ -71,16 +71,16 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy ~
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator ~
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype ~
   - Composite
-  - Decorator
+  - Decorator ~
   - Flyweight
   - Mediator
   - Memento

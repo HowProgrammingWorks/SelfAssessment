@@ -1,19 +1,19 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types +
   - Performance tuning
-  - Migrations
+  - Migrations ~
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Backup and recovery ~
+  - Database scalability ~
   - Relational databases
-  - Key-value store
+  - Key-value store \*
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
+  - Graph databases ~
+  - Object databases ~
+  - Column databases ~
+  - Navigational databases ~
   - Hierarchical databases
   - In-memory databases
   - Inverted index
@@ -24,10 +24,10 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
-  - Promary keys
-  - Foreign keys
-  - Transactions
+  - Indexing\*
+  - Promary keys\*
+  - Foreign keys\*
+  - Transactions~
   - Views
   - Subqueries
   - Stored procedures
@@ -36,52 +36,52 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
+  - `SELECT` \*
+  - `INSERT`\*
+  - `UPDATE`\*
+  - `DELETE`\*
+  - `LIMIT` +
   - `OFFSET`
-  - `ORDER BY`
+  - `ORDER BY` +
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS`
+  - `EXISTS` \*
   - `JOIN`
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `WHERE` \*
+  - `LIKE`~
+  - `IN`~
+  - `BETWEEN` ~
+  - `CREATE TABLE` \*
+  - `ALTER TABLE`\*
+  - `DROP TABLE`\*
+  - `PRIMARY KEY`\*
+  - `FOREIGN KEY`\*
+  - `CHECK` ~
+  - `DEFAULT` ~
+  - `INDEX` \*
+  - `UNIQUE` \*
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL \*
+  - Oracle ~
+  - MySQL +
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis ~
   - Rabbit
-  - MongoDB
+  - MongoDB ~
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite ~
   - DynamoDB
   - Firebase
 - Data engineering

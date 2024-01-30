@@ -1,125 +1,125 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js ~
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Nonblocking I/O and blocking code +
+  - Event loop phases +
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection ~
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - CommonJS modules \*
+  - ECMAScript modules \*
+  - Module `node:module` ~
+  - Caching in CJS and ESM +
+  - Modules as singletons ~
+  - Contexts and scripts module `node:vm` +
+  - Dependencies: `npm`, `node_modules` +
+  - Files `package.json`, `package-lock.json` +
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Isolation with modularity ~
+  - Dependency injection ~
+  - DI containers ~
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach ~
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments +
+  - Node.js CLI ~
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Graceful shutdown +
+  - Clustering ~
+  - Watch filesystem changes with --watch +
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
+  - Crypto API \*
+  - Password hashing with crypto.scrypt \*
   - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - File system API (sync and async) \*
+  - Copy folder recursively ~
+  - Worker threads +
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici ~
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads` \*
+  - Module `node:child_process` \*
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:url` vs `new URL` +
+  - Module `node:assert` \*
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` \*
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling +
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
-  - Fetch API
+  - SSL certificates +
+  - Protocol agnostic approach \*
+  - Fetch API \*
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) \*
+  - TCP/SSL ~
+  - UDP ~
+  - TLS ~
+  - Websocket \*
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) ~
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing \*
   - DoS
-  - DDoS
+  - DDoS ~
   - XSS
-  - Path traversal
+  - Path traversal \*
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS +
+  - SQL injection +
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner ~
   - Logging
-  - Application configuring
-  - Testing
+  - Application configuring +
+  - Testing \*
   - CI/CD
-  - Readable
-  - Writable
+  - Readable ~
+  - Writable ~
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer \*
+  - Console \*
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository +
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD \*
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` \*
   - `error.cause`
   - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `error.message` \*
+  - `error.stack` \*
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools +
   - Flame graph
   - Memory leaks
   - Resource leaks

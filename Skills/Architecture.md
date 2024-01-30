@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity ~
   - Components
   - Directories
   - GRASP
@@ -9,11 +9,11 @@
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Multiparadigm code ~
+  - Contract programming ~
+  - Platform-agnostic ~
+  - Transport-agnostic ~
+  - Framework-agnostic ~
   - Code coverage
   - Cohesion
   - Coupling
@@ -24,17 +24,17 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer ~
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming ~
   - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Dependency injection (DI) ~
+  - Clean architecture ~
+  - Domain-driven design (DDD) +
   - Pub/sub
   - Message brocker
   - Agent
@@ -80,17 +80,17 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs ~
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture ~
+  - Microservices ~
   - Process choreography
-  - Service orchestration
+  - Service orchestration ~
   - Data warehouse
   - Business Intelligence
   - OLAP

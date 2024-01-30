@@ -3,9 +3,9 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Asynchronous and synchronous programming \*
+  - Task-based asynchronous pattern +
+  - Garbage collection in .NET ~
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
@@ -24,8 +24,8 @@
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration \*
+  - File system I/O operations +
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
@@ -37,20 +37,20 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - HTTP/HTTPS support \*
+  - WebSockets for real-time communication \*
+  - TCP/UDP networking +
+  - SSL/TLS for secure connections ~
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support
+  - HTTP/2 and HTTP/3 support ~
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML) \*
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies ~
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
@@ -58,11 +58,11 @@
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
-  - CRUD operations
+  - CRUD operations \*
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
+  - Exception handling in .NET \*
+  - Custom error classes ~
+  - Debugging and diagnostic tools ~
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
@@ -70,12 +70,12 @@
   - P/Invoke for calling `C/C++` libraries
   - COM interop
   - .NET for `WebAssembly`
-  - Custom middleware development
+  - Custom middleware development ~
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
+  - Microservices architecture ~
+  - Containerization with Docker \*
+  - Kubernetes for orchestration ~
   - Serverless computing
 - C# Development
   - C# syntax and language fundamentals
@@ -120,9 +120,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Gamin development
-  - Unity
+  - Unity ~
 - Web development
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development ~
