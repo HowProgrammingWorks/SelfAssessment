@@ -83,7 +83,7 @@
   - Async function: 👂 heard
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
-  - Default parameters
+  - Default parameters: 🎓 known
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
