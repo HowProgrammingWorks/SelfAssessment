@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -31,7 +31,7 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
   - Cloud databses
   - Data Visualization
