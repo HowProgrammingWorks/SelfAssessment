@@ -2,7 +2,7 @@
 
 - Application structure
   - Modularity
-  - Components
+  - Components: 👂 heard
   - Directories
   - GRASP
   - SOLID
@@ -18,9 +18,9 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -72,7 +72,7 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
+  - Low-code: 👂 heard
   - No-code
   - Metric
   - Metric abuse
