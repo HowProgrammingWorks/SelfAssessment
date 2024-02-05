@@ -30,7 +30,7 @@
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -67,23 +67,23 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -103,14 +103,14 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`
