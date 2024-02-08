@@ -119,7 +119,7 @@
 - Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
-- Gamin development
+- Game development
   - Unity
 - Web development
   - ASP.NET Core
