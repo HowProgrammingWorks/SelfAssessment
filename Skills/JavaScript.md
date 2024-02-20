@@ -1,31 +1,31 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number`u
+  - `BigInt` k
+  - `String` u
+  - `Symbol` u
+  - `Infinity` k
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` u
+  - `instanceof` u
+  - `...spread` u
+  - `...rest` u
+  - `typeof` u
+  - Destructuring u
+  - Generators u
+  - Iterators u
+  - Async generator u
+  - Async iterator u
+  - Chaining u
+  - Optional chaining u
+  - IIFE u
+  - Async IIFE u
   - `global`
   - `globalThis`
   - `window`
