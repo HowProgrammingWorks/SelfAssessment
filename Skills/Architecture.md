@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Modularity u
+  - Components h
+  - Directories u
+  - GRASP h
+  - SOLID u
+  - GoF patterns h
+  - CQS k
+  - Leaking abstractions h
+  - Multiparadigm code u
+  - Contract programming u
+  - Platform-agnostic u
+  - Transport-agnostic u
+  - Framework-agnostic u
+  - Code coverage 
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,17 +24,17 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer k
+  - Domain-specific language (DSL) h
+  - System vs applied code u
+  - Multilayer approach u
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Metaprogramming h
+  - Inversion of control (IoC) k
+  - Dependency injection (DI) k
+  - Clean architecture k
+  - Domain-driven design (DDD) k
   - Pub/sub
   - Message brocker
   - Agent
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML h
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -54,17 +54,17 @@
   - Gateways
   - On-premises
   - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - PaaS h
+  - SaaS h
+  - FaaS clouds h
+  - Serverless h
+  - Vendor lock-in h
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
@@ -72,8 +72,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -83,7 +83,7 @@
   - Understanding business needs
   - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision
+  - Enterprise vision 
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus

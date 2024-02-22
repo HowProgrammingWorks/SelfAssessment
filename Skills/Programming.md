@@ -1,239 +1,239 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Model k
+  - Modeling k
+  - Subject domain k
+  - Algorithm u
+  - Syntax u
+  - Semantics k
+  - Abstraction u
+  - Paradigm u
+  - Programm u
+  - Programming paradigm u
+  - Programming language u
+  - Contract u
+  - Module u
+  - Library u
+  - Package u
+  - Component h
+  - Framework u
+  - Platform u
+  - Source code u
   - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
+  - Machine code k
+  - Microcode 
+  - Software engineering u
+  - Decomposition u
+  - Control flow 
   - Data flow
-  - Code reuse
+  - Code reuse k  
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap u
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
+  - Flag u
+  - Lexical scope u
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface u
+  - Namespaces u
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case k
+  - Trailing commas u
+  - Return early u
+  - Fail-fast u
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typeing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
+  - Primitive types u
+  - Reference types u
+  - Type systems u
+  - Strong typing u
+  - Weak typeing 
+  - Duck typing h
+  - Static typing h
+  - Dynamic typing u
+  - Nominal typing 
+  - Structural typing 
   - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Type inference u
+  - Covariance 
+  - Contravariance 
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects u
+  - Closure u
+  - Partial application u
+  - Currying u
+  - Higher order u
+  - Recursion u
+  - Tail call optimisation u
+  - Callback u
+  - Listener u
+  - Composition u
+  - Pipe 
   - Memoize
-  - Wrapper
-  - Functor
+  - Wrapper u
+  - Functor 
   - Monad
   - Monoid
-  - Generator
+  - Generator u
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
+  - Array u
+  - Structure k
+  - Record h
+  - Enum u
+  - Instance u
+  - Cbject 
+  - Collection u
+  - Set u
+  - Hash table c
+  - Linked c
+  - Doubly k 
+  - Unrolled list 
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Queue k
+  - Stack c
+  - Deque k
+  - Tree c
+  - Graph c
+  - Iterator 
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Serialization c
+  - String parsing c
+  - JSON c
+  - JSON5 h
+  - YAML h
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
+  - DNS h
+  - CDN h
+  - CORS 
+  - IPv4 h
+  - IPv6 h
+  - NAT h
+  - URL u
+  - URN 
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
+  - Compiler u
+  - Just-in-time compilation k
+  - Ahead-of-time compilation k
+  - Transpiler h
+  - Linter u
+  - Polyfill h
+  - Interpreter h
+  - Linker h
+  - Dynamic linking 
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime k
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Hithub
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Containerization u
+  - Debugger u
+  - Tracing 
+  - Garbage collection k
+  - Refactoring u
+  - Code review u
+  - Exception u
+  - Unittesting u
+  - git u
+  - Hithub u
+  - Docker u
+  - Kubernetes 
+  - GCC k
+  - LLVM u
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers k
+  - Hard code k
+  - Soft code 
+  - Cryptic code k
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
+  - Spaghetti k
+  - Silver bullet k
+  - Not invented here k
+  - Dead code k
+  - Unreachable code k
+  - Duplicate code k
+  - Premature optimization k
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Nested loops k
+  - Long method/function/procedure k
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
+  - Pass-through parameters k
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case k
+  - Temporary field 
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
+  - Monkey patch h
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
+  - Bytecode h
+  - V8 k
+  - VJM 
   - CLR
   - Mono
 - Operation systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts h
+  - Drivers h
+  - Kernel h
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory h
+  - File system k
+  - Linux u
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS h
+  - Windows u
+  - Real-time OS h
+  - Embedded OS h
 - Standards
-  - ASCII
-  - Escape sequence
-  - RFC
+  - ASCII h
+  - Escape sequence u
+  - RFC h
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 u
+  - ECMA u
   - ICANN
   - ISO
-  - MIME
+  - MIME h
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
