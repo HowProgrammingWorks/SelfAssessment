@@ -1,0 +1,9 @@
+- Syntax
+  - Value !
+  - Identifier: *
+  - Variable: !
+  - Constant *
+  - Scalar *
+  - Literal ~
+  - Expression: *
+  - Heap: +
