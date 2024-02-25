@@ -1,89 +1,121 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object 👂 heard
-  - this 👂 heard
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Object`
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`
+  - `null`
+  - `this`
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators
+  - Logical operators
+  - Logical Assignment
+  - Bitwise operators
+  - Ternary operator
+  - `void`
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if 👂 heard
-  - while 👂 heard
-  - do..while 👂 heard
-  - for 👂 heard
-  - for..in
-  - for..of
-  - for await
-  - throw 👂 heard
-  - break 👂 heard
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - `if`👂 heard
+  - `while`👂 heard
+  - `do..while`👂 heard
+  - `for`👂 heard
+  - `for..in`
+  - `for..of`
+  - `for await`
+  - `throw`👂 heard
+  - `break`👂 heard
+  - `continue`
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch`
+  - `switch`
+  - `class`
+  - `extends`
+  - `with`
+  - `new`
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - Arrow function
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - `Array`
+  - `Map`
+  - `Set`
+  - Weak collections
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
 - Infrastructure
   - V8
   - Node.js
   - npm
   - prettier
   - MDN
+  - TC39
