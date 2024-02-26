@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🖐 used
+  - Syntax 🖐 used
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm 🖐 used
   - Programm
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm 🖐 used
+  - Programming language 🖐 used
   - Contract
   - Module
   - Library
@@ -32,102 +32,102 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Value 🖐 used
+  - Identifier 🖐 used
+  - Variable 🖐 used
+  - Constant 🖐 used
+  - Scalar  🖐 used
+  - Literal 🖐 used
+  - Expression 🖐 used
+  - Heap 👂 heard
+  - Function 🖐 used
+  - Procedure 👂 heard
+  - Method 👂 heard
+  - Class 🖐 used
+  - Prototype  heard
+  - Event 🖐 used
+  - Type 🖐 used
+  - Flag 🖐 used
+  - Lexical scope 🖐 used
+  - Code block 🖐 used
+  - Conditions 🖐 used
+  - Loops 🖐 used
+  - Assignment 🖐 used
+  - Regular expression 🖐 used
+  - Interface 👂 heard
+  - Namespaces 👂 heard
+  - Call stack 👂 heard
+  - Naming conventions 👂 heard
+  - Coding conventions 👂 heard
+  - Camel case 🖐 used
+  - Snake case 🖐 used
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
+  - Primitive types 🖐 used
+  - Reference types 🖐 used
+  - Type systems 
   - Strong typing
   - Weak typeing
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing 🖐 used
   - Nominal typing
-  - Structural typing
+  - Structural typing 🖐 used
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
+  - Signature 🖐 used
+  - Argument 🖐 used
+  - Parameter 🖐 used
+  - Pure function 🖐 used
+  - Lambda expression 🖐 used
+  - Side effects 👂 heard
+  - Closure 👂 heard
+  - Partial application 👂 heard
+  - Currying 👂 heard
+  - Higher order 👂 heard
+  - Recursion 🖐 used
+  - Tail call optimisation 
+  - Callback 🖐 used
+  - Listener 🖐 used
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper 
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Array 🖐 used
+  - Structure 🖐 used
+  - Record 🖐 used
+  - Enum 🖐 used
+  - Instance 🖐 used
+  - Cbject🖐 used
+  - Collection 🖐 used
+  - Set 🖐 used
+  - Hash table 🖐 used
+  - Linked list 👂 heard
+  - Doubly list 👂 heard
+  - Unrolled list 👂 heard
+  - Circular list 👂 heard
   - Queue
-  - Stack
+  - Stack 🖐 used
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree 🖐 used
+  - Graph 🖐 used
+  - Iterator 🖐 used
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing 🖐 used
   - JSON
   - JSON5
   - YAML
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter 🖐 used
   - Polyfill
   - Interpreter
   - Linker
@@ -157,33 +157,33 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐 used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection 🎓 known
+  - Refactoring 🖐 used
+  - Code review 🖐 used
   - Exception
   - Unittesting
-  - git
-  - Hithub
+  - git 🖐 used
+  - Hithub 🖐 used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Magic numbers 🎓 known
+  - Hard code 🎓 known
+  - Soft code 🎓 known
+  - Cryptic code 🎓 known
+  - Improbability factor 🎓 known
+  - Accidental complexity 🎓 known
+  - Action at a distance 🎓 known
+  - Spaghetti 🎓 known
+  - Silver bullet 🎓 known
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code 🎓 known
+  - Unreachable code 🎓 known
+  - Duplicate code 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 🖐 used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 🖐 used
   - VJM
   - CLR
   - Mono
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 🖐 used
+  - Windows 🖐 used
   - Real-time OS
   - Embedded OS
 - Standards
