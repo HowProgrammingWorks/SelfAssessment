@@ -1,121 +1,121 @@
-## JavaScript
+## Programming fundamental concepts
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
+  - `Object`🖐️ used
+  - `Function`🖐️ used
+  - `Boolean`🖐️ used
+  - `Number`🖐️ used
+  - `BigInt`🖐️ used
+  - `String`🖐️ used
+  - `Symbol`🖐️ used
+  - `Infinity`🖐️ used
+  - `NaN`🖐️ used
+  - `undefined`🖐️ used
+  - `null`🖐️ used
+  - `this`🖐️ used
+  - `instanceof`🖐️ used
+  - `...spread`🖐️ used
+  - `...rest`🖐️ used
+  - `typeof`🖐️ used
+  - Destructuring🖐️ used
+  - Generators🖐️ used
+  - Iterators🖐️ used
+  - Async generator🎓 known
+  - Async iterator🎓 known
+  - Chaining👂 heard
+  - Optional chaining👂 heard
+  - IIFE👂 heard
+  - Async IIFE👂 heard
+  - `global`🎓 known
+  - `globalThis`🎓 known
+  - `window`👂 heard
+  - Getters and setters🎓 known
+  - `__proto__`👂 heard
+  - `prototype`👂 heard
+  - Equality operators🎓 known
+  - Logical operators🎓 known
+  - Logical Assignment🎓 known
+  - Bitwise operators🎓 known
+  - Ternary operator🎓 known
+  - `void`🎓 known
+  - `yield`🎓 known
+  - `await`🎓 known
+  - Template literal👂 heard
+  - Strict mode👂 heard
+  - Hoisting👂 heard
   - `delete`
-  - `in`
+  - `in`🎓 known
   - `super`
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`🎓 known
+  - `Number.parseInt`🎓 known
+  - `Number.parseFloat`🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields🎓 known
+  - Private class fields🎓 known
+  - Private class methods🎓 known
 - Statements
-  - `if`👂 heard
-  - `while`👂 heard
-  - `do..while`👂 heard
-  - `for`👂 heard
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`👂 heard
-  - `break`👂 heard
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if`🖐️ used
+  - `while`🖐️ used
+  - `do..while`🖐️ used
+  - `for`🖐️ used
+  - `for..in`🖐️ used
+  - `for..of`🖐️ used
+  - `for await`🖐️ used
+  - `throw`🖐️ used
+  - `break`🖐️ used
+  - `continue`🖐️ used
+  - `import`🖐️ used
+  - `export`🖐️ used
+  - `label`🖐️ used
+  - `try..catch`🖐️ used
+  - `switch`🖐️ used
+  - `class`🖐️ used
+  - `extends`🖐️ used
+  - `with`🖐️ used
+  - `new`🖐️ used
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function🖐️ used
+  - Async function👂 heard
+  - Function declaration🖐️ used
+  - Function expression🖐️ used
+  - Default parameters🖐️ used
+  - Functional object🖐️ used
+  - `Function.prototype.call`👂 heard
+  - `Function.prototype.bind`👂 heard
+  - `Function.prototype.apply`👂 heard
+  - `return`🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - Weak collections
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Array`🖐️ used
+  - `Map`🖐️ used
+  - `Set`🖐️ used
+  - Weak collections👂 heard
+  - Typed arrays👂 heard
+  - Mixins👂 heard
+  - `Object.assign`👂 heard
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy`🎓 known
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date`🎓 known
+  - `Math`🎓 known
   - `Reflect`
-  - `Error`
+  - `Error`🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON`🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise`🎓 known
+  - `console`🎓 known
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8👂 heard
+  - Node.js📢 talked
+  - npm📢 talked
+  - prettier👂 heard
+  - MDN📢 talked
   - TC39

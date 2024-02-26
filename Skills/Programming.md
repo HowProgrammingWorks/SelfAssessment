@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model🎓 known
+  - Modeling🎓 known
   - Subject domain
-  - Algorithm
+  - Algorithm🎓 known
   - Syntax
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction🎓 known
+  - Paradigm🎓 known
+  - Programm🎓 known
+  - Programming paradigm🎓 known
+  - Programming language🎓 known
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Module🎓 known
+  - Library🎓 known
+  - Package🎓 known
+  - Component🎓 known
+  - Framework🎓 known
   - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Source code🎓 known
+  - Object code🎓 known
+  - Machine code🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY)🎓 known
+  - KISS principle🎓 known
 - Syntax and concepts
-  - Value👂 heard
-  - Identifier
-  - Variable👂 heard
-  - Constant👂 heard
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method👂 heard
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Value🖐️ used
+  - Identifier🖐️ used
+  - Variable🖐️ used
+  - Constant🖐️ used
+  - Scalar🖐️ used
+  - Literal🖐️ used
+  - Expression🖐️ used
+  - Heap🖐️ used
+  - Function🖐️ used
+  - Procedure🖐️ used
+  - Method🖐️ used
+  - Class🖐️ used
+  - Prototype🖐️ used
+  - Event🖐️ used
+  - Type🖐️ used
+  - Flag🖐️ used
+  - Lexical scope🖐️ used
+  - Code block🖐️ used
+  - Conditions🖐️ used
+  - Loops🖐️ used
+  - Assignment🖐️ used
+  - Regular expression🖐️ used
+  - Interface🖐️ used
+  - Namespaces🖐️ used
+  - Call stack🖐️ used
+  - Naming conventions🖐️ used
+  - Coding conventions🖐️ used
+  - Camel case🖐️ used
+  - Snake case 👂 heard
+  - Kebab case 👂 heard
   - Trailing commas
-  - Return early
+  - Return early 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typeing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Primitive types 🖐️ used
+  - Reference types 🖐️ used
+  - Type systems 🖐️ used
+  - Strong typing 🖐️ used
+  - Weak typeing 👂 heard
+  - Duck typing 👂 heard
+  - Static typing 👂 heard
+  - Dynamic typing 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,146 +81,146 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Signature 🖐️ used
+  - Argument 🖐️ used
+  - Parameter 🖐️ used
+  - Pure function 🎓 known
+  - Lambda expression 🖐️ used
+  - Side effects 👂 heard
+  - Closure 👂 heard
+  - Partial application 👂 heard
+  - Currying 👂 heard
+  - Higher order 👂 heard
+  - Recursion 🎓 known
+  - Tail call optimisation 🎓 known
+  - Callback 🎓 known
+  - Listener 🎓 known
+  - Composition 🎓 known
+  - Pipe 👂 heard
+  - Memoize 👂 heard
+  - Wrapper🎓 known
+  - Functor 👂 heard
+  - Monad 👂 heard
+  - Monoid 👂 heard
+  - Generator 👂 heard
+  - Coroutine 👂 heard
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
+  - Array🖐️ used
+  - Structure🖐️ used
+  - Record🖐️ used
+  - Enum🖐️ used
+  - Instance🖐️ used
+  - Оbject🖐️ used
+  - Collection🖐️ used
+  - Set🖐️ used
+  - Hash table 🎓 known
+  - Linked list🎓 known
+  - Doubly list🎓 known
+  - Unrolled list🎓 known
+  - Circular list🎓 known
+  - Queue🎓 known
+  - Stack🎓 known
+  - Deque👂 heard
+  - Tree🎓 known
+  - Graph🎓 known
+  - Iterator🎓 known
+  - Mutable state🎓 known
+  - Immutable state🎓 known
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
+  - String parsing🎓 known
+  - JSON👂 heard
+  - JSON5👂 heard
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4👂 heard
+  - IPv6👂 heard
   - NAT
-  - URL
+  - URL👂 heard
   - URN
-  - URI
+  - URI👂 heard
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Compiler🎓 known
+  - Just-in-time compilation🎓 known
+  - Ahead-of-time compilation🎓 known
+  - Transpiler 📢 talked
+  - Linter 📢 talked
+  - Polyfill 👂 heard
+  - Interpreter 👂 heard
+  - Linker 👂 heard
+  - Dynamic linking 👂 heard
+  - Static linking 👂 heard
+  - Runtime 👂 heard
+  - Virtual machine🎓 known
+  - Register-based VM🎓 known
+  - Stack-based VM 👂 heard
+  - Containerization 👂 heard
+  - Debugger🎓 known
+  - Tracing 👂 heard
+  - Garbage collection🎓 known
+  - Refactoring🎓 known
+  - Code review🎓 known
+  - Exception🎓 known
+  - Unittesting🎓 known
+  - git🎓 known
+  - Github🎓 known
+  - Docker 👂 heard
+  - Kubernetes 👂 heard
+  - GCC 👂 heard
+  - LLVM 👂 heard
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Magic numbers🎓 known
+  - Hard code🎓 known
+  - Soft code🎓 known
+  - Cryptic code🎓 known
+  - Improbability factor🎓 known
+  - Accidental complexity🎓 known
+  - Action at a distance🎓 known
+  - Spaghetti🎓 known
+  - Silver bullet🎓 known
+  - Not invented here🎓 known
+  - Dead code🎓 known
+  - Unreachable code🎓 known
+  - Duplicate code🎓 known
+  - Premature optimization🎓 known
+  - Micro-optimization🎓 known
+  - Nested loops🎓 known
+  - Long method/function/procedure🎓 known
+  - Long inheritance🎓 known
+  - Large class/file🎓 known
+  - Too many parameters🎓 known
+  - Pass-through parameters🎓 known
+  - Accumulate and fire🎓 known
+  - Use switch/case🎓 known
+  - Temporary field🎓 known
+  - Handle object as instances and hashes at the same time🎓 known
+  - Use fields instead of arguments🎓 known
+  - Data clump🎓 known
+  - Feature envy🎓 known
+  - Monkey patch🎓 known
+  - Yo-yo problem🎓 known
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
-  - Mono
+  - Bytecode📢 talked
+  - V8📢 talked
+  - VJM🎓 known
+  - CLR👂 heard
+  - Mono👂 heard
 - Operation systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Interrupts👂 heard
+  - Drivers👂 heard
+  - Kernel👂 heard
+  - Ring👂 heard
+  - Virtual memory👂 heard
+  - File system👂 heard
+  - Linux🎓 known
   - Unix
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS🎓 known
+  - Windows🎓 known
+  - Real-time OS👂 heard
+  - Embedded OS👂 heard
 - Standards
   - ASCII
   - Escape sequence

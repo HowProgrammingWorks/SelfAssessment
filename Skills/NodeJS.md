@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and blocking code 👂 heard
+  - Event loop phases 👂 heard
+  - Event loop microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -14,28 +14,28 @@
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
+  - Caching in CJS and ESM👂 heard
+  - Modules as singletons👂 heard
+  - Contexts and scripts module `node:vm`🖐️ used
+  - Dependencies: `npm`, `node_modules`🖐️ used
+  - Files `package.json`, `package-lock.json`👂 heard
+  - Module-based permissions model👂 heard
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach 👂 heard
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🎓 known
+  - Node.js CLI 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API👂 heard
+  - Web Streams API👂 heard
+  - Crypto API👂 heard
   - Password hashing with crypto.scrypt
   - Web Crypto API
   - File system API (sync and async)
@@ -73,7 +73,7 @@
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 👂 heard
   - Long polling
   - REST
   - RPC
@@ -110,11 +110,11 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `Error`👂 heard
+  - `error.cause`👂 heard
+  - `error.code`👂 heard
+  - `error.message`👂 heard
+  - `error.stack`👂 heard
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
@@ -140,4 +140,5 @@
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
+  - SharedArrayBuffer
   - V8 binary serialization

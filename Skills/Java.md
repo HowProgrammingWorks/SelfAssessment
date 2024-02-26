@@ -1,0 +1,125 @@
+- 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+- Language
+    - Object 🖐️ used
+    - boolean 🖐️ used
+    - char 🖐️ used
+    - byte 🖐️ used
+    - short 🖐️ used
+    - int 🖐️ used
+    - long 🖐️ used
+    - float 🖐️ used
+    - double 🖐️ used
+    - String 🖐️ used
+    - enum 👂 heard
+    - null 🖐️ used
+    - this 🖐️ used
+    - instanceof 🖐️ used
+    - Varargs
+    - Autoboxing and Unboxing 👂 heard
+    - typeof 🖐️ used
+    - Generics 🖐️ used
+    - Annotations
+    - Lambda expressions 🖐️ used
+    - Streams API 👂 heard
+    - Optional class 🖐️ used
+    - super
+    - static 🖐️ used
+    - final 🖐️ used
+    - throw 🖐️ used
+    - try..catch 🖐️ used
+    - switch 🖐️ used
+    - class 🖐️ used
+    - extends 🖐️ used
+    - implements
+    - new 🖐️ used
+    - return 🖐️ used
+    - break 🖐️ used
+    - continue 🖐️ used
+    - import 🖐️ used
+    - package 🖐️ used
+    - label
+    - synchronized 👂 heard
+    - instanceof 🖐️ used
+    - assert
+    - do..while 🖐️ used
+    - for 🖐️ used
+    - while 🖐️ used
+- Functions
+    - Method declaration 🎓 known
+    - Lambda expressions 🎓 known
+    - Functional interfaces 🎓 known
+    - return 🎓 known
+- Data structures
+    - Array 🖐️ used
+    - List 🖐️ used
+    - Map 🖐️ used
+    - Set 🖐️ used
+    - Arrays 🖐️ used
+    - Object.clone 👂 heard
+    - Arrays.copyOf 👂 heard
+- Standard classes and namespaces
+    - java.util
+        - Date 🎓 known
+        - Random 🎓 known
+        - Scanner 🎓 known
+        - ArrayList 🎓 known
+        - HashMap 🎓 known
+        - HashSet 🎓 known
+    - java.lang
+        - Math 🎓 known
+        - Object 🎓 known
+        - String 🎓 known
+        - StringBuilder 🎓 known
+        - System 🎓 known
+        - Thread 🎓 known
+        - Throwable 👂 heard
+    - java.io
+        - File 📢 talked
+        - FileReader 📢 talked
+        - FileWriter 📢 talked
+        - BufferedReader 📢 talked
+        - BufferedWriter 📢 talked
+    - java.util.concurrent
+        - Executor 👂 heard
+        - ExecutorService
+        - Future
+    - java.util.stream
+        - Stream 👂 heard
+        - Collectors 👂 heard
+    - java.time
+        - LocalDate
+        - LocalTime
+        - LocalDateTime
+    - java.util.regex
+        - Pattern
+        - Matcher
+    - java.nio
+        - ByteBuffer 👂 heard
+        - CharBuffer 👂 heard
+        - FileChannel
+        - Path
+    - java.net
+        - URL
+        - URLConnection
+    - java.util.concurrent.atomic
+        - AtomicInteger
+        - AtomicLong
+    - java.lang.annotation
+        - Annotation
+        - Target
+        - Retention
+    - java.lang.reflect
+        - Method
+        - Field
+        - Constructor
+- Infrastructure
+    - JVM 📢 talked
+    - Maven
+    - Gradle
+    - Javadoc
+    - JUnit
+    - Apache Tomcat
+    - Spring Framework 📢 talked
+    - JavaFX
+    - Jakarta EE
+    - Oracle JDK / OpenJDK 📢 talked
