@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-295/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-295/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-295/326/730-009933?style=flat-square"></a>
+<a href="https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -34,7 +34,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces u | `11` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `15` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `16` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `14` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `11` | `11` |
@@ -104,7 +104,7 @@ Total: you have `36` of `37` skills, `1` to be upgraded, and `20` above needed
 | --- | --- | --- | --- |
 | Dead locks | 👂 heard | ⟶  | 🖐️ used |
 | Live locks | 👂 heard | ⟶  | 🖐️ used |
-| Actor Model | 🤷 unknown | ⟶  | 🎓 known |
+| Actor Model | 👂 heard | ⟶  | 🎓 known |
 | Thread | 🎓 known | ⟶  | 🖐️ used |
 | Process | 🎓 known | ⟶  | 🖐️ used |
 | Thenable | 🎓 known | ⟶  | 🖐️ used |
