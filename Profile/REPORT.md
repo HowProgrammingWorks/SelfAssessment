@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-318/348/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-318/348/730-009933?style=flat-square)](https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-296/326/730-009933?style=flat-square"></a>
+<a href="https://github.com/axbuglak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-318/348/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -57,7 +57,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `0` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `22` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
