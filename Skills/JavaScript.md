@@ -98,7 +98,7 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` !
   - `RegExp`
   - `Date`
   - `Math`
