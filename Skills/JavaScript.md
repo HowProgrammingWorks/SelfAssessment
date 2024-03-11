@@ -17,7 +17,7 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
+  - Destructuring ~
   - Generators
   - Iterators
   - Async generator
