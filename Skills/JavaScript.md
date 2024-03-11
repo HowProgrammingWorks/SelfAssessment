@@ -5,7 +5,7 @@
   - `Function`
   - `Boolean` !
   - `Number`
-  - `BigInt`
+  - `BigInt`: ~
   - `String`
   - `Symbol`
   - `Infinity`
@@ -18,7 +18,7 @@
   - `...rest`
   - `typeof`
   - Destructuring: !
-  - Generators
+  - Generators *
   - Iterators
   - Async generator
   - Async iterator
@@ -98,7 +98,7 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy` !
+  - `Proxy`
   - `RegExp`
   - `Date`
   - `Math`
