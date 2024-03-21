@@ -33,7 +33,7 @@
   - KISS principle
 - Syntax and concepts
   - Value
-  - Identifier
+  - Identifier: 🖐️ used
   - Variable
   - Constant
   - Scalar
