@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop k
+  - `try..catch` h
+  - Non-blocking k
+  - Async I/O u
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -12,21 +12,21 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
+  - libuv h
+  - Race conditions k
+  - Dead locks k
   - Live locks
-  - Concurrent programming
+  - Concurrent programming k
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread u
+  - Process h
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
@@ -42,12 +42,12 @@
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
+  - promisify u
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter u
   - Observable/Observer
   - Readable
   - Writable
@@ -60,15 +60,15 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate`
+  - `setImmediate` u
   - `nextTick`
-  - AbortController
-  - AbortSignal
+  - AbortController u
+  - AbortSignal u
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell k
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
+  - RxJS library e
+  - Promise.all u
+  - Promise.allSettled u
   - Promise.race
-  - Promise.any
+  - Promise.any u
   - Web Locks API
   - IPC
   - Channel API
