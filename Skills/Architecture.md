@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity h
+  - Components u
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP h
+  - SOLID e
+  - GoF patterns u
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions k
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Framework-agnostic h
+  - Code coverage u
+  - Cohesion h
+  - Coupling u
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,77 +24,77 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer u
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
+  - Separation of concerns (SoC) k
+  - Metaprogramming h
+  - Inversion of control (IoC) u
+  - Dependency injection (DI) u
+  - Clean architecture u
+  - Domain-driven design (DDD) h
+  - Pub/sub h
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) k
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
-  - IDEF1X
-  - UML
+  - Entity-relationship diagram u
+  - IDEF1X h
+  - UML u
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems h
   - High-intensive computing
   - Load balancing
   - Gateways
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS k
   - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - Serverless u
+  - Vendor lock-in k
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design h
+  - Process modelling h
+  - Data modelling h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
-  - Metric
+  - Low-code k
+  - No-code k
+  - Metric h
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) u
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs u
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
+  - Project scope u
+  - Enterprise service bus h
   - Service-oriented architecture
-  - Microservices
+  - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
-  - OLAP
+  - Business Intelligence h
+  - OLAP h
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance u
   - Engineering Hygiene
