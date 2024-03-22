@@ -34,7 +34,7 @@ const overall = { count: 0, total: 0, all: 0 };
 
 const generateBadge = () => {
   const color = exitCode === 0 ? '009933' : 'FF3300';
-  const stat = overall.count + '/' + overall.total + '/' + overall.all;
+  const stat = overall.count + ' / ' + overall.total + ' / ' + overall.all;
   const img = `${BASE}-${stat}-${color}?${STYLE}`;
   return {
     md: `[![Skills](${img})](${LINK})`,
