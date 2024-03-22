@@ -43,30 +43,16 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 
 ## Example
 
-It should look like following example after filling it out:
+It should look like following example after filling it out. And will be automatically formatted as sown in right column:
 
 ```
-- Syntax
-  - Value: 🙋 explained
-  - Identifier: 🖐️ used
-  - Variable: 🙋 explained
-  - Constant: 🖐️ used
-  - Scalar: 🖐️ used
-  - Literal: 👂 heard
-  - Expression: 🖐️ used
-  - Heap: 🎓 known
-```
-
-Alternative example (will be automatically formatted as above example):
-
-```
-- Syntax
-  - Value !
-  - Identifier: *
-  - Variable: !
-  - Constant *
-  - Scalar *
-  - Literal ~
-  - Expression: *
-  - Heap: +
+- Syntax                       - Syntax
+  - Value !             ⤑        - Value: 🙋 explained
+  - Identifier: *       ⤑        - Identifier: 🖐️ used
+  - Variable: !         ⤑        - Variable: 🙋 explained
+  - Constant *          ⤑        - Constant: 🖐️ used
+  - Scalar *            ⤑        - Scalar: 🖐️ used
+  - Literal ~           ⤑        - Literal: 👂 heard
+  - Expression: *       ⤑        - Expression: 🖐️ used
+  - Heap: +                      - Heap: 🎓 known
 ```
