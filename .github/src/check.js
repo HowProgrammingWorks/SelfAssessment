@@ -77,7 +77,7 @@ const loadFile = async (filePath) => {
   return data;
 };
 
-const SYMBOLS = ['~', '+', '*', '!'];
+const SYMBOLS = ['~', '+', '*', '!', '"', '&', '^'];
 const LETTERS = ['h', 'k', 'u', 'e', 't', 'r', 'c'];
 const LEVEL_COMMON = ['heard', 'known', 'used', 'explained'];
 const LEVEL_EXT = ['talked', 'researched', 'constructed'];
