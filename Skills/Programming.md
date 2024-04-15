@@ -32,20 +32,20 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant k
+  - Scalar k
+  - Literal k
+  - Expression k
+  - Heap k
+  - Function k
+  - Procedure k
+  - Method k
+  - Class k
+  - Prototype k
+  - Event 
   - Type
   - Flag
   - Lexical scope
