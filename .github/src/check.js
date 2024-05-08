@@ -17,6 +17,7 @@ const TITLE = 'Software engineering self assessment';
 const PARSING_TIMEOUT = 1000;
 const EXECUTION_TIMEOUT = 5000;
 const PATH = path.join(process.cwd(), '../..');
+const SEPARATOR = '&nbsp;/&nbsp;';
 
 let REPO = process.env.GITHUB_REPOSITORY;
 if (!REPO) {
@@ -34,7 +35,7 @@ const overall = { count: 0, total: 0, all: 0 };
 
 const generateBadge = () => {
   const color = exitCode === 0 ? '009933' : 'FF3300';
-  const stat = overall.count + ' / ' + overall.total + ' / ' + overall.all;
+  const stat = overall.count + SEPARATOR + overall.total + SEPARATOR + overall.all;
   const img = `${BASE}-${stat}-${color}?${STYLE}`;
   return {
     md: `[![Skills](${img})](${LINK})`,
