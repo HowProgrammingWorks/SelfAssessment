@@ -93,7 +93,8 @@
   - `Array`
   - `Map`
   - `Set`
-  - Weak collections
+  - `WeakMap`
+  - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
