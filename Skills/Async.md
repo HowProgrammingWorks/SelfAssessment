@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch` *
   - Non-blocking
-  - Async I/O
+  - Async I/O *
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers *
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell *
+  - Promise hell *
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await

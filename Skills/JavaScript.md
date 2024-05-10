@@ -1,35 +1,35 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt` +
+  - `String` *
+  - `Symbol` *
+  - `Infinity` *
+  - `NaN` *
+  - `undefined` *
+  - `null` *
+  - `this` *
+  - `instanceof` *
+  - `...spread` *
+  - `...rest` * 
+  - `typeof` *
+  - Destructuring *
+  - Generators 
+  - Iterators *
+  - Async generator 
+  - Async iterator *
+  - Chaining *
+  - Optional chaining 
+  - IIFE *
+  - Async IIFE *
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters *
   - `__proto__`
   - `prototype`
   - Equality operators
@@ -39,78 +39,78 @@
   - Ternary operator
   - `void`
   - `yield`
-  - `await`
+  - `await` *
   - Template literal
-  - Strict mode
+  - Strict mode *
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `delete` *
+  - `in` *
+  - `super` *
+  - `eval` *
+  - `static` *
+  - `Number.parseInt` *
+  - `Number.parseFloat` *
   - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Sealing properties +
+  - Freezing properties +
+  - Computed properties +
+  - Instance class fields *
+  - Static class fields *
+  - Private class fields *
+  - Private class methods *
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `if` *
+  - `while` *
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
+  - `for await` 
+  - `throw` *
+  - `break` *
+  - `continue` *
+  - `import` *
+  - `export` *
+  - `label` *
+  - `try..catch` *
+  - `switch` *
+  - `class` *
+  - `extends` *
   - `with`
-  - `new`
+  - `new` *
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Arrow function *
+  - Async function *
+  - Function declaration *
+  - Function expression *
+  - Default parameters *
+  - Functional object *
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` *
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - Weak collections
+  - `Array` *
+  - `Map` *
+  - `Set` *
+  - Weak collections *
   - Typed arrays
   - Mixins
-  - `Object.assign`
+  - `Object.assign` *
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` *
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` *
+  - `Math` *
   - `Reflect`
-  - `Error`
+  - `Error` *
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl` *
+  - `Promise` *
+  - `console` *
   - Timers
 - Infrastructure
   - V8

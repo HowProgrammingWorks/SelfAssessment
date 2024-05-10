@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm *
+  - Syntax *
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm *
   - Programming paradigm
-  - Programming language
+  - Programming language *
   - Contract
   - Module
   - Library
@@ -32,29 +32,29 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
+  - Heap *
+  - Function *
   - Procedure
-  - Method
+  - Method 
   - Class
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type *
+  - Flag *
   - Lexical scope
-  - Code block
+  - Code block *
   - Conditions
   - Loops
   - Assignment
-  - Regular expression
-  - Interface
+  - Regular expression *
+  - Interface 
   - Namespaces
   - Call stack
   - Naming conventions
@@ -66,8 +66,8 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,35 +82,35 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument *
+  - Parameter *
   - Pure function
   - Lambda expression
   - Side effects
   - Closure
   - Partial application
-  - Currying
+  - Currying *
   - Higher order
-  - Recursion
+  - Recursion *
   - Tail call optimisation
-  - Callback
+  - Callback *
   - Listener
   - Composition
-  - Pipe
+  - Pipe *
   - Memoize
-  - Wrapper
-  - Functor
+  - Wrapper *
+  - Functor *
   - Monad
   - Monoid
-  - Generator
+  - Generator *
   - Coroutine
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object *
   - Collection
   - Set
   - Hash table
@@ -160,18 +160,18 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring *
+  - Code review *
+  - Exception *
   - Unittesting
-  - git
-  - Github
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers *
   - Hard code
   - Soft code
   - Cryptic code
@@ -181,9 +181,9 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code +
+  - Unreachable code +
+  - Duplicate code *
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case *
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -212,13 +212,13 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory *
+  - File system *
+  - Linux *
+  - Unix ~
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
