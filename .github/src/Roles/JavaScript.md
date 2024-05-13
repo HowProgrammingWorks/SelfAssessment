@@ -150,7 +150,8 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - Weak collections: 🎓 known
+  - `WeakMap`: 🎓 known
+  - `WeakSet`: 🎓 known
   - Typed arrays: 🎓 known
   - Mixins: 👂 heard
   - `Object.assign`: 🎓 known
