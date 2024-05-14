@@ -50,14 +50,14 @@
   - `static`: 🙋 explained
   - `Number.parseInt`: 🙋 explained
   - `Number.parseFloat`: 🙋 explained
-  - Property descriptors: 👂 heard
-  - Sealing properties: 👂 heard
-  - Freezing properties: 👂 heard
-  - Computed properties: 👂 heard
-  - Instance class fields: 👂 heard
-  - Static class fields: 👂 heard
-  - Private class fields: 👂 heard
-  - Private class methods: 👂 heard
+  - Property descriptors: e
+  - Sealing properties: u
+  - Freezing properties: e
+  - Computed properties: e
+  - Instance class fields: e
+  - Static class fields: e
+  - Private class fields: e
+  - Private class methods: e
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
