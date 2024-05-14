@@ -90,12 +90,13 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`: 👂 heard
-  - `Map`: 👂 heard
-  - `Set`: 👂 heard
-  - Weak collections
+  - `Array`: heard
+  - `Map`: heard
+  - `Set`: heard
+  - `WeakMap`
+  - `WeakSet`
   - Typed arrays
-  - Mixins: 👂 heard
+  - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`

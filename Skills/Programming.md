@@ -70,7 +70,7 @@
   - Reference types
   - Type systems
   - Strong typing
-  - Weak typeing
+  - Weak typing
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -110,7 +110,7 @@
   - Record
   - Enum: 👂 heard
   - Instance
-  - Cbject
+  - Object
   - Collection
   - Set: 👂 heard
   - Hash table: 👂 heard
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git: 👂 heard
-  - Hithub
+  - git: heard
+  - Github: heard
   - Docker
   - Kubernetes
   - GCC
@@ -207,7 +207,7 @@
   - VJM
   - CLR
   - Mono
-- Operation systems
+- Operating systems
   - Interrupts
   - Drivers
   - Kernel
