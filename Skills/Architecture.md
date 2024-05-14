@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
+  - Modularity c
   - Components u
   - Directories u
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - GRASP u
+  - SOLID u
+  - GoF patterns h
+  - CQS h
+  - Leaking abstractions k
+  - Multiparadigm code u
+  - Contract programming u
+  - Platform-agnostic u
+  - Transport-agnostic u
+  - Framework-agnostic u
+  - Code coverage u
+  - Cohesion u
+  - Coupling u
+  - Cyclomatic complexity u
+  - Reliability u
+  - Quality u
+  - Availability k
+  - Flexibility u
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer u
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach u
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC) u
+  - Dependency injection (DI) c
+  - Clean architecture u
   - Domain-driven design (DDD)
-  - Pub/sub
+  - Pub/sub h
   - Message brocker
-  - Agent
+  - Agent h
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) u
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram u
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems u
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing u
+  - Gateways u
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS u
+  - PaaS u
+  - SaaS u
   - FaaS clouds
-  - Serverless
+  - Serverless k
   - Vendor lock-in
   - Bus factor
 - Solution architecture
