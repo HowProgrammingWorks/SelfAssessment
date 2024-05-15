@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  🖐️ used Modularity
+  - Modularity 🖐️ used
   - Components
   - Directories
   - GRASP
@@ -9,7 +9,7 @@
   - GoF patterns
   - CQS
   - Leaking abstractions
-  👂 heard Multiparadigm code
+  - Multiparadigm code 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic

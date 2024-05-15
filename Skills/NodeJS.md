@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  👂 heard Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -13,12 +13,12 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  👂 heard Module `node:module`
+  - Module `node:module` 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  👂 heard Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -67,9 +67,9 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  🎓 known HTTP(S)
-  👂 heard TCP/SSL
-  👂 heard UDP
+  - HTTP(S) 🎓 known
+  - TCP/SSL 👂 heard
+  - UDP 👂 heard
   - TLS
   - Websocket
   - SSE
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  👂 heard DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -98,8 +98,8 @@
   - Writable
   - Transform
   - Back pressure
-  🎓 known Buffer
-  🎓 known Console
+  - Buffer 🎓 known
+  - Console 🎓 known
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  🎓 known `Error`
+  - `Error` 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`

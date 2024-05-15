@@ -1,20 +1,20 @@
 ## Multi-paradigm programming
 
 - Theory
-  🎓 known Procedural programming
-  👂 heard Imperative programming
-  🎓 known Structured programming
-  🎓 known Non-structured programming
-  🎓 known Functional programming
-  🎓 known Prototype-based programming
-  🙋 explained Object-oriented programming
-  👂 heard Object-based programming
+  - Procedural programming 🎓 known
+  - Imperative programming 👂 heard
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
 <<<<<<< HEAD
-  👂 heard Asyncronous programming
-  👂 heard Parallel programming
-  🎓 known Reactive programming
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 🎓 known
 =======
   - Asynchronous programming
   - Parallel programming
@@ -31,26 +31,26 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  🎓 known Class composition
+  - Class composition 🎓 known
 - OOP basics
-  🎓 known Constructor
-  🖐️ used Operator `new`
-  🙋 explained Static method
-  🖐️ used Method
-  👂 heard Async method
-  🎓 known Getters, Setters
-  🎓 known Public fields
-  🎓 known Private fields
-  🎓 known Field declarations
-  🎓 known Inheritance
-  🎓 known Parent class
+  - Constructor 🎓 known
+  - Operator `new` 🖐️ used
+  - Static method 🙋 explained
+  - Method 🖐️ used
+  - Async method 👂 heard
+  - Getters, Setters 🎓 known
+  - Public fields 🎓 known
+  - Private fields 🎓 known
+  - Field declarations 🎓 known
+  - Inheritance 🎓 known
+  - Parent class 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
   - Object form
-  🎓 known Instance
+  - Instance 🎓 known
   - Introspection
   - Reflection
   - The diamond problem
@@ -77,10 +77,10 @@
   - Observer
   - Strategy
   - Facade
-  👂 heard Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
   - Command
-  👂 heard Iterator
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder

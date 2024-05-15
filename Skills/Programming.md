@@ -1,80 +1,80 @@
 ## Programming fundamental concepts
 
 - Concepts
-  🎓 known Model
-  🎓 known Modeling
+  - Model 🎓 known
+  - Modeling 🎓 known
   - Subject domain
-  🙋 explained Algorithm
-  🙋 explained Syntax
-  🎓 known Semantics
-  🎓 known Abstraction
-  🎓 known Paradigm
-  🎓 known Programm
-  🎓 known Programming paradigm
-  🎓 known Programming language
-  🎓 known Contract
-  🖐️ used Module
-  🎓 known  Library
-  🎓 known Package
-  🎓 known Component
-  🎓 known Framework
-  🎓 known Platform
-  👂 heard  Source code
-  👂 heard Object code
-  👂 heard Machine code
-  👂 heard Microcode
-  🎓 known Software engineering
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
+  - Semantics 🎓 known
+  - Abstraction 🎓 known
+  - Paradigm 🎓 known
+  - Programm 🎓 known
+  - Programming paradigm 🎓 known
+  - Programming language 🎓 known
+  - Contract 🎓 known
+  - Module 🖐️ used
+  -  Library 🎓 known
+  - Package 🎓 known
+  - Component 🎓 known
+  - Framework 🎓 known
+  - Platform 🎓 known
+  -  Source code 👂 heard
+  - Object code 👂 heard
+  - Machine code 👂 heard
+  - Microcode 👂 heard
+  - Software engineering 🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  🎓 known Don't repeat yourself (DRY)
-  🎓 known KISS principle
+  - Don't repeat yourself (DRY) 🎓 known
+  - KISS principle 🎓 known
 - Syntax and concepts
-  🙋 explained Value
-  🙋 explained Identifier
-  🙋 explained Variable
-  🔬 researched Constant
-  🙋 explained Scalar
-  🙋 explained Literal
-  🙋 explained Expression
-  🎓 known Heap
-  🔬 researched Function
-  🎓 known Procedure
-  🙋 explained Method
-  🙋 explained Class
-  🙋 explained Prototype
-  🙋 explained Event
-  🙋 explained Type
-  🎓 known Flag
-  🙋 explained Lexical scope
-  🎓 known Code block
-  🎓 known Conditions
-  🔬 researched Loops
-  🙋 explained Assignment
-  🎓 known Regular expression
-  🎓 known Interface
-  🎓 known Namespaces
-  🎓 known Call stack
-  🎓 known Naming conventions
-  🎓 known Coding conventions
-  🖐️ used Camel case
-  🎓 known Snake case
-  🎓 known Kebab case
-  🎓 known Trailing commas
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🔬 researched 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🙋 explained
+  - Heap 🎓 known
+  - Function 🔬 researched
+  - Procedure 🎓 known
+  - Method 🙋 explained
+  - Class 🙋 explained
+  - Prototype 🙋 explained
+  - Event 🙋 explained
+  - Type 🙋 explained
+  - Flag 🎓 known
+  - Lexical scope 🙋 explained
+  - Code block 🎓 known
+  - Conditions 🎓 known
+  - Loops 🔬 researched
+  - Assignment 🙋 explained
+  - Regular expression 🎓 known
+  - Interface 🎓 known
+  - Namespaces 🎓 known
+  - Call stack 🎓 known
+  - Naming conventions 🎓 known
+  - Coding conventions 🎓 known
+  - Camel case 🖐️ used
+  - Snake case 🎓 known
+  - Kebab case 🎓 known
+  - Trailing commas 🎓 known
   - Return early
   - Fail-fast
 - Types
 <<<<<<< HEAD
-  🙋 explained Primitive types
-  🙋 explained Reference types
-  🎓 known Type systems
-  🎓 known Strong typing
-  🎓 known Weak typing
-  👂 heard Duck typing
-  👂 heard Static typing
-  👂 heard Dynamic typing
+  - Primitive types 🙋 explained
+  - Reference types 🙋 explained
+  - Type systems 🎓 known
+  - Strong typing 🎓 known
+  - Weak typing 🎓 known
+  - Duck typing 👂 heard
+  - Static typing 👂 heard
+  - Dynamic typing 👂 heard
 =======
   - Primitive types
   - Reference types
@@ -92,80 +92,80 @@
   - Covariance
   - Contravariance
 - Functions
-  🎓 known Signature
-  🎓 known Argument
-  🎓 known Parameter
-  🙋 explained Pure function
-  🖐️ used Lambda expression
-  🙋 explained Side effects
-  🙋 explained Closure
-  🙋 explained Partial application
-  🙋 explained Currying
-  🎓 known Higher order
-  🙋 explained Recursion
-  🎓 known Tail call optimisation
-  🎓 known Callback
-  🖐️ used Listener
-  🎓 known Composition
-  🎓 known Pipe
-  🎓 known Memoize
-  🎓 known Wrapper
-  🎓 known Functor
-  🎓 known Monad
-  🎓 known Monoid
-  🎓 known Generator
-  👂 heard Coroutine
+  - Signature 🎓 known
+  - Argument 🎓 known
+  - Parameter 🎓 known
+  - Pure function 🙋 explained
+  - Lambda expression 🖐️ used
+  - Side effects 🙋 explained
+  - Closure 🙋 explained
+  - Partial application 🙋 explained
+  - Currying 🙋 explained
+  - Higher order 🎓 known
+  - Recursion 🙋 explained
+  - Tail call optimisation 🎓 known
+  - Callback 🎓 known
+  - Listener 🖐️ used
+  - Composition 🎓 known
+  - Pipe 🎓 known
+  - Memoize 🎓 known
+  - Wrapper 🎓 known
+  - Functor 🎓 known
+  - Monad 🎓 known
+  - Monoid 🎓 known
+  - Generator 🎓 known
+  - Coroutine 👂 heard
 - Data structures
 <<<<<<< HEAD
-  🙋 explained Array
-  🎓 known Structure
-  🎓 known Record
-  🎓 known Enum
-  🎓 known Instance
+  - Array 🙋 explained
+  - Structure 🎓 known
+  - Record 🎓 known
+  - Enum 🎓 known
+  - Instance 🎓 known
   - Cbject
-  🎓 known Collection
-  🎓 known Set
-  🎓 known Hash table
+  - Collection 🎓 known
+  - Set 🎓 known
+  - Hash table 🎓 known
 =======
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Array 🙋 explained
+  - Structure 🎓 known
+  - Record 🎓 known
+  - Enum 🎓 known
+  - Instance 🎓 known
+  - Object 🙋 explained
+  - Collection 🎓 known
+  - Set 🎓 known
+  - Hash table 🎓 known
 >>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  🔬 researched Queue
-  🙋 explained Stack
-  🚀 constructed Deque
-  🎓 known Tree
-  🎓 known Graph
-  🙋 explained Iterator
+  - Queue 🔬 researched
+  - Stack 🙋 explained
+  - Deque 🚀 constructed
+  - Tree 🎓 known
+  - Graph 🎓 known
+  - Iterator 🙋 explained
   - Mutable state
   - Immutable state
-  🖐️ used Serialization
-  🖐️ used String parsing
-  🖐️ used JSON
+  - Serialization 🖐️ used
+  - String parsing 🖐️ used
+  - JSON 🖐️ used
   - JSON5
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  👂 heard IPv4
-  👂 heard IPv6
+  - IPv4 👂 heard
+  - IPv6 👂 heard
   - NAT
-  👂 heard URL
+  - URL 👂 heard
   - URN
   - URI
 - Process and tools
-  🖐️ used Compiler
+  - Compiler 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -175,21 +175,21 @@
   - Linker
   - Dynamic linking
   - Static linking
-  🎓 known Runtime
-  🎓 known Virtual machine
+  - Runtime 🎓 known
+  - Virtual machine 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  🖐️ used Debugger
+  - Debugger 🖐️ used
   - Tracing
   - Garbage collection
-  🎓 known Refactoring
-  🎓 known Code review
+  - Refactoring 🎓 known
+  - Code review 🎓 known
   - Exception
   - Unittesting
 <<<<<<< HEAD
-  🖐️ used git
-  🖐️ used Hithub
+  - git 🖐️ used
+  - Hithub 🖐️ used
 =======
   - git
   - Github
@@ -199,45 +199,45 @@
   - GCC
   - LLVM
 - Antipatterns
-  🎓 known Magic numbers
-  🎓 known Hard code
-  🎓 known Soft code
-  🎓 known Cryptic code
+  - Magic numbers 🎓 known
+  - Hard code 🎓 known
+  - Soft code 🎓 known
+  - Cryptic code 🎓 known
   - Improbability factor
-  🎓 known Accidental complexity
+  - Accidental complexity 🎓 known
   - Action at a distance
-  🎓 known Spaghetti
-  🎓 known Silver bullet
-  🎓 known Not invented here
-  🎓 known Dead code
-  🎓 known Unreachable code
-  🎓 known Duplicate code
-  🎓 known Premature optimization
-  🎓 known Micro-optimization
-  🎓 known Nested loops
-  🎓 known Long method/function/procedure
-  🎓 known Long inheritance
-  🎓 known Large class/file
-  🎓 known Too many parameters
+  - Spaghetti 🎓 known
+  - Silver bullet 🎓 known
+  - Not invented here 🎓 known
+  - Dead code 🎓 known
+  - Unreachable code 🎓 known
+  - Duplicate code 🎓 known
+  - Premature optimization 🎓 known
+  - Micro-optimization 🎓 known
+  - Nested loops 🎓 known
+  - Long method/function/procedure 🎓 known
+  - Long inheritance 🎓 known
+  - Large class/file 🎓 known
+  - Too many parameters 🎓 known
   - Pass-through parameters
-  👂 heard Accumulate and fire
-  🙋 explained Use switch/case
-  🎓 known Temporary field
+  - Accumulate and fire 👂 heard
+  - Use switch/case 🙋 explained
+  - Temporary field 🎓 known
   - Handle object as instances and hashes at the same time
-  🎓 known Use fields instead of arguments
+  - Use fields instead of arguments 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  🎓 known Bytecode
-  🖐️ used V8
+  - Bytecode 🎓 known
+  - V8 🖐️ used
   - VJM
   - CLR
   - Mono
 <<<<<<< HEAD
 - Operation systems
-  🎓 known Interrupts
+  - Interrupts 🎓 known
 =======
 - Operating systems
   - Interrupts
@@ -247,11 +247,11 @@
   - Ring
   - Virtual memory
   - File system
-  🖐️ used Linux
+  - Linux 🖐️ used
   - Unix
   - BSD
   - MacOS
-  🖐️ used Windows
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -267,6 +267,6 @@
   - ISO
   - MIME
   - OWASP
-  🎓 known UTF-8
+  - UTF-8 🎓 known
   - W3C
   - ODMG
