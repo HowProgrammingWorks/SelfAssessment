@@ -99,11 +99,11 @@
   - Mixins 🎓 known
   - `Object.assign` 🎓 known
 =======
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Array` 🙋 explained
+  - `Map` 🎓 known
+  - `Set` 🎓 known
+  - `WeakMap` 🎓 known
+  - `WeakSet` 🎓 known
   - Typed arrays
   - Mixins
   - `Object.assign`
