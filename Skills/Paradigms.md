@@ -37,7 +37,7 @@
   🎓 known Private fields
   🎓 known Field declarations
   🎓 known Inheritance
-  - Parent class
+  🎓 known Parent class
   - Polymorphism
   - Abstract class
   - Interface
