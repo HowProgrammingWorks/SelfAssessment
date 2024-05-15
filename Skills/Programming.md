@@ -66,6 +66,7 @@
   - Return early
   - Fail-fast
 - Types
+<<<<<<< HEAD
   🙋 explained Primitive types
   🙋 explained Reference types
   🎓 known Type systems
@@ -74,6 +75,16 @@
   👂 heard Duck typing
   👂 heard Static typing
   👂 heard Dynamic typing
+=======
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -105,6 +116,7 @@
   🎓 known Generator
   👂 heard Coroutine
 - Data structures
+<<<<<<< HEAD
   🙋 explained Array
   🎓 known Structure
   🎓 known Record
@@ -114,6 +126,17 @@
   🎓 known Collection
   🎓 known Set
   🎓 known Hash table
+=======
+  - Array
+  - Structure
+  - Record
+  - Enum
+  - Instance
+  - Object
+  - Collection
+  - Set
+  - Hash table
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Linked list
   - Doubly list
   - Unrolled list
@@ -164,8 +187,13 @@
   🎓 known Code review
   - Exception
   - Unittesting
+<<<<<<< HEAD
   🖐️ used git
   🖐️ used Hithub
+=======
+  - git
+  - Github
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Docker
   - Kubernetes
   - GCC
@@ -207,8 +235,13 @@
   - VJM
   - CLR
   - Mono
+<<<<<<< HEAD
 - Operation systems
   🎓 known Interrupts
+=======
+- Operating systems
+  - Interrupts
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Drivers
   - Kernel
   - Ring

@@ -25,7 +25,7 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Promary keys
+  - Primary keys
   - Foreign keys
   - Transactions
   - Views
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databses
+  - Cloud databases
   - Data Visualization

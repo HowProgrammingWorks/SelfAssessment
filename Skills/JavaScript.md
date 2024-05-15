@@ -90,6 +90,7 @@
   🎓 known `Function.prototype.apply`
   🖐️ used`return`
 - Data structures
+<<<<<<< HEAD
   🙋 explained `Array`
   🙋 explained `Map`
   🙋 explained `Set`
@@ -97,6 +98,16 @@
   🎓 known Typed arrays
   🎓 known Mixins
   🎓 known `Object.assign`
+=======
+  - `Array`
+  - `Map`
+  - `Set`
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
 - Standard classes and namespaces
   🎓 known `Proxy`
   🎓 known `RegExp`
