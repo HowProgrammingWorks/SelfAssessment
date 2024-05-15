@@ -61,7 +61,7 @@
   - with: 🖐 used
 - Functions
   - function declaration: 🖐 used
-  - function expression: 🎓 known
+  - function expression: 🖐 used
   - return: 🖐 used
   - default parameters: 🖐 used
   - functional object: 🎓 known

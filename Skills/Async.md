@@ -1,26 +1,26 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop: 🎓 known
   - try..catch
-  - Non-blocking
-  - Async I/O
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool: 🎓 known
-  - Pattern Reactor
+  - Pattern Reactor: 🎓 known
   - CAS operations
-  - epoll
-  - kqueue
+  - epoll: 🎓 known
+  - kqueue: 🎓 known
   - Completion ports
   - Event ports
   - libuv
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 👂 heard
-  - Concurrent programming: 🎓 known
+  - Concurrent programming: 🖐 used
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: 🖐 used
+  - Process: 🖐 used
 - Async contracts
   - Callbacks: 🖐 used
   - Callback-last-error-first
@@ -48,7 +48,7 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter: 👂 heard
-  - Observable/Observer
+  - Observable/Observer: 🚀 constructed
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
@@ -67,7 +67,7 @@
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
-  - worker_threads: 👂 heard
+  - worker_threads: 🎓 known
   - Atomics
   - High resolution clock
   - Callback hell: 👂 heard
