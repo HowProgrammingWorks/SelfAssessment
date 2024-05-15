@@ -3,9 +3,9 @@
 - Application structure
   - Modularity 🖐️ used
   - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Directories 🖐️ used
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions

@@ -28,7 +28,7 @@
   - Async IIFE
   - `global` 👂 heard
   - `globalThis` 👂 heard
-  - `window` 👂 heard
+  - `window` 🖐️ used
   - Getters and setters 🎓 known
   - `__proto__` 🎓 known
   - `prototype` 🎓 known
@@ -37,8 +37,8 @@
   - Logical Assignment 🎓 known
   - Bitwise operators 🎓 known
   - Ternary operator 🖐️ used
-  - `void` 🎓 known
-  - `yield` 👂 heard
+  - `void` 🖐️ used
+  - `yield` 🎓 known
   - `await` 🎓 known
   - Template literal
   - Strict mode 🎓 known
@@ -95,15 +95,15 @@
   - `Set` 🎓 known
   - `WeakMap` 🎓 known
   - `WeakSet` 🎓 known
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - Typed arrays 🎓 known
+  - Mixins 🎓 known
+  - `Object.assign` 🎓 known
 - Standard classes and namespaces
   - `Proxy` 🎓 known
   - `RegExp` 🎓 known
   - `Date` 🎓 known
   - `Math` 🎓 known
-  - `Reflect` 👂 heard
+  - `Reflect` 🎓 known
   - `Error` 🎓 known
   - `Atomics`
   - `JSON` 🖐️ used

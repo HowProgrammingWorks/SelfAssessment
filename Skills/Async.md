@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Thenable 🎓 known
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
+  - Sync generator 🎓 known
+  - Async Generator 🎓 known
   - Async Iterator 👂 heard
-  - Event
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -73,7 +73,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization 🖐️ used
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

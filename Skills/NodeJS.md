@@ -68,8 +68,8 @@
   - Fetch API
   - IncomingMessage
   - HTTP(S) 🎓 known
-  - TCP/SSL 👂 heard
-  - UDP 👂 heard
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
   - TLS
   - Websocket
   - SSE
@@ -80,7 +80,7 @@
   - Routing
   - DoS
   - DDoS 👂 heard
-  - XSS
+  - XSS 🎓 known
   - Path traversal
   - CSRF
   - DNS
@@ -140,4 +140,4 @@
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
-  - V8 binary serialization
+  - V8 binary serialization 👂 heard

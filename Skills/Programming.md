@@ -3,7 +3,7 @@
 - Concepts
   - Model 🎓 known
   - Modeling 🎓 known
-  - Subject domain
+  - Subject domain 🎓 known
   - Algorithm 🙋 explained
   - Syntax 🙋 explained
   - Semantics 🎓 known
@@ -24,10 +24,10 @@
   - Machine code 👂 heard
   - Microcode 👂 heard
   - Software engineering 🎓 known
-  - Decomposition
+  - Decomposition 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY) 🎓 known
   - KISS principle 🎓 known
@@ -106,39 +106,39 @@
   - Coroutine 👂 heard
 - Data structures
   - Array 🙋 explained
-  - Structure 🎓 known
-  - Record 🎓 known
+  - Structure 🙋 explained
+  - Record 🙋 explained
   - Enum 🎓 known
   - Instance 🎓 known
   - Object 🙋 explained
   - Collection 🎓 known
   - Set 🎓 known
   - Hash table 🎓 known
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Linked list 🚀 constructed
+  - Doubly list 🙋 explained
+  - Unrolled list 🙋 explained
+  - Circular list 🙋 explained
   - Queue 🔬 researched
   - Stack 🙋 explained
   - Deque 🚀 constructed
-  - Tree 🎓 known
-  - Graph 🎓 known
+  - Tree 🙋 explained
+  - Graph 🚀 constructed
   - Iterator 🙋 explained
-  - Mutable state
-  - Immutable state
+  - Mutable state 🎓 known
+  - Immutable state 🎓 known
   - Serialization 🖐️ used
   - String parsing 🖐️ used
   - JSON 🖐️ used
-  - JSON5
+  - JSON5 👂 heard
   - YAML
 - Networking
-  - DNS
+  - DNS 🙋 explained
   - CDN
-  - CORS
-  - IPv4 👂 heard
-  - IPv6 👂 heard
-  - NAT
-  - URL 👂 heard
+  - CORS 👂 heard
+  - IPv4 🙋 explained
+  - IPv6 🙋 explained
+  - NAT 🙋 explained
+  - URL 🙋 explained
   - URN
   - URI
 - Process and tools
@@ -149,24 +149,24 @@
   - Linter
   - Polyfill
   - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
+  - Linker 🎓 known
+  - Dynamic linking 🎓 known
+  - Static linking 🎓 known
   - Runtime 🎓 known
   - Virtual machine 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization 🎓 known
   - Debugger 🖐️ used
   - Tracing
   - Garbage collection
   - Refactoring 🎓 known
   - Code review 🎓 known
   - Exception
-  - Unittesting
+  - Unittesting 🎓 known
   - git 🖐️ used
   - Github 🖐️ used
-  - Docker
+  - Docker 🎓 known
   - Kubernetes
   - GCC
   - LLVM
@@ -197,10 +197,10 @@
   - Temporary field 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments 🎓 known
-  - Data clump
+  - Data clump 🎓 known
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem 🎓 known
 - Runtimes and virtual machines
   - Bytecode 🎓 known
   - V8 🖐️ used
@@ -209,18 +209,18 @@
   - Mono
 - Operating systems
   - Interrupts 🎓 known
-  - Drivers
-  - Kernel
+  - Drivers 🎓 known
+  - Kernel 👂 heard
   - Ring
-  - Virtual memory
-  - File system
+  - Virtual memory 🎓 known
+  - File system 🎓 known
   - Linux 🖐️ used
-  - Unix
-  - BSD
-  - MacOS
+  - Unix 👂 heard
+  - BSD 👂 heard
+  - MacOS 👂 heard
   - Windows 🖐️ used
-  - Real-time OS
-  - Embedded OS
+  - Real-time OS 🎓 known
+  - Embedded OS 🎓 known
 - Standards
   - ASCII
   - Escape sequence
@@ -229,10 +229,10 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA 🎓 known
   - ICANN
   - ISO
-  - MIME
+  - MIME 🎓 known
   - OWASP
   - UTF-8 🎓 known
   - W3C

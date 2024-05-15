@@ -2,26 +2,26 @@
 
 - Theory
   - Procedural programming 🎓 known
-  - Imperative programming 👂 heard
+  - Imperative programming 🎓 known
   - Structured programming 🎓 known
   - Non-structured programming 🎓 known
   - Functional programming 🎓 known
   - Prototype-based programming 🎓 known
   - Object-oriented programming 🙋 explained
-  - Object-based programming 👂 heard
-  - Generic programming
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
   - Concurrent computing
-  - Asynchronous programming 👂 heard
-  - Parallel programming 👂 heard
+  - Asynchronous programming 🎓 known
+  - Parallel programming 🎓 known
   - Reactive programming 🎓 known
   - Functional-reactive (FRP)
-  - Automata-based programming
+  - Automata-based programming 🎓 known
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 🎓 known
+  - Metaprogramming 🎓 known
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box 🎓 known
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
@@ -42,19 +42,19 @@
   - Abstract class
   - Interface
   - Encapsulation
-  - Hidden class
+  - Hidden class 🎓 known
   - Object form
   - Instance 🎓 known
-  - Introspection
-  - Reflection
+  - Introspection 🎓 known
+  - Reflection 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
   - Creator
   - Controller
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling 🎓 known
+  - High cohesion 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
@@ -64,13 +64,13 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton 🎓 known
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer 🎓 known
   - Strategy
-  - Facade
+  - Facade 🎓 known
   - Proxy 👂 heard
   - Chain of Responsibility
   - Command
@@ -78,9 +78,9 @@
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 🎓 known
   - Composite
-  - Decorator
+  - Decorator 🎓 known
   - Flyweight
   - Mediator
   - Memento
