@@ -2,10 +2,10 @@
 
 - Internals and concepts
   - Strong and weak sides of node.jsz
-  - Stateful and stateless servers: 🖐 used
-  - Nonblocking I/O and slocking code: 🎓 known
-  - Event loop: phases: 🎓 known
-  - Event loop: microtasks and macrotasks: 🎓 known
+  - Stateful and stateless servers
+  - Nonblocking I/O and slocking code
+  - Event loop: phases
+  - Event loop: microtasks and macrotasks
   - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
@@ -21,9 +21,9 @@
   - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: 🚀 constructed
-  - DI containers: 🚀 constructed
-  - Coupling and cohesion: 🎓 known
+  - Dependency injection: 🖐 used
+  - DI containers: 🖐 used
+  - Coupling and cohesion: 👂 heard
   - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐 used
@@ -110,7 +110,7 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates: 🎓 known
+  - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
