@@ -36,20 +36,20 @@
   - pure function: 🖐 used
   - lambda expression: 🖐 used
   - side effects: 🖐 used
-  - closure: 🖐 used
+  - closure
   - partial application: 🖐 used
   - curry: 🖐 used
   - higher order: 🖐 used
   - recursion: 🖐 used
   - callback: 🖐 used
   - listener: 🖐 used
-  - compose: 🖐 used
+  - compose
   - pipe: 🖐 used
   - memoize
   - wrapper
-  - functor: 🖐 used
-  - monad: 🖐 used
-  - monoid: 🖐 used
+  - functor
+  - monad
+  - monoid
   - generator
   - coroutine: 🖐 used
 - Data structures
