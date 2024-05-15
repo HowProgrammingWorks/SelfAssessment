@@ -11,15 +11,9 @@
   - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
-<<<<<<< HEAD
-  - Asyncronous programming 👂 heard
+  - Asynchronous programming 👂 heard
   - Parallel programming 👂 heard
   - Reactive programming 🎓 known
-=======
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
->>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
