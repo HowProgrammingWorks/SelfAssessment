@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model 🖐 used
+  - Modeling 🖐 used
   - Subject domain
   - Algorithm 🖐 used
   - Syntax 🖐 used
   - Semantics
   - Abstraction
   - Paradigm 🖐 used
-  - Programm
+  - Programm 🖐 used
   - Programming paradigm 🖐 used
   - Programming language 🖐 used
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module 🖐 used
+  - Library 🖐 used
+  - Package 🖐 used
   - Component
   - Framework
   - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Source code 🖐 used
+  - Object code 🖐 used
+  - Machine code 🖐 used
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering 🖐 used
+  - Decomposition 🖐 used
   - Control flow
   - Data flow
   - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Defensive programming 🖐 used
+  - Don't repeat yourself (DRY) 🖐 used
+  - KISS principle 🖐 used
 - Syntax and concepts
   - Value 🖐 used
   - Identifier 🖐 used
@@ -69,8 +69,8 @@
   - Primitive types 🖐 used
   - Reference types 🖐 used
   - Type systems 
-  - Strong typing
-  - Weak typeing
+  - Strong typing 👂 heard
+  - Weak typing 🖐 used
   - Duck typing
   - Static typing
   - Dynamic typing 🖐 used
@@ -97,8 +97,8 @@
   - Listener 🖐 used
   - Composition
   - Pipe
-  - Memoize
-  - Wrapper 
+  - Memoize 🖐 used
+  - Wrapper  🖐 used
   - Functor
   - Monad
   - Monoid
@@ -118,9 +118,9 @@
   - Doubly list 👂 heard
   - Unrolled list 👂 heard
   - Circular list 👂 heard
-  - Queue
+  - Queue 🖐 used
   - Stack 🖐 used
-  - Deque
+  - Deque 🖐 used
   - Tree 🖐 used
   - Graph 🖐 used
   - Iterator 🖐 used
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing 🖐 used
-  - JSON
+  - JSON 🖐 used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🖐 used
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 🖐 used
+  - IPv6 🖐 used
+  - NAT 🖐 used
+  - URL 🖐 used
   - URN
   - URI
 - Process and tools
@@ -148,8 +148,8 @@
   - Transpiler
   - Linter 🖐 used
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter 🖐 used
+  - Linker 🖐 used
   - Dynamic linking
   - Static linking
   - Runtime
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git 🖐 used
-  - Hithub 🖐 used
+  - Github 🖐 used
   - Docker
   - Kubernetes
   - GCC
@@ -207,7 +207,7 @@
   - VJM
   - CLR
   - Mono
-- Operation systems
+- Operating systems
   - Interrupts
   - Drivers
   - Kernel

@@ -14,7 +14,7 @@
   - `null` 🖐 used
   - `this` 🖐 used
   - `instanceof`
-  - `...spread`
+  - `...spread` 🖐 used
   - `...rest`
   - `typeof` 🖐 used
   - Destructuring 👂 heard
@@ -28,10 +28,10 @@
   - Async IIFE 
   - `global`
   - `globalThis`
-  - `window`
+  - `window`🖐 used
   - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - `__proto__` 🖐 used
+  - `prototype` 🖐 used
   - Equality operators 🖐 used
   - Logical operators 🖐 used
   - Logical Assignment 🖐 used
@@ -39,15 +39,15 @@
   - Ternary operator 🖐 used
   - `void`
   - `yield`
-  - `await`
+  - `await`🖐 used
   - Template literal 🖐 used
   - Strict mode 🖐 used
   - Hoisting
   - `delete` 🖐 used
   - `in` 🖐 used
-  - `super`
+  - `super` 🖐 used
   - `eval`
-  - `static`
+  - `static` 🖐 used
   - `Number.parseInt` 🖐 used
   - `Number.parseFloat` 🖐 used
   - Property descriptors  
@@ -84,21 +84,29 @@
   - default parameters 🖐 used
   - functional object 🖐 used
 - Data structures
-  - Array 🖐 used
-  - mixin 👂 heard
-  - extend 👂 heard
-  - typed arrays 🖐 used
-  - Map 🖐 used
-  - Set 🖐 used
-  - undefined 🖐 used
-  - null 🖐 used
-  - Proxy 👂 heard
-  - weak collections 👂 heard
-  - timers 🖐 used
-  - EventEmitter 👂 heard
-  - RegExp 👂 heard
-  - Date 👂 heard
-  - BigInt  🎓 known
+  - `Array`🖐 used
+  - `Map`🖐 used
+  - `Set`🖐 used
+  - `WeakMap`👂 heard
+  - `WeakSet`👂 heard
+  - Typed arrays 👂 heard
+  - Mixins 👂 heard
+  - `Object.assign` 👂 heard
+- Standard classes and namespaces
+  - `Proxy` 👂 heard
+  - `RegExp`
+  - `Date`
+  - `Math`🖐 used
+  - `Reflect`
+  - `Error`🖐 used
+  - `Atomics`
+  - `JSON`🖐 used
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`🖐 used
+  - `console`🖐 used
+  - Timers 🖐 used
 - Infrastructure
   - V8 🎓 known
   - Node.js 👂 heard
