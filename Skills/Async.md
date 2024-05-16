@@ -60,7 +60,7 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - setImmediate 🖐️ used
+  - setImmediate: 🖐️ used
   - nextTick
   - AbortController
   - AbortSignal: 👂 heard
@@ -81,9 +81,9 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library 👂 heard
+  - async.js library: 👂 heard
   - RxJS library
-  - Async composition 👂 heard
+  - Async composition: 👂 heard
   - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
