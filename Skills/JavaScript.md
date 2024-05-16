@@ -93,7 +93,8 @@
   - `Array`🖐️ used
   - `Map`🖐️ used
   - `Set`🖐️ used
-  - Weak collections👂 heard
+  - `WeakMap`👂 heard
+  - `WeakSet` 🖐️ used
   - Typed arrays👂 heard
   - Mixins👂 heard
   - `Object.assign`👂 heard

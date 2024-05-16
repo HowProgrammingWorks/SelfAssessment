@@ -28,9 +28,9 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 | `🎓` | `known`       | `+` or `k` | Learned, read, but didn’t use                          |
 | `🖐️` | `used`        | `*` or `u` | Used in work or real project                           |
 | `🙋` | `explained`   | `!` or `e` | Explained to colleagues or can freely explain          |
-| `📢` | `talked`      |        `t` | Gave a public speech or lecture on a topic             |
-| `🔬` | `researched`  |        `r` | Deep research, measurements, comparisons, read sources |
-| `🚀` | `constructed` |        `c` | Developed an implementation or equivalent              |
+| `📢` | `talked`      | `"` or `t` | Gave a public speech or lecture on a topic             |
+| `🔬` | `researched`  | `&` or `r` | Deep research, measurements, comparisons, read sources |
+| `🚀` | `constructed` | `^` or `c` | Developed an implementation or equivalent              |
 
 - Now you can create pull request and merge this to main branch of your fork (not to original repo)
 - Pull request will fire Github Actions CI processing which will generate new commit with `Profile/REPORT.md` file with skill analysis and role matching report
@@ -43,30 +43,16 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 
 ## Example
 
-It should look like following example after filling it out:
+It should look like following example after filling it out. And will be automatically formatted as sown in right column:
 
 ```
-- Syntax
-  - Value: 🙋 explained
-  - Identifier: 🖐️ used
-  - Variable: 🙋 explained
-  - Constant: 🖐️ used
-  - Scalar: 🖐️ used
-  - Literal: 👂 heard
-  - Expression: 🖐️ used
-  - Heap: 🎓 known
-```
-
-Alternative example (will be automatically formatted as above example):
-
-```
-- Syntax
-  - Value !
-  - Identifier: *
-  - Variable: !
-  - Constant *
-  - Scalar *
-  - Literal ~
-  - Expression: *
-  - Heap: +
+- Syntax                       - Syntax
+  - Value !             ⤑        - Value: 🙋 explained
+  - Identifier: *       ⤑        - Identifier: 🖐️ used
+  - Variable: !         ⤑        - Variable: 🙋 explained
+  - Constant *          ⤑        - Constant: 🖐️ used
+  - Scalar *            ⤑        - Scalar: 🖐️ used
+  - Literal ~           ⤑        - Literal: 👂 heard
+  - Expression: *       ⤑        - Expression: 🖐️ used
+  - Heap: +                      - Heap: 🎓 known
 ```
