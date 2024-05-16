@@ -10,7 +10,7 @@
   - expression: 🖐️ used
   - heap: 👂 heard
   - function: 🖐️ used
-  - procedure: 👂 heard
+  - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
@@ -42,7 +42,7 @@
   - higher order: 🖐️ used
   - recursion: 🖐️ used
   - callback: 🖐️ used
-  - listener: 👂 heard
+  - listener: 🖐️ used
   - compose: 👂 heard
   - pipe: 🖐️ used
   - memoize: 👂 heard
@@ -54,7 +54,7 @@
   - coroutine: 👂 heard
 - Data structures
   - array: 🖐️ used
-  - structure
+  - structure: 🖐️ used
   - record
   - enum: 🖐️ used
   - instance: 🖐️ used
@@ -71,7 +71,7 @@
   - stack: 🖐️ used
   - deque
   - tree: 🖐️ used
-  - graph
+  - graph: 🖐️ used
   - iterator: 🖐️ used
   - mutable state
   - immutable state
@@ -82,7 +82,7 @@
   - transpiler: 🖐️ used
   - linter: 👂 heard
   - polyfill: 👂 heard
-  - debugger: 👂 heard
+  - debugger: 🖐️ used
   - garbage collection
   - refactoring: 🖐️ used
   - code review: 🖐️ used
@@ -90,15 +90,15 @@
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
-  - hardcode: 👂 heard
-  - complexity: 👂 heard
-  - decomposition: 👂 heard
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
   - spaghetti: 👂 heard
   - silver bullet: 👂 heard
   - not invented here: 👂 heard
   - dead code: 👂 heard
   - unreachable code: 🖐️ used
-  - duplicate code 👂 heard
+  - duplicate code: 🖐️ used
   - exception 🖐️ used
   - return early 
   - unittest 
