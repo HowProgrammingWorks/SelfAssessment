@@ -22,7 +22,7 @@
   - IIFE: 👂 heard
   - global: 🖐️ used
   - globalThis: 👂 heard
-  - window: 👂 heard
+  - window: 🖐️ used
   - getters and setters: 👂 heard
   - __proto__: 👂 heard
   - prototype: 🖐️ used
@@ -67,7 +67,7 @@
   - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin
+  - mixin: 🖐️ used
   - extend: 🖐️ used
   - typed arrays: 🖐️ used
   - Map: 🖐️ used
@@ -82,8 +82,8 @@
   - Date: 🖐️ used
   - BigInt: 🖐️ used
 - Infrastructure
-  - V8
+  - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier
-  - MDN
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
