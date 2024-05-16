@@ -27,8 +27,8 @@
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
