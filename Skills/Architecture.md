@@ -1,0 +1,100 @@
+## Architecture
+
+- Application structure
+  - Modularity
+  - Components
+  - Directories
+  - GRASP: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
+  - CQS
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code
+  - Contract programming
+  - Platform-agnostic
+  - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
+  - Law of Demeter (LoD)
+- Application architecture
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL)
+  - System vs applied code
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
+  - Message Queue (MQ): 👂 heard
+  - CQRS
+  - Event sourcing
+  - E-R data modeling
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML
+  - Work breakdown structure
+  - Budget estimation
+  - Distributed systems: 👂 heard
+  - High-intensive computing
+  - Load balancing: 🎓 known
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds:👂 heard
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Solution components
+  - Risk assessment
+  - Non Functional Requirements (NFR)
+  - Clouds
+  - BPMN
+  - Low-code
+  - No-code
+  - Metric
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
+- Enterprise architecture
+  - Understanding business needs
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
+  - Enterprise capabilities
+  - Project scope
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene
