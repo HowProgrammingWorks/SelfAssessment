@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🎓 known
+  - Non-structured programming  👂 heard
+  - Functional programming 🖐️ used
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🎓 known
+  - Generic programming 🖐️ used
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🎓 known
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 👂 heard
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,65 +27,65 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 🙋 explained
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
+  - Field declarations 🙋 explained
+  - Inheritance 🙋 explained
+  - Parent class 🙋 explained
+  - Polymorphism 🙋 explained
+  - Abstract class 🙋 explained
+  - Interface 🙋 explained
+  - Encapsulation 🙋 explained
+  - Hidden class 👂 heard
   - Object form
-  - Instance
+  - instance 🙋 explained
   - Introspection
-  - Reflection
-  - The diamond problem
+  - Reflection 👂 heard
+  - The diamond problem 👂 heard
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert 🙋 explained
+  - Creator 🙋 explained
+  - Controller 🙋 explained
+  - Indirection 🙋 explained
+  - Low coupling 🙋 explained
+  - High cohesion 🙋 explained
+  - Protected variations 🙋 explained
+  - Pure fabrication 🙋 explained
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) 🙋 explained
+  - Open–closed principle (OCP) 🙋 explained
+  - Liskov substitution principle (LSP) 🙋 explained
+  - Interface segregation principle (ISP) 🙋 explained
+  - Dependency inversion principle (DIP) 🙋 explained
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🙋 explained
+  - Adapter 🙋 explained
+  - Observer 🙋 explained
+  - Strategy 🙋 explained
+  - Facade 🙋 explained
+  - Proxy 🙋 explained
+  - Chain of Responsibility 🙋 explained
+  - Command 🙋 explained
+  - Iterator 🙋 explained
+  - State 🙋 explained
+  - Bridge 🙋 explained
+  - Builder 🙋 explained
+  - Prototype 🙋 explained
+  - Composite 🙋 explained
+  - Decorator 🙋 explained
+  - Flyweight 🙋 explained
+  - Mediator 🙋 explained
+  - Memento 🙋 explained
+  - Template Method 🙋 explained
+  - Visitor 🙋 explained
+  - Reactor 🙋 explained
+  - Active object 🙋 explained
+  - Delegation 🙋 explained

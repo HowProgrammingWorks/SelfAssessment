@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
+  - Modularity 🖐️	used
+  - Components 🖐️	used
+  - Directories 🖐️	used
+  - GRASP 🖐️	used
+  - SOLID 🖐️	used
+  - GoF patterns 🖐️	used
+  - CQS 🎓 known
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Multiparadigm code 🖐️	used
+  - Contract programming 🎓 known
+  - Platform-agnostic 🎓 known
+  - Transport-agnostic 🎓 known
+  - Framework-agnostic 🎓 known
+  - Code coverage 🎓 known
+  - Cohesion 👂 heard
+  - Coupling 👂 heard
+  - Cyclomatic complexity 👂 heard
+  - Reliability 👂 heard
+  - Quality 👂 heard
+  - Availability 👂 heard
+  - Flexibility 👂 heard
+  - Law of Demeter (LoD) 👂 heard
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer 🖐️	used
+  - Domain-specific language (DSL) 👂 heard
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Multilayer approach 🖐️	used
+  - Hexagonal architecture 🎓 known
+  - Separation of concerns (SoC) 🖐️	used
+  - Metaprogramming 🎓 known
+  - Inversion of control (IoC) 🖐️	used
+  - Dependency injection (DI) 🖐️	used
+  - Clean architecture 🙋 explained
+  - Domain-driven design (DDD) 🙋 explained
+  - Pub/sub 🎓 known
+  - Message brocker 🖐️	used
+  - Agent 🎓 known
+  - Service locator 🎓 known
+  - Message Queue (MQ) 🖐️	used
+  - CQRS 👂 heard
+  - Event sourcing 🎓 known
+  - E-R data modeling 🎓 known
+  - Entity-relationship diagram 🎓 known
   - IDEF1X
   - UML
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems 🎓 known
   - High-intensive computing
-  - Load balancing
+  - Load balancing 👂 heard
   - Gateways
   - On-premises
   - IaaS
   - PaaS
   - SaaS
-  - FaaS clouds
-  - Serverless
+  - FaaS clouds 🎓 known
+  - Serverless 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -66,7 +66,7 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling 🎓 known
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -87,8 +87,8 @@
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture 🎓 known
+  - Microservices 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
