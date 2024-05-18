@@ -10,7 +10,7 @@
   - Object-oriented programming u
   - Object-based programming h
   - Generic programming h
-  - Concurrent computing
+  - Concurrent computing h
   - Asynchronous programming h
   - Parallel programming h
   - Reactive programming h
@@ -18,12 +18,12 @@
   - Automata-based programming k
   - Domain-specific languages
   - Multi-paradigm programming k
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming h
+  - Actor model k
   - Lambda calculus h
   - Black box h
-  - Information hiding
-  - Aspect-oriented programming
+  - Information hiding k
+  - Aspect-oriented programming h
   - Anemic domain model
   - Class composition k
 - OOP basics
@@ -36,18 +36,18 @@
   - Public fields u
   - Private fields u
   - Field declarations u
-  - Inheritance
+  - Inheritance h
   - Parent class u
   - Polymorphism u
   - Abstract class k
-  - Interface
+  - Interface u
   - Encapsulation k
   - Hidden class k
   - Object form h
   - Instance h
   - Introspection h
-  - Reflection
-  - The diamond problem
+  - Reflection h
+  - The diamond problem h
 - GRASP
   - Information expert
   - Creator
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP) u
   - Dependency inversion principle (DIP) u
 - Patterns
-  - Singleton k
-  - Factory Method k
-  - Abstract Factory h
-  - Adapter h
-  - Observer h
-  - Strategy
-  - Facade h
+  - Singleton u
+  - Factory Method u
+  - Abstract Factory k
+  - Adapter k
+  - Observer k
+  - Strategy h
+  - Facade k
   - Proxy h
-  - Chain of Responsibility
-  - Command
+  - Chain of Responsibility h
+  - Command h
   - Iterator k
   - State k
-  - Bridge
+  - Bridge k
   - Builder k
   - Prototype k
   - Composite k
   - Decorator h
   - Flyweight
   - Mediator h
-  - Memento
+  - Memento h
   - Template Method
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation h

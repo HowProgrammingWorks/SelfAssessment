@@ -3,12 +3,12 @@
 - Internals and concepts
   - Strong and weak sides of node.js k
   - Stateful and stateless servers k
-  - Nonblocking I/O and blocking code
+  - Nonblocking I/O and blocking code k
   - Event loop phases u
   - Event loop microtasks and macrotasks u
   - Garbage collection u
   - Node.js LTS schedule u
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks h
   - Interactive applications (close to real-time) k
 - Modularity, layers and dependencies
   - CommonJS modules k
@@ -20,7 +20,7 @@
   - Dependencies: `npm`, `node_modules` u
   - Files `package.json`, `package-lock.json` u
   - Module-based permissions model h
-  - Isolation with modularity
+  - Isolation with modularity h
   - Dependency injection h
   - DI containers h
   - Coupling and cohesion
@@ -45,7 +45,7 @@
   - Native fetch and nodejs/undici h
   - async_hooks h
   - AsyncLocalStorage h
-  - AsyncResource
+  - AsyncResource h
   - Deprecated domain API k
   - Node.js single executable h
   - SharedArrayBuffer h
@@ -56,7 +56,7 @@
   - Generating crypto random UUID
   - Module `node:url` vs `new URL` u
   - Module `node:assert`
-  - Internationalization
+  - Internationalization h
   - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
@@ -76,7 +76,7 @@
   - HTTP/3 (QUIC)
   - Long polling
   - REST u
-  - RPC
+  - RPC h
   - Routing u
   - DoS k
   - DDoS k
@@ -116,13 +116,13 @@
   - `error.message` u
   - `error.stack` k
   - `Error.captureStackTrace` k
-  - How to avoid mixins
+  - How to avoid mixins h
   - Uncaught exceptions k
-  - Heap dump
+  - Heap dump h
   - Debugging tools u
   - Flame graph h
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks h
+  - Resource leaks h
   - Data race
 - Integrations and bindings
   - Native addons
@@ -136,8 +136,8 @@
   - NAPI `Zig`
   - Webassembly `WAT`
   - Webassembly `C` and `C++`
-  - Webassembly `Rust`
+  - Webassembly `Rust` h
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
-  - V8 binary serialization
+  - V8 binary serialization h

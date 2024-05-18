@@ -17,15 +17,15 @@
   - `...spread` u
   - `...rest` u
   - `typeof` u
-  - Destructuring k
+  - Destructuring u
   - Generators u
   - Iterators u
-  - Async generator k
-  - Async iterator k
-  - Chaining h
+  - Async generator u
+  - Async iterator u
+  - Chaining k
   - Optional chaining h
-  - IIFE
-  - Async IIFE
+  - IIFE h
+  - Async IIFE h
   - `global` u
   - `globalThis` k
   - `window` h
@@ -38,22 +38,22 @@
   - Bitwise operators u
   - Ternary operator u
   - `void` u
-  - `yield`
+  - `yield` k
   - `await` u
   - Template literal k
   - Strict mode u
   - Hoisting k
   - `delete` u
   - `in` u
-  - `super` k
+  - `super` u
   - `eval` h
   - `static` u
   - `Number.parseInt` u
   - `Number.parseFloat` u
   - Property descriptors k
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Sealing properties h
+  - Freezing properties h
+  - Computed properties h
   - Instance class fields k
   - Static class fields k
   - Private class fields k
@@ -93,8 +93,8 @@
   - `Array` u
   - `Map` u
   - `Set` u
-  - `WeakMap` h
-  - `WeakSet` h
+  - `WeakMap` k
+  - `WeakSet` k
   - Typed arrays u
   - Mixins k
   - `Object.assign` k
@@ -102,7 +102,7 @@
   - `Proxy` k
   - `RegExp` u
   - `Date` u
-  - `Math`
+  - `Math` h
   - `Reflect` k
   - `Error` u
   - `Atomics` u
@@ -114,7 +114,7 @@
   - `console` u
   - Timers u
 - Infrastructure
-  - V8 k
+  - V8 u
   - Node.js u
   - npm u
   - prettier k

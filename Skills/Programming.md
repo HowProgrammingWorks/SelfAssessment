@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
   - Algorithm u
   - Syntax u
@@ -12,25 +12,25 @@
   - Programm u
   - Programming paradigm
   - Programming language u
-  - Contract
-  - Module
+  - Contract h
+  - Module k
   - Library u
   - Package u
   - Component u
   - Framework u
-  - Platform
+  - Platform k
   - Source code u
   - Object code u
-  - Machine code
+  - Machine code u
   - Microcode h
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Software engineering k
+  - Decomposition u
+  - Control flow h
+  - Data flow h
+  - Code reuse u
+  - Defensive programming k
+  - Don't repeat yourself (DRY) h
+  - KISS principle h
 - Syntax and concepts
   - Value u
   - Identifier u
@@ -48,21 +48,21 @@
   - Event k
   - Type u
   - Flag u
-  - Lexical scope
-  - Code block  k
-  - Conditions 
+  - Lexical scope u
+  - Code block  u
+  - Conditions u
   - Loops u
   - Assignment u
   - Regular expression u
-  - Interface
-  - Namespaces
+  - Interface u
+  - Namespaces h
   - Call stack u
-  - Naming conventions
-  - Coding conventions
+  - Naming conventions h
+  - Coding conventions h
   - Camel case u
   - Snake case k
   - Kebab case k
-  - Trailing commas
+  - Trailing commas h
   - Return early
   - Fail-fast
 - Types
@@ -73,13 +73,13 @@
   - Weak typing u
   - Duck typing
   - Static typing u
-  - Dynamic typing k
+  - Dynamic typing u
   - Nominal typing h
   - Structural typing h
   - Explicit typing
   - Type inference
-  - Covariance
-  - Contravariance
+  - Covariance h
+  - Contravariance h
 - Functions
   - Signature u
   - Argument u
@@ -87,10 +87,10 @@
   - Pure function u
   - Lambda expression u
   - Side effects u
-  - Closure
+  - Closure h
   - Partial application u
   - Currying u
-  - Higher order
+  - Higher order k
   - Recursion u
   - Tail call optimisation k
   - Callback u
@@ -100,27 +100,27 @@
   - Memoize u
   - Wrapper k
   - Functor k
-  - Monad
-  - Monoid
+  - Monad h
+  - Monoid h
   - Generator u
   - Coroutine
 - Data structures
   - Array u
   - Structure u
   - Record u
-  - Enum k
+  - Enum u
   - Instance u
   - Object u
   - Collection u
   - Set u
-  - Hash table k
+  - Hash table u
   - Linked list u
   - Doubly list u
   - Unrolled list u
   - Circular list k
   - Queue u
   - Stack u
-  - Deque
+  - Deque k
   - Tree u
   - Graph u
   - Iterator u
@@ -169,35 +169,35 @@
   - Docker u
   - Kubernetes u
   - GCC
-  - LLVM
+  - LLVM k
 - Antipatterns
   - Magic numbers u
   - Hard code u
   - Soft code u
   - Cryptic code h
   - Improbability factor u
-  - Accidental complexity h
+  - Accidental complexity k
   - Action at a distance h
   - Spaghetti  k
-  - Silver bullet h
+  - Silver bullet k
   - Not invented here h
   - Dead code u
   - Unreachable code u
   - Duplicate code u
   - Premature optimization k
   - Micro-optimization h
-  - Nested loops
+  - Nested loops h
   - Long method/function/procedure h
   - Long inheritance h
-  - Large class/file h
+  - Large class/file k
   - Too many parameters u
   - Pass-through parameters u
   - Accumulate and fire h
   - Use switch/case k
-  - Temporary field
+  - Temporary field h
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
-  - Data clump
+  - Data clump h
   - Feature envy 
   - Monkey patch u
   - Yo-yo problem u
@@ -206,34 +206,34 @@
   - V8 u
   - VJM u
   - CLR
-  - Mono
+  - Mono h
 - Operating systems
-  - Interrupts k
-  - Drivers k
+  - Interrupts u
+  - Drivers u
   - Kernel h
   - Ring
-  - Virtual memory k
+  - Virtual memory u
   - File system u
   - Linux u
   - Unix u
-  - BSD
+  - BSD h
   - MacOS h
   - Windows u
   - Real-time OS k
-  - Embedded OS
+  - Embedded OS k
 - Standards
   - ASCII u
   - Escape sequence u
-  - RFC
+  - RFC h
   - IETF u
-  - IANA
-  - IEEE
+  - IANA 
+  - IEEE k
   - Base64 u
-  - ECMA
+  - ECMA h
   - ICANN
   - ISO u
   - MIME u
-  - OWASP
+  - OWASP h
   - UTF-8 u
   - W3C
   - ODMG

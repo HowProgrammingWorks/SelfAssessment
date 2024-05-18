@@ -24,77 +24,77 @@
   - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL) h
-  - System vs applied code
+  - System vs applied code h
   - Multilayer approach
   - Hexagonal architecture h
   - Separation of concerns (SoC)
   - Metaprogramming h
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture h
-  - Domain-driven design (DDD)
+  - Clean architecture k
+  - Domain-driven design (DDD) h
   - Pub/sub
-  - Message brocker
-  - Agent
+  - Message brocker h
+  - Agent h
   - Service locator
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing h
+  - Event sourcing k
   - E-R data modeling u
   - Entity-relationship diagram u
   - IDEF1X
   - UML u
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
+  - Budget estimation u
+  - Distributed systems k
+  - High-intensive computing k
+  - Load balancing h
   - Gateways h
-  - On-premises
+  - On-premises h
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless k
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
   - System design h
   - Process modelling h
-  - Data modelling h
-  - Solution components h
-  - Risk assessment h
+  - Data modelling k
+  - Solution components k
+  - Risk assessment u
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
-  - Low-code h
-  - No-code
+  - Low-code k
+  - No-code k
   - Metric
   - Metric abuse
-  - ACID
-  - CAP theorem
+  - ACID h
+  - CAP theorem h
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
-  - Enterprise strategy h
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Understanding business needs u
+  - Enterprise strategy u
+  - Integration with subsystems k
+  - Enterprise vision k
+  - Enterprise capabilities h
+  - Project scope k
   - Enterprise service bus h
-  - Service-oriented architecture h
+  - Service-oriented architecture k
   - Microservices h
   - Process choreography h
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
+  - Service orchestration h
+  - Data warehouse h
+  - Business Intelligence k
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law h
   - Quality assurance
-  - Engineering Hygiene
+  - Engineering Hygiene h
