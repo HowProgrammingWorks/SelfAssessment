@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop e
+  - `try..catch` e
+  - Non-blocking u
+    - Async I/O k
+  - Thread pool k
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,32 +14,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks u
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming k
+  - Parallel programming k
   - Actor Model
-  - Thread
-  - Process
+  - Thread u
+  - Process u
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
+  - Event e
+  - Coroutine k
+  - Goroutine k
+  - Signal k
+  - Stream h
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware k
+  - Locks u
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,26 +47,26 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter u
+  - Observable/Observer h
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool u
+  - Async Queue u
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore k
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers u
+  - `setImmediate` h
+  - `nextTick` h
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics e
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,9 +77,9 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library h
   - RxJS library
-  - Promise.all
+  - Promise.all h
   - Promise.allSettled
   - Promise.race
   - Promise.any

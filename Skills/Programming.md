@@ -1,74 +1,74 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Model e
+  - Modeling e
+  - Subject domain e
+  - Algorithm e
+  - Syntax e
+  - Semantics e
+  - Abstraction e
+  - Paradigm e
+  - Programm e
+  - Programming paradigm e
+  - Programming language e
+  - Contract e
+  - Module e
+  - Library e
+  - Package e
+  - Component e
+  - Framework e
+  - Platform u
+  - Source code e
+  - Object code e
+  - Machine code e
   - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Software engineering e
+  - Decomposition e
+  - Control flow k
+  - Data flow k
+  - Code reuse e
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) e
+  - KISS principle k
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Value e
+  - Identifier e
+  - Variable e
+  - Constant e
+  - Scalar e
+  - Literal e
+  - Expression e
+  - Heap e
+  - Function e
+  - Procedure e
+  - Method e
+  - Class e
+  - Prototype e
+  - Event e
+  - Type e
+  - Flag u
+  - Lexical scope e
+  - Code block u
+  - Conditions e
+  - Loops e
+  - Assignment u
+  - Regular expression k
+  - Interface e
+  - Namespaces k
+  - Call stack e
+  - Naming conventions u
+  - Coding conventions k
+  - Camel case e
+  - Snake case e
+  - Kebab case e
+  - Trailing commas e
+  - Return early k
+  - Fail-fast h
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
+  - Primitive types e
+  - Reference types e
+  - Type systems e
   - Strong typing
   - Weak typing
   - Duck typing
@@ -81,128 +81,128 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature e
+  - Argument e
+  - Parameter e
+  - Pure function e
+  - Lambda expression e
+  - Side effects e
+  - Closure e
   - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Currying u
+  - Higher order h
+  - Recursion e
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback e
+  - Listener e
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper e
   - Functor
   - Monad
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator u
+  - Coroutine k
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Array e
+  - Structure e
+  - Record k
+  - Enum e
+  - Instance e
+  - Object e
+  - Collection e
+  - Set e
+  - Hash table e
+  - Linked list e
+  - Doubly list e
+  - Unrolled list k
+  - Circular list e
+  - Queue e
+  - Stack e
+  - Deque e
+  - Tree e
+  - Graph e
+  - Iterator e
+  - Mutable state e
+  - Immutable state e
+  - Serialization e
+  - String parsing e
+  - JSON e
   - JSON5
-  - YAML
+  - YAML k
 - Networking
-  - DNS
+  - DNS e
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 e
+  - IPv6 e
+  - NAT e
+  - URL u
   - URN
-  - URI
+  - URI u
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler e
+  - Just-in-time compilation e
+  - Ahead-of-time compilation k
   - Transpiler
-  - Linter
+  - Linter e
   - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
+  - Interpreter e
+  - Linker e
+  - Dynamic linking e
+  - Static linking e
+  - Runtime e
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
+  - Garbage collection e
+  - Refactoring e
+  - Code review e
+  - Exception e
+  - Unittesting t
+  - git t
+  - Github t
+  - Docker e
+  - Kubernetes k
+  - GCC e
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers e
+  - Hard code e
+  - Soft code 
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Spaghetti t
+  - Silver bullet t
+  - Not invented here e
+  - Dead code t
+  - Unreachable code e
+  - Duplicate code e
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops u
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
+  - Large class/file k
+  - Too many parameters k
+  - Pass-through parameters k
+  - Accumulate and fire k
+  - Use switch/case e
   - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments h
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode e
   - V8
   - VJM
   - CLR
@@ -210,30 +210,30 @@
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
+  - Kernel e
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory e
+  - File system e
+  - Linux e
+  - Unix e
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS k
+  - Windows u
+  - Real-time OS h
+  - Embedded OS u
 - Standards
-  - ASCII
-  - Escape sequence
-  - RFC
+  - ASCII e
+  - Escape sequence e
+  - RFC u
   - IETF
   - IANA
   - IEEE
   - Base64
   - ECMA
   - ICANN
-  - ISO
-  - MIME
+  - ISO u
+  - MIME u
   - OWASP
-  - UTF-8
+  - UTF-8 e
   - W3C
   - ODMG
