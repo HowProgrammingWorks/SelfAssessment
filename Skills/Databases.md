@@ -1,61 +1,61 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
+  - Migrations u
+  - Schema versioning k
+  - Backup and recovery k
+  - Database scalability k
+  - Relational databases h
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
+  - Graph databases h
+  - Object databases h
+  - Column databases h
+  - Navigational databases h
+  - Hierarchical databases h
   - In-memory databases
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data control language (DCL) h
+  - Data definition language (DDL) h
+  - Data manipulation language (DML) h
+  - Data query language (DQL) k
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
+  - Primary keys h
+  - Foreign keys h
+  - Transactions h
+  - Views h
   - Subqueries
-  - Stored procedures
-  - SQL functions
+  - Stored procedures h
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` h
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` h
+  - `GROUP BY` h
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `EXISTS` h
+  - `JOIN` h
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
+  - `WHERE` h
+  - `LIKE` h
+  - `IN` h
+  - `BETWEEN` h
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
@@ -64,31 +64,31 @@
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
-  - `UNIQUE`
+  - `UNIQUE` h
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server h
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase
+  - Firebase h
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data h
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
+  - Data Visualization h

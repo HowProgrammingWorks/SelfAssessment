@@ -4,25 +4,25 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
+  - Paradigm u 
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library u
+  - Package u
+  - Component u
+  - Framework u
   - Platform
-  - Source code
-  - Object code
+  - Source code u
+  - Object code u
   - Machine code
-  - Microcode
+  - Microcode h
   - Software engineering
   - Decomposition
   - Control flow
@@ -32,208 +32,208 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap u
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event k
+  - Type u
+  - Flag u
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Code block  k
+  - Conditions 
+  - Loops u
+  - Assignment u
+  - Regular expression u
   - Interface
   - Namespaces
-  - Call stack
+  - Call stack u
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types u
+  - Reference types u
+  - Type systems u
+  - Strong typing u
+  - Weak typing u
   - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
+  - Static typing u
+  - Dynamic typing k
+  - Nominal typing h
+  - Structural typing h
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects u
   - Closure
-  - Partial application
-  - Currying
+  - Partial application u
+  - Currying u
   - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
+  - Recursion u
+  - Tail call optimisation k
+  - Callback u
+  - Listener u
+  - Composition u
+  - Pipe u
+  - Memoize u
+  - Wrapper k
+  - Functor k
   - Monad
   - Monoid
-  - Generator
+  - Generator u
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
+  - Array u
+  - Structure u
+  - Record u
+  - Enum k
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table k
+  - Linked list u
+  - Doubly list u
+  - Unrolled list u
+  - Circular list k
+  - Queue u
+  - Stack u
   - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Tree u
+  - Graph u
+  - Iterator u
+  - Mutable state u
+  - Immutable state u
+  - Serialization u
+  - String parsing u
+  - JSON u
+  - JSON5 u
+  - YAML u
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - DNS u
+  - CDN h
+  - CORS h
+  - IPv4 u
+  - IPv6 u
   - NAT
-  - URL
-  - URN
-  - URI
+  - URL u
+  - URN k
+  - URI k
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Compiler u
+  - Just-in-time compilation u
+  - Ahead-of-time compilation u
+  - Transpiler u
+  - Linter k
   - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - Interpreter u
+  - Linker u
+  - Dynamic linking u
+  - Static linking u
+  - Runtime k
+  - Virtual machine u
+  - Register-based VM u
+  - Stack-based VM k
+  - Containerization u
+  - Debugger u
+  - Tracing u
+  - Garbage collection u
+  - Refactoring u
+  - Code review u
+  - Exception u
+  - Unittesting u
+  - git u
+  - Github u
+  - Docker u
+  - Kubernetes u
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
+  - Magic numbers u
+  - Hard code u
+  - Soft code u
+  - Cryptic code h
+  - Improbability factor u
+  - Accidental complexity h
+  - Action at a distance h
+  - Spaghetti  k
+  - Silver bullet h
+  - Not invented here h
+  - Dead code u
+  - Unreachable code u
+  - Duplicate code u
+  - Premature optimization k
+  - Micro-optimization h
   - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
+  - Long method/function/procedure h
+  - Long inheritance h
+  - Large class/file h
+  - Too many parameters u
+  - Pass-through parameters u
+  - Accumulate and fire h
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Feature envy 
+  - Monkey patch u
+  - Yo-yo problem u
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
+  - Bytecode k
+  - V8 u
+  - VJM u
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts k
+  - Drivers k
+  - Kernel h
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory k
+  - File system u
+  - Linux u
+  - Unix u
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
+  - MacOS h
+  - Windows u
+  - Real-time OS k
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII u
+  - Escape sequence u
   - RFC
-  - IETF
+  - IETF u
   - IANA
   - IEEE
-  - Base64
+  - Base64 u
   - ECMA
   - ICANN
-  - ISO
-  - MIME
+  - ISO u
+  - MIME u
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
