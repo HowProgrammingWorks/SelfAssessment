@@ -32,7 +32,7 @@
   - Sync generator 🎓 known
   - Async Generator 🎓 known
   - Async Iterator 🎓 known
-  - Event 🖐️	used
+  - Event 🖐️ used
   - Coroutine 🎓 known
   - Goroutine 🎓 known
   - Signal 🎓 known
@@ -42,7 +42,7 @@
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify 🖐️	used
+  - promisify 🖐️ used
   - asyncify 🎓 known
   - Callbacks compose
   - Async compose
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library 🎓 known
-  - Promise.all 🖐️	used
+  - Promise.all 🖐️ used
   - Promise.allSettled 🎓 known
   - Promise.race 🎓 known
   - Promise.any 🎓 known

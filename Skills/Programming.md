@@ -96,7 +96,7 @@
   - Callback 🙋 explained
   - Listener 🎓 known
   - Composition 🎓 known
-  - Pipe 🖐️	used
+  - Pipe 🖐️ used
   - Memoize 🙋 explained
   - Wrapper 🙋 explained
   - Functor 🎓 known

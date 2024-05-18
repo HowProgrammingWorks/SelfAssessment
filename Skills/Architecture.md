@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity 🖐️	used
-  - Components 🖐️	used
-  - Directories 🖐️	used
-  - GRASP 🖐️	used
-  - SOLID 🖐️	used
-  - GoF patterns 🖐️	used
+  - Modularity 🖐️ used
+  - Components 🖐️ used
+  - Directories 🖐️ used
+  - GRASP 🖐️ used
+  - SOLID 🖐️ used
+  - GoF patterns 🖐️ used
   - CQS 🎓 known
   - Leaking abstractions
-  - Multiparadigm code 🖐️	used
+  - Multiparadigm code 🖐️ used
   - Contract programming 🎓 known
   - Platform-agnostic 🎓 known
   - Transport-agnostic 🎓 known
@@ -24,22 +24,22 @@
   - Flexibility 👂 heard
   - Law of Demeter (LoD) 👂 heard
 - Application architecture
-  - Isolation between layer 🖐️	used
+  - Isolation between layer 🖐️ used
   - Domain-specific language (DSL) 👂 heard
   - System vs applied code
-  - Multilayer approach 🖐️	used
+  - Multilayer approach 🖐️ used
   - Hexagonal architecture 🎓 known
-  - Separation of concerns (SoC) 🖐️	used
+  - Separation of concerns (SoC) 🖐️ used
   - Metaprogramming 🎓 known
-  - Inversion of control (IoC) 🖐️	used
-  - Dependency injection (DI) 🖐️	used
+  - Inversion of control (IoC) 🖐️ used
+  - Dependency injection (DI) 🖐️ used
   - Clean architecture 🙋 explained
   - Domain-driven design (DDD) 🙋 explained
   - Pub/sub 🎓 known
-  - Message brocker 🖐️	used
+  - Message brocker 🖐️ used
   - Agent 🎓 known
   - Service locator 🎓 known
-  - Message Queue (MQ) 🖐️	used
+  - Message Queue (MQ) 🖐️ used
   - CQRS 👂 heard
   - Event sourcing 🎓 known
   - E-R data modeling 🎓 known

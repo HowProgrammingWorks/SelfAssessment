@@ -12,10 +12,10 @@
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules 👂 heard
-  - ECMAScript modules 🖐️	used
+  - ECMAScript modules 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM 👂 heard
-  - Modules as singletons 🖐️	used
+  - Modules as singletons 🖐️ used
   - Contexts and scripts module `node:vm` 🎓 known
   - Dependencies: `npm`, `node_modules` 🙋 explained
   - Files `package.json`, `package-lock.json` 🙋 explained
@@ -24,21 +24,21 @@
   - Dependency injection 🙋 explained
   - DI containers 🙋 explained
   - Coupling and cohesion 🙋 explained
-  - Framework agnostic approach 🖐️	used
+  - Framework agnostic approach 🖐️ used
 - Environment
   - Command line arguments 🙋 explained
-  - Node.js CLI 🖐️	used
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown 🙋 explained
   - Clustering 🎓 known
-  - Watch filesystem changes with --watch 🖐️	used
+  - Watch filesystem changes with --watch 🖐️ used
 - Internal API
   - Streams API 🎓 known
   - Web Streams API 🎓 known
   - Crypto API 🎓 known
-  - Password hashing with crypto.scrypt 🖐️	used
+  - Password hashing with crypto.scrypt 🖐️ used
   - Web Crypto API 🎓 known
-  - File system API (sync and async) 🖐️	used
+  - File system API (sync and async) 🖐️ used
   - Copy folder recursively 👂 heard
   - Worker threads 🎓 known
   - Performance hooks 🎓 known
@@ -53,25 +53,25 @@
   - Module `node:child_process` 🎓 known
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID 🖐️	used
-  - Module `node:url` vs `new URL` 🖐️	used
+  - Generating crypto random UUID 🖐️ used
+  - Module `node:url` vs `new URL` 🖐️ used
   - Module `node:assert` 🎓 known
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` 🖐️	used
-  - Module `node:zlib` 🖐️	used
+  - Blob, File, Buffer, module `node:buffer` 🖐️ used
+  - Module `node:zlib` 🖐️ used
 - Network
-  - Endpoint throttling 🖐️	used
+  - Endpoint throttling 🖐️ used
   - ALPN 🎓 known
   - SNI callback 🎓 known
   - SSL certificates 🎓 known
   - Protocol agnostic approach 🎓 known
-  - Fetch API 🖐️	used
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - HTTP(S) 🖐️	used
+  - HTTP(S) 🖐️ used
   - TCP/SSL 👂 heard
   - UDP 🎓 known
   - TLS 👂 heard
-  - Websocket 🖐️	used
+  - Websocket 🖐️ used
   - SSE 🎓 known
   - HTTP/3 (QUIC) 🎓 known
   - Long polling 🎓 known
@@ -91,30 +91,30 @@
 - Technique and tools
   - Native test runner 🎓 known
   - Logging 👂 heard
-  - Application configuring 🖐️	used
-  - Testing 🖐️	used
-  - CI/CD 🖐️	used
+  - Application configuring 🖐️ used
+  - Testing 🖐️ used
+  - CI/CD 🖐️ used
   - Readable 🎓 known
   - Writable 🎓 known
   - Transform 🎓 known
   - Back pressure
-  - Buffer 🖐️	used
-  - Console 🖐️	used
+  - Buffer 🖐️ used
+  - Console 🖐️ used
   - Inspector
 - Data access
   - Data access layer 🎓 known
-  - Repository 🖐️	used
+  - Repository 🖐️ used
   - Active record
   - Query builder r
   - Object-Relational Mapping 🎓 known
-  - CRUD 🖐️	used
-  - DTO 🖐️	used
+  - CRUD 🖐️ used
+  - DTO 🖐️ used
 - Error handling and debugging
-  - `Error` 🖐️	used
+  - `Error` 🖐️ used
   - `error.cause` 👂 heard
   - `error.code` 🎓 known
-  - `error.message` 🖐️	used
-  - `error.stack` 🖐️	used
+  - `error.message` 🖐️ used
+  - `error.stack` 🖐️ used
   - `Error.captureStackTrace` 🎓 known
   - How to avoid mixins
   - Uncaught exceptions 👂 heard

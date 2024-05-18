@@ -26,10 +26,10 @@
   - Optional chaining 🙋 explained
   - IIFE 🙋 explained
   - Async IIFE 🙋 explained
-  - `global` 🖐️	used
+  - `global` 🖐️ used
   - `globalThis` 🎓 known
-  - `window` 🖐️	used
-  - Getters and setters 🖐️	used
+  - `window` 🖐️ used
+  - Getters and setters 🖐️ used
   - `__proto__` 🙋 explained
   - `prototype` 👂 heard
   - Equality operators 🙋 explained
@@ -52,10 +52,10 @@
   - `Number.parseFloat` 🙋 explained
   - Property descriptors 🎓 known
   - Sealing properties 🎓 known
-  - Freezing properties 🖐️	used
+  - Freezing properties 🖐️ used
   - Computed properties 🎓 known
   - Instance class fields 🎓 known
-  - Static class fields 🖐️	used
+  - Static class fields 🖐️ used
   - Private class fields 🙋 explained
   - Private class methods 🙋 explained
 - Statements
