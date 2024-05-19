@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🖐️ used
+  - Syntax 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language 🖐️ used
   - Contract
   - Module
   - Library
@@ -41,9 +41,9 @@
   - Expression 🖐️ used
   - Heap
   - Function 🖐️ used
-  - Procedure
-  - Method
-  - Class 👂 heard
+  - Procedure 🎓known
+  - Method 🎓known
+  - Class 🎓known
   - Prototype
   - Event
   - Type
@@ -59,18 +59,18 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case 🖐️ used
+  - Snake case 🖐️ used
+  - Kebab case 🖐️ used
   - Trailing commas
-  - Return early
+  - Return early 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types 🖐️ used
   - Reference types
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing 🖐️ used
+  - Weak typing 🖐️ used
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -81,23 +81,23 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🎓 known
-  - Argument 🎓 known
-  - Parameter 🎓 known
-  - Pure function
+  - Signature 🖐️ used
+  - Argument 🖐️ used
+  - Parameter 🖐️ used
+  - Pure function 🖐️ used
   - Lambda expression
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
-  - Tail call optimisation
+  - Recursion 🖐️ used
+  - Tail call optimisation 🖐️ used
   - Callback
   - Listener
   - Composition
   - Pipe
-  - Memoize
+  - Memoize 🖐️ used
   - Wrapper
   - Functor
   - Monad
@@ -106,23 +106,23 @@
   - Coroutine
 - Data structures
   - Array 🖐️ used
-  - Structure
+  - Structure 🖐️ used
   - Record
   - Enum
-  - Instance
-  - Object 👂 heard
+  - Instance 👂 heard
+  - Object 🎓known
   - Collection
   - Set 👂 heard
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Hash table 👂 heard
+  - Linked list 🖐️ used
+  - Doubly list 🖐️ used
   - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Circular list 🎓known
+  - Queue 🖐️ used
+  - Stack 🖐️ used
+  - Deque 👂 heard
+  - Tree 🎓known
+  - Graph 🖐️ used
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,17 +132,17 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🎓known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
+  - IPv4 🎓known
+  - IPv6 🎓known
+  - NAT 🎓known
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,44 +157,44 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 👂 heard
+  - Debugger 🎓 known
   - Tracing
   - Garbage collection
   - Refactoring 🎓 known
   - Code review 🎓 known
   - Exception
   - Unittesting
-  - git 👂 heard
-  - Github 👂 heard
+  - git 🎓 known
+  - Github 🎓 known
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Hard code 🖐️ used
+  - Soft code 🎓 known
+  - Cryptic code 🎓 known
   - Improbability factor
   - Accidental complexity
-  - Action at a distance
-  - Spaghetti
+  - Action at a distance 🎓 known
+  - Spaghetti 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code 🎓 known
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code 🎓 known
+  - Duplicate code  🖐️ used
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops 🎓 known
+  - Long method/function/procedure 🎓 known
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
-  - Temporary field
+  - Temporary field 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers 🎓 known
   - Kernel
-  - Ring
-  - Virtual memory
+  - Ring 🎓 known
+  - Virtual memory 🖐️ used
   - File system
-  - Linux
+  - Linux 🎓 known
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 🎓 known
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

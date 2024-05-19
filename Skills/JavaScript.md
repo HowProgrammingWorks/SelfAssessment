@@ -1,24 +1,24 @@
 ## JavaScript
 
 - Language
-  - `Object` 👂 heard
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this` 👂 heard
+  - `Object` 🖐️	used
+  - `Function` 🖐️ used
+  - `Boolean` 🖐️ used
+  - `Number` 🖐️ used
+  - `BigInt` 🎓	known
+  - `String` 🖐️ used
+  - `Symbol` 🎓	known
+  - `Infinity` 🎓 known
+  - `NaN`    🎓	known
+  - `undefined` 🎓 known
+  - `null` 🖐️ used
+  - `this` 🖐️ used
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof` 👂 heard
-  - Destructuring
-  - Generators
+  - `...spread` 🎓known
+  - `...rest` 👂 heard
+  - `typeof` 🖐️ used
+  - Destructuring 👂 heard
+  - Generators👂 heard
   - Iterators
   - Async generator
   - Async iterator
@@ -32,24 +32,24 @@
   - Getters and setters 👂 heard
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators 🖐️ used
+  - Logical operators 🖐️ used
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void` 👂 heard
+  - Bitwise operators 🎓 known
+  - Ternary operator 🖐️ used
+  - `void` 🖐️ used
   - `yield`
   - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
+  - Template literal 🖐️ used
+  - Strict mode 👂 heard
+  - Hoisting 👂 heard
+  - `delete` 🖐️ used
+  - `in` 🎓known
   - `super` 👂 heard
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `eval` 👂 heard
+  - `static` 👂 heard
+  - `Number.parseInt` 🖐️ used
+  - `Number.parseFloat` 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -63,28 +63,28 @@
   - `while` 🖐️ used
   - `do..while` 🖐️ used
   - `for` 🖐️ used
-  - `for..in` 👂 heard
-  - `for..of`
+  - `for..in` 🖐️ used
+  - `for..of` 🎓known
   - `for await`
-  - `throw`
+  - `throw` 🖐️ used
   - `break` 🖐️ used
   - `continue` 🖐️ used
-  - `import`
-  - `export`
+  - `import` 🖐️ used
+  - `export` 🖐️ used
   - `label`
-  - `try..catch` 👂 heard
+  - `try..catch` 🎓known
   - `switch` 🖐️ used
-  - `class`  👂 heard
-  - `extends`
-  - `with`
-  - `new`
+  - `class`  🎓known
+  - `extends` 🎓known
+  - `with` 👂 heard
+  - `new` 🖐️ used
 - Functions
-  - Arrow function
+  - Arrow function 🖐️ used
   - Async function
-  - Function declaration 🎓 known
-  - Function expression 👂 heard
-  - Default parameters
-  - Functional object
+  - Function declaration 🖐️ used
+  - Function expression 🖐️ used
+  - Default parameters 🎓known
+  - Functional object 🎓known
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
@@ -95,14 +95,14 @@
   - `Set`  👂 heard
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays 👂 heard
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` 🎓known
+  - `Math` 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -110,8 +110,8 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise` 👂 heard
+  - `console` 🖐️ used
   - Timers
 - Infrastructure
   - V8

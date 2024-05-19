@@ -27,10 +27,10 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 👂 heard
-  - Operator `new` 👂 heard
+  - Constructor 🖐️ used
+  - Operator `new` 🖐️ used
   - Static method
-  - Method 👂 heard
+  - Method 🖐️ used
   - Async method
   - Getters, Setters 👂 heard
   - Public fields 👂 heard
