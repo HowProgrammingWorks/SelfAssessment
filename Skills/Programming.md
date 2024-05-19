@@ -35,23 +35,23 @@
   - parameter 🖐️ used
   - pure function 🖐️ used
   - lambda expression 🖐️ used
-  - side effects
+  - side effects  used
   - closure 🖐️ used
   - partial application
   - curry
-  - higher order
+  - higher order  used
   - recursion 🎓 known
   - callback 🖐️ used
   - listener 🖐️ used
-  - compose
+  - compose  used
   - pipe 🖐️ used
   - memoize
   - wrapper
-  - functor
+  - functor  used
   - monad
   - monoid
-  - generator 
-  - coroutine
+  - generator   used
+  - coroutine  used
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
@@ -78,8 +78,8 @@
   - serialization
   - string parsing 🖐️ used
 - Process & style
-  - compiler
-  - transpiler
+  - compiler  used
+  - transpiler 
   - linter
   - polyfill
   - debugger 🖐️ used
@@ -89,11 +89,11 @@
   - antipatterns 🖐️ used
   - paradigm 🖐️ used
   - algorithm 🖐️ used
-  - magic numbers
-  - hardcode  heard
+  - magic numbers  used
+  - hardcode  heard 👂 heard
   - complexity  heard
   - decomposition heard
-  - spaghetti 
+  - spaghetti  👂 heard
   - silver bullet
   - not invented here
   - dead code 👂 heard
