@@ -1,134 +1,134 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
+  - Model👂 heard
+  - Modeling👂 heard
+  - Subject domain👂 heard
+  - Algorithm👂 heard
+  - Syntax🖐️ used
+  - Semantics🖐️ used
+  - Abstraction🖐️ used
+  - Paradigm👂 heard
   - Programm
   - Programming paradigm
   - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
+  - Contract🖐️ used
+  - Module🖐️ used
+  - Library🖐️ used
+  - Package🖐️ used
+  - Component🖐️ used
+  - Framework🖐️ used
+  - Platform🖐️ used
+  - Source code🖐️ used
+  - Object code🖐️ used
+  - Machine code🖐️ used
+  - Microcode🖐️ used
   - Software engineering
   - Decomposition
-  - Control flow
-  - Data flow
+  - Control flow🖐️ used
+  - Data flow🖐️ used
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Value🖐️ used
+  - Identifier🖐️ used
+  - Variable🖐️ used
+  - Constant🖐️ used
+  - Scalar🖐️ used
+  - Literal🖐️ used
+  - Expression🖐️ used
+  - Heap🖐️ used
+  - Function🖐️ used
+  - Procedure🖐️ used
+  - Method🖐️ used
+  - Class🖐️ used
+  - Prototype🖐️ used
+  - Event🖐️ used
+  - Type🖐️ used
+  - Flag🖐️ used
   - Lexical scope
-  - Code block
+  - Code block🖐️ used
   - Conditions
-  - Loops
+  - Loops🖐️ used
   - Assignment
   - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
+  - Interface🖐️ used
+  - Namespaces🖐️ used
+  - Call stack🖐️ used
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
-  - Fail-fast
+  - Return early🖐️ used
+  - Fail-fast🖐️ used
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
+  - Primitive types🖐️ used
+  - Reference types👂 heard
+  - Type systems🖐️ used
   - Strong typing
-  - Weak typing
+  - Weak typing🖐️ used👂 heard
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing👂 heard
+  - Dynamic typing👂 heard
   - Nominal typing
-  - Structural typing
+  - Structural typing👂 heard
   - Explicit typing
   - Type inference
   - Covariance
-  - Contravariance
+  - Contravariance👂 heard
 - Functions
-  - Signature
+  - Signature🖐️ used
   - Argument
-  - Parameter
-  - Pure function
+  - Parameter🖐️ used
+  - Pure function🖐️ used
   - Lambda expression
   - Side effects
   - Closure
-  - Partial application
+  - Partial application🖐️ used
   - Currying
-  - Higher order
+  - Higher order🖐️ used
   - Recursion
   - Tail call optimisation
   - Callback
   - Listener
-  - Composition
+  - Composition🖐️ used
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper🖐️ used
   - Functor
   - Monad
-  - Monoid
+  - Monoid🖐️ used
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
+  - Array🖐️ used
+  - Structure🖐️ used
+  - Record🖐️ used
+  - Enum🖐️ used
+  - Instance🖐️ used
+  - Object🖐️ used
+  - Collection🖐️ used
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Hash table🖐️ used
+  - Linked list🖐️ used
+  - Doubly list🖐️ used
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue🖐️ used
   - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Deque🖐️ used
+  - Tree🖐️ used
+  - Graph🖐️ used
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -146,52 +146,52 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter🖐️ used
   - Polyfill
   - Interpreter
-  - Linker
+  - Linker🖐️ used
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime🖐️ used
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger🖐️ used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection🖐️ used
+  - Refactoring🖐️ used
+  - Code review🖐️ used
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git🖐️ used
+  - Github🖐️ used
+  - Docker🖐️ used
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
-  - Action at a distance
+  - Action at a distance👂 heard
   - Spaghetti
-  - Silver bullet
+  - Silver bullet👂 heard
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
+  - Duplicate code👂 heard
+  - Premature optimization👂 heard
+  - Micro-optimization👂 heard
   - Nested loops
   - Long method/function/procedure
-  - Long inheritance
+  - Long inheritance👂 heard
   - Large class/file
   - Too many parameters
-  - Pass-through parameters
+  - Pass-through parameters👂 heard
   - Accumulate and fire
   - Use switch/case
   - Temporary field
@@ -202,23 +202,23 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode👂 heard
+  - V8👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
-  - Ring
+  - Kernel👂 heard
+  - Ring👂 heard
   - Virtual memory
   - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
+  - Linux🖐️ used
+  - Unix🖐️ used
+  - BSD👂 heard
+  - MacOS👂 heard
+  - Windows🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
