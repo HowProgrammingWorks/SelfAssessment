@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
   - heap
-  - function
+  - function 🖐️ used
   - procedure
   - method
-  - class
+  - class 👂 heard
   - prototype
   - event
   - type
@@ -30,9 +30,9 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature 🎓 known
+  - argument 🎓 known
+  - parameter 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object 👂 heard
+  - class 👂 heard
   - collection
-  - set
+  - set 👂 heard
   - hash table
   - linked list
   - doubly list
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler 🖐️ used
+  - transpiler 
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring 🎓 known
+  - code review 🎓 known
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 🎓 known
   - magic numbers
   - hardcode
   - complexity
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 🎓 known
   - unreachable code
   - duplicate code
   - exception
-  - return early
+  - return early 🎓 known
   - unittest
-  - git
-  - github
+  - git 👂 heard 
+  - github 👂 heard 
