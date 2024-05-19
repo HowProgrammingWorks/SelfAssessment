@@ -1,41 +1,41 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
+  - Non-structured programming 🖐️ used
   - Functional programming 👂 heard
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Prototype-based programming  👂 heard
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🖐️ used
+  - Generic programming 👂 heard
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🖐️ used
+  - Reactive programming 🖐️ used
+  - FRP (Functional-reactive)  heard
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming  heard
   - Metaprogramming
   - Actor model
 - OOP basics
   - constructor 🎓 known
   - new 🎓 known
-  - Static method
+  - Static method 🎓 known
   - Method 🎓 known
   - Async method
-  - Getters, Setters 👂 heard
-  - Public fields
-  - Private fields
+  - Getters, Setters 🎓 known
+  - Public fields 🎓 known
+  - Private fields 🎓 known
   - Field declarations
   - Inheritance 🎓 known
-  - Parent class
-  - Polymorphism
+  - Parent class 🎓 known
+  - Polymorphism 👂 heard
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface 👂 heard
+  - Encapsulation 👂 heard
   - Hidden class
   - Object form
   - instance 🎓 known
@@ -45,20 +45,20 @@
   - Singleton
   - Factory Method
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Adapter  👂 heard
+  - Observer 👂 heard
+  - Strategy 👂 heard
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command 👂 heard
+  - Iterator 👂 heard
   - State
-  - Bridge
-  - Builder
-  - Prototype
+  - Bridge 👂 heard
+  - Builder 👂 heard
+  - Prototype 👂 heard
   - Composite
-  - Decorator
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento

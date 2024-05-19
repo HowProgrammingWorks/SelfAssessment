@@ -5,52 +5,52 @@
   - identifier 🖐️ used
   - variable 🖐️ used
   - constant 🖐️ used
-  - scalar
-  - literal
+  - scalar 🖐️ used
+  - literal 🖐️ used
   - expression 🖐️ used
-  - heap
+  - heap 🖐️ used
   - function 🖐️ used
-  - procedure
-  - method
+  - procedure 🖐️ used
+  - method 🖐️ used
   - class 🖐️ used
   - prototype 🖐️ used
-  - event
-  - type
-  - primitive types
+  - event 🖐️ used
+  - type 🖐️ used
+  - primitive types 🖐️ used
   - reference types
-  - flag
+  - flag 🖐️ used
   - lexical scope
-  - code block
-  - conditions
+  - code block 🖐️ used
+  - conditions 🖐️ used
   - loops 🎓 known
-  - assignment
-  - regular expression
-  - interface
+  - assignment 🖐️ used
+  - regular expression 🖐️ used
+  - interface 🖐️ used
   - contract
-  - module
+  - module 🖐️ used
   - call stack
 - Functions
-  - signature
+  - signature 🖐️ used
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects
-  - closure
+  - closure 🖐️ used
   - partial application
   - curry
   - higher order
   - recursion 🎓 known
   - callback 🖐️ used
-  - listener
+  - listener 🖐️ used
   - compose
-  - pipe
+  - pipe 🖐️ used
   - memoize
   - wrapper
   - functor
   - monad
   - monoid
-  - generator
+  - generator 
   - coroutine
 - Data structures
   - array 🖐️ used
@@ -63,20 +63,20 @@
   - collection
   - set 🎓 known
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
+  - unrolled list 🖐️ used
+  - circular list 🖐️ used
+  - queue 🖐️ used
+  - stack 🖐️ used
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree 🖐️ used
+  - graph 🖐️ used
+  - iterator 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 🖐️ used
 - Process & style
   - compiler
   - transpiler
@@ -86,21 +86,21 @@
   - garbage collection
   - refactoring 🖐️ used
   - code review 🖐️ used
-  - antipatterns
-  - paradigm
+  - antipatterns 🖐️ used
+  - paradigm 🖐️ used
   - algorithm 🖐️ used
   - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
+  - hardcode  heard
+  - complexity  heard
+  - decomposition heard
+  - spaghetti 
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early
-  - unittest
-  - git
-  - github
+  - unittest 👂 heard
+  - git 🖐️ used
+  - github 🖐️ used

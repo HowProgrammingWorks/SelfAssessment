@@ -5,8 +5,8 @@
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🖐️ used
-  - call
-  - bind
+  - call 🖐️ used
+  - bind 🖐️ used
   - apply
   - instanceof 🎓 known
   - ...spread
@@ -20,11 +20,11 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 👂 heard
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters 👂 heard
-  - __proto__
+  - __proto__ 🖐️ used
   - prototype 👂 heard
   - equality operators 🖐️ used
   - logical operators 🖐️ used
@@ -37,7 +37,7 @@
   - strict mode
   - delete 🖐️ used
   - in 🖐️ used
-  - super
+  - super 👂 heard
   - Symbol
   - Reflect
 - Statements
@@ -47,18 +47,18 @@
   - for 🖐️ used
   - for..in 🖐️ used
   - for..of 🖐️ used
-  - for await
-  - throw
+  - for await 🖐️ used
+  - throw 👂 heard
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
-  - label
+  - label 
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
-  - new Error
-  - with
+  - new Error 👂 heard
+  - with 👂 heard
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
@@ -69,21 +69,21 @@
   - Array 🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
+  - typed arrays 👂 heard
+  - Map 🖐️ used
   - Set 👂 heard
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy
+  - Proxy 👂 heard
   - weak collections
   - timers 👂 heard
   - EventEmitter
   - RegExp
   - Date
-  - BigInt
+  - BigInt 🖐️ used
 - Infrastructure
   - V8
-  - Node.js 👂 heard
-  - npm
-  - prettier
-  - MDN
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🖐️ used
+  - MDN 👂 heard
