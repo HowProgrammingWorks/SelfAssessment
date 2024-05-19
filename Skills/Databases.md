@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning
-  - Migrations k
+  - Data types r
+  - Performance tuning r
+  - Migrations r
   - Schema versioning
   - Backup and recovery k
   - Database scalability
