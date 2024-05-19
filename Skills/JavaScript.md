@@ -3,13 +3,13 @@
 - Language 
   - Object 👂 heard
   - this 🎓 known
-  - arrow function 👂 heard
-  - async function 👂 heard
+  - arrow function 🎓 known
+  - async function 🎓 known
   - call 🎓 known
   - bind 🎓 known
   - apply 🎓 known
-  - instanceof 👂 heard
-  - ...spread 👂 heard
+  - instanceof 🎓 known
+  - ...spread 🎓 known
   - ...rest
   - typeof
   - destructuring
@@ -20,16 +20,16 @@
   - chaining 🖐️ used
   - optional chaining
   - IIFE🖐️ used
-  - global
+  - global 🎓 known
   - globalThis
-  - window
+  - window 🎓 known 
   - getters and setters
   - __proto__
   - prototype
-  - equality operators 🖐️ used
+  - equality operators 🎓 known
   - logical operators🖐️ used
   - bitwise operators🖐️ used
-  - ternary operator🖐️ used
+  - ternary operator🎓 known
   - void
   - yield
   - await
@@ -47,9 +47,9 @@
   - for 👂 heard
   - for..in 👂 heard
   - for..of 🎓 known
-  - for await 👂 heard
+  - for await 🎓 known
   - throw 👂 heard
-  - break 👂 heard 
+  - break🎓 known
   - continue 👂 heard
   - import 🎓 known
   - export
@@ -60,10 +60,10 @@
   - new Error 🎓 known
   - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
+  - function declaration 🎓 known
+  - function expression 🎓 known
   - return 🖐️ used
-  - default parameters
+  - default parameters 🎓 known
   - functional object 🖐️ used
 - Data structures
   - Array 🖐️ used
