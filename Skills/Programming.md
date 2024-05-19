@@ -2,12 +2,12 @@
 
 - Syntax and concepts
   - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
+  - identifier 🎓 known
+  - variable 🎓 known
+  - constant 🎓 known
   - scalar 🖐️ used 
   - literal 🖐️ used
-  - expression 🖐️ used
+  - expression 🎓 known
   - heap 🖐️ used
   - function 🖐️ used
   - procedure 👂 heard
@@ -17,7 +17,7 @@
   - event 👂 heard
   - type 🎓 known
   - primitive types👂 heard
-  - reference types 👂 heard
+  - reference types 🎓 known
   - flag 🎓 known  
   - lexical scope👂 heard
   - code block 👂 heard
@@ -69,9 +69,9 @@
   - circular list 🎓 known
   - queue👂 heard
   - stack👂 heard
-  - deque  🖐️ used
+  - deque  🎓 known
   - tree  🖐️ used
-  - graph  🖐️ used
+  - graph  🎓 known
   - iterator  🖐️ used
   - mutable state  🖐️ used
   - immutable state 🎓 known
@@ -82,7 +82,7 @@
   - transpiler  🎓 known
   - linter  🖐️ used
   - polyfill 🎓 known
-  - debugger  🖐️ used
+  - debugger  🎓 known
   - garbage collection 👂 heard
   - refactoring  🖐️ used
   - code review 🎓 known
