@@ -1,88 +1,88 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 🖐️ used
+  - node:module 🖐️ used
+  - Caching in CJS and ESM 🎓 known
+  - Modules as singletons 🎓 known
+  - Contexts and scripts node:vm 🖐️ used
+  - Dependencies: npm, node_modules 🎓 known
+  - Dependencies: package.json and package lock 🖐️ used
+  - Module-based permissions model 🎓 known
+  - Isolation with modularity 👂 heard
+  - Dependency injection 🖐️ used
+  - DI containers 👂 heard
+  - Coupling and cohesion 🖐️ used
+  - Framework agnostic approach 🖐️ used
 - Environment
-  - Command line arguments
+  - Command line arguments 🖐️ used
   - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Process-based permissions 🖐️ used
+  - Graceful shutdown 🖐️ used
+  - Clustering 🖐️ used
+  - Watch filesystem changes with --watch 🖐️ used
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
-  - node:async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
-  - Stream back pressure
-  - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
-  - MessageChannel, MessagePort
-  - BroadcastChannel
+  - Streams API 🖐️ used
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
+  - Password hashing with node:crypto.scrypt 👂 heard
+  - Web Crypto API 👂 heard
+  - File system API: sync and async 👂 heard
+  - Copy folder recursively 👂 heard
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard 
+  - Native fetch and nodejs/undici 👂 heard
+  - node:async_hooks 👂 heard
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 🎓 known
+  - Deprecated domain API 🎓 known
+  - Node.js single executable 🎓 known
+  - Stream back pressure 🎓 known
+  - SharedArrayBuffer 🎓 known
+  - node:worker_threads 🖐️ used 
+  - node:child_process 🖐️ used
+  - MessageChannel, MessagePort 🖐️ used
+  - BroadcastChannel 🖐️ used
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - node:url vs new URL 🖐️ used
+  - node:assert 🖐️ used
   - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
+  - Blob, File, Buffer, node:buffer 🖐️ used
+  - Module node:zlib 🖐️ used
 - Application structure and architecture
   - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
+  - Multilayer approach 🎓 known
+  - Separation of concerns 👂 heard
   - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
-  - GoF for Node.js
-  - Leaking abstractions
+  - Dependency injection 👂 heard
+  - GRASP 🎓 known
+  - SOLID 🙋 explained
+  - GoF patterns 👂 heard
+  - Distributed systems 👂 heard
+  - Highload applications 👂 heard
+  - Clean architecture 🙋 explained
+  - DDD 👂 heard
+  - Message Queue 🙋 explained
+  - CQS 👂 heard
+  - CQRS 👂 heard
+  - Event sourcing 🙋 explained
+  - Load balancing👂 heard
+  - Serverless clouds 👂 heard
+  - FaaS clouds  🙋 explained
+  - Fat controller 👂 heard
+  - GoF for Node.js 👂 heard
+  - Leaking abstractions 👂 heard
 - Network
   - IP sticky sessions
   - Endpoint throttling
