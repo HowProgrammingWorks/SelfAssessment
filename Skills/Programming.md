@@ -16,9 +16,9 @@
   - prototype 🖐️ used
   - event 🖐️ used
   - type 🖐️ used
-  - primitive types 🖐️ used
+  - primitive types 👂 heard
   - reference types
-  - flag 🖐️ used
+  - flag
   - lexical scope
   - code block 🖐️ used
   - conditions 🖐️ used
@@ -28,23 +28,23 @@
   - interface 🖐️ used
   - contract
   - module 🖐️ used
-  - call stack
+  - call stack 👂 heard
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 🖐️ used
   - lambda expression 🖐️ used
-  - side effects
+  - side effects 👂 heard
   - closure 🖐️ used
   - partial application
   - curry
   - higher order
   - recursion 🎓 known
   - callback 🖐️ used
-  - listener 🖐️ used
+  - listener
   - compose
-  - pipe 🖐️ used
+  - pipe
   - memoize
   - wrapper
   - functor
@@ -65,11 +65,11 @@
   - hash table
   - linked list 🖐️ used
   - doubly list 🖐️ used
-  - unrolled list 🖐️ used
-  - circular list 🖐️ used
-  - queue 🖐️ used
-  - stack 🖐️ used
-  - deque
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue 👂 heard
+  - stack 👂 heard
+  - deque 👂 heard
   - tree 🖐️ used
   - graph 🖐️ used
   - iterator 🖐️ used
@@ -86,12 +86,12 @@
   - garbage collection
   - refactoring 🖐️ used
   - code review 🖐️ used
-  - antipatterns 🖐️ used
+  - antipatterns 👂 heard
   - paradigm 🖐️ used
   - algorithm 🖐️ used
   - magic numbers
-  - hardcode  heard
-  - complexity  heard
+  - hardcode
+  - complexity
   - decomposition heard
   - spaghetti 
   - silver bullet
@@ -101,6 +101,6 @@
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early
-  - unittest 👂 heard
+  - unittest 🖐️ used
   - git 🖐️ used
   - github 🖐️ used

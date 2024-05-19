@@ -20,18 +20,18 @@
   - chaining
   - optional chaining
   - IIFE
-  - global 👂 heard
+  - global 🖐️ used
   - globalThis
   - window 👂 heard
-  - getters and setters 👂 heard
+  - getters and setters 🖐️ used
   - __proto__ 🖐️ used
-  - prototype 👂 heard
+  - prototype 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 
   - ternary operator 🖐️ used
   - void 👂 heard
-  - yield 👂 heard
+  - yield 🖐️ used
   - await 🖐️ used
   - template literal
   - strict mode
@@ -48,7 +48,7 @@
   - for..in 🖐️ used
   - for..of 🖐️ used
   - for await 🖐️ used
-  - throw 👂 heard
+  - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
@@ -80,10 +80,10 @@
   - EventEmitter
   - RegExp
   - Date
-  - BigInt 🖐️ used
+  - BigInt
 - Infrastructure
   - V8
-  - Node.js 🖐️ used
-  - npm 🖐️ used
-  - prettier 🖐️ used
-  - MDN 👂 heard
+  - Node.js 👂 heard
+  - npm 👂 heard
+  - prettier
+  - MDN

@@ -12,8 +12,8 @@
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
   - Asyncronous programming 🖐️ used
-  - Parallel programming 🖐️ used
-  - Reactive programming 🖐️ used
+  - Parallel programming
+  - Reactive programming
   - FRP (Functional-reactive)  heard
   - Automata-based programming
   - Domain-specific languages
@@ -21,11 +21,11 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method
+  - constructor 🎓 known 🖐️ used
+  - new 🎓 known 🖐️ used
+  - Static method 🎓 known 🖐️ used
+  - Method 🎓 known 🖐️ used
+  - Async method 👂 heard
   - Getters, Setters 🎓 known
   - Public fields 🎓 known
   - Private fields 🎓 known
@@ -45,9 +45,9 @@
   - Singleton
   - Factory Method
   - Abstract Factory
-  - Adapter  👂 heard
-  - Observer 👂 heard
-  - Strategy 👂 heard
+  - Adapter
+  - Observer
+  - Strategy
   - Facade
   - Proxy 👂 heard
   - Chain of Responsibility

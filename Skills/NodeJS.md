@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases 🖐️ used
-  - Event loop: microtasks and macrotasks 🖐️ used
-  - Garbage collection 🖐️ used
-  - Node.js LTS schedule 🖐️ used
-  - I/O-bound, CPU-bound, memory-bound tasks 🖐️ used
+  - Event loop: phases
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection
+  - Node.js LTS schedule
+  - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 🖐️ used
-  - ECMAScript modules 🖐️ used
-  - node:module 🖐️ used
+  - CommonJS modules 👂 heard
+  - ECMAScript modules 👂 heard
+  - node:module
   - Caching in CJS and ESM
   - Modules as singletons 
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules 🖐️ used
-  - Dependencies: package.json and package lock 🖐️ used
+  - Dependencies: npm, node_modules 👂 heard
+  - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -27,9 +27,9 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments 🖐️ used
-  - Node.js CLI 🖐️ used
-  - Process-based permissions 🖐️ used
-  - Graceful shutdown 👂 heard
+  - Node.js CLI 👂 heard
+  - Process-based permissions
+  - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -38,7 +38,7 @@
   - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async 🖐️ used
+  - File system API: sync and async
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -55,7 +55,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL 👂 heard
+  - node:url vs new URL
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
@@ -142,7 +142,7 @@
   - error.message 🎓 known
   - error.stack 🎓 known
   - How to avoid mixins
-  - Error.captureStackTrace 🎓 known
+  - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
@@ -152,9 +152,9 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons 👂 heard
-  - Rust addons 👂 heard
-  - Zig addons 👂 heard
+  - C and C++ addons
+  - Rust addons
+  - Zig addons 
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
   - NAPI C and C++

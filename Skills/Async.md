@@ -4,7 +4,7 @@
   - Event loop 🖐️ used
   - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O 🖐️ used
+  - Async I/O 👂 heard
   - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks 👂 heard
-  - Live locks 👂 heard
-  - Concurrent programming 🖐️ used
-  - Parallel programming 🖐️ used
+  - Dead locks
+  - Live locks
+  - Concurrent programming
+  - Parallel programming
   - Actor Model
   - Thread 🖐️ used
-  - Process 🖐️ used
+  - Process
 - Async contracts
   - Callbacks 🎓 known
   - Callback-last-error-first 🎓 known
@@ -41,19 +41,19 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify 👂 heard
-  - promisify 👂 heard
-  - asyncify 👂 heard
+  - callbackify
+  - promisify
+  - asyncify
   - callbacks compose
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer 👂 heard
+  - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool 👂 heard
-  - Async Queue 👂 heard
+  - Async Pool
+  - Async Queue
   - Async Collector
   - Semaphore
   - Mutex
@@ -65,10 +65,10 @@
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
-  - Promise double resolve 👂 heard
+  - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics 🖐️ used
+  - Atomics 👂 heard
   - High resolution clock
   - Callback hell 🎓 known
   - Promise hell 👂 heard
@@ -81,9 +81,9 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library 👂 heard
-  - RxJS library 👂 heard
-  - Async composition 👂 heard
+  - async.js library
+  - RxJS library
+  - Async composition
   - Promise.all
   - Promise.allSettled
   - Promise.race
