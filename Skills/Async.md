@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
+  - Event loop 🖐️ used
   - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O 👂 heard
+  - Async I/O 🖐️ used
   - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
@@ -16,21 +16,21 @@
   - Race conditions
   - Dead locks 👂 heard
   - Live locks 👂 heard
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 🖐️ used
+  - Parallel programming 🖐️ used
   - Actor Model
-  - Thread 👂 heard
-  - Process 👂 heard
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
   - Callbacks 🎓 known
   - Callback-last-error-first 🎓 known
   - Thenable
-  - Promise
+  - Promise 🖐️ used
   - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
+  - Sync generator 🖐️ used
+  - Async Generator 🖐️ used
   - Async Iterator
   - Event 👂 heard
   - Coroutine
@@ -48,12 +48,12 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer 👂 heard
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
@@ -68,7 +68,7 @@
   - Promise double resolve 👂 heard
   - child_process
   - worker_threads
-  - Atomics
+  - Atomics 🖐️ used
   - High resolution clock
   - Callback hell 🎓 known
   - Promise hell 👂 heard
@@ -82,8 +82,8 @@
   - AsyncResource
 - Techniques
   - async.js library 👂 heard
-  - RxJS library
-  - Async composition
+  - RxJS library 👂 heard
+  - Async composition 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race
