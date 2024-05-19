@@ -7,21 +7,21 @@
   - async function 🖐️ used
   - call 🖐️ used
   - bind 🖐️ used
-  - apply
+  - apply 🖐️ used
   - instanceof 🎓 known
-  - ...spread
+  - ...spread 🖐️ used
   - ...rest 🖐️ used
   - typeof 🖐️ used
   - destructuring
-  - generator
+  - generator 🖐️ used
   - iterator 🖐️ used
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - async generator 🖐️ used
+  - async iterator 🖐️ used
+  - chaining 🖐️ used
+  - optional chaining 🖐️ used
   - IIFE
   - global 👂 heard
-  - globalThis
+  - globalThis 🖐️ used
   - window 👂 heard
   - getters and setters 👂 heard
   - __proto__ 🖐️ used
@@ -53,7 +53,7 @@
   - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
-  - label 
+  - label  🖐️ used
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
@@ -77,12 +77,12 @@
   - Proxy 👂 heard
   - weak collections
   - timers 👂 heard
-  - EventEmitter
+  - EventEmitter 🖐️ used
   - RegExp
   - Date
   - BigInt 🖐️ used
 - Infrastructure
-  - V8
+  - V8 👂 heard
   - Node.js 🖐️ used
   - npm 🖐️ used
   - prettier 🖐️ used
