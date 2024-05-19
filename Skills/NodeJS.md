@@ -14,14 +14,14 @@
   - CommonJS modules 🖐️ used
   - ECMAScript modules 🖐️ used
   - node:module 🖐️ used
-  - Caching in CJS and ESM
-  - Modules as singletons 
-  - Contexts and scripts node:vm
+  - Caching in CJS and ESM 👂 heard
+  - Modules as singletons  👂 heard
+  - Contexts and scripts node:vm 👂 heard
   - Dependencies: npm, node_modules 🖐️ used
   - Dependencies: package.json and package lock 🖐️ used
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Module-based permissions model 🖐️ used
+  - Isolation with modularity 
+  - Dependency injection 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -37,21 +37,21 @@
   - Web Streams API 👂 heard
   - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API
+  - Web Crypto API 👂 heard
   - File system API: sync and async 🖐️ used
   - Copy folder recursively
-  - Worker threads
-  - Performance hooks
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard
   - Native fetch and nodejs/undici
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
+  - Stream back pressure 👂 heard
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads 👂 heard
+  - node:child_process 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
@@ -61,13 +61,13 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
+  - Isolation between layer 👂 heard
+  - Multilayer approach 👂 heard
+  - Separation of concerns 👂 heard
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -90,8 +90,8 @@
   - TCP/SSL 🎓 known
   - UDP 👂 heard
   - TLS 👂 heard
-  - Websocket
-  - SSE
+  - Websocket 🎓 known
+  - SSE 👂 heard
   - HTTP/3 (QUIC) 👂 heard
   - Long polling
   - REST 👂 heard
@@ -99,9 +99,9 @@
   - Routing 🎓 known
   - DoS 👂 heard
   - DDoS 👂 heard
-  - XSS
+  - XSS  known
   - Path traversal
-  - CSRF
+  - CSRF 👂 heard
   - DNS 🎓 known
   - Fetch API
   - IncomingMessage
@@ -131,8 +131,8 @@
   - Flexibility 👂 heard
 - Data access
   - Data access layer
-  - Repository
-  - Active record
+  - Repository  known
+  - Active record  known
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
@@ -143,10 +143,10 @@
   - error.stack 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace 🎓 known
-  - Uncaught exceptions
+  - Uncaught exceptions  known
   - Heap dump
   - Debugging tools
-  - Flame graph
+  - Flame graph  known
   - Memory leaks 🎓 known
   - Resource leaks 🎓 known
   - Data race
@@ -156,7 +156,7 @@
   - Rust addons 👂 heard
   - Zig addons 👂 heard
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API) 👂 heard
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig
