@@ -4,18 +4,18 @@
   - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases 👂 heard
-  - Event loop: microtasks and macrotasks
-  - Garbage collection 👂 heard
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Event loop: phases 🖐️ used
+  - Event loop: microtasks and macrotasks 🖐️ used
+  - Garbage collection 🖐️ used
+  - Node.js LTS schedule 🖐️ used
+  - I/O-bound, CPU-bound, memory-bound tasks 🖐️ used
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - node:module 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules 🖐️ used
   - Dependencies: package.json and package lock 🖐️ used
@@ -27,15 +27,15 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments 🖐️ used
-  - Node.js CLI
-  - Process-based permissions
+  - Node.js CLI 🖐️ used
+  - Process-based permissions 🖐️ used
   - Graceful shutdown 👂 heard
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API 👂 heard
   - Web Streams API 👂 heard
-  - Crypto API
+  - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async 🖐️ used
@@ -55,7 +55,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL 👂 heard
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
@@ -84,8 +84,8 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling 👂 heard
   - HTTP(S) 🎓 known
   - TCP/SSL 🎓 known
   - UDP 👂 heard
@@ -95,8 +95,8 @@
   - HTTP/3 (QUIC) 👂 heard
   - Long polling
   - REST 👂 heard
-  - RPC
-  - Routing
+  - RPC 👂 heard
+  - Routing 🎓 known
   - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
@@ -107,7 +107,7 @@
   - IncomingMessage
   - SQL injection 👂 heard
   - noDelay
-  - keep-alive
+  - keep-alive 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates 👂 heard
@@ -120,14 +120,14 @@
   - CI/CD
   - Readable 👂 heard
   - Writable
-  - Transform
+  - Transform 👂 heard
   - back pressure
   - Buffer
   - Console 👂 heard
-  - Inspector
+  - Inspector 👂 heard
   - Reliability 👂 heard
   - Quality
-  - Availability
+  - Availability 👂 heard
   - Flexibility 👂 heard
 - Data access
   - Data access layer
@@ -137,24 +137,24 @@
   - Object-Relational Mapping
 - Error handling and debugging
   - Error 🎓 known
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - error.cause 🎓 known
+  - error.code 🎓 known
+  - error.message 🎓 known
+  - error.stack 🎓 known
   - How to avoid mixins
-  - Error.captureStackTrace
+  - Error.captureStackTrace 🎓 known
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons
   - C and C++ addons 👂 heard
-  - Rust addons
-  - Zig addons
+  - Rust addons 👂 heard
+  - Zig addons 👂 heard
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
   - NAPI C and C++
