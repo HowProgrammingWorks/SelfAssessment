@@ -1,63 +1,63 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js k
+  - Stateful and stateless servers u
+  - Nonblocking I/O and blocking code k
+  - Event loop phases k
+  - Event loop microtasks and macrotasks h
+  - Garbage collection u
+  - Node.js LTS schedule u
+  - I/O-bound, CPU-bound, memory-bound tasks h
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules u
+  - ECMAScript modules u
+  - Module `node:module` u
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons h
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
+  - Module-based permissions model h
+  - Isolation with modularity u
+  - Dependency injection u
+  - DI containers h
+  - Coupling and cohesion k
+  - Framework agnostic approach h
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Command line arguments u
+  - Node.js CLI u
+  - Process-based permissions h
+  - Graceful shutdown k
+  - Clustering h
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - Streams API h
+  - Web Streams API h
+  - Crypto API k
+  - Password hashing with crypto.scrypt u
+  - Web Crypto API k
+  - File system API (sync and async) u
+  - Copy folder recursively k
+  - Worker threads h
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici k
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
-  - Deprecated domain API
+  - Deprecated domain API h
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads` h
+  - Module `node:child_process` h
   - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
-  - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - BroadcastChannel h
+  - Generating crypto random UUID k
+  - Module `node:url` vs `new URL` u
+  - Module `node:assert` u
+  - Internationalization u
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,63 +65,63 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) u
+  - TCP/SSL h
+  - UDP h
   - TLS
-  - Websocket
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS h
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS h
+  - SQL injection k
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive k
+  - IP sticky sessions k
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner k
+  - Logging k
+  - Application configuring u
+  - Testing u
+  - CI/CD u
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer k
+  - Repository k
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD u
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error` u
+  - `error.cause` k
+  - `error.code` k
+  - `error.message` u
+  - `error.stack` k
+  - `Error.captureStackTrace` k
   - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions k
+  - Heap dump h
+  - Debugging tools k
   - Flame graph
-  - Memory leaks
+  - Memory leaks k
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Shared memory h
+  - V8 binary serialization h
