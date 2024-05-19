@@ -9,16 +9,16 @@
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 👂 heard
-  - Generic programming
-  - Concurrent computing
+  - Generic programming 👂 heard
+  - Concurrent computing 👂 heard
   - Asyncronous programming: 👂 heard
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages 👂 heard
   - Multi-paradigm programming: 👂 heard
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
   - constructor: 🖐️ used
@@ -39,25 +39,25 @@
   - Hidden class: 👂 heard
   - Object form: 👂 heard
   - instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
   - Singleton: 🖐️ used
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer: 👂 heard
-  - Strategy
+  - Strategy 🖐️ used
   - Facade: 👂 heard
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
-  - Command
+  - Command 🖐️ used
   - Iterator: 👂 heard
   - State: 👂 heard
   - Bridge
   - Builder: 👂 heard
   - Prototype: 👂 heard
-  - Composite
+  - Composite 🖐️ used
   - Decorator: 👂 heard
   - Flyweight
   - Mediator

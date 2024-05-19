@@ -6,7 +6,7 @@
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
-  - Pattern Reactor
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -33,9 +33,9 @@
   - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used
   - Event: 🖐️ used
-  - Coroutine
-  - Goroutine
-  - Signal
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 👂 heard
   - Stream: 👂 heard
   - Chain of responsibility: 👂 heard
   - Middleware
@@ -44,14 +44,14 @@
   - callbackify: 👂 heard
   - promisify: 👂 heard
   - asyncify: 👂 heard
-  - callbacks compose
+  - callbacks compose 👂 heard
   - async compose
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer: 👂 heard
   - Readable: 👂 heard
   - Writable: 👂 heard
-  - Transform
+  - Transform 👂 heard
   - Async Pool: 👂 heard
   - Async Queue: 🖐️ used
   - Async Collector: 🖐️ used

@@ -49,7 +49,7 @@
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
-  - SharedArrayBuffer
+  - SharedArrayBuffer 👂 heard
   - node:worker_threads: 🖐️ used
   - node:child_process: 🖐️ used
   - MessageChannel, MessagePort
@@ -94,7 +94,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC: 👂 heard
   - Routing: 👂 heard
   - DoS: 🎓 known
@@ -106,7 +106,7 @@
   - Fetch API: 🎓 known
   - IncomingMessage
   - SQL injection: 🎓 known
-  - noDelay
+  - noDelay 👂 heard
   - keep-alive
   - ALPN
   - SNI callback
@@ -120,7 +120,7 @@
   - CI/CD: 👂 heard
   - Readable: 🖐️ used
   - Writable: 🖐️ used
-  - Transform
+  - Transform 👂 heard
   - back pressure: 👂 heard
   - Buffer: 🖐️ used
   - Console: 🖐️ used

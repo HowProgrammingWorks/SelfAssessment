@@ -21,8 +21,8 @@
   - optional chaining
   - IIFE
   - global: 👂 heard
-  - globalThis
-  - window
+  - globalThis 🖐️ used
+  - window 🖐️ used
   - getters and setters: 🖐️ used
   - __proto__: 👂 heard
   - prototype: 👂 heard
@@ -30,13 +30,13 @@
   - logical operators: 🎓 known
   - bitwise operators: 🎓 known
   - ternary operator: 🎓 known
-  - void
+  - void 🖐️ used
   - yield
   - await: 🖐️ used
   - template literal
   - strict mode: 🖐️ used
-  - delete
-  - in
+  - delete 🖐️ used
+  - in 🖐️ used
   - super: 🎓 known
   - Symbol: 🎓 known
   - Reflect
@@ -58,13 +58,13 @@
   - switch: 🖐️ used
   - class: 🎓 known
   - new Error: 🖐️ used
-  - with
+  - with 🖐️ used
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
   - return: 🖐️ used
   - default parameters: 🖐️ used
-  - functional object
+  - functional object 🖐️ used
 - Data structures
   - Array: 🖐️ used
   - mixin: 👂 heard

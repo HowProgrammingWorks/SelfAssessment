@@ -55,7 +55,7 @@
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
-  - record
+  - record 🖐️ used
   - enum: 👂 heard
   - instance: 🖐️ used
   - object: 🖐️ used
@@ -69,20 +69,20 @@
   - circular list
   - queue: 🖐️ used
   - stack: 🖐️ used
-  - deque
+  - deque 🖐️ used
   - tree: 🖐️ used
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - graph 🖐️ used
+  - iterator 🖐️ used
+  - mutable state 🖐️ used
+  - immutable state 🖐️ used
   - serialization: 👂 heard
   - string parsing: 👂 heard
 - Process & style
   - compiler: 👂 heard
   - transpiler
   - linter: 🖐️ used
-  - polyfill
-  - debugger
+  - polyfill 🖐️ used
+  - debugger 🖐️ used
   - garbage collection: 👂 heard
   - refactoring: 🎓 known
   - code review: 🎓 known
@@ -100,7 +100,7 @@
   - unreachable code: 👂 heard
   - duplicate code: 👂 heard
   - exception: 🖐️ used
-  - return early
+  - return early 🖐️ used
   - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used
