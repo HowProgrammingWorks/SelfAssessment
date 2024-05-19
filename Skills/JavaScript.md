@@ -1,86 +1,118 @@
 ## JavaScript
 
 - Language
-  - Object 👂 heard
-  - this 👂 heard
-  - arrow function
-  - async function 👂 heard
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof 🖐️ used
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Object` 👂 heard
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`
+  - `null`
+  - `this` 👂 heard
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof` 👂 heard
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters 👂 heard
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void 👂 heard
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super 👂 heard
-  - Symbol 🖐️ used
-  - Reflect
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters 👂 heard
+  - `__proto__`
+  - `prototype`
+  - Equality operators
+  - Logical operators
+  - Logical Assignment
+  - Bitwise operators
+  - Ternary operator
+  - `void` 👂 heard
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super` 👂 heard
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 👂 heard
-  - for..of
-  - for await
-  - throw
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import
-  - export
-  - label
-  - try..catch 👂 heard
-  - switch 🖐️ used
-  - class 👂 heard
-  - new Error
-  - with
+  - `if` 🖐️ used
+  - `while` 🖐️ used
+  - `do..while` 🖐️ used
+  - `for` 🖐️ used
+  - `for..in` 👂 heard
+  - `for..of`
+  - `for await`
+  - `throw`
+  - `break` 🖐️ used
+  - `continue` 🖐️ used
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch` 👂 heard
+  - `switch` 🖐️ used
+  - `class`  👂 heard
+  - `extends`
+  - `with`
+  - `new`
 - Functions
-  - function declaration 🎓 known
-  - function expression 👂 heard
-  - return 🖐️ used
-  - default parameters
-  - functional object
+  - Arrow function
+  - Async function
+  - Function declaration 🎓 known
+  - Function expression 👂 heard
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return` 🖐️ used
 - Data structures
-  - Array 🖐️ used
-  - mixin
-  - extend
-  - typed arrays
-  - Map 👂 heard
-  - Set 👂 heard
-  - undefined 👂 heard
-  - null 👂 heard
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - `Array` 🖐️ used
+  - `Map`  👂 heard
+  - `Set`  👂 heard
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
 - Infrastructure
   - V8
   - Node.js
