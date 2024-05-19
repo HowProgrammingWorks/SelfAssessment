@@ -1,92 +1,92 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity 👂 heard
+  - Components 🖐️ used
+  - Directories🖐️ used
+  - GRASP🖐️ used
+  - SOLID🖐️ used
+  - GoF patterns👂 heard
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Multiparadigm code👂 heard
+  - Contract programming👂 heard
+  - Platform-agnostic👂 heard
+  - Transport-agnostic👂 heard
+  - Framework-agnostic👂 heard
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality👂 heard
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
+  - System vs applied code👂 heard
   - Multilayer approach
-  - Hexagonal architecture
+  - Hexagonal architecture👂 heard
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
+  - Inversion of control (IoC)👂 heard
   - Dependency injection (DI)
   - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
+  - Domain-driven design (DDD)👂 heard
+  - Pub/sub👂 heard
   - Message brocker
-  - Agent
+  - Agent👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing
+  - Event sourcing👂 heard
   - E-R data modeling
   - Entity-relationship diagram
-  - IDEF1X
+  - IDEF1X👂 heard
   - UML
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems👂 heard
   - High-intensive computing
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS👂 heard
+  - PaaS👂 heard
+  - SaaS👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
+  - Solution visions👂 heard
+  - Solution capabilities👂 heard
   - System design
-  - Process modelling
+  - Process modelling👂 heard
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds👂 heard
   - BPMN
   - Low-code
   - No-code
   - Metric
-  - Metric abuse
+  - Metric abuse👂 heard
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs👂 heard
   - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision
+  - Enterprise vision👂 heard
   - Enterprise capabilities
   - Project scope
-  - Enterprise service bus
+  - Enterprise service bus👂 heard
   - Service-oriented architecture
   - Microservices
   - Process choreography
