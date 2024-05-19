@@ -1,94 +1,94 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity u
+  - Components u
+  - Directories u
+  - GRASP k
+  - SOLID k
+  - GoF patterns k
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions k
+  - Multiparadigm code u
+  - Contract programming k
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Code coverage u
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD) k
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer k
+  - Domain-specific language (DSL) k
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach k
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC) k
+  - Dependency injection (DI) u
+  - Clean architecture k
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent k
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram u
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Budget estimation k
+  - Distributed systems k
+  - High-intensive computing k
+  - Load balancing k
+  - Gateways k
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless k
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
+  - A software requirements specification (SRS) k
+  - Solution visions h
+  - Solution capabilities k
+  - System design k
+  - Process modelling h
+  - Data modelling k
+  - Solution components k
+  - Risk assessment h
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
   - Low-code
   - No-code
-  - Metric
-  - Metric abuse
-  - ACID
+  - Metric h
+  - Metric abuse h
+  - ACID h
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
+  - Understanding business needs k
+  - Enterprise strategy k
+  - Integration with subsystems k
+  - Enterprise vision h
   - Enterprise capabilities
-  - Project scope
+  - Project scope k
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices k
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance h
   - Engineering Hygiene
