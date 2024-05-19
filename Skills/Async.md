@@ -3,19 +3,19 @@
 - Theory
   - Event loop 🖐️ used
   - try..catch 🖐️ used
-  - Non-blocking
+  - Non-blocking 🖐️ used
   - Async I/O 🖐️ used
   - Thread pool 👂 heard
-  - Pattern Reactor
-  - CAS operations
-  - epoll
+  - Pattern Reactor 🖐️ used
+  - CAS operations 🖐️ used
+  - epoll 🖐️ used
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports 🖐️ used
   - libuv
-  - Race conditions
-  - Dead locks 👂 heard
-  - Live locks 👂 heard
+  - Race conditions 🖐️ used
+  - Dead locks 🖐️ used
+  - Live locks 👂🖐️ used
   - Concurrent programming 🖐️ used
   - Parallel programming 🖐️ used
   - Actor Model
@@ -27,44 +27,44 @@
   - Thenable
   - Promise 🖐️ used
   - Async/await 🖐️ used
-  - Future
-  - Deferred
+  - Future 🖐️ used
+  - Deferred  🖐️ used
   - Sync generator 🖐️ used
   - Async Generator 🖐️ used
   - Async Iterator
   - Event 👂 heard
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal 🖐️ used
+  - Stream 🖐️ used
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks 🖐️ used
 - Async adapters and utils
   - callbackify 👂 heard
   - promisify 👂 heard
   - asyncify 👂 heard
-  - callbacks compose
+  - callbacks compose 🖐️ used
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 👂 heard
   - Observable/Observer 👂 heard
-  - Readable
-  - Writable
-  - Transform
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 🖐️ used
   - Async Pool 👂 heard
   - Async Queue 👂 heard
-  - Async Collector
-  - Semaphore
+  - Async Collector 👂 heard
+  - Semaphore 👂 heard
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers 🎓 known
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
+  - setImmediate 👂 heard
+  - nextTick 👂 heard
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
+  - Promise unhandled rejection 👂 heard
   - Promise double resolve 👂 heard
   - child_process
   - worker_threads
@@ -77,19 +77,19 @@
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify
-  - callbackify
+  - callbackify 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library 👂 heard
   - RxJS library 👂 heard
   - Async composition 👂 heard
-  - Promise.all
-  - Promise.allSettled
+  - Promise.all 🖐️ used
+  - Promise.allSettled 🖐️ used
   - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
+  - Promise.any 🖐️ used
+  - Web Locks API 👂 heard
+  - IPC 👂 heard
   - Channel API
   - Revealing Constructor
   - Web Locks API
