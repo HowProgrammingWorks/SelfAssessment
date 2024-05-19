@@ -5,17 +5,17 @@
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
+  - Garbage collection in .NET👂 heard
+  - .NET runtime versions and support👂 heard
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
+  - Dependency management in .NET👂 heard
+  - Dependency Injection in .NET👂 heard
+  - Inversion of Control (IoC)🖐️ used
+  - IoC containers in .NET👂 heard
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
@@ -37,7 +37,7 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support👂 heard
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals🖐️ used
   - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - Reflection and dynamic programming🖐️ used
+  - Data types and collections🖐️ used
+  - Generics and extension methods🖐️ used
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
