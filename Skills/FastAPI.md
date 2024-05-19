@@ -1,28 +1,28 @@
 # Python FastAPI
 
 - Framework
-  - Asynchronous Programming 👂 heard
-  - Routing 👂 heard
-  - Validation 👂 heard
-  - Models 👂 heard
-  - Dependency Management 👂 heard
-  - Background Tasks 👂 heard
-  - Exception Handling 👂 heard
-  - Middleware 👂 heard
-  - Pydantic 👂 heard
-  - CRUD 👂 heard
-  - Authentication 👂 heard
-  - OAuth2 Authentication 👂 heard
-  - JWT 👂 heard
-  - OAuth2 Password Flow 👂 heard
-  - API Key Security 👂 heard
-  - Rate Limiting 👂 heard
-  - Unit Testing in FastAPI 👂 heard
-  - Dockerizing 👂 heard
-  - Performance Optimization 👂 heard
-  - OpenAPI and Swagger UI 👂 heard
+  - Asynchronous Programming u
+  - Routing u
+  - Validation u
+  - Models u
+  - Dependency Management u
+  - Background Tasks u
+  - Exception Handling u
+  - Middleware u
+  - Pydantic u
+  - CRUD u
+  - Authentication u
+  - OAuth2 Authentication u
+  - JWT u
+  - OAuth2 Password Flow u
+  - API Key Security u
+  - Rate Limiting u
+  - Unit Testing in FastAPI u
+  - Dockerizing u
+  - Performance Optimization u
+  - OpenAPI and Swagger u
   - WebSocket Communication 👂 heard
-  - Middleware 👂 heard
+  - Middleware u
 - Application structure and architecture 
   - Isolation between layer 🖐️ used
   - Multilayer approach 🖐️ used
@@ -49,7 +49,7 @@
   - Long polling 🖐️ used
   - REST 🙋 explained
   - RPC 👂 heard
-  - Routing 👂 heard
+  - Routing u
   - DoS 👂 heard
   - DDoS 👂 heard
   - Path traversal

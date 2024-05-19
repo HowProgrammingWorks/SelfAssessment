@@ -46,7 +46,10 @@
   - NumPy 🖐️ used
   - Pandas 🖐️ used
   - Matplotlib 🖐️ used
-  - FastAPI 👂 heard
+  - FastAPI u
   - Django 🖐️ used
   - asyncio 🖐️ used
-  - selenium 🖐️ used
+  - selenium e
+  - kivy u
+  - curl_cffi u
+  - flask u
