@@ -3,15 +3,15 @@
 - Theory
   - Event loop: 🖐️ used
   - try..catch: 🖐️ used
-  - Non-blocking: 👂 heard
+  - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
-  - Thread pool: 👂 heard
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports: 👂 heard
+  - Event ports: 🖐️ used
   - libuv
   - Race conditions: 👂 heard
   - Dead locks: 🖐️ used
@@ -19,7 +19,7 @@
   - Concurrent programming: 👂 heard
   - Parallel programming: 🖐️ used
   - Actor Model: 🎓 known
-  - Thread: 🖐️ used
+  - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
@@ -30,14 +30,14 @@
   - Future
   - Deferred
   - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
   - Stream: 👂 heard
-  - Chain of responsibility
+  - Chain of responsibility: 👂 heard
   - Middleware
   - Locks
 - Async adapters and utils
@@ -47,14 +47,14 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
-  - Observable/Observer
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 👂 heard
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
-  - Async Pool
-  - Async Queue: 👂 heard
-  - Async Collector: 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 🖐️ used
+  - Async Collector: 🖐️ used
   - Semaphore
   - Mutex
   - Spin Lock
@@ -75,9 +75,9 @@
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await
-  - JSON: streaming serialization:👂 heard
-  - promisify
-  - callbackify
+  - JSON: streaming serialization: 👂 heard
+  - promisify: 👂 heard
+  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

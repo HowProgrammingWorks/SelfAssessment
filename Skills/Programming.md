@@ -47,10 +47,10 @@
   - pipe: 👂 heard
   - memoize: 👂 heard
   - wrapper: 👂 heard
-  - functor
+  - functor: 🖐️ used
   - monad
   - monoid
-  - generator: 👂 heard
+  - generator: 🖐️ used
   - coroutine
 - Data structures
   - array: 🖐️ used
@@ -70,7 +70,7 @@
   - queue: 🖐️ used
   - stack: 🖐️ used
   - deque
-  - tree
+  - tree: 🖐️ used
   - graph
   - iterator
   - mutable state
@@ -101,6 +101,6 @@
   - duplicate code: 👂 heard
   - exception: 🖐️ used
   - return early
-  - unittest
+  - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used

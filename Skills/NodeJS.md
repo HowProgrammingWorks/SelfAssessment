@@ -7,7 +7,7 @@
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
@@ -15,12 +15,12 @@
   - ECMAScript modules: 👂 heard
   - node:module: 🎓 known
   - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons: 👂 heard
+  - Modules as singletons: 🖐️ used
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity: 👂 heard
   - Dependency injection: 👂 heard
   - DI containers: 👂 heard
   - Coupling and cohesion
@@ -41,7 +41,7 @@
   - File system API: sync and async: 👂 heard
   - Copy folder recursively
   - Worker threads: 🖐️ used
-  - Performance hooks
+  - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici
   - node:async_hooks
   - AsyncLocalStorage
@@ -50,8 +50,8 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads: 👂 heard
-  - node:child_process: 👂 heard
+  - node:worker_threads: 🖐️ used
+  - node:child_process: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
@@ -73,7 +73,7 @@
   - Highload applications: 👂 heard
   - Clean architecture: 👂 heard
   - DDD
-  - Message Queue
+  - Message Queue: 👂 heard
   - CQS
   - CQRS
   - Event sourcing
@@ -118,8 +118,8 @@
   - Application configuring: 👂 heard
   - Testing: 👂 heard
   - CI/CD: 👂 heard
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure: 👂 heard
   - Buffer: 🖐️ used

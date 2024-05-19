@@ -13,11 +13,11 @@
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
   - async generator
   - async iterator
-  - chaining: 👂 heard
+  - chaining: 🖐️ used
   - optional chaining
   - IIFE
   - global: 👂 heard
@@ -32,7 +32,7 @@
   - ternary operator: 🎓 known
   - void
   - yield
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal
   - strict mode: 🖐️ used
   - delete
@@ -75,9 +75,9 @@
   - undefined: 🖐️ used 
   - null: 🖐️ used 
   - Proxy: 👂 heard
-  - weak collections: 👂 heard
-  - timers: 👂 heard
-  - EventEmitter:  👂 heard
+  - weak collections: 🖐️ used
+  - timers: 🖐️ used
+  - EventEmitter: 🖐️ used
   - RegExp: 👂 heard
   - Date: 🖐️ used
   - BigInt: 👂 heard

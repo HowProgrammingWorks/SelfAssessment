@@ -37,7 +37,7 @@
   - Interface: 🖐️ used
   - Encapsulation
   - Hidden class: 👂 heard
-  - Object form
+  - Object form: 👂 heard
   - instance: 🖐️ used
   - Introspection
   - Reflection
@@ -46,16 +46,16 @@
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
   - Facade: 👂 heard
   - Proxy: 👂 heard
-  - Chain of Responsibility
+  - Chain of Responsibility: 👂 heard
   - Command
   - Iterator: 👂 heard
   - State: 👂 heard
   - Bridge
-  - Builder
+  - Builder: 👂 heard
   - Prototype: 👂 heard
   - Composite
   - Decorator: 👂 heard
