@@ -5,8 +5,8 @@
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🖐️ used
-  - call
-  - bind
+  - call 🖐️ used
+  - bind 🖐️ used
   - apply
   - instanceof 🎓 known
   - ...spread
@@ -24,7 +24,7 @@
   - globalThis
   - window 👂 heard
   - getters and setters 👂 heard
-  - __proto__
+  - __proto__ 🖐️ used
   - prototype 👂 heard
   - equality operators 🖐️ used
   - logical operators 🖐️ used
@@ -47,13 +47,13 @@
   - for 🖐️ used
   - for..in 🖐️ used
   - for..of 🖐️ used
-  - for await
+  - for await 🖐️ used
   - throw 👂 heard
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
-  - label
+  - label 
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
@@ -80,10 +80,10 @@
   - EventEmitter
   - RegExp
   - Date
-  - BigInt
+  - BigInt 🖐️ used
 - Infrastructure
   - V8
-  - Node.js 👂 heard
-  - npm 👂 heard
-  - prettier
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🖐️ used
   - MDN 👂 heard
