@@ -36,15 +36,15 @@
   - Abstract class
   - Interface 👂 heard
   - Encapsulation 👂 heard
-  - Hidden class
-  - Object form
+  - Hidden class 🎓 known
+  - Object form 👂 heard
   - instance 🎓 known
-  - Introspection
-  - Reflection
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
+  - Singleton 👂 heard
   - Factory Method
-  - Abstract Factory
+  - Abstract Factory 👂 heard
   - Adapter  👂 heard
   - Observer 👂 heard
   - Strategy 👂 heard
@@ -61,6 +61,6 @@
   - Decorator 👂 heard
   - Flyweight
   - Mediator
-  - Memento
+  - Memento 👂 heard
   - Template Method
   - Visitor
