@@ -1,6 +1,118 @@
 ## JavaScript
 
 - Language
+  - `Object`: 👂 heard
+  - `Function`: 🖐️ used
+  - `Boolean`: 👂 heard
+  - `Number`: 🖐️ used
+  - `BigInt`
+  - `String`: 👂 heard
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
+  - `this`
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`: 👂 heard
+  - Destructuring
+  - Generators
+  - Iterators: 👂 heard
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
+  - IIFE
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode: 🖐️ used
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
+- Statements
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 👂 heard
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`🖐️ used
+  - `throw`: 👂 heard
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
+  - `import`: 🖐️ used
+  - `export`👂 heard
+  - `label`
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
+  - `class`: 👂 heard
+  - `extends`: 👂 heard
+  - `with`
+  - `new`
+- Functions
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
+- Data structures
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`👂 heard
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`: 👂 heard
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
 - Infrastructure
   - V8
   - Node.js
