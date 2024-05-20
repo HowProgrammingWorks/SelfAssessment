@@ -1,43 +1,43 @@
 ## JavaScript
 
 - Language
-  - Object: 👂 heard
-  - this: 👂 heard
-  - arrow function: 👂 heard
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
   - call
   - bind
   - apply
-  - instanceof: 👂 heard
-  - ...spread
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
   - ...rest
-  - typeof: 👂 heard
+  - typeof: 🖐️ used
   - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global: 👂 heard
+  - global: 🖐️ used
   - globalThis
-  - window
-  - getters and setters: 👂 heard
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators
-  - ternary operator: 👂 heard
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
   - void
   - yield
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal
-  - strict mode
+  - strict mode: 🖐️ used
   - delete
   - in: 🖐️ used
-  - super
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
@@ -51,7 +51,7 @@
   - throw: 🙋 explained
   - break: 🙋 explained
   - continue: 🙋 explained
-  - import: 👂 heard
+  - import: 🖐️ used
   - export
   - label
   - try..catch: 🙋 explained
@@ -78,12 +78,12 @@
   - weak collections
   - timers
   - EventEmitter
-  - RegExp: 👂 heard
-  - Date
-  - BigInt
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
   - Node.js
-  - npm: 👂 heard
+  - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN
