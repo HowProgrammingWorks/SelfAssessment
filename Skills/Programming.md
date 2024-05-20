@@ -1,24 +1,24 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
+  - Model +
+  - Modeling ~
+  - Subject domain +
+  - Algorithm *
+  - Syntax ! 
+  - Semantics ! 
+  - Abstraction ! 
+  - Paradigm !
+  - Programm ! 
+  - Programming paradigm ~
+  - Programming language *
+  - Contract ~
+  - Module ! 
+  - Library ! 
+  - Package ! 
+  - Component !
+  - Framework !
+  - Platform ! 
   - Source code
   - Object code
   - Machine code
@@ -32,30 +32,30 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value *
+  - Identifier *
+  - Variable * 
+  - Constant * 
+  - Scalar * 
   - Literal
-  - Expression
+  - Expression * 
   - Heap
-  - Function
+  - Function * 
   - Procedure
-  - Method
-  - Class
+  - Method *
+  - Class *
   - Prototype
   - Event
-  - Type
+  - Type *
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions * 
+  - Loops *
+  - Assignment * 
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces * 
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument * 
+  - Parameter *
   - Pure function
-  - Lambda expression
+  - Lambda expression * 
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion * 
   - Tail call optimisation
-  - Callback
+  - Callback * 
   - Listener
   - Composition
   - Pipe
@@ -102,15 +102,15 @@
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator * 
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array * 
+  - Structure * 
   - Record
-  - Enum
+  - Enum *
   - Instance
-  - Object
+  - Object * 
   - Collection
   - Set
   - Hash table
@@ -122,8 +122,8 @@
   - Stack
   - Deque
   - Tree
-  - Graph
-  - Iterator
+  - Graph *
+  - Iterator *
   - Mutable state
   - Immutable state
   - Serialization
@@ -132,23 +132,23 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS +
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 *
+  - IPv6 +
   - NAT
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler *
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter * 
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,24 +157,24 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger +
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring *
   - Code review
-  - Exception
+  - Exception *
   - Unittesting
-  - git
-  - Github
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers ~
+  - Hard code ~
+  - Soft code ~ 
+  - Cryptic code ~
   - Improbability factor
   - Accidental complexity
   - Action at a distance
@@ -218,11 +218,11 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII !
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 !
   - W3C
   - ODMG
