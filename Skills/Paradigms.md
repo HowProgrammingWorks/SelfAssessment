@@ -11,36 +11,21 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
-  - FRP (Functional-reactive)
-  - Automata-based programming: 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
+  - Lambda calculus
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
-  - Async method: 👂 heard
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 👂 heard
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 🎓 known
   - Interface
   - Encapsulation: 👂 heard
   - Hidden class: 👂 heard
   - Object form
-  - instance
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
 - Patterns
   - Singleton
   - Factory Method
@@ -64,3 +49,6 @@
   - Memento
   - Template Method
   - Visitor
+  - Reactor
+  - Active object
+  - Delegation
