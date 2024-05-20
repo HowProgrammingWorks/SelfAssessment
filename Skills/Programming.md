@@ -32,4 +32,3 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-
