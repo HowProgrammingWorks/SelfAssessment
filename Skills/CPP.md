@@ -16,10 +16,10 @@
   - Header files: 🖐️ used
   - Preprocessor directives: 🎓 known
   - Header guards and the #pragma once directive: 🎓 known
-  - Debugging programs: call stack and variable tracking: 🎓 known
+  - Debugging programs: call stack and variable tracking: 🖐️ used
 - Variables and basic data types in C++
   - Initialization, Assignment and Declaration of variables: 🖐️ used
-  - The data type is void: 🎓 known
+  - The data type is void: 🖐️ used
   - Size of data types: 🎓 known
   - Integer data types: short, int, and long: 🎓 known
   - Fixed size of integer data types: 🖐️ used
