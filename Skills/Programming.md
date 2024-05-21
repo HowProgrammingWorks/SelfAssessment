@@ -22,12 +22,12 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops: 🖐️used
   - assignment
   - regular expression
-  - interface
+  - interface: 🖐️used
   - contract
-  - module
+  - module: 🖐️used
   - call stack
 - Functions
   - signature
@@ -36,17 +36,17 @@
   - pure function: 👂heard
   - lambda expression: 👂heard
   - side effects
-  - closure
+  - closure: 🖐️used
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
+  - recursion: 🖐️used
+  - callback: 🖐️used
+  - listener: 🖐️used
   - compose
-  - pipe
+  - pipe: 🖐️used
   - memoize
-  - wrapper
+  - wrapper: 🖐️used
   - functor
   - monad
   - monoid
@@ -63,15 +63,15 @@
   - collection
   - set
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
+  - linked list: 🖐️used
+  - doubly list: 🖐️used
+  - unrolled list: 🖐️used
+  - circular list: 🖐️used
+  - queue: 🖐️used
+  - stack: 🖐️used
   - deque
-  - tree
-  - graph
+  - tree: 🖐️used
+  - graph: 🖐️used
   - iterator
   - mutable state
   - immutable state
