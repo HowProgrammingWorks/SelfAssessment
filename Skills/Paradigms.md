@@ -21,23 +21,23 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
+  - constructor: 🖐️used
+  - new: 🖐️used
+  - Static method: 🖐️used
+  - Method: 🖐️used
+  - Async method: 🖐️used
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 🖐️used
+  - Private fields: 🖐️used
   - Field declarations
-  - Inheritance
+  - Inheritance: 🖐️used
   - Parent class
   - Polymorphism
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form: 🖐️used
   - instance
   - Introspection
   - Reflection
@@ -56,9 +56,9 @@
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🖐️used
   - Composite
-  - Decorator
+  - Decorator: 🖐️used
   - Flyweight
   - Mediator
   - Memento
