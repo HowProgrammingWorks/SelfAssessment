@@ -2,42 +2,42 @@
 
 - Language
   - Object: 🖐️used
-  - this
+  - this: 🖐️used
   - arrow function: 🖐️used
-  - async function
-  - call
+  - async function: 🖐️used
+  - call: 🖐️used
   - bind
   - apply
-  - instanceof
+  - instanceof: 🖐️used
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️used
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - generator: 🖐️used
+  - iterator: 🖐️used
+  - async generator: 🖐️used
+  - async iterator: 🖐️used
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
+  - global: 🖐️used
+  - globalThis: 🖐️used
   - window: 🖐️used
   - getters and setters
   - __proto__
-  - prototype
+  - prototype: 🖐️used
   - equality operators: 🖐️used
   - logical operators: 🖐️used
   - bitwise operators: 🖐️used
   - ternary operator: 🖐️used
   - void: 🖐️used
-  - yield
-  - await
+  - yield: 🖐️used
+  - await: 🖐️used
   - template literal
-  - strict mode
-  - delete
+  - strict mode: 🖐️used
+  - delete: 🖐️used
   - in: 🖐️used
-  - super
+  - super: 🖐️used
   - Symbol: 🖐️used
   - Reflect
 - Statements
@@ -54,7 +54,7 @@
   - import: 🖐️used
   - export
   - label
-  - try..catch
+  - try..catch: 🖐️used
   - switch: 🖐️used
   - class: 🖐️used
   - new Error
@@ -76,14 +76,14 @@
   - null: 🖐️used
   - Proxy
   - weak collections
-  - timers
+  - timers: 🖐️used
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🖐️used
+  - BigInt: 🖐️used
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 🖐️used
+  - npm: 🖐️used
   - prettier
   - MDN
