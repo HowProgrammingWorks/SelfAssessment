@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 🖐️used
+  - Stateful and stateless servers: 🖐️used
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
@@ -11,9 +11,9 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🖐️used
+  - ECMAScript modules: 🖐️used
+  - node:module: 🖐️used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
@@ -27,15 +27,15 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
+  - Node.js CLI: 🖐️used
+  - Process-based permissions: 🖐️used
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
+  - Crypto API: 🖐️used
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
@@ -47,7 +47,7 @@
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
-  - Node.js single executable
+  - Node.js single executable: 🖐️used
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
