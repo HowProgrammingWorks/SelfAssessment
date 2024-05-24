@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🖐️ used
+  - Event loop 👂 heard
   - try..catch 🖐️ used
   - Non-blocking
   - Async I/O 👂 heard
@@ -19,18 +19,18 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread 🖐️ used
+  - Thread 👂 heard
   - Process
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first 🎓 known
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
   - Thenable
   - Promise 🖐️ used
   - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator 🖐️ used
-  - Async Generator 🖐️ used
+  - Sync generator
+  - Async Generator
   - Async Iterator
   - Event 👂 heard
   - Coroutine
@@ -68,9 +68,9 @@
   - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics 👂 heard
+  - Atomics
   - High resolution clock
-  - Callback hell 🎓 known
+  - Callback hell 👂 heard
   - Promise hell 👂 heard
   - ref() and unref()
   - Error handling in async code
