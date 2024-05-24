@@ -6,16 +6,16 @@
   - variable 🖐️ used
   - constant 🖐️ used
   - scalar 🖐️ used
-  - literal 🖐️ used
+  - literal
   - expression 🖐️ used
-  - heap 🖐️ used
+  - heap
   - function 🖐️ used
-  - procedure 🖐️ used
-  - method 🖐️ used
-  - class 🖐️ used
-  - prototype 🖐️ used
+  - procedure 👂 heard
+  - method 🎓 known
+  - class 🎓 known
+  - prototype 🎓 known
   - event 🖐️ used
-  - type 🖐️ used
+  - type 🎓 known
   - primitive types 👂 heard
   - reference types
   - flag
@@ -23,25 +23,25 @@
   - code block 🖐️ used
   - conditions 🖐️ used
   - loops 🎓 known
-  - assignment 🖐️ used
-  - regular expression 🖐️ used
-  - interface 🖐️ used
+  - assignment 👂 heard
+  - regular expression 👂 heard
+  - interface 👂 heard
   - contract
-  - module 🖐️ used
+  - module 🎓 known
   - call stack 👂 heard
 - Functions
-  - signature 🖐️ used
+  - signature
   - argument 🖐️ used
   - parameter 🖐️ used
-  - pure function 🖐️ used
+  - pure function 👂 heard
   - lambda expression 🖐️ used
-  - side effects 👂 heard
-  - closure 🖐️ used
+  - side effects
+  - closure
   - partial application
   - curry
   - higher order
   - recursion 🎓 known
-  - callback 🖐️ used
+  - callback 🎓 known
   - listener
   - compose
   - pipe
@@ -54,29 +54,29 @@
   - coroutine
 - Data structures
   - array 🖐️ used
-  - structure 🖐️ used
+  - structure
   - record
   - enum
-  - instance 🎓🖐️ used
+  - instance 🎓 known
   - object 🖐️ used
   - class 🖐️ used
   - collection
   - set 🎓 known
   - hash table
-  - linked list 🖐️ used
-  - doubly list 🖐️ used
-  - unrolled list 👂 heard
-  - circular list 👂 heard
-  - queue 👂 heard
+  - linked list
+  - doubly list
+  - unrolled list
+  - circular list
+  - queue
   - stack 👂 heard
-  - deque 👂 heard
-  - tree 🖐️ used
-  - graph 🖐️ used
-  - iterator 🖐️ used
+  - deque
+  - tree
+  - graph
+  - iterator
   - mutable state
   - immutable state
   - serialization
-  - string parsing 🖐️ used
+  - string parsing 👂 heard
 - Process & style
   - compiler
   - transpiler
@@ -85,9 +85,9 @@
   - debugger 🖐️ used
   - garbage collection
   - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 👂 heard
-  - paradigm 🖐️ used
+  - code review 👂 heard
+  - antipatterns
+  - paradigm
   - algorithm 🖐️ used
   - magic numbers
   - hardcode
@@ -98,9 +98,9 @@
   - not invented here
   - dead code 👂 heard
   - unreachable code
-  - duplicate code 🎓 known
-  - exception 🎓 known
+  - duplicate code 👂 heard
+  - exception 👂 heard
   - return early
-  - unittest 🖐️ used
-  - git 🖐️ used
-  - github 🖐️ used
+  - unittest 👂 heard
+  - git 👂 heard
+  - github 👂 heard
