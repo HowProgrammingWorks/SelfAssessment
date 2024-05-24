@@ -2,22 +2,22 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers 👂 heard
+  - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
-  - Event loop: microtasks and macrotasks 👂 heard
+  - Event loop: microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 👂 heard
-  - ECMAScript modules 👂 heard
+  - CommonJS modules
+  - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons 
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules 👂 heard
+  - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
@@ -26,16 +26,16 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 🖐️ used
+  - Command line arguments 👂 heard
   - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API 👂 heard
-  - Web Streams API 👂 heard
-  - Crypto API 👂 heard
+  - Streams API
+  - Web Streams API
+  - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
@@ -84,19 +84,19 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions 👂 heard
-  - Endpoint throttling 👂 heard
+  - IP sticky sessions
+  - Endpoint throttling
   - HTTP(S) 🎓 known
   - TCP/SSL 🎓 known
-  - UDP 👂 heard
-  - TLS 👂 heard
+  - UDP
+  - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC) 👂 heard
+  - HTTP/3 (QUIC)
   - Long polling
-  - REST 👂 heard
-  - RPC 👂 heard
-  - Routing 🎓 known
+  - REST
+  - RPC
+  - Routing 
   - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
@@ -107,28 +107,28 @@
   - IncomingMessage
   - SQL injection 👂 heard
   - noDelay
-  - keep-alive 👂 heard
+  - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates 👂 heard
+  - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging 👂 heard
-  - Application configuring 👂 heard
-  - Testing 👂 heard
+  - Logging
+  - Application configuring
+  - Testing
   - CI/CD
-  - Readable 👂 heard
+  - Readable
   - Writable
-  - Transform 👂 heard
+  - Transform
   - back pressure
   - Buffer
-  - Console 👂 heard
-  - Inspector 👂 heard
-  - Reliability 👂 heard
+  - Console
+  - Inspector
+  - Reliability
   - Quality
-  - Availability 👂 heard
-  - Flexibility 👂 heard
+  - Availability
+  - Flexibility
 - Data access
   - Data access layer
   - Repository
@@ -137,18 +137,18 @@
   - Object-Relational Mapping
 - Error handling and debugging
   - Error 🎓 known
-  - error.cause 🎓 known
-  - error.code 🎓 known
-  - error.message 🎓 known
-  - error.stack 🎓 known
+  - error.cause
+  - error.code 
+  - error.message
+  - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks 🎓 known
-  - Resource leaks 🎓 known
+  - Memory leaks
+  - Resource leaks
   - Data race
 - Integrations and bindings
   - Native addons
