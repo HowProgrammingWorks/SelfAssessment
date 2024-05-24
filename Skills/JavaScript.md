@@ -8,7 +8,7 @@
   - call 🖐️ used
   - bind 🖐️ used
   - apply
-  - instanceof 🎓 known
+  - instanceof 🖐️ used
   - ...spread
   - ...rest 🖐️ used
   - typeof 🖐️ used
@@ -20,17 +20,17 @@
   - chaining
   - optional chaining
   - IIFE
-  - global 🖐️ used
+  - global
   - globalThis
-  - window 👂 heard
-  - getters and setters 🖐️ used
-  - __proto__ 🖐️ used
-  - prototype 🖐️ used
+  - window
+  - getters and setters 👂 heard
+  - __proto__
+  - prototype 👂 heard
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 
   - ternary operator 🖐️ used
-  - void 👂 heard
+  - void
   - yield 🖐️ used
   - await 🖐️ used
   - template literal
@@ -47,8 +47,8 @@
   - for 🖐️ used
   - for..in 🖐️ used
   - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
+  - for await
+  - throw 👂 heard
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
@@ -57,8 +57,8 @@
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
-  - new Error 👂 heard
-  - with 👂 heard
+  - new Error
+  - with
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
@@ -70,20 +70,20 @@
   - mixin
   - extend
   - typed arrays 👂 heard
-  - Map 🖐️ used
+  - Map 👂 heard
   - Set 👂 heard
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy 👂 heard
+  - Proxy
   - weak collections
-  - timers 👂 heard
+  - timer
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js 👂 heard
-  - npm 👂 heard
+  - Node.js
+  - npm
   - prettier
   - MDN
