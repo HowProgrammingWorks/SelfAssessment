@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier: 👂 heard
-  - variable: 👂 heard
-  - constant: 👂 heard
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
   - scalar: 👂 heard
   - literal: 👂 heard
-  - expression: 👂 heard
+  - expression: 🖐️ used
   - heap: 👂 heard
-  - function: 👂 heard
+  - function: 🖐️ used
   - procedure: 👂 heard
   - method: 👂 heard
-  - class: 👂 heard
+  - class: 🖐️ used
   - prototype: 👂 heard
   - event: 👂 heard
   - type: 👂 heard
   - primitive types: 👂 heard
   - reference types: 👂 heard
-  - flag: 👂 heard
+  - flag: 🖐️ used
   - lexical scope: 👂 heard
-  - code block: 👂 heard
+  - code block: 🖐️ used
   - conditions: 👂 heard
-  - loops: 👂 heard
-  - assignment: 👂 heard
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
   - regular expression: 👂 heard
   - interface: 👂 heard
   - contract: 👂 heard
@@ -31,9 +31,9 @@
   - call stack: 👂 heard
 - Functions
   - signature: 👂 heard
-  - argument: 👂 heard
-  - parameter: 👂 heard
-  - pure function: 👂 heard
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
   - lambda expression: 👂 heard
   - side effects: 👂 heard
   - closure: 👂 heard
@@ -46,20 +46,20 @@
   - compose: 👂 heard
   - pipe: 👂 heard
   - memoize: 👂 heard
-  - wrapper: 👂 heard
+  - wrapper: 🖐️ used
   - functor: 👂 heard
   - monad: 👂 heard
   - monoid: 👂 heard
   - generator: 👂 heard
   - coroutine: 👂 heard
 - Data structures
-  - array: 👂 heard
+  - array: 🖐️ used
   - structure: 👂 heard
   - record: 👂 heard
   - enum: 👂 heard
   - instance: 👂 heard
-  - object: 👂 heard
-  - class: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection: 👂 heard
   - set: 👂 heard
   - hash table: 👂 heard
@@ -71,24 +71,24 @@
   - stack: 👂 heard
   - deque: 👂 heard
   - tree: 👂 heard
-  - graph: 👂 heard
-  - iterator: 👂 heard
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
   - mutable state: 👂 heard
   - immutable state: 👂 heard
   - serialization: 👂 heard
   - string parsing: 👂 heard
 - Process & style
-  - compiler: 👂 heard
+  - compiler: 🖐️ used
   - transpiler: 👂 heard
   - linter: 👂 heard
   - polyfill: 👂 heard
-  - debugger: 👂 heard
+  - debugger: 🖐️ used
   - garbage collection: 👂 heard
-  - refactoring: 👂 heard
+  - refactoring: 🖐️ used
   - code review: 👂 heard
   - antipatterns: 👂 heard
-  - paradigm: 👂 heard
-  - algorithm: 👂 heard
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
   - magic numbers: 👂 heard
   - hardcode: 👂 heard
   - complexity: 👂 heard
@@ -102,5 +102,5 @@
   - exception: 👂 heard
   - return early: 👂 heard
   - unittest: 👂 heard
-  - git: 👂 heard
-  - github: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
