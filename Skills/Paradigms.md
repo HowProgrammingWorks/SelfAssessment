@@ -3,15 +3,15 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,24 +21,24 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor: 👂 heard
+  - new: 👂 heard
   - Static method
-  - Method
-  - Async method
+  - Method: 👂 heard
+  - Async method: 👂 heard
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface: 👂 heard
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
-  - instance
+  - instance: 👂 heard
   - Introspection
   - Reflection
 - Patterns
@@ -55,10 +55,10 @@
   - Iterator
   - State
   - Bridge
-  - Builder
-  - Prototype
+  - Builder: 👂 heard
+  - Prototype: 👂 heard
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
