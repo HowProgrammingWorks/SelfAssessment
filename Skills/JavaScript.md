@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 👂 heard
-  - this: 👂 heard
-  - arrow function: 👂 heard
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
   - async function: 👂 heard
   - call: 👂 heard
   - bind: 👂 heard
@@ -11,16 +11,16 @@
   - instanceof: 👂 heard
   - ...spread: 👂 heard
   - ...rest: 👂 heard
-  - typeof: 👂 heard
+  - typeof: 🖐️ used
   - destructuring: 👂 heard
   - generator: 👂 heard
-  - iterator: 👂 heard
+  - iterator: 🖐️ used
   - async generator: 👂 heard
   - async iterator: 👂 heard
   - chaining: 👂 heard
   - optional chaining: 👂 heard
   - IIFE: 👂 heard
-  - global: 👂 heard
+  - global: 🖐️ used
   - globalThis: 👂 heard
   - window: 👂 heard
   - getters and setters: 👂 heard
@@ -30,7 +30,7 @@
   - logical operators: 👂 heard
   - bitwise operators: 👂 heard
   - ternary operator: 👂 heard
-  - void: 👂 heard
+  - void: 🖐️ used
   - yield: 👂 heard
   - await: 👂 heard
   - template literal: 👂 heard
@@ -38,42 +38,42 @@
   - delete: 👂 heard
   - in: 👂 heard
   - super: 👂 heard
-  - Symbol: 👂 heard
+  - Symbol: 🖐️ used
   - Reflect: 👂 heard
 - Statements
-  - if: 👂 heard
-  - while: 👂 heard
-  - do..while: 👂 heard
-  - for: 👂 heard
-  - for..in: 👂 heard
-  - for..of: 👂 heard
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await: 👂 heard
   - throw: 👂 heard
-  - break: 👂 heard
-  - continue: 👂 heard
-  - import: 👂 heard
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
   - export: 👂 heard
   - label: 👂 heard
   - try..catch: 👂 heard
   - switch: 👂 heard
-  - class: 👂 heard
+  - class: 🖐️ used
   - new Error: 👂 heard
   - with: 👂 heard
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
-  - return: 👂 heard
-  - default parameters: 👂 heard
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object: 👂 heard
 - Data structures
-  - Array: 👂 heard
+  - Array: 🖐️ used
   - mixin: 👂 heard
   - extend: 👂 heard
   - typed arrays: 👂 heard
-  - Map: 👂 heard
+  - Map: 🖐️ used
   - Set: 👂 heard
   - undefined: 👂 heard
-  - null: 👂 heard
+  - null: 🖐️ used
   - Proxy: 👂 heard
   - weak collections: 👂 heard
   - timers: 👂 heard
