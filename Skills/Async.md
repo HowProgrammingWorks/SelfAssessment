@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,33 +19,33 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread: 👂 heard
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
+  - Future: 👂 heard
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers: 👂 heard
+  - setImmediate: 👂 heard
   - nextTick
   - AbortController
   - AbortSignal
@@ -81,13 +81,13 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API
