@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
+  - Object:🙋 explained
+  - this:🙋 explained
+  - arrow function:🙋 explained
+  - async function:🙋 explained
+  - call:🙋 explained
+  - bind:🙋 explained
+  - apply🖐️ used
+  - instanceof:🎓 known
+  - ...spread:🖐️ used
+  - ...rest:🖐️ used
+  - typeof:🙋 explained
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - generator:🙋 explained
+  - iterator:🙋 explained
+  - async generator:🎓 known
+  - async iterator:🎓 known
+  - chaining:🎓 known
+  - optional chaining:🎓 known
+  - IIFE:🎓 known
+  - global:🎓 known
+  - globalThis:🎓 known
+  - window:🙋 explained
+  - getters and setters:🎓 known
+  - __proto__:🎓 known
+  - prototype:🎓 known
+  - equality operators:🖐️ used
+  - logical operators:🙋 explained
+  - bitwise operators:🎓 known
+  - ternary operator:🎓 known
+  - void:🙋 explained
+  - yield:🎓 known
+  - await:🖐️ used
+  - template literal:🖐️ used
+  - strict mode:🙋 explained
+  - delete:🙋 explained
+  - in:🖐️ used
+  - super:🖐️ used
+  - Symbol:🖐️ used
+  - Reflect:🖐️ used
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if:🎓 known
+  - while:🙋 explained
+  - do..while:🙋 explained
+  - for:🙋 explained
+  - for..in:🙋 explained
+  - for..of:🙋 explained
+  - for await:🖐️ used
+  - throw:🖐️ used
+  - break:🖐️ used
+  - continue:🖐️ used
+  - import:🙋 explained
+  - export:🎓 known
+  - label:🎓 known
+  - try..catch:🙋 explained
+  - switch:🙋 explained
+  - class:🙋 explained
+  - new Error:🎓 known
+  - with:🖐️ used
 - Functions
   - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function expression:🖐️ used
+  - return:🖐️ used
+  - default parameters:🖐️ used
+  - functional object:🖐️ used
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Array:🖐️ used
+  - mixin:🖐️ used
+  - extend:🎓 known
+  - typed arrays:🙋 explained
+  - Map:🖐️ used
+  - Set:🖐️ used
+  - undefined:🖐️ used
+  - null:🖐️ used
+  - Proxy:🙋 explained
   - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - timers:🙋 explained
+  - EventEmitter👂 heard
+  - RegExp:🎓 known
+  - Date:🎓 known
+  - BigInt:🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8👂 heard
+  - Node.js:🖐️ used
+  - npm👂 heard
+  - prettier👂 heard
+  - MDN👂 heard
