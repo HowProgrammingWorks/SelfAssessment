@@ -17,7 +17,7 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
+  - Destructuring: 🖐️ used
   - Generators
   - Iterators
   - Async generator
@@ -29,7 +29,7 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters: 🎓 known
   - `__proto__`
   - `prototype`
   - Equality operators

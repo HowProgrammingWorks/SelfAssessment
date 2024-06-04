@@ -35,7 +35,8 @@ const overall = { count: 0, total: 0, all: 0 };
 
 const generateBadge = () => {
   const color = exitCode === 0 ? '009933' : 'FF3300';
-  const stat = overall.count + SEPARATOR + overall.total + SEPARATOR + overall.all;
+  const stat =
+    overall.count + SEPARATOR + overall.total + SEPARATOR + overall.all;
   const img = `${BASE}-${stat}-${color}?${STYLE}`;
   return {
     md: `[![Skills](${img})](${LINK})`,
@@ -154,7 +155,7 @@ const getSkills = (data, file, options) => {
   for (const [i, s] of lines.entries()) {
     const line = s.trim();
     if (line === '') {
-      if ((!section && empty > 0) || (section)) {
+      if ((!section && empty > 0) || section) {
         warnFixup(`removed empty line at line ${i + 1}`, file);
       } else {
         out.push(line);
