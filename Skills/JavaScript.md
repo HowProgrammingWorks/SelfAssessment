@@ -17,7 +17,7 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring u
+  - Destructuring: 🖐️ used
   - Generators
   - Iterators
   - Async generator
@@ -29,7 +29,7 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters  k
   - `__proto__`
   - `prototype`
   - Equality operators
@@ -79,7 +79,7 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function 
+  - Arrow function
   - Async function
   - Function declaration
   - Function expression

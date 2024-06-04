@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `1` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `8` |
@@ -67,13 +67,181 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Symbol` | 🤷 unknown | ⟶  | 🎓 known |
+| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
+| `null` | 🤷 unknown | ⟶  | 🖐️ used |
+| `this` | 🤷 unknown | ⟶  | 🖐️ used |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
+| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 🤷 unknown | ⟶  | 👂 heard |
+| Iterators | 🤷 unknown | ⟶  | 👂 heard |
+| Async generator | 🤷 unknown | ⟶  | 👂 heard |
+| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
+| Chaining | 🤷 unknown | ⟶  | 👂 heard |
+| Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
+| IIFE | 🤷 unknown | ⟶  | 👂 heard |
+| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
+| `global` | 🤷 unknown | ⟶  | 🎓 known |
+| `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
+| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
+| `prototype` | 🤷 unknown | ⟶  | 👂 heard |
+| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
+| `yield` | 🤷 unknown | ⟶  | 👂 heard |
+| `await` | 🤷 unknown | ⟶  | 👂 heard |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
+| `super` | 🤷 unknown | ⟶  | 🖐️ used |
+| `static` | 🤷 unknown | ⟶  | 👂 heard |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
+| `if` | 🤷 unknown | ⟶  | 🖐️ used |
+| `while` | 🤷 unknown | ⟶  | 🖐️ used |
+| `do..while` | 🤷 unknown | ⟶  | 🎓 known |
+| `for` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 🤷 unknown | ⟶  | 👂 heard |
+| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
+| `break` | 🤷 unknown | ⟶  | 🎓 known |
+| `continue` | 🤷 unknown | ⟶  | 🎓 known |
+| `import` | 🤷 unknown | ⟶  | 🎓 known |
+| `export` | 🤷 unknown | ⟶  | 🎓 known |
+| `try..catch` | 🤷 unknown | ⟶  | 🎓 known |
+| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
+| `new` | 🤷 unknown | ⟶  | 🖐️ used |
+| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
+| Async function | 🤷 unknown | ⟶  | 🎓 known |
+| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
+| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Functional object | 🤷 unknown | ⟶  | 👂 heard |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Map` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
+| Mixins | 🤷 unknown | ⟶  | 🎓 known |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| `Promise` | 🤷 unknown | ⟶  | 👂 heard |
+| `console` | 🤷 unknown | ⟶  | 🖐️ used |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 🤷 unknown | ⟶  | 👂 heard |
+| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `0` of `72` skills, `72` to be upgraded, and `0` above needed
+Total: you have `1` of `72` skills, `71` to be upgraded, and `0` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
+| `BigInt` | 🤷 unknown | ⟶  | 🖐️ used |
+| `String` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Symbol` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Infinity` | 🤷 unknown | ⟶  | 🖐️ used |
+| `NaN` | 🤷 unknown | ⟶  | 🖐️ used |
+| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
+| `null` | 🤷 unknown | ⟶  | 🖐️ used |
+| `this` | 🤷 unknown | ⟶  | 🖐️ used |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
+| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 🤷 unknown | ⟶  | 🖐️ used |
+| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
+| Async generator | 🤷 unknown | ⟶  | 🖐️ used |
+| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| Chaining | 🤷 unknown | ⟶  | 🖐️ used |
+| IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| `global` | 🤷 unknown | ⟶  | 🖐️ used |
+| `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
+| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
+| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
+| `void` | 🤷 unknown | ⟶  | 🖐️ used |
+| `yield` | 🤷 unknown | ⟶  | 🖐️ used |
+| `await` | 🤷 unknown | ⟶  | 🖐️ used |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
+| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
+| `in` | 🤷 unknown | ⟶  | 👂 heard |
+| `super` | 🤷 unknown | ⟶  | 🖐️ used |
+| `eval` | 🤷 unknown | ⟶  | 🎓 known |
+| `static` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number.parseInt` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
+| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
+| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
+| `if` | 🤷 unknown | ⟶  | 🖐️ used |
+| `while` | 🤷 unknown | ⟶  | 🖐️ used |
+| `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for..in` | 🤷 unknown | ⟶  | 🎓 known |
+| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
+| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
+| `break` | 🤷 unknown | ⟶  | 🖐️ used |
+| `continue` | 🤷 unknown | ⟶  | 🖐️ used |
+| `import` | 🤷 unknown | ⟶  | 🖐️ used |
+| `export` | 🤷 unknown | ⟶  | 🖐️ used |
+| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
+| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
+| `new` | 🤷 unknown | ⟶  | 🖐️ used |
+| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
+| Async function | 🤷 unknown | ⟶  | 🖐️ used |
+| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
+| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Functional object | 🤷 unknown | ⟶  | 👂 heard |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Map` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakSet` | 🤷 unknown | ⟶  | 🎓 known |
+| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 👂 heard |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
+| `Date` | 🤷 unknown | ⟶  | 🎓 known |
+| `Math` | 🤷 unknown | ⟶  | 🎓 known |
+| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
+| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
+| `JSON` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| `Promise` | 🤷 unknown | ⟶  | 🖐️ used |
+| `console` | 🤷 unknown | ⟶  | 🖐️ used |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 🤷 unknown | ⟶  | 🖐️ used |
+| Node.js | 🤷 unknown | ⟶  | 👂 heard |
+| npm | 🤷 unknown | ⟶  | 🎓 known |
+| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
+Total: you have `1` of `98` skills, `97` to be upgraded, and `0` above needed
 
 ## [Async](/Skills/Async.md)
 
