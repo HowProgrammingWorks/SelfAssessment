@@ -29,7 +29,7 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters  k
+  - Getters and setters: 🎓 known
   - `__proto__`
   - `prototype`
   - Equality operators

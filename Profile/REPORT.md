@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/eltonMoraisD/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;57&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `1` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `2` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `8` |
@@ -89,7 +89,6 @@
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | `global` | 🤷 unknown | ⟶  | 🎓 known |
 | `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
-| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
 | `prototype` | 🤷 unknown | ⟶  | 👂 heard |
 | Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
@@ -139,7 +138,7 @@
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `1` of `72` skills, `71` to be upgraded, and `0` above needed
+Total: you have `2` of `72` skills, `70` to be upgraded, and `1` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -168,7 +167,7 @@ Total: you have `1` of `72` skills, `71` to be upgraded, and `0` above needed
 | Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
 | `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
-| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
+| Getters and setters | 🎓 known | ⟶  | 🖐️ used |
 | Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
