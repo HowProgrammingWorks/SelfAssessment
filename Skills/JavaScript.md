@@ -17,7 +17,7 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
+  - Destructuring u
   - Generators
   - Iterators
   - Async generator
@@ -79,7 +79,7 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function 
   - Async function
   - Function declaration
   - Function expression
