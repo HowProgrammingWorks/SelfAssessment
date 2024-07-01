@@ -1,173 +1,173 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Model *
+  - Modeling *
+  - Subject domain *
+  - Algorithm *
+  - Syntax *
+  - Semantics *
+  - Abstraction *
   - Paradigm
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
+  - Library *
   - Package
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code *
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering *
   - Decomposition
-  - Control flow
+  - Control flow *
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) *
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
   - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Literal *
+  - Expression *
+  - Heap *
+  - Function *
+  - Procedure *
+  - Method *
+  - Class *
   - Prototype
   - Event
-  - Type
+  - Type *
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Lexical scope *
+  - Code block *
+  - Conditions *
+  - Loops *
+  - Assignment *
+  - Regular expression *
+  - Interface *
+  - Namespaces *
+  - Call stack *
+  - Naming conventions *
+  - Coding conventions *
+  - Camel case *
+  - Snake case *
+  - Kebab case *
+  - Trailing commas *
+  - Return early *
+  - Fail-fast *
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
   - Strong typing
   - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Duck typing *
+  - Static typing *
+  - Dynamic typing *
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
+  - Type inference *
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature *
+  - Argument *
+  - Parameter *
+  - Pure function *
+  - Lambda expression *
+  - Side effects *
+  - Closure *
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
+  - Higher order *
+  - Recursion *
+  - Tail call optimisation +
+  - Callback *
   - Listener
-  - Composition
+  - Composition *
   - Pipe
-  - Memoize
+  - Memoize +
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator +
   - Coroutine
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Enum *
+  - Instance *
+  - Object *
+  - Collection *
+  - Set *
+  - Hash table *
+  - Linked list +
+  - Doubly list +
   - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Circular list *
+  - Queue +
+  - Stack +
+  - Deque +
+  - Tree +
+  - Graph +
+  - Iterator *
+  - Mutable state *
+  - Immutable state *
+  - Serialization *
+  - String parsing *
+  - JSON *
   - JSON5
-  - YAML
+  - YAML *
 - Networking
-  - DNS
-  - CDN
-  - CORS
+  - DNS ~
+  - CDN ~
+  - CORS *
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL *
   - URN
-  - URI
+  - URI +
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Compiler *
+  - Just-in-time compilation *
+  - Ahead-of-time compilation *
+  - Transpiler *
+  - Linter *
   - Polyfill
-  - Interpreter
+  - Interpreter *
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime *
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - Containerization *
+  - Debugger *
+  - Tracing *
+  - Garbage collection +
+  - Refactoring *
+  - Code review *
+  - Exception *
+  - Unittesting *
+  - git *
+  - Github *
+  - Docker *
+  - Kubernetes *
   - GCC
   - LLVM
 - Antipatterns
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 ~
   - VJM
   - CLR
   - Mono
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII *
+  - Escape sequence *
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 *
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 *
   - W3C
   - ODMG

@@ -3,11 +3,11 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Migrations *
+  - Schema versioning *
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases *
   - Key-value store
   - Tuple store
   - Graph databases
@@ -25,17 +25,17 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys *
+  - Foreign keys *
   - Transactions
   - Views
   - Subqueries
-  - Stored procedures
-  - SQL functions
-  - Materialized views
+  - Stored procedures *
+  - SQL functions *
+  - Materialized views *
   - Replications
   - Virtualization
-- SQL
+- SQL *
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL *
   - Oracle
   - MySQL
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server *
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite *
   - DynamoDB
   - Firebase
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data
+  - Data warehousing +
+  - Business intelligence +
+  - Big data +
   - Data analysis
   - AI tools
   - Cloud databases
-  - Data Visualization
+  - Data Visualization +

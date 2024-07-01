@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity *
+  - Components *
+  - Directories *
   - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
+  - SOLID +
+  - GoF patterns ~
+  - CQS ~
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage ~
   - Cohesion
-  - Coupling
+  - Coupling ~
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -25,30 +25,30 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) *
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) *
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Inversion of control (IoC) *
+  - Dependency injection (DI) *
+  - Clean architecture ~
+  - Domain-driven design (DDD) ~
+  - Pub/sub *
+  - Message brocker ~
   - Agent
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Message Queue (MQ) ~
+  - CQRS ~
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling *
+  - Entity-relationship diagram *
   - IDEF1X
-  - UML
+  - UML ~
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems ~
   - High-intensive computing
   - Load balancing
   - Gateways
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs *
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems *
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope *
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture *
+  - Microservices *
   - Process choreography
   - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Data warehouse +
+  - Business Intelligence +
+  - OLAP +
+  - OLTP +
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene
+  - Enginering Hygiene
