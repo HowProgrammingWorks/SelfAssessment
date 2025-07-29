@@ -1,0 +1,8 @@
+Level	Shorthand	Description
+👂	heard	~ or h	Heard or have some idea
+🎓	known	+ or k	Learned, read, but didn’t use
+🖐️	used	* or u	Used in work or real project
+🙋	explained	! or e	Explained to colleagues or can freely explain
+📢	talked	" or t	Gave a public speech or lecture on a topic
+🔬	researched	& or r	Deep research, measurements, comparisons, read sources
+🚀	constructed	^ or c	Developed an implementation or equivalent
