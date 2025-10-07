@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns 
+  - Separation of concerns
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -29,7 +29,7 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer 
+  - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach

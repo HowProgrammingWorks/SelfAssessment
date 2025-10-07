@@ -1,10 +1,10 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 
+  - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code 
-  - Event loop phases 
+  - Nonblocking I/O and blocking code
+  - Event loop phases
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
@@ -17,7 +17,7 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` 
+  - Dependencies: `npm`, `node_modules`
   - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
@@ -63,12 +63,12 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates u
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) 
-  - TCP/SSL u
+  - HTTP(S)
+  - TCP/SSL: 🖐️ used
   - UDP
   - TLS
   - Websocket
