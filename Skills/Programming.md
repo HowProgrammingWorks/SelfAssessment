@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model !
   - Modeling
   - Subject domain
   - Algorithm
