@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop e
+  - `try..catch` e
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -13,32 +13,32 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions e
+  - Dead locks e
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread h
+  - Process h
 - Async contracts
-  - Callbacks
+  - Callbacks e
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise e
+  - Async/await e
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event e
   - Coroutine
-  - Goroutine
+  - Goroutine u
   - Signal
-  - Stream
+  - Stream h
   - Chain of responsibility
-  - Middleware
+  - Middleware e
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter h
+  - Observable/Observer h
   - Readable
   - Writable
   - Transform
@@ -56,19 +56,19 @@
   - Async Queue
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex h
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
+  - Timers hs
+  - `setImmediate` e
+  - `nextTick` e
+  - AbortController e
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection e
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell h
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - RxJS library h
+  - Promise.all e
+  - Promise.allSettled e
+  - Promise.race e
+  - Promise.any e
   - Web Locks API
   - IPC
   - Channel API

@@ -1,27 +1,27 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns e
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection u
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID u
   - CQS
-  - Modularity
+  - Modularity h
   - Subsystems
   - Directories
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
+  - Contract programming h
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage h
   - Cohesion
-  - Coupling
+  - Coupling e
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -30,27 +30,27 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) u
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
+  - Separation of concerns (SoC) h
+  - Metaprogramming h
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) h
+  - Clean architecture h
+  - Domain-driven design (DDD) h
+  - Pub/sub u
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) u
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling h
+  - Entity-relationship diagram u
   - IDEF1X
-  - UML
+  - UML r
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -58,12 +58,12 @@
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS h
+  - PaaS h 
+  - SaaS e
   - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - Serverless u
+  - Vendor lock-in h
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
@@ -71,19 +71,19 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling h
   - Solution components
-  - Risk assessment
+  - Risk assessment h
   - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
+  - Clouds h
+  - BPMN h
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
-  - ACID
+  - ACID h
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) e
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy

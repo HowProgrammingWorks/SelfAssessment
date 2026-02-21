@@ -4,26 +4,26 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases h
   - Event loop microtasks and macrotasks
   - Garbage collection
-  - Node.js LTS schedule
+  - Node.js LTS schedule u
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules h
+  - ECMAScript modules u
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` e
+  - Files `package.json`, `package-lock.json` e
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion h
   - Framework agnostic approach
 - Environment
   - Command line arguments
@@ -65,63 +65,63 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API e
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) e
+  - TCP/SSL h
   - UDP
-  - TLS
-  - Websocket
+  - TLS h
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling e
+  - REST e
   - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - Routing e
+  - DoS h
+  - DDoS h
+  - XSS e
   - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - CSRF e
+  - DNS h
+  - SQL injection e
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging h
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing h
+  - CI/CD e
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console e
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer e
+  - Repository e
   - Active record
-  - Query builder
+  - Query builder e
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD e
+  - DTO h
 - Error handling and debugging
-  - `Error`
+  - `Error` e
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions e
   - Heap dump
-  - Debugging tools
+  - Debugging tools h
   - Flame graph
-  - Memory leaks
+  - Memory leaks e
   - Resource leaks
   - Data race
 - Integrations and bindings
